@@ -1,0 +1,43 @@
+# 本地/局域网地址
+# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+
+# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
+HOST-SUFFIX,acl4.ssr,PROXY
+
+# 本地/局域网地址
+HOST-SUFFIX,ip6-localhost,PROXY
+HOST-SUFFIX,ip6-loopback,PROXY
+HOST-SUFFIX,lan,PROXY
+HOST-SUFFIX,local,PROXY
+HOST-SUFFIX,localhost,PROXY
+IP-CIDR,0.0.0.0/8,PROXY
+IP-CIDR,10.0.0.0/8,PROXY
+IP-CIDR,100.64.0.0/10,PROXY
+IP-CIDR,127.0.0.0/8,PROXY
+IP-CIDR,172.16.0.0/12,PROXY
+IP-CIDR,192.168.0.0/16,PROXY
+IP-CIDR,198.18.0.0/16,PROXY
+IP-CIDR,224.0.0.0/4,PROXY
+IP6-CIDR,::1/128,PROXY
+IP6-CIDR,fc00::/7,PROXY
+IP6-CIDR,fe80::/10,PROXY
+IP6-CIDR,fd00::/8,PROXY
+
+# Router managed 路由器管理域名
+HOST,instant.arubanetworks.com,PROXY
+HOST,setmeup.arubanetworks.com,PROXY
+HOST,router.asus.com,PROXY
+HOST,www.asusrouter.com,PROXY
+HOST-SUFFIX,hiwifi.com,PROXY
+HOST-SUFFIX,leike.cc,PROXY
+HOST-SUFFIX,miwifi.com,PROXY
+HOST-SUFFIX,my.router,PROXY
+HOST-SUFFIX,p.to,PROXY
+HOST-SUFFIX,peiluyou.com,PROXY
+HOST-SUFFIX,phicomm.me,PROXY
+HOST-SUFFIX,router.ctc,PROXY
+HOST-SUFFIX,routerlogin.com,PROXY
+HOST-SUFFIX,tendawifi.com,PROXY
+HOST-SUFFIX,zte.home,PROXY
+HOST-SUFFIX,tplogin.cn,PROXY
+HOST-SUFFIX,wifi.cmcc,PROXY

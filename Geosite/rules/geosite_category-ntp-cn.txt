@@ -1,0 +1,6 @@
+regexp:^ntp([1-7])?\.aliyun\.com$
+regexp:^ntp([1-5])?\.tencent\.com$
+cn.pool.ntp.org
+ntp.neu.edu.cn
+ntp.ntsc.ac.cn
+ntp.org.cn
