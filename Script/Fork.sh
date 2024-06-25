@@ -100,6 +100,16 @@ curl -L -o Tool-repo/Surge/Rules/Ads_SukkaW_NoIP.list "https://ruleset.skk.moe/L
 curl -L -o Tool-repo/Surge/Rules/Ads_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list"
 curl -L -o Tool-repo/Surge/Rules/Hijacking_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Hijacking.list"
 curl -L -o Tool-repo/Surge/Rules/Tracking_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Tracking.list"
+# Other
+curl -L -o Tool-repo/Surge/Rules/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
+curl -L -o Tool-repo/Surge/Rules/Empty.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Customrules/Empty.list"
+curl -L -o Tool-repo/Surge/Rules/Trust.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Trust.list"
+curl -L -o Tool-repo/Surge/Rules/TronLink.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/TronLink.list"
+curl -L -o Tool-repo/Surge/Rules/Talkatone.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Talkatone.list"
+curl -L -o Tool-repo/Surge/Rules/Lan.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Lan.list"
+curl -L -o Tool-repo/Surge/Rules/Prevent_DNS_Leaks.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Prevent_DNS_Leaks.list"
+curl -L -o Tool-repo/Surge/Rules/Reject.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Reject.list"
+
 
 
 
