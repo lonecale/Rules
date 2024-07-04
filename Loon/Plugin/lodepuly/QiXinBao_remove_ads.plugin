@@ -1,0 +1,41 @@
+#!name = 启信宝去广告
+#!desc = 移除开屏广告、应用内弹窗、首页轮播图、悬浮部件和个性化推荐信息流。
+#!openUrl = https://apps.apple.com/app/id1030675668
+#!author = 可莉🅥
+#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiXinBao.png
+#!date = 2024-06-29 23:05:37
+
+[Rewrite]
+# 首页 - 搜索栏热搜词
+^https:\/\/appc\.qixin\.com\/v4\/general\/getSearchPlaceholderRedirect reject-dict
+
+# 首页 - 悬浮窗
+^https:\/\/appc\.qixin\.com\/v4\/general\/getAppFloatAd reject-dict
+
+# 首页 - 轮播图
+^https:\/\/appc\.qixin\.com\/v4\/general\/getAppBanners reject-dict
+
+# 首页 - 弹窗
+^https:\/\/appc\.qixin\.com\/v4\/user\/getUserActivitys reject-dict
+
+# 首页 - 热门企业
+^https:\/\/appc\.qixin\.com\/v4\/enterprise\/getRecommendEnts reject-dict
+
+# 首页 - 热门老板
+^https:\/\/appc\.qixin\.com\/v4\/user\/getRecommendPersons reject-dict
+
+# 首页 - 个性化推荐
+^https:\/\/appc\.qixin\.com\/v4\/enterprise\/homePageRecommend\/recommendCard reject-dict
+
+# 首页 - 轮播消息
+^https:\/\/appc\.qixin\.com\/v4\/enterprise\/getRecommendation reject-dict
+
+# 我的页面 - 轮播图
+^https:\/\/appc\.qixin\.com\/v4\/general\/getAppBottomBanners reject-dict
+
+# 开屏广告
+^https:\/\/qxb-minicode-pic-osscache\.qixin\.com\/web\/ reject
+
+[Mitm]
+hostname = appc.qixin.com, qxb-minicode-pic-osscache.qixin.com
