@@ -16,6 +16,8 @@ regexp:^time([1-4])?.google.com$
 regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
 regexp:^ntp[0-7]\.ntp-servers\.net$
 regexp:^ntp([1-7])?\.aliyun\.com$
+full:time.izatcloud.net
+full:time.xtracloud.net
 regexp:^ntp([1-5])?\.tencent\.com$
 cn.pool.ntp.org
 ntp.neu.edu.cn

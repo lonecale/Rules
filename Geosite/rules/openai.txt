@@ -7,6 +7,6 @@ oaistatic.com
 oaiusercontent.com
 openai.com
 openai.com.cdn.cloudflare.net
-regexp:^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
+regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 full:o33249.ingest.sentry.io
 full:openaicom.imgix.net
