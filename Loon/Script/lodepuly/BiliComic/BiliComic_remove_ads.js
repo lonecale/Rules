@@ -1,7 +1,6 @@
-// 2024-07-19 08:08:11
+// 2024-07-19 09:51:31
 const url = $request.url;
 var newBody = {}
-console.log(url)
 
 const processResponse = (regex, filterFunc) => {
     if (regex.test(url)) {
@@ -28,14 +27,14 @@ const filterNoTraffic = obj => {
     }
 };
 
-const filterNovelBanners = obj => {
-    if (obj.data && obj.data.banners) {
-        delete obj.data.banners; // 小说列表横幅
-    }
-};
+// const filterNovelBanners = obj => {
+//     if (obj.data && obj.data.banners) {
+//         delete obj.data.banners; // 小说列表横幅 - 删除会导致小说列表为空
+//     }
+// };
 
 processResponse(/\/twirp\/comic\.v\d\.Comic\/GetClassPageAllTabs/, filterNewcomerAndMall);
 processResponse(/\/twirp\/user\.v\d\.User\/UCenterConf/, filterNoTraffic);
-processResponse(/\/twirp\/novel\.v\d\.Home\/Home/, filterNovelBanners);
+// processResponse(/\/twirp\/novel\.v\d\.Home\/Home/, filterNovelBanners);
 
 $done(newBody);
