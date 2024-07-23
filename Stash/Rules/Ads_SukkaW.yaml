@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-07-23T02:46:10.339Z
-  # Size: 124657
+  # Last Updated: 2024-07-23T12:34:24.070Z
+  # Size: 124656
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -94,6 +94,7 @@ payload:
   - .tracking.di.se
   - .tracking.ditv.di.se
   - .tracking.etidning.di.se
+  - .tracking.borssnack.di.se
   - .maling.dn.no
   - .tracking.dn.se
   - .tracking.etidning.dn.se
@@ -4379,8 +4380,6 @@ payload:
   - .bmjs.xzw.com
   - .smetrics.y108.ca
   - .admd.yam.com
-  - .ajai.ydns.eu
-  - .blessy.ydns.eu
   - .sp.ydr.com
   - .repdata.ydr.com
   - .srepdata.ydr.com
@@ -5348,9 +5347,7 @@ payload:
   - .eluser.ddns.net
   - .gustaver.ddns.net
   - .meowware.ddns.net
-  - .dsahgduoi.ddns.net
   - .workserver.ddns.net
-  - .zahramsatya.ddns.net
   - .thelifeisbinary.ddns.net
   - .dm1.ddwk8.cn
   - .deepc.cc
@@ -7048,6 +7045,7 @@ payload:
   - .consent-manager-events.ogury.io
   - .ohmy.bid
   - .ohncc.cn
+  - .oiu09.cn
   - .okbp.xyz
   - .data-684c5faba8.okmag.de
   - .adobemetrics.okta.com
@@ -7939,7 +7937,6 @@ payload:
   - .v44e.com
   - .app.vahak.in
   - .marketing.valv.com
-  - .hi.vani.ovh
   - .scallop.vav.link
   - .log.vava.com
   - .vay6.com
@@ -12864,7 +12861,6 @@ payload:
   - .icoktb.onygo.com
   - .message.ooguy.com
   - .upupdate.ooguy.com
-  - .net-killer.ooguy.com
   - .link.oomph.app
   - .ooqwc.xyz
   - .keyade.ooreka.fr
@@ -17136,6 +17132,7 @@ payload:
   - .cnstats.ru
   - .cnvmhzt.cn
   - .cnxweb.com
+  - .updates.ultimate-fakkers.co.network
   - .a8clk.form.coached.jp
   - .ggduev.cobone.com
   - .ae.cobweb.com
@@ -18964,6 +18961,7 @@ payload:
   - .stats.heyoya.com
   - .heyzap.com
   - .dekovacka.hezkres.cz
+  - .hfjmvr.xyz
   - .hgbn.rocks
   - .hgbn.space
   - .marketing.hgdata.com
@@ -21814,6 +21812,7 @@ payload:
   - .track.pnj.com.vn
   - .flx2.pnl.agency
   - .pnperf.com
+  - .pns.org.pk
   - .pnsqsv.com
   - .pntrac.com
   - .pnvtlh.xyz
@@ -23002,6 +23001,7 @@ payload:
   - .sov.stream
   - .sovism.com
   - .sowp.cloud
+  - .sowwoy.xyz
   - .a8clk.hozon.sp-site.jp
   - .sp-trk.com
   - .sp5188.com
@@ -23827,7 +23827,6 @@ payload:
   - .uchmuk.com
   - .uckgqa.xyz
   - .udarem.com
-  - .d1.udashi.com
   - .udkcrj.com
   - .udkpcc.xyz
   - .udpdmeb.cn
@@ -24751,6 +24750,7 @@ payload:
   - .xeazoj.icu
   - .xebadu.com
   - .xedpzh.xyz
+  - .xehodv.xyz
   - .xeikwh.icu
   - .xemiro.uno
   - .an.xemvtv.net
@@ -26312,6 +26312,7 @@ payload:
   - .analytics.archive.org
   - .ia800400.us.archive.org
   - .ia803402.us.archive.org
+  - .ia803405.us.archive.org
   - .ia903207.us.archive.org
   - .analytics.us.archive.org
   - .marketing.arcsona.com
@@ -29808,7 +29809,6 @@ payload:
   - .deals.innocode.no
   - .innovid.com
   - .pimpoint.inriver.com
-  - .gjhfhgdg.insane.wang
   - .link.insense.pro
   - .smetrics.insight.com
   - .linkcmf.insights.md
@@ -30836,6 +30836,7 @@ payload:
   - .lyckery.com
   - .lyislol.top
   - .a8cv.lyprinol.jp
+  - .lyretul.top
   - .stats.lyricall.cz
   - .kthjuw.lyst.com.au
   - .lyuwkbl.top
@@ -31157,6 +31158,7 @@ payload:
   - .mini-pic.su
   - .images.response.mini.com.au
   - .miniast.com
+  - .src1.minibai.com
   - .mining.best
   - .metrics.miniusa.com
   - .smetrics.miniusa.com
@@ -38627,7 +38629,6 @@ payload:
   - .l.coastapp.com
   - .coatfood.com
   - .coawheer.net
-  - .api-ms.cobainaja.id
   - .cobalten.com
   - .cochack.site
   - .cochacks.com
@@ -42855,7 +42856,6 @@ payload:
   - .maxforta.com
   - .maxisurf.net
   - .seyfwl.maxmodels.pl
-  - .maxmoney.com
   - .saa.maxpreps.com
   - .maxrilla.com
   - .s.maxrozen.com
@@ -43021,7 +43021,6 @@ payload:
   - .mhdnspro.com
   - .marketing.mhinvest.com
   - .mhshopee.com
-  - .mhsonsco.com
   - .connect.mhsystem.org
   - .tr.news.mi-oferta.es
   - .miaozhen.com
@@ -48427,7 +48426,6 @@ payload:
   - .zeewhaih.com
   - .zegrumse.net
   - .t-s.zelboraf.com
-  - .putin.zelenskyj.ru
   - .go.zellepay.com
   - .trck.www4.zellepay.com
   - .zelrasty.net
@@ -53006,7 +53004,6 @@ payload:
   - .hisurnhuh.com
   - .hitcounter.ru
   - .hitgelsin.com
-  - .hitman-pro.ru
   - .links.hitrecord.org
   - .hitstation.nl
   - .hitstatus.com
@@ -56924,7 +56921,6 @@ payload:
   - .serveload.com
   - .servemoney.ru
   - .serverbid.com
-  - .sessosesso.it
   - .setoniale.com
   - .setupslum.com
   - .sev4ifmxa.com
@@ -74452,6 +74448,7 @@ payload:
   - .collector-api.frspecifics.com
   - .frtnqps358.shop
   - .frtnqpw837.shop
+  - .frutwafiwah.com
   - .fryruejoust.cam
   - .fsfwetubfgd.com
   - .fsseeewzz.quest
@@ -78846,6 +78843,7 @@ payload:
   - .stapledsaur.top
   - .star-clicks.com
   - .www.star-cntr-5.com
+  - .starcountry.net
   - .sp.stargazette.com
   - .link.starshiphsa.com
   - .marketing.startfinder.com
@@ -93045,7 +93043,6 @@ payload:
   - .kotokoaedeagi.com
   - .koudaiyundong.com
   - .koxcsmmcealss.com
-  - .kraljevikonaci.rs
   - .info.kratosdefense.com
   - .data-f1e447fbcf.kreis-anzeiger.de
   - .data-f59db3288b.kreis-anzeiger.de
@@ -116473,6 +116470,7 @@ payload:
   - .info.bintheredumpthatusa.com
   - .binweevilsdoshcodes.com
   - .biteneverthelessnan.com
+  - .bitkiselurunsiparis.com
   - .bitternessjudicious.com
   - .blastworthwhilewith.com
   - .bloodbrothershacked.com
@@ -117290,6 +117288,7 @@ payload:
   - .mexicantransmission.com
   - .tracking.mhealthintelligence.com
   - .michiganrobotflower.com
+  - .microsecurityupdate.com
   - .midgerelativelyhoax.com
   - .migrantacknowledged.com
   - .migrantfarewellmoan.com
