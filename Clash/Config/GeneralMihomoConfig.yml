@@ -96,7 +96,7 @@ sniffer:
   # 需要跳过嗅探的域名。主要解决部分站点sni字段非域名，导致嗅探结果异常的问题，如米家设备Mijia Cloud
   skip-domain:
     - '+.push.apple.com'
-    - 'Mijia Cloud'
+    - "Mijia Cloud"
     - 'dlg.io.mi.com'
 
 # Tun 配置  
