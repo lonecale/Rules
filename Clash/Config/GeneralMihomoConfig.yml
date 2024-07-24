@@ -87,9 +87,9 @@ sniffer:
       # override-destination字段（可选），用于覆盖全局override-destination设置
       override-destination: true
     TLS:
-      # ports: [443, 8443]
+      ports: [443, 8443]
     QUIC:
-      # ports: [443, 8443]
+      ports: [443, 8443]
   # 需要强制嗅探的域名（默认情况下只对IP进行嗅探）
   force-domain:
     - '+.v2ex.com'
