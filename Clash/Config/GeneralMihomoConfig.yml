@@ -92,12 +92,12 @@ sniffer:
       # ports: [443, 8443]
   # 需要强制嗅探的域名（默认情况下只对IP进行嗅探）
   force-domain:
-    - '+.v2ex.com'
+    - +.v2ex.com
   # 需要跳过嗅探的域名。主要解决部分站点sni字段非域名，导致嗅探结果异常的问题，如米家设备Mijia Cloud
   skip-domain:
-    - '+.push.apple.com'
-    - "Mijia Cloud"
-    - 'dlg.io.mi.com'
+    - +.push.apple.com
+    - Mijia Cloud
+    - dlg.io.mi.com
 
 # Tun 配置  
 tun:
