@@ -112,6 +112,7 @@ tun:
   auto-detect-interface: true
 
 dns:
+  cache-algorithm: arc
   enable: true
   # 优先使用 DOH 的 http/3
   # prefer-h3: true
@@ -127,11 +128,15 @@ dns:
   fake-ip-filter: ['*.lan','*.direct', cable.auth.com, '*.msftconnecttest.com', '*.msftncsi.com', network-test.debian.org, detectportal.firefox.com, resolver1.opendns.com, '*.srv.nintendo.net', '*.stun.playstation.net', 'xbox.*.microsoft.com', '*.xboxlive.com', 'stun.*', global.turn.twilio.com, global.stun.twilio.com, app.yinxiang.com, injections.adguard.org, local.adguard.org, cable.auth.com, 'localhost.*.qq.com', 'localhost.*.weixin.qq.com', '*.logon.battlenet.com.cn', '*.logon.battle.net', '*.blzstatic.cn', 'music.163.com', '*.music.163.com', '*.126.net', musicapi.taihe.com, music.taihe.com, songsearch.kugou.com, trackercdn.kugou.com, '*.kuwo.cn', api-jooxtt.sanook.com, api.joox.com, joox.com, y.qq.com, '*.y.qq.com', streamoc.music.tc.qq.com, mobileoc.music.tc.qq.com, isure.stream.qqmusic.qq.com, dl.stream.qqmusic.qq.com, aqqmusic.tc.qq.com, amobile.music.tc.qq.com, '*.xiami.com', '*.music.migu.cn', music.migu.cn, proxy.golang.org, '*.mcdn.bilivideo.cn', '*.cmpassport.com', id6.me, 'open.e.189.cn', mdn.open.wo.cn, opencloud.wostore.cn, auth.wosms.cn, '*.jegotrip.com.cn', '*.icitymobile.mobi', '*.pingan.com.cn', '*.cmbchina.com', '*.10099.com.cn', pool.ntp.org, '*.pool.ntp.org', 'ntp.*.com', 'time.*.com', 'ntp?.*.com', 'time?.*.com', 'time.*.gov', 'time.*.edu.cn', '*.ntp.org.cn', 'PDC._msDCS.*.*', 'DC._msDCS.*.*', 'GC._msDCS.*.*']
   # fake-ip-filter": ['+.*']
   # 默认 DNS, 用于解析 DNS 服务器 的域名,只支持纯 IP
-  default-nameserver: [223.5.5.5, 119.29.29.29]
+  default-nameserver: [223.5.5.5, 180.184.1.1]
   # 默认的域名解析服务器，如不配置 fallback/proxy-server-nameserver , 则所有域名都由 nameserver 解析
-  nameserver: [https://223.5.5.5/dns-query, https://120.53.53.53/dns-query]
+  nameserver: [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
+  # 代理节点域名解析服务器，仅用于解析代理节点的域名
+  proxy-server-nameserver: [https://doh.pub/dns-query]
   # 指定域名查询的解析服务器，可使用 geosite, 优先于 nameserver/fallback 查询
   nameserver-policy:
     #'geosite:cn': system
-    'geosite:private,cn': [https://223.5.5.5/dns-query, https://120.53.53.53/dns-query]
+    'geosite:private,cn,apple': [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
+    'geosite:category-ads-all': rcode://success
+    'www.baidu.com,+.google.cn': [223.5.5.5, https://dns.alidns.com/dns-query]
     #'geosite:gfw,geolocation-!cn': [https://dns.cloudflare.com/dns-query, https://dns.google/dns-query]
