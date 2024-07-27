@@ -206,8 +206,6 @@ full:gtm.oasisfeng.com
 full:guzzoni-apple-com.v.aaplimg.com
 full:guzzoni.apple.com
 full:guzzoni.smoot.apple.com
-full:gvt1-cn.com
-full:gvt2-cn.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
@@ -527,7 +525,7 @@ citic
 baidu
 alipay
 jttzsy.com
-bearingclub.com
+55.cc
 007qu.com
 007shoes.com
 007swz.com
@@ -5607,7 +5605,7 @@ zzzzzz.me
 54yt.net
 54yuqing.com
 54zxy.com
-55.cc
+juapp9.com
 55.com
 55.la
 550400.com
@@ -7481,7 +7479,7 @@ zzzzzz.me
 886vps.com
 88765.com
 887w.com
-juanta.com
+888-8.com
 8880666.com
 888132.com
 8886005.com
@@ -11023,7 +11021,7 @@ arco.design
 arcsoftai.com
 arcteryx-log.com
 arctic007.com
-juanzan.com
+arcticray.com
 arctime.org
 ard-china.com
 ardsec.com
@@ -12769,7 +12767,7 @@ beancomm.com
 bear20.com
 bearead.com
 beargoo.com
-juanyunkeji.com
+bearingclub.com
 bearjane.com
 bearjoy.com
 bearminers.xyz
@@ -13653,7 +13651,7 @@ biqukun.com
 biqukun.la
 biquluo.com
 biqupai.com
-biqusa.com
+juanzan.com
 biqushu.com
 biqusk.com
 biqusoso.com
@@ -27215,7 +27213,7 @@ fang99.com
 fangbaoqiang.net
 fangbei.org
 fangbx.com
-fangcang.com
+juaq.com
 fangcece.com
 fangchan.com
 fangchan0573.com
@@ -32086,6 +32084,8 @@ gvfgd.com
 gvi-tech.com
 gvlocalization.com
 gvoiceplat.com
+gvt1-cn.com
+gvt2-cn.com
 gvzen.com
 gw-ec.com
 zzjhxxgs.com
@@ -44414,11 +44414,11 @@ juandou.com
 juangua.com
 juanpi.com
 juanpimao.com
-888-8.com
+juanta.com
+juanyunkeji.com
+biqusa.com
 007manhua.com
-arcticray.com
-juapp9.com
-juaq.com
+fangcang.com
 jubaihuijia.com
 jubaiye.com
 jubaopay.com
@@ -47365,6 +47365,7 @@ lanzun.net
 lao.si
 laobaicai.net
 laobaigan-hs.com
+laoban100.com
 laobandq.com
 laobanfa.com
 laobangban.com
@@ -64341,8 +64342,10 @@ shengxuxu.com
 shengyan985.com
 shengyasd.com
 shengyeji.com
+shengyi.ai
 shengyi.biz
 shengyidi.com
+shengyizhuanjia.com
 shengyuancc.com
 shengzehr.com
 shengzhaoli.com
@@ -83559,6 +83562,7 @@ yuanbaobaoxian.com
 yuanbaohui.com
 yuanbaokc.com
 yuanbaotaoche.com
+yuanbei.biz
 yuanbin.me
 yuancangipr.com
 yuancdn.com
@@ -88305,6 +88309,7 @@ dreamsparkuat.download.prss.microsoft.com
 dreamspark.download.prss.microsoft.com
 gs2.ww.prod.dl.playstation.net
 gs.ww.np.dl.playstation.net
+regexp:.+\.amzndns-cn\.(biz|cn|com|net)$
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 regexp:.+\.azchcdn[a-s]\.com$
