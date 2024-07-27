@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-07-26T12:33:12.517Z
-# Size: 124936
+# Last Updated: 2024-07-27T12:33:36.718Z
+# Size: 125001
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1370,7 +1370,6 @@ adsmind.apdcdn.tc.qq.com
 .de.musicproduction.ru.com
 .lib.rus.ec
 .go.rzr.to
-.s2r.tn
 .s3r.io
 .sbsaz.sa.com
 .mplus5.sa.com
@@ -1810,6 +1809,7 @@ crashlytics.163.com
 .52av.be
 .ad.52av.tv
 .3.5646.cn
+.dl.1003b.56a.com
 .abcd.5lu.com
 .efgh.5lu.com
 .adjb.5nd.com
@@ -2620,6 +2620,7 @@ union.dbba.cn
 .lhewdj.fnac.pt
 .smetrics.fnac.pt
 .mdws.fnbc.ca
+.pixel.fohr.co
 .app.food.li
 .smetrics.ford.ca
 .a8.fots.jp
@@ -2634,6 +2635,7 @@ union.dbba.cn
 .data.stage-mail.fpl.com
 .data.stageno.reply.fpl.com
 .xejpzk.fram.fr
+.ddfcbb9325637bcdeff.mxttbszhh1.free.hr
 .da.freo.nl
 .images.service.freo.nl
 .go.frip.kr
@@ -5863,6 +5865,7 @@ live.tvpot.daum.net
 .halal.ad
 .halct.cn
 .info.halo.com
+.by.haory.cn
 .data-162d89b6ce.haufe.de
 .stats.hauke.me
 .stats.hayu.com
@@ -11532,6 +11535,7 @@ policy.video.iqiyi.com
 .ivtqo.com
 .ivwbox.de
 .info.iwerk.com
+.ixafr.com
 .ixiaa.com
 .ixnow.xyz
 .ixstng.cn
@@ -11594,6 +11598,7 @@ policy.video.iqiyi.com
 .pro.jig.space
 .link.jig.space
 .jimny.pro
+.jiqiv.com
 .jivox.com
 .jiyan.net
 .jizzy.org
@@ -11695,6 +11700,7 @@ policy.video.iqiyi.com
 .o.jy135.com
 .jygcv.sbs
 .jyuskb.cn
+.jz4u1.icu
 .jzdwl4.cn
 .jzlso.xyz
 .plausible.k6sbw.net
@@ -15154,6 +15160,7 @@ mopnativeadv.037201.com
 .072551.xyz
 .0816bvh.ru
 .stattrack.0catch.com
+.0h3uds.com
 .0hacks.com
 .0hq6k.site
 .0j91h.cyou
@@ -16235,6 +16242,7 @@ file.apicvn.com
 .analytics.athome.com
 .atlaqs.com
 .atlggfy.cn
+.atlpvt.com
 .atmdew.xyz
 .atomex.net
 .smetrics.atomic.com
@@ -17136,6 +17144,7 @@ fc-feed.cdn.bcebos.com
 .cnstats.ru
 .cnvmhzt.cn
 .cnxweb.com
+.updates.ultimate-fakkers.co.network
 .a8clk.form.coached.jp
 .ggduev.cobone.com
 .ae.cobweb.com
@@ -20554,7 +20563,6 @@ events.jianshu.io
 .marketing.meetac.com
 .cattle.meets.beer
 .analytics-tracking.meetup.com
-.meeweb.com
 .mega-ad.de
 .collector.megaxh.com
 .meghis.com
@@ -21551,6 +21559,7 @@ adres.myaora.net
 .owyame.xyz
 .oxkyaq.xyz
 .oxmvcg.xyz
+.oxoucm.xyz
 .tmbsxx.oxybul.com
 .eulerian.oxybul.com
 .links.email.oxygen.com
@@ -22202,7 +22211,6 @@ access-sngapm.qcloud.com
 .r66net.com
 .r66net.net
 .a.r8lnet.com
-.ra-ftp.com
 .raac33.net
 .raadth.com
 .rablic.com
@@ -22773,6 +22781,7 @@ test.api.xlmc.sandai.net
 .beacon.shazam.com
 .shbzegs.cn
 .shbzqgs.cn
+.shbzqkj.cn
 .sheeme.com
 .shek66.com
 .shenzo.xyz
@@ -23237,6 +23246,7 @@ shouji.sougou.com
 .collector.szlcsc.com
 .szqxvo.com
 .szsmtk.com
+.t0sfe1.com
 .affiliate.t6power.cz
 .go.tab.com.au
 .stt.tab.com.au
@@ -23567,7 +23577,6 @@ hz.pre.tbusergw.taobao.net
 .tlpyft.xyz
 .tlxjuj.com
 .felix.data.tm-awx.com
-.feliz.data.tm-awx.com
 .reach-id.orbit.tm-awx.com
 .rake.tmap.co.kr
 .tmjetb.xyz
@@ -23593,6 +23602,7 @@ hz.pre.tbusergw.taobao.net
 .analytics.tnt.africa
 .sanalytics.tnt.africa
 .tnvnnn.xyz
+.tnzjrj.xyz
 .tobink.com
 .akgnwd.tocris.com
 .get.toffapp.co
@@ -24937,6 +24947,7 @@ weatherapi.market.xioami.com
 .xstalkx.ru
 .xszcdn.com
 .xtb111.com
+.xtrkhv.xyz
 .xttaff.com
 .xtube.chat
 .xuakak.com
@@ -27974,6 +27985,7 @@ adimg.daumcdn.net
 .cmp.dreamlab.pl
 .dreamlog.ru
 .dreuaxk.icu
+.drgenov.com
 .cattle.driftbot.io
 .drjs123.com
 .drkness.net
@@ -28704,7 +28716,6 @@ adx-dre.op.dbankcloud.com.edgekey.net
 .gagysn.floward.com
 .fluctuo.com
 .nkwvwb.fluevog.com
-.fluggis.com
 .fluxads.com
 .fly-ads.net
 .flycash.org
@@ -29169,6 +29180,7 @@ log-sdk.gifshow.com
 .gridsum.com
 .go.gridwise.io
 .s.grigora.com
+.grilloo.net
 .dl.grip.events
 .gripnode.co
 .gripped.biz
@@ -32241,6 +32253,7 @@ ad.bn.netease.com
 .metrics.phoenix.edu
 .smetrics.phoenix.edu
 .smetrics.phoenix.gov
+.pholdet.net
 .photo07.xyz
 .pbox.photobox.at
 .pbox.photobox.be
@@ -33448,6 +33461,7 @@ bigdata.ssp.samsung.com
 .statman.sesong.info
 .marketing.setaram.com
 .setka.media
+.setlwsb.top
 .analytics-ssl.seton.co.uk
 .cloud.setupad.com
 .sevokop.com
@@ -34950,6 +34964,7 @@ susapi.dev.surepush.cn
 .xyzznt.uterque.com
 .stats.uticorp.com
 .utienlt.top
+ga.utilapi.bid
 .utillib.xyz
 .utokapa.com
 .thoth.utyug.media
@@ -35753,6 +35768,7 @@ feedback.windows.com
 .data-16d7ec9a30.wn-azubi.de
 .wnalzle.top
 .wnllmyw.xyz
+.wnmoobz.icu
 .wnootzc.icu
 .wal.wolfram.com
 .adbmetrics.womennow.es
@@ -37599,6 +37615,7 @@ log.b612kaji.com
 .pic.baihuawen.cn
 .baijs010.xyz
 .baijs011.xyz
+.baijs02.shop
 .bailoaso.xyz
 .bainushe.com
 .baiseesh.net
@@ -38266,6 +38283,7 @@ galaxy.bjcathay.com
 .adbmetrics.canarias7.es
 .sadbmetrics.canarias7.es
 .pages.canon.com.au
+.canroura.com
 .caonhanh.xyz
 .images.response.capex.com.ph
 .pcs.capgroup.com
@@ -39387,6 +39405,7 @@ jobs.date-fns.org
 .douhooke.net
 .doujs01.shop
 .doujs010.xyz
+.doujs02.shop
 .doukoula.com
 .doupsout.xyz
 .douthosh.net
@@ -39653,6 +39672,7 @@ jobs.date-fns.org
 .experience2013.elliemae.com
 .encompassreport.elliemae.com
 .ellingsen.cn
+.elneagog.com
 .metrics.elsevier.com
 .smetrics.elsevier.com
 .metrics.eltenedor.es
@@ -40984,6 +41004,7 @@ cdn.getkoala.com
 .gymgipsy.com
 .plausible.gymglish.com
 .gzkkbuvz.com
+.gzwehmnm.com
 .cv.h-docomo.com
 .habeglee.net
 .d.haberler.com
@@ -41345,6 +41366,7 @@ cdn.getkoala.com
 .a8clk.hurugicom.jp
 .huwuftie.com
 .hvikgqco.com
+.hwerilxu.top
 .hwfmynim.com
 .aa.hwigroup.com
 .ab.hwigroup.com
@@ -41784,6 +41806,7 @@ cdn.getkoala.com
 .jeekomih.com
 .jeerouse.xyz
 .jeethaju.net
+.jeghosso.net
 .jehobsee.com
 .jekesjzv.com
 .smetrics.jeld-wen.com
@@ -49128,6 +49151,7 @@ stat.10jqka.com.cn
 .adzmarket.net
 .aeeonmart.com
 .marketing.aefonline.org
+.aeoghehofu.su
 .aeoonmail.com
 .partner.aeriumshop.nl
 .partener.aeriumshop.ro
@@ -49197,7 +49221,6 @@ stat.10jqka.com.cn
 .ahoypirate.in
 .a8cv.aiambeauty.jp
 .aickeebsi.com
-.aideca.org.pe
 .go.aidenroll.com
 .a8track.aidmybank.com
 .www.aiea6gaza.com
@@ -51259,6 +51282,7 @@ grs.platform.dbankcloud.ru
 .affiliate.diatomplus.cz
 .diccsbhij.com
 .xiqvza.dickblick.com
+.diclegrup.org
 .ec.didnsunns.com
 .data-d88bd5abf8.die-glocke.de
 .marketing.dienerlaw.net
@@ -51349,6 +51373,7 @@ grs.platform.dbankcloud.ru
 .smetrics.donaldson.com
 .stat.dongqiudi.com
 .sensors-log.dongqiudi.com
+.sutys.policy.donnafrey.com
 .donorenvy.com
 .smetrics.donovanac.com
 .doobuphoo.com
@@ -54839,6 +54864,7 @@ i1.services.social.microsoft.com
 .smetrics.misumi-ec.com
 .a8cv.mitaina.tokyo
 .go.mitchell1.com
+.mitosiscg.com
 .b.miwebflex.com
 .mixadvert.com
 .mixandfun.com
@@ -54850,6 +54876,7 @@ i1.services.social.microsoft.com
 .mjnomtahm.com
 .mkcurches.com
 .mkstat595.xyz
+.mktrex155.xyz
 .adobeanalytics.mlaglobal.com
 .mldxqrntd.xyz
 .mluemlmxn.com
@@ -54912,7 +54939,6 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
-.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -57518,6 +57544,7 @@ sousuo.xm.sjzhushou.com
 .stardatis.com
 .get.starguide.app
 .starlayer.com
+.starredvs.com
 .start-xyz.com
 .startmode.biz
 .vf.startpage.com
@@ -58045,7 +58072,6 @@ strip.taobaocdn.com
 .time4swap.com
 .time4swap.fun
 .timedirect.ru
-.timekeeper.ug
 .data.promo.timhortons.ca
 .ablink.info.timhortons.ca
 .ablink.loyal.timhortons.ca
@@ -59449,6 +59475,7 @@ ad.winrar.com.cn
 .zgdfz6h7po.me
 .zgoa097eh.com
 .yin1.zgpingshu.com
+.zgwrkfowi.com
 .zgxxvdlxc.com
 .zhanzhang.net
 .zhengwei3.top
@@ -59950,6 +59977,7 @@ ad.winrar.com.cn
 .5advertise.com
 .47dff461d7.5afd9ec0ab.com
 .5b10f288ee.com
+.5b3fbababb.com
 .027f8ac71a.5b4ed922fe.com
 .7a5ca91371.5b5846c196.com
 .40dd6c8f55.5b7cb7236e.com
@@ -62713,6 +62741,7 @@ ad.winrar.com.cn
 .d1i3h541wbnrfi.cloudfront.net
 .d1i64ia3gj0ol1.cloudfront.net
 .d1i76h1c9mme1m.cloudfront.net
+.d1i94yju6i4l9g.cloudfront.net
 .d1igvjcl1gjs62.cloudfront.net
 .d1ilwohzbe4ao6.cloudfront.net
 .d1izuvv2qy7hel.cloudfront.net
@@ -64581,6 +64610,7 @@ tracker.didiglobal.com
 .trk.equifax.com.au
 .news.equiphotel.com
 .marketing.equiscript.com
+.eradi-tech.net
 .hiuplq.eredmenyek.com
 .data-043610b415.erft-kurier.de
 .data-497ecca600.erft-kurier.de
@@ -66476,6 +66506,7 @@ analytics.infomaniak.com
 .pl.kanbanmail.app
 .smetrics.kanen-net.info
 .a8cv.akapon.kanritools.com
+.sayac.kapital.com.tr
 .kappalinks.com
 .ykfrpx.kapten-son.com
 .kaputquill.com
@@ -67689,6 +67720,7 @@ adapi.lenovogame.com
 .neousaunce.com
 .logger.nerdwallet.com
 .sorrhs.nescafe.com.tr
+.neshigreek.com
 .nesokiahld.com
 .nestledmph.com
 .net-filter.com
@@ -72381,6 +72413,7 @@ applogapi.autohome.com.cn
 .ymqnky.bagaggio.com.br
 .bageltiptoe.com
 .bagletantle.top
+.bahrabeauty.com
 .baidustatic.com
 .baiduthi02.work
 .cargdk.bakerross.co.uk
@@ -75572,6 +75605,7 @@ emma-414870e223.huodonghezi.com
 .ipodreevess.com
 .ippcodepink.com
 .ipredictive.com
+.iprimaveral.com
 .iprpldsefjq.com
 .ssc.irfaasawtak.com
 .irfanrashid.com
@@ -76361,6 +76395,7 @@ material.istreamsche.com
 .massecephid.uno
 .masserfusty.top
 .massivemark.com
+.mastercompu.com
 .masteriklan.net
 .masterstats.com
 .mastertarget.ru
@@ -76421,6 +76456,7 @@ material.istreamsche.com
 .smetrics.meetingsnet.com
 .meetwebclub.com
 .join.megaphonetv.com
+.megasena777.top
 .megavisites.com
 .boewzj.meiji-jisho.com
 .metrics.mein-dertour.de
@@ -77533,6 +77569,7 @@ ad-analysis.pconline.com.cn
 .phoackoangu.com
 .phonalytics.com
 .phonecheats.org
+.phookroamte.xyz
 .pbox.photobox.com.au
 .data.guide.photobucket.com
 .photospace.life
@@ -77977,6 +78014,7 @@ ad-analysis.pconline.com.cn
 .rdtk.rabbitscams.sex
 .rabidamoral.com
 .act.raceforward.org
+.rachmatmusa.com
 .content.rackspace.co.uk
 .info.racksquared.com
 .hcjpbc.radaronline.com
@@ -78908,6 +78946,7 @@ ad-analysis.pconline.com.cn
 .spirebaboon.com
 .partners.spiritradar.com
 .spitretired.com
+.splintmuses.com
 .partner.spokojenypes.cz
 .spondylfide.com
 .spookyskate.com
@@ -84499,6 +84538,7 @@ ssl.360antivirus.org
 .jailbreakps4.net
 .jailbreaktut.com
 .jakescribble.com
+.jakosoafdom.shop
 .denpjz.jamesedition.com
 .stats.jamesevers.co.uk
 .jamexistence.com
@@ -85581,6 +85621,7 @@ ssl.360antivirus.org
 .smetrics.myparliament.com
 .mypicparade.pics
 .marketing.mypoindexter.com
+.myporoduct.co.in
 .myprivate.yachts
 .myrtolbanzai.com
 .go.mysalonsuite.com
@@ -86002,6 +86043,7 @@ ssl.360antivirus.org
 .opuluswanton.top
 .opxogkbiqkti.com
 .oqfrudzatovc.com
+.oqpahlskaqal.com
 .oralsproxied.com
 .smetrics.orangetheory.com
 .oratorpounds.com
@@ -86882,7 +86924,6 @@ ssl.360antivirus.org
 .retrievemint.com
 .a8.www.retrospect.co.jp
 .rettornrhema.com
-.returnlegend.com
 .info.rev1ventures.com
 .revenuebosom.com
 .revenueclamp.com
@@ -87171,6 +87212,7 @@ ssl.360antivirus.org
 .selfcampaign.com
 .selfishsnake.com
 .frdoki.selftanning.work
+.sellisteatin.com
 .selunemtr.online
 .a8.seminarshelf.com
 .sendexchange.com
@@ -87492,6 +87534,7 @@ ssl.360antivirus.org
 .softclick.com.br
 .app.response.softserveinc.com
 .softwarestab.com
+.solarizing.co.uk
 .soldegratuit.com
 .hczvwi.soldejaneiro.com
 .solestudious.com
@@ -87866,6 +87909,7 @@ ssl.360antivirus.org
 .link.talescreator.com
 .direct.talesofvixen.com
 .talker4speak.com
+.talkstuff.social
 .tampinbecker.com
 .tampoewretch.top
 .al.tanabesports.com
@@ -90486,6 +90530,7 @@ stat.zuimeitianqi.com
 .ccjhtrymhhljk.com
 .cdeaffjujxchf.com
 .tr.em.cdiscount-pro.com
+.cdn-edge-node.com
 .cdn2reference.com
 .cdn3reference.com
 .cdnstoremedia.com
@@ -90579,6 +90624,7 @@ stat.zuimeitianqi.com
 .chronicmirror.com
 .dhp.parish.chuathuongxot.org
 .kpe.parish.chuathuongxot.org
+.maa.parish.chuathuongxot.org
 .oey.parish.chuathuongxot.org
 .vaj.parish.chuathuongxot.org
 .vzq.parish.chuathuongxot.org
@@ -93072,6 +93118,7 @@ collect.foresightnews.pro
 .stats.johanneswienke.de
 .marketing.johnsonmelloh.com
 .analytics.joincambridge.com
+plausible.joincommunity.xyz
 .joiningslogan.com
 .ablink.send.joinjamjar.com.au
 .joinpropeller.com
@@ -93156,6 +93203,7 @@ collect.foresightnews.pro
 .fp.kalevavakuutus.fi
 .info.kalevavakuutus.fi
 .smetrics.kalevavakuutus.fi
+.kallimaacoasm.com
 .kalmukrattail.com
 .kalpaksaffect.top
 .kamachilinins.com
@@ -95362,6 +95410,7 @@ collect.foresightnews.pro
 .sernoodmovies.com
 .servedbyopenx.com
 .servedbysmart.com
+.serverlogs275.xyz
 .tr.nl.services-sncf.com
 .servingserved.com
 .rtb-eu-v4.servvidisplay.com
@@ -95653,6 +95702,7 @@ collect.foresightnews.pro
 .souvenirsflex.com
 .souvlatraffic.com
 .sozzlypeavies.com
+.spaceframe.mobi.space-frame.co.za
 .sparidssimps.life
 .sparkleagings.com
 .somni.sparrowhotels.com
@@ -96267,6 +96317,7 @@ collect.foresightnews.pro
 .turmoilmeddle.com
 .sub.turningpoint.work
 .tuscanyaskant.com
+.tussisinjelly.com
 .tuxzlhrwejszu.com
 .tracking.tuyenquang.gov.vn
 .tvshowzonline.com
@@ -96335,7 +96386,6 @@ collect.foresightnews.pro
 .unhappyswitch.com
 .unhatedprotei.com
 .unhedgekuchen.top
-.unicorpbrunei.com
 .ucmetrics.unicreditbanca.it
 .sucmetrics.unicreditbanca.it
 .ucmetrics.unicreditgroup.eu
@@ -98230,6 +98280,7 @@ collect.foresightnews.pro
 .company-target.com
 .nyvknh.compracerta.com.br
 .compte-facebook.ws
+.comunicacolweb.com
 .concentration2.fun
 .concoursegrope.com
 .condemnrissole.com
@@ -99884,6 +99935,7 @@ collect.foresightnews.pro
 .elqtrk.intelrealsense.com
 .intendedoutput.com
 .email.inteng-testing.com
+.sistema.intensegroupgt.com
 .intentanalysis.com
 .interestededit.com
 .interestingpot.com
@@ -99942,6 +99994,7 @@ collect.foresightnews.pro
 .itineraryupper.com
 .itsvfputpvsqnb.com
 .ittoxicroakon.club
+.itukydteamwouk.com
 .itunescodesnow.com
 .itupjhlxjyxacl.com
 .itupnjqqjbxxqt.com
@@ -100105,6 +100158,7 @@ collect.foresightnews.pro
 .data-47ee1b0882.kinowelt-online.de
 .smetrics.kioxia-iwate.co.jp
 .kirverfurious.life
+.kissedthetrain.com
 .a8net.kitamura-print.com
 .kitharaearmuff.top
 .gr.kitharapalanka.com
@@ -103674,6 +103728,7 @@ collect.foresightnews.pro
 .antaresarcturus.com
 .smetrics.anticoagulante.info
 .anzeigen-vor-ort.de
+.aoruuoooshfrohle.su
 .dbmyvl.apartmentfinder.com
 .aphasicstoray.space
 .cattle.apisyouwonthate.com
@@ -104636,6 +104691,7 @@ collect.foresightnews.pro
 .ematicsolutions.com
 .ssl.o.emedicinehealth.com
 .emigrantblunder.com
+.emmecicongressi.com
 .tarantula.emotionalbaking.com
 .empireexhibited.com
 .sendgrid.employeelinkapp.com
@@ -105783,6 +105839,7 @@ collect.foresightnews.pro
 .lyricsneighbour.com
 .m73lae5cpmgrv38.com
 .smetrics.mabanque.bnpparibas
+.mabdkggqleseuhj.com
 .maddeningpowder.com
 .madeupdependant.com
 .madgeniusreview.com
@@ -105909,6 +105966,7 @@ collect.foresightnews.pro
 .app.miamihurricanes.com
 .w982.middletownpress.com
 .midnightcontemn.com
+.midnoonfrigate.shop
 .events.mikescerealshack.co
 .news.milawyersweekly.com
 .mildcauliflower.com
@@ -106901,6 +106959,7 @@ collect.foresightnews.pro
 .chickadee.serverlessfirst.com
 .sethiteblindly.guru
 .settlepineapple.com
+.seullocogimmous.com
 .sevenpronounced.com
 .sex-interactive.com
 .sgunqfpjtxfndtt.com
@@ -109803,7 +109862,6 @@ display.360totalsecurity.com
 .limpattemptnoose.com
 .lingrethertantin.com
 .www.linktasticxquest.com
-.linkvilleplayers.org
 .lintfeintshindig.com
 .liondolularhene.info
 .listenedmusician.com
@@ -110688,6 +110746,7 @@ display.360totalsecurity.com
 .sexpennyauctions.com
 .e.sexygirlscontact.com
 .shakydeploylofty.com
+.sheisnotateacher.com
 .shemalesofhentai.com
 .smetrics.sherwoodbuickgmc.com
 .smetrics.sherwoodparkchev.com
@@ -113386,6 +113445,7 @@ display.360totalsecurity.com
 .overlookedtension.pro
 .overreactperverse.com
 .ovethecityonatal.info
+.oytoworkwithcatuk.com
 .pacificprocurator.com
 .pageantbagauspice.com
 .paidsearchexperts.com
@@ -115263,9 +115323,12 @@ display.360totalsecurity.com
 .data-e9439b5f81.hertener-allgemeine.de
 .hesitanttoothpaste.com
 .gzw.loyalty.hienphucuanhanloai.org
+.cjou.loyalty.hienphucuanhanloai.org
+.ggpi.loyalty.hienphucuanhanloai.org
 .hmen.loyalty.hienphucuanhanloai.org
 .kuzo.loyalty.hienphucuanhanloai.org
 .qxup.loyalty.hienphucuanhanloai.org
+.ruym.loyalty.hienphucuanhanloai.org
 .fljnd.loyalty.hienphucuanhanloai.org
 .frtwv.loyalty.hienphucuanhanloai.org
 .xdfds.loyalty.hienphucuanhanloai.org
@@ -117566,6 +117629,7 @@ display.360totalsecurity.com
 .mexicantransmission.com
 .tracking.mhealthintelligence.com
 .michiganrobotflower.com
+.microsecurityupdate.com
 .midgerelativelyhoax.com
 .migrantacknowledged.com
 .migrantfarewellmoan.com
@@ -121265,6 +121329,7 @@ samsungcloudsolution.net
 .data-3aa56b5882.die-deutsche-wirtschaft.de
 .mytracking.dientes-saludables-hoy.com
 .cmp.dieterenmobilitycompany.be
+.diffusedpassionquaking.com
 .dinecogitateaffections.com
 .disappearancetickfilth.com
 .disciplineagonywashing.com
