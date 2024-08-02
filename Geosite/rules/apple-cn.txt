@@ -6,6 +6,7 @@ full:a5.mzstatic.com
 full:adcdownload.apple.com.akadns.net
 full:adcdownload.apple.com
 full:amp-api.media.apple.com
+full:amp-api-updates.apps.apple.com
 full:api-p-ap-c.smoot.apple.com
 full:api-p-ap-d.smoot.apple.com
 full:api-p-ap-e.smoot.apple.com
@@ -15,6 +16,7 @@ full:appldnld.g.aaplimg.com
 full:appleid.cdn-apple.com
 full:apps.apple.com
 full:apps.mzstatic.com
+full:bag-cdn.itunes-apple.com.akadns.net
 full:cdn-cn1.apple-mapkit.com
 full:cdn-cn2.apple-mapkit.com
 full:cdn-cn3.apple-mapkit.com
@@ -61,6 +63,7 @@ full:gsp4-cn.ls.apple.com
 full:gsp5-cn.ls.apple.com
 full:gsp85-cn-ssl.ls.apple.com
 full:gspe19-2-cn-ssl.ls.apple.com
+full:gspe19-2-cn-ssl.ls-apple.com.akadns.net
 full:gspe19-cn-ssl.ls.apple.com
 full:gspe19-cn.ls-apple.com.akadns.net
 full:gspe19-cn.ls.apple.com
@@ -99,6 +102,7 @@ full:is4-ssl.mzstatic.com
 full:is4.mzstatic.com
 full:is5-ssl.mzstatic.com
 full:is5.mzstatic.com
+full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 full:itunes-apple.com.akadns.net
 full:itunes.apple.com
 full:itunesconnect.apple.com
