@@ -5,9 +5,12 @@
 #!keyword = 去广告, RuCu6
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cainiao.png
-#!date = 2024-06-08 09:40:34
+#!date = 2024-08-06 23:21:00
 
 [Rule]
+# 移除广告下发请求
+# AND, ((URL-REGEX, ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$), (USER-AGENT, Cainiao4iPhone*)), REJECT
+
 DOMAIN, adsmind.ugdtimg.com, REJECT
 DOMAIN, amdc.m.youku.com, REJECT
 DOMAIN, apiv4-iyes.youku.com, REJECT

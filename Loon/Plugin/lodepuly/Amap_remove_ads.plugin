@@ -5,9 +5,12 @@
 #!keyword = 去广告, RuCu6, kokoryh
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Amap.png
-#!date = 2024-07-17 10:51:16
+#!date = 2024-08-06 23:21:03
 
 [Rule]
+# 移除广告下发请求
+# AND, ((URL-REGEX, ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$), (USER-AGENT, AMapiPhone*)), REJECT
+
 DOMAIN, amap-aos-info-nogw.amap.com, REJECT
 DOMAIN, free-aos-cdn-image.amap.com, REJECT
 
