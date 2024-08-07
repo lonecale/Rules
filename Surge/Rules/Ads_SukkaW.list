@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-07T12:35:39.337Z
-# Size: 125396
+# Last Updated: 2024-08-07T13:09:15.653Z
+# Size: 125390
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17134,6 +17134,7 @@ DOMAIN-SUFFIX,go.cheerz.com
 DOMAIN-SUFFIX,link.cheerz.com
 DOMAIN-SUFFIX,a8cv.chefbox.jp
 DOMAIN-SUFFIX,chelpe.com
+DOMAIN-SUFFIX,chemsky.tn
 DOMAIN-SUFFIX,somni.chicos.com
 DOMAIN-SUFFIX,chidir.com
 DOMAIN-SUFFIX,images.e.chiefs.com
@@ -20690,7 +20691,6 @@ DOMAIN-SUFFIX,gerbil.meenit.com
 DOMAIN-SUFFIX,marketing.meetac.com
 DOMAIN-SUFFIX,cattle.meets.beer
 DOMAIN-SUFFIX,analytics-tracking.meetup.com
-DOMAIN-SUFFIX,meeweb.com
 DOMAIN-SUFFIX,mega-ad.de
 DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,meghis.com
@@ -21968,7 +21968,6 @@ DOMAIN-SUFFIX,data-ssl.pnet.co.za
 DOMAIN-SUFFIX,track.pnj.com.vn
 DOMAIN-SUFFIX,flx2.pnl.agency
 DOMAIN-SUFFIX,pnperf.com
-DOMAIN-SUFFIX,pns.org.pk
 DOMAIN-SUFFIX,pnsqsv.com
 DOMAIN-SUFFIX,pntrac.com
 DOMAIN-SUFFIX,pnvtlh.xyz
@@ -22923,7 +22922,6 @@ DOMAIN-SUFFIX,shalse.com
 DOMAIN-SUFFIX,shar-m.com
 DOMAIN-SUFFIX,a8clk.shop.shareme.jp
 DOMAIN-SUFFIX,y.shavsl.com
-DOMAIN-SUFFIX,z.shavsl.com
 DOMAIN-SUFFIX,beacon.shazam.com
 DOMAIN-SUFFIX,shbzdkj.cn
 DOMAIN-SUFFIX,shbzegs.cn
@@ -29678,6 +29676,7 @@ DOMAIN-SUFFIX,dep.hmgroup.com
 DOMAIN-SUFFIX,click.hmtrack.net
 DOMAIN-SUFFIX,hnalzlu.top
 DOMAIN-SUFFIX,www2.hnavi.co.jp
+DOMAIN-SUFFIX,yp.hnggzyjy.cn
 DOMAIN-SUFFIX,swordtail.hnh.digital
 DOMAIN-SUFFIX,n.hnntube.com
 DOMAIN-SUFFIX,online.hnoexpo.com
@@ -31405,7 +31404,6 @@ DOMAIN-SUFFIX,minercry.pt
 DOMAIN-SUFFIX,mini-pic.su
 DOMAIN-SUFFIX,images.response.mini.com.au
 DOMAIN-SUFFIX,miniast.com
-DOMAIN-SUFFIX,src1.minibai.com
 DOMAIN-SUFFIX,mining.best
 DOMAIN-SUFFIX,metrics.miniusa.com
 DOMAIN-SUFFIX,smetrics.miniusa.com
@@ -36568,7 +36566,6 @@ DOMAIN-SUFFIX,1090pjopm.de
 DOMAIN-SUFFIX,10q6e9ne5.de
 DOMAIN-SUFFIX,10sn95to9.de
 DOMAIN-SUFFIX,a.10tianqi.com
-DOMAIN-SUFFIX,soft.110route.com
 DOMAIN-SUFFIX,1.11130.com.cn
 DOMAIN-SUFFIX,sams.11freunde.de
 DOMAIN-SUFFIX,iqmetrics.11freunde.de
@@ -43951,7 +43948,6 @@ DOMAIN-SUFFIX,netwo616.com
 DOMAIN-SUFFIX,info.network9.com
 DOMAIN-SUFFIX,track.neuratina.co
 DOMAIN-SUFFIX,neurotrack.neurolake.io
-DOMAIN-SUFFIX,new-coder.cc
 DOMAIN-SUFFIX,newclick.com
 DOMAIN-SUFFIX,newdhopr.com
 DOMAIN-SUFFIX,newfiled.com
@@ -57330,7 +57326,6 @@ DOMAIN-SUFFIX,serialinfo.ru
 DOMAIN-SUFFIX,serumlisp.com
 DOMAIN-SUFFIX,serv01001.xyz
 DOMAIN-SUFFIX,serve-rtb.com
-DOMAIN-SUFFIX,xn47552056.servegame.com
 DOMAIN-SUFFIX,khongphaibotnet.servehttp.com
 DOMAIN-SUFFIX,servehub.info
 DOMAIN-SUFFIX,serveipqs.com
@@ -67354,7 +67349,6 @@ DOMAIN-SUFFIX,magictrucs.com
 DOMAIN-SUFFIX,a8cv.magniflexk.com
 DOMAIN-SUFFIX,magnify360.com
 DOMAIN-SUFFIX,counter.mahanmusic.net
-DOMAIN-SUFFIX,maheegroup.com
 DOMAIN-SUFFIX,mahidevrat.com
 DOMAIN-SUFFIX,maidsiowan.com
 DOMAIN-SUFFIX,track.mailerlite.com
@@ -109564,6 +109558,7 @@ DOMAIN-SUFFIX,mobile.etiquetaunica.com.br
 DOMAIN-SUFFIX,cwh.donors.eucharisticjesus.net
 DOMAIN-SUFFIX,dvo.donors.eucharisticjesus.net
 DOMAIN-SUFFIX,iod.donors.eucharisticjesus.net
+DOMAIN-SUFFIX,xza.donors.eucharisticjesus.net
 DOMAIN-SUFFIX,cylua.donors.eucharisticjesus.net
 DOMAIN-SUFFIX,odfdt.donors.eucharisticjesus.net
 DOMAIN-SUFFIX,tcvwu.donors.eucharisticjesus.net
@@ -111168,7 +111163,6 @@ DOMAIN-SUFFIX,ruttien-daohan66.com
 DOMAIN-SUFFIX,rysheatlengthanl.xyz
 DOMAIN-SUFFIX,console.sacommunications.com
 DOMAIN-SUFFIX,servedby.sacommunications.com
-DOMAIN-SUFFIX,safeautomationbd.com
 DOMAIN-SUFFIX,metrics.sainsburysbank.co.uk
 DOMAIN-SUFFIX,smetrics.sainsburysbank.co.uk
 DOMAIN-SUFFIX,saktismberakes.space
