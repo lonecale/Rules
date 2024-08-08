@@ -566,6 +566,7 @@
 - [hotstar](rules/hotstar.txt)
 - [hoyoverse](rules/hoyoverse.txt)
 - [hp](rules/hp.txt)
+- [hsbc-cn](rules/hsbc-cn.txt)
 - [hsbc](rules/hsbc.txt)
 - [huanghuagang](rules/huanghuagang.txt)
 - [huawei-dev](rules/huawei-dev.txt)
@@ -951,6 +952,7 @@
 - [quip](rules/quip.txt)
 - [quora](rules/quora.txt)
 - [qwant](rules/qwant.txt)
+- [qweather](rules/qweather.txt)
 - [qyyjt](rules/qyyjt.txt)
 ## R
 - [rakuten](rules/rakuten.txt)
