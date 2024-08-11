@@ -514,6 +514,7 @@
 - [goodreads](rules/goodreads.txt)
 - [google-ads](rules/google-ads.txt)
 - [google-cn](rules/google-cn.txt)
+- [google-gemini](rules/google-gemini.txt)
 - [google-registry-tld](rules/google-registry-tld.txt)
 - [google-registry](rules/google-registry.txt)
 - [google-scholar](rules/google-scholar.txt)
