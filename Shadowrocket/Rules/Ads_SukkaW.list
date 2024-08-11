@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-10T12:32:52.602Z
-# Size: 125614
+# Last Updated: 2024-08-11T12:33:13.961Z
+# Size: 125611
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5892,7 +5892,6 @@ live.tvpot.daum.net
 .halal.ad
 .halct.cn
 .info.halo.com
-.by.haory.cn
 .data-162d89b6ce.haufe.de
 .stats.hauke.me
 .stats.hayu.com
@@ -8480,6 +8479,7 @@ ad.10010.com
 .1.11467.com
 .114la.com
 .statistics.11880.com
+.11dyw.com
 .11nux.com
 .ads.123net.jp
 .wpkfti.1300k.com
@@ -13078,7 +13078,6 @@ s.osano.com
 .tracking.parte.com
 .ma.pasco.com
 .wzyjup.patch.com
-.cdn.pawns.app
 .pbcde.com
 .pbkdf.com
 .link.pbrry.com
@@ -13121,6 +13120,7 @@ s.osano.com
 .smetrics.petco.com
 .petrk.com
 .smetrics.pfizer.nl
+.pfkgl.top
 .smetrics.pgford.ca
 .pgssl.com
 .phcbi-solution.phchd.com
@@ -13678,7 +13678,6 @@ userimg.qunar.com
 .sgad.site
 .sgbm.info
 .eywvko.shaddy.jp
-.shamaz.us
 .eisdog.shape.com
 .sharks.vn
 .xpzswr.shasa.com
@@ -19859,6 +19858,7 @@ events.jianshu.io
 .jsxwfb.xyz
 .jsyefc.com
 .240808160122177.shi.jtii79.top
+.240810152539140.shi.jtii79.top
 .jtzdld.xyz
 .jubnpx.xyz
 .jiaoben.jucanw.com
@@ -22011,6 +22011,7 @@ adres.myaora.net
 .poinct.com
 .poined.com
 .poiwer.com
+.pojdnf.xyz
 .poke88.com
 .calvera-telemetry.polaris.me
 .metrics.polivy.com
@@ -22947,13 +22948,12 @@ test.api.xlmc.sandai.net
 .shalse.com
 .shar-m.com
 .a8clk.shop.shareme.jp
-.y.shavsl.com
-.z.shavsl.com
 .beacon.shazam.com
 .shbxugs.cn
 .shbxukj.cn
 .shbzdkj.cn
 .shbzegs.cn
+.shbzikj.cn
 .shbzkkj.cn
 .shbzlkj.cn
 .shbzngs.cn
@@ -23272,6 +23272,7 @@ shouji.sougou.com
 .spyoff.com
 .sqgnqc.xyz
 .sqlick.com
+.sravga.xyz
 .srb-communique.srb-es.com
 .srcips.com
 .srldkqj.cn
@@ -24553,6 +24554,7 @@ api-scout.vercel.app
 .vqglaz.com
 .vqhrqt.com
 .vqlwoy.xyz
+.hr2019.vrcom7.com
 .tds.vrcteam.ru
 .vrixon.com
 .vrnblp.xyz
@@ -24992,6 +24994,7 @@ api-scout.vercel.app
 .xgraph.net
 .xgrcfz.xyz
 .xhbshv.xyz
+.xhlkvx.xyz
 .xhzspi.com
 .b1.xiao84.com
 .becode.xiao84.com
@@ -28036,6 +28039,7 @@ adimg.daumcdn.net
 .dfwreds.com
 .dfxvkgz.xyz
 .dgkmdia.com
+.dgkship.icu
 .dgptxzz.com
 .dhkecbu.com
 .j.diangon.com
@@ -29712,7 +29716,6 @@ healthdata.hicloud.com
 .click.hmtrack.net
 .hnalzlu.top
 .www2.hnavi.co.jp
-.yp.hnggzyjy.cn
 .swordtail.hnh.digital
 .n.hnntube.com
 .online.hnoexpo.com
@@ -31990,6 +31993,7 @@ ad.bn.netease.com
 .app.nootric.com
 .images.moments.nordlid.com
 .cm.nordvpn.com
+.applytics.nordvpn.com
 .norespar.ru
 .noretia.com
 .tr.gestion.norrsken.fr
@@ -35426,6 +35430,7 @@ ga.utilapi.bid
 .viewsoz.com
 .smetrics.viewtabi.jp
 .vigsole.com
+.vigtas.info
 .viiapps.com
 .viibest.com
 .viibill.com
@@ -36796,7 +36801,6 @@ htracker5.zmzfile.com
 .333lotte.com
 .33across.com
 .3604free.com
-.softdl.360tpcdn.com
 hot.m.shouji.360tpcdn.com
 .360yield.com
 .369bgrec.top
@@ -37883,6 +37887,7 @@ in.appcenter.ms
 .b0ufmrzl.icu
 .website-usage.b2bendix.com
 .b2bf222e.xyz
+.b395bfcd.xyz
 .b42rracj.com
 .b51475b8.xyz
 .b5e75c56.com
@@ -39000,7 +39005,6 @@ galaxy.bjcathay.com
 .l.coastapp.com
 .coatfood.com
 .coawheer.net
-.api-ms.cobainaja.id
 .cobalten.com
 .cochack.site
 .cochacks.com
@@ -42027,6 +42031,7 @@ cdn.getkoala.com
 .ironbeast.io
 .logs.ironsrc.mobi
 .asg.irontube.net
+.irutvnco.top
 .is-apple.com
 .ishoapty.net
 .ishoawew.net
@@ -45642,6 +45647,7 @@ click.qianqian.com
 .redbutton-adproxy-lb-prod.redbutton.de
 .plausible.redchamp.net
 .smetrics.redcross.org
+.reddemon.xyz
 .6677648.reddoorz.com
 .redichat.com
 .redij.online
@@ -47794,6 +47800,7 @@ inte.sogoucdn.com
 .v2s4ku8b.com
 .v96-surf.com
 .vaatmetu.net
+.vacpukna.com
 .vacwrite.com
 .metrics.vademecum.es
 .co.vaicore.site
@@ -48971,7 +48978,6 @@ adpublish.ydstatic.com
 .zonealta.com
 .log.zongheng.com
 .h5log.zongheng.com
-.static.zongheng.com
 .zonupiza.com
 .zoocheeh.net
 .zoogripi.com
@@ -49916,7 +49922,6 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 .talent.aonunited.com
 .retirement.aonunited.com
 .aoooysewk.com
-.aosishome.one
 .aoswoygld.com
 .marketing.aotourism.com
 .asnjih.apatchy.co.uk
@@ -53483,8 +53488,8 @@ v2.fm.n.duokanbox.com
 .hisurnhuh.com
 .hitcounter.ru
 .hitgelsin.com
-.hitman-pro.ru
 .links.hitrecord.org
+.hitstation.nl
 .hitstatus.com
 .tracking.hivecloud.net
 .partner.hizeromop.com
@@ -54153,6 +54158,7 @@ v2.fm.n.duokanbox.com
 .jyuirxswk.com
 .jyxrdfxli.com
 .k0r2eokjm6.ru
+.k1gkl25as.top
 .k3718qw08.com
 .www.k45z7tagm.com
 .2467.k45z7tagm.com
@@ -54897,7 +54903,6 @@ s.maketheweb.io
 .data-f59db3288b.mannheim24.de
 .gqqxum.mannys.com.au
 .lp.mansup.online
-.mantaline.one
 .xutolr.mantan-web.jp
 .mantrafox.com
 .manualdin.com
@@ -55331,6 +55336,7 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
+.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -57583,7 +57589,6 @@ js.shshuoshu.com
 .shughaxiw.com
 .shuijtyb2.com
 .shurfhlba.com
-.siarracon.com
 .siblastid.top
 .sickflock.com
 .sicksmash.com
@@ -59670,7 +59675,6 @@ ad.winrar.com.cn
 .sadbmetrics.xlsemanal.com
 .xlviiirdr.com
 .xmaswrite.com
-.xmindlern.com
 .xml.xml-brain.com
 .xmlfusion.com
 .xmlwizard.com
@@ -60769,6 +60773,7 @@ ad.winrar.com.cn
 .abbyychina.com
 .abcogzozbk.com
 .abcompteur.com
+.adadcdad.abcproxy.click
 .abdomscrae.com
 .abdurantom.com
 .abedbrings.com
@@ -71251,7 +71256,6 @@ analytics3.starschina.com
 .union-wifi.com
 .adv.unionesarda.it
 .cdn-adv.unionesarda.it
-.unions-tlt.com
 .unionxcase.com
 .unique.finance
 .uniquehack.com
@@ -76953,6 +76957,7 @@ material.istreamsche.com
 .trk.meetingsnet.com
 .smetrics.meetingsnet.com
 .meetwebclub.com
+.megantic.online
 .join.megaphonetv.com
 .megasena777.top
 .megavisites.com
@@ -77329,7 +77334,6 @@ material.istreamsche.com
 .smetrics.nabtrade.com.au
 .naisepsaige.com
 .naivegirlie.com
-.namthaibinh.net
 .nancontrast.com
 .nanduquelch.com
 .nanesbewail.com
@@ -77587,7 +77591,6 @@ material.istreamsche.com
 .oakrirtorsy.xyz
 .oaphooftaus.com
 .oapsoulreen.net
-.oasisnetwor.one
 .oatmeallump.com
 .oatscheapen.com
 .oaykswyxtbn.com
@@ -78885,6 +78888,7 @@ ad-analysis.pconline.com.cn
 .safeclatter.com
 .safelyawake.com
 .trk.safesearch.link
+.safetybrush.com
 .safetytrade.net
 .clk.safexinsure.com
 .sageanalyst.net
@@ -79552,7 +79556,6 @@ ad-analysis.pconline.com.cn
 .static-dscn.net
 .win.staticstuff.net
 .hello.staticstuff.net
-.station-jup.org
 .get.stationhead.com
 .statorkumyk.com
 .stats-best.site
@@ -86494,7 +86497,6 @@ ssl.360antivirus.org
 .oahosaisaign.com
 .oakenboubous.com
 .oarswithdraw.com
-.oasisnetwork.one
 .oasqrthubiub.com
 .oawhaursaith.com
 .oaysdumjrpoq.xyz
@@ -86741,8 +86743,6 @@ ssl.360antivirus.org
 .ozgm.caching.oysterfloats.com
 .oysterfoxfoe.com
 .cwoz.colo.oystergarden.net
-.pvre.colo.oystergarden.net
-.ykol.colo.oystergarden.net
 .oyxctgotabvk.com
 .ozayvgkqpymt.com
 .ozlofsviborc.com
@@ -89747,7 +89747,6 @@ adclick.tencentmusic.com
 .campaigns.wordandbrown.com
 .wordmonetize.com
 .workedworlds.com
-.workspacin.cloud
 .qcigth.workwearsuit.com
 .ads.world-fusigi.net
 .qzwktr.world-fusigi.net
@@ -93774,7 +93773,6 @@ plausible.joincommunity.xyz
 .jotterswirrah.com
 .jxdptu.jouete-online.com
 .news.journalrecord.com
-.journeymantle.one
 .jovqyyqvvmjjj.top
 .jowvwrmccakiy.com
 .marketing.joyridecoffee.com
@@ -96065,6 +96063,7 @@ plausible.joincommunity.xyz
 .owl.sentrydiscord.dev
 .ant.september.digital
 .xfobuc.serenaandlily.com
+.serenderevler.com
 .serenecascade.com
 .sergerbearing.top
 .serialwarning.com
@@ -96227,7 +96226,6 @@ plausible.joincommunity.xyz
 .sinkagepandit.com
 .sinproductors.org
 .sipibowartern.com
-.sirsamvidambu.com
 .siszzonelzzcy.com
 .sitamedal2.online
 .sitamedal3.online
@@ -96366,6 +96364,7 @@ plausible.joincommunity.xyz
 .souvenirsflex.com
 .souvlatraffic.com
 .sozzlypeavies.com
+.spaceframe.mobi.space-frame.co.za
 .sparidssimps.life
 .sparkleagings.com
 .somni.sparrowhotels.com
@@ -101642,7 +101641,6 @@ plausible.joincommunity.xyz
 .oacfxrqghamyaq.com
 .oakchokerfumes.com
 .oasismarketing.oasisadvantage.com
-.oasisprotocols.org
 .oatbcxnhacfjnc.com
 .obadluhjxnsnfv.com
 .spoluprace.obchod-setrilek.cz
@@ -105531,7 +105529,6 @@ plausible.joincommunity.xyz
 .fifa16freecoins.xyz
 .fifa2014-keygen.com
 .fightsedatetyre.com
-.file-file-host6.com
 .filefordownload.com
 .fillmytank4free.com
 .filmsenfrancais.net
@@ -117466,7 +117463,6 @@ display.360totalsecurity.com
 .info.bintheredumpthatusa.com
 .binweevilsdoshcodes.com
 .biteneverthelessnan.com
-.bitkiselurunsiparis.com
 .bitternessjudicious.com
 .blastworthwhilewith.com
 .bloodbrothershacked.com
@@ -117756,6 +117752,7 @@ display.360totalsecurity.com
 .dissatisfactiondoze.com
 .dissipatedifficulty.com
 .ditchbillionrosebud.com
+.divorcelawyeroxnard.com
 .track.doctorabeatrizbueno.fun
 .documentaryselfless.com
 .dogconcurrencesauce.com
