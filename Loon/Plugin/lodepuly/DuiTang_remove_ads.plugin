@@ -1,11 +1,11 @@
 #!name = 堆糖去广告
 #!desc = 移除开屏广告、信息流广告、热搜排行榜广告、我的页面横幅广告，移除关注推荐。
 #!openUrl = https://apps.apple.com/app/id533415763
-#!author = 可莉🅥
+#!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md]
 #!tag = 去广告, 可莉
-#!system = iOS
+#!system = 
 #!system_version = 
-#!loon_version = 3.2.1(372)
+#!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DuiTang.png
 #!date = 2024-07-17 01:54:45

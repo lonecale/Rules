@@ -1,11 +1,11 @@
 #!name = 小象超市去广告
 #!desc = 移除开屏广告、应用内弹窗、猜你想买、横幅推广和悬浮窗。
 #!openUrl = https://apps.apple.com/app/id1444411068
-#!author = 可莉🅥
+#!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md]
 #!tag = 去广告, 可莉
-#!system = iOS
+#!system = 
 #!system_version = 
-#!loon_version = 3.2.1(372)
+#!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/iMaiCai.png
 #!date = 2024-07-29 22:04:42

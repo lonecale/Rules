@@ -1,11 +1,11 @@
 #!name = 小黑盒去广告
 #!desc = 移除开屏广告和热点板块信息流广告
 #!openUrl = https://apps.apple.com/app/id1244505010
-#!author = 可莉🅥
+#!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md]
 #!tag = 去广告, 可莉
-#!system = iOS
+#!system = 
 #!system_version = 
-#!loon_version = 3.2.1(372)
+#!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiaoHeiHe.png
 #!date = 2024-07-11 07:58:15

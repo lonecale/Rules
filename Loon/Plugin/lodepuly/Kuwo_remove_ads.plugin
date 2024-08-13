@@ -1,11 +1,11 @@
 #!name = 酷我音乐去广告
 #!desc = 移除开屏广告、各类弹窗、悬浮窗、各类横幅广告、信息流广告、歌词评论区广告和播放器界面广告，精简侧边栏。
 #!openUrl = https://apps.apple.com/app/id588673713
-#!author = 可莉🅥
+#!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md]
 #!tag = 去广告, 可莉
-#!system = iOS
+#!system = 
 #!system_version = 
-#!loon_version = 3.2.1(372)
+#!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Kuwo.png
 #!date = 2024-07-18 05:09:37

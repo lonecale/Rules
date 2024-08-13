@@ -1,11 +1,11 @@
 #!name = 拦截HTTPDNS
 #!desc = 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。
 #!openUrl = 
-#!author = 可莉🅥 VirgilClyne
+#!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md], VirgilClyne[https://github.com/VirgilClyne]
 #!tag = DNS, 可莉, VirgilClyne
-#!system = iOS
+#!system = 
 #!system_version = 
-#!loon_version = 3.2.1(372)
+#!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png
 #!date = 2024-08-12 17:51:05
