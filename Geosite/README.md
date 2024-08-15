@@ -262,6 +262,7 @@
 - [category-social-media-cn](rules/category-social-media-cn.txt)
 - [category-social-media-ir](rules/category-social-media-ir.txt)
 - [category-tech-ir](rules/category-tech-ir.txt)
+- [category-tech-media](rules/category-tech-media.txt)
 - [category-travel-ir](rules/category-travel-ir.txt)
 - [category-vpnservices](rules/category-vpnservices.txt)
 - [category-wiki-cn](rules/category-wiki-cn.txt)

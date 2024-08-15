@@ -8,7 +8,7 @@
 #!loon_version = 3.2.1(732)
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduMap.png
-#!date = 2024-08-15 02:38:52
+#!date = 2024-08-15 02:44:09
 
 [Rule]
 # 拦截HTTPDNS
@@ -27,7 +27,7 @@ IP-CIDR, 186.76.76.200/32, REJECT, no-resolve
 ^https:\/\/newclient\.map\.baidu\.com\/client\/noticebar\/get\? reject-dict
 
 # 我的 - 语音包、活动专区
-^https:\/\/newclient\.map\.baidu\.com\/(client\/)?usersystem\/mine\/page\?
+^https:\/\/newclient\.map\.baidu\.com\/(client\/)?usersystem\/mine\/page\? reject-dict
 
 # 我的 - 精选服务
 ^https:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads&type=user_home_new_service reject-dict
