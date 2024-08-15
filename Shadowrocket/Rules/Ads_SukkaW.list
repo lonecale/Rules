@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-14T18:33:20.713Z
-# Size: 122826
+# Last Updated: 2024-08-15T12:35:01.625Z
+# Size: 122820
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1363,7 +1363,6 @@ adsmind.apdcdn.tc.qq.com
 .lovekelley.ru.com
 .shereihnao.ru.com
 .app.dreambox.ru.com
-.passion4dance.ru.com
 .reviewellness.ru.com
 .motifreighttion.ru.com
 .de.musicproduction.ru.com
@@ -1668,14 +1667,12 @@ minfo.wps.cn
 .z0a.de
 .garcia.za.com
 .vgpgw8.za.com
-.kenjyuu.za.com
 .se.elof7.za.com
 .blissfulbrook.za.com
 .enchantededen.za.com
 .lenscommunity.za.com
 .sa.columbrara.za.com
 .studentzindagi.za.com
-.therefreshednephesh.za.com
 .de.healthandwellnessblog.za.com
 .ban.zab.ru
 .maz.zba.jp
@@ -5888,6 +5885,7 @@ live.tvpot.daum.net
 .halal.ad
 .halct.cn
 .info.halo.com
+.by.haory.cn
 .data-162d89b6ce.haufe.de
 .stats.hauke.me
 .stats.hayu.com
@@ -6305,7 +6303,6 @@ shence.hupu.com
 .images.marketing.kaec.net
 .ebis.kan54.jp
 .kapvu.cn
-.karer.by
 .axp.kark.com
 .go.karos.fr
 .go-test.karos.fr
@@ -10334,7 +10331,6 @@ vdapprecv.app.cntvwb.cn
 .digiad.co
 .diken.xyz
 .apps.ding.jobs
-.stdown.dinju.com
 .dl.dinngo.co
 .sw88.disney.be
 .sw88.disney.bg
@@ -10524,11 +10520,9 @@ vdapprecv.app.cntvwb.cn
 .ad-api.ehawk.com
 .affiliate.ehotel.cz
 .ei1s7b.cn
-.ct.eid.co.nz
 .7mx.eider.com
 .logger.eigene.io
 .receiver.eigene.io
-.files.eintim.me
 .eitka.com
 .ekb-tv.ru
 .mdws.ekccu.com
@@ -11066,6 +11060,7 @@ zhwnlapi.etouch.cn
 .grfpr.com
 .z.grfyw.com
 .go.grip6.com
+.a.groox.xyz
 .more.groups.be
 .img.hrm.groups.be
 .grova.xyz
@@ -12895,6 +12890,7 @@ nmbr.info
 .icoktb.onygo.com
 .message.ooguy.com
 .upupdate.ooguy.com
+.net-killer.ooguy.com
 .sgtm.ookla.com
 .link.oomph.app
 .ooqwc.xyz
@@ -12997,7 +12993,6 @@ s.osano.com
 .jscdnweb.pages.dev
 .getbot-com.pages.dev
 .new-adtest.pages.dev
-.vbwindowsdefnkmebe.pages.dev
 .paht.tech
 .a8cv.paidy.com
 .ping.paidy.com
@@ -17578,7 +17573,6 @@ links.services.disqus.com
 .dkrbus.com
 .dkrely.com
 .dl-rms.com
-.gum.dlbooks.to
 .dldzfr.com
 .dlhack.com
 .dlngft.xyz
@@ -18276,7 +18270,6 @@ links.services.disqus.com
 .ferict.com
 .img.ferlie.net
 .t.fermion.fi
-.sd-1684625-h00001.ferozo.net
 .tr.n.ferrero.fr
 .metrics.fetnet.net
 .smetrics.fetnet.net
@@ -19348,7 +19341,6 @@ acfeedbackws.icloud.com
 .imstks.com
 .imwxsu.xyz
 .marketing.inaani.com
-.incolab.ro
 .redirect.indacar.io
 .t.indeed.com
 .pxl.indeed.com
@@ -20578,7 +20570,6 @@ events.jianshu.io
 .marketing.meetac.com
 .cattle.meets.beer
 .analytics-tracking.meetup.com
-.meeweb.com
 .mega-ad.de
 .collector.megaxh.com
 .meghis.com
@@ -20763,7 +20754,6 @@ ssl-cdn.static.browser.mi-img.com
 .mobdrom.ru
 .mobfox.com
 .mobiads.ru
-.mobiera.ro
 .a.mobify.com
 applog.mobike.com
 .marketing.mobile.org
@@ -22791,6 +22781,7 @@ test.api.xlmc.sandai.net
 .shbxukj.cn
 .shbzdkj.cn
 .shbzegs.cn
+.shbzhkj.cn
 .shbzikj.cn
 .shbzjgs.cn
 .shbzjkj.cn
@@ -23285,7 +23276,6 @@ shouji.sougou.com
 .taggyad.jp
 .tagmai.xyz
 .tagrua.xyz
-.client.tahono.com
 .tahwox.com
 .tahznx.xyz
 .test.takedwn.ws
@@ -23864,6 +23854,7 @@ hz.pre.tbusergw.taobao.net
 .uads.store
 .lpzxed.uai.com.br
 .uakxkb.icu
+.sd.uazc2.shop
 .ubbfpm.com
 .ubeaui.xyz
 .stats.ubiwiz.com
@@ -23966,7 +23957,6 @@ hz.pre.tbusergw.taobao.net
 .up1app.com
 .upailek.cn
 .upclick.ru
-.updfile.cc
 .upfiles.eu
 .uphilo.com
 .supply.upjers.com
@@ -24698,6 +24688,7 @@ api-scout.vercel.app
 .data-16d7ec9a30.wn-immo.de
 .data-16d7ec9a30.wn-jobs.de
 .wnmaoc.xyz
+.wnstug.xyz
 .wodoka.com
 .app.wonder.com
 .ablink.enjoy.wonder.com
@@ -25994,6 +25985,7 @@ mvconf.lato.cloud.360safe.com
 .advmedia.io
 .advombat.ru
 .advrush.com
+.advscdn.com
 .tracking.adweb.co.kr
 .tracking02.adweb.co.kr
 .adwised.com
@@ -26919,6 +26911,7 @@ thirdparty.biliapi.net
 .go.bouncie.com
 .gotest.bouncie.com
 .zikazx.bouwmaat.nl
+.bowoprf.icu
 .pixels.boxberry.ru
 .smart.boxtone.com
 .boyvtr8.com
@@ -28039,7 +28032,6 @@ adimg.daumcdn.net
 .duyewnf.icu
 .duzmevl.com
 .major.dvanadva.ru
-.dvaverif.ru
 .link.dvendor.com
 .dvenkbn.icu
 .dvvemmg.com
@@ -31776,6 +31768,7 @@ ad.bn.netease.com
 .nokaut.link
 .noobnoob.ro
 .app.nootric.com
+.nopaste.net
 .images.moments.nordlid.com
 .cm.nordvpn.com
 .applytics.nordvpn.com
@@ -31932,6 +31925,7 @@ ad.bn.netease.com
 .go.oilkings.ca
 .oinkinns.tk
 .cv.oiz-care.jp
+.ojang.pe.kr
 .ojmvywz.com
 .ojoglir.com
 .ojuhfoa.com
@@ -32207,6 +32201,7 @@ ad.bn.netease.com
 .files.pbgiris.com
 .pbterra.com
 .pccasia.xyz
+.down.pcclear.com
 .pcgamez.net
 .pcmclks.com
 .m.pcmobile.ca
@@ -33339,6 +33334,7 @@ bigdata.ssp.samsung.com
 .tk.santevet.es
 .tk.santevet.it
 .tr.com.santiane.fr
+.santuao.xyz
 .med.saphris.com
 .detnmz.sapling.com
 .popup.sapoapps.vn
@@ -38813,7 +38809,6 @@ galaxy.bjcathay.com
 .coinzilla.io
 .coldvain.com
 .mkg.colfondos.co
-.coll1onf.com
 .cv.colleize.com
 .marketing.colliers.com
 .scmarketing.colliers.com
@@ -39806,6 +39801,7 @@ jobs.date-fns.org
 .js.eroticmv.com
 .errors.house
 .ershniff.com
+.erutvncw.top
 .esaidees.com
 .esc-team.com
 .tag.escalated.io
@@ -40209,6 +40205,7 @@ huawei.facebook.com
 .filelogi.com
 .2007.filemail.com
 .2010.filemail.com
+.2025.filemail.com
 .filentin.com
 .filepaid.com
 .filerack.net
@@ -41452,6 +41449,7 @@ cdn.getkoala.com
 .iamsfyar.com
 .iankian.shop
 .mnwljk.ibagy.com.br
+.ibbco.com.sa
 .ibeelten.net
 .info.ibexherd.com
 .ibikini.cyou
@@ -41991,6 +41989,7 @@ ad-cn.jovcloud.com
 .jqueryoi.com
 .jqvajfvs.xyz
 .jqwsldso.com
+.jrjtibez.icu
 .jrofvedr.xyz
 .jrpkizae.com
 .jrutvnca.top
@@ -44326,6 +44325,7 @@ geolocation.onetrust.com
 .oulrarta.net
 .oulrukry.xyz
 .oulsools.com
+.oumnxiek.top
 .oumpashy.net
 .oumtirsu.com
 .oundandk.cfd
@@ -49445,7 +49445,6 @@ stat.10jqka.com.cn
 .biowebb-data.s3.amazonaws.com
 .cloudfront-labs.amazonaws.com
 .babes-mansion.s3.amazonaws.com
-.bbuseruploads.s3.amazonaws.com
 .sprocket-ping.s3.amazonaws.com
 .syncplusconfig.s3.amazonaws.com
 .yieldmo-builds.s3.amazonaws.com
@@ -54379,6 +54378,7 @@ api.game.letvstore.com
 .stats.lumension.com
 .redtrack.lumevltta.com
 .anglerfish.luminfire.com
+.lunarmoe.tech
 .analytics.lunaweb.cloud
 .luolitang.com
 .luqqlylvh.com
@@ -54894,7 +54894,6 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
-.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -56781,7 +56780,6 @@ iad0ssl.pcauto.com.cn
 .www.said3page.com
 .secure.said3page.com
 .saifcrack.com
-.sainzim.co.za
 .saipeevit.net
 .fgfukd.sakazen.co.jp
 .stats.sakurasky.com
@@ -56937,6 +56935,7 @@ iad0ssl.pcauto.com.cn
 .serveload.com
 .servemoney.ru
 .serverbid.com
+.servr-jkt.com
 .setoniale.com
 .setupslum.com
 .sev4ifmxa.com
@@ -57296,7 +57295,6 @@ sousuo.xm.sjzhushou.com
 .soft-hack.net
 .soft4cash.net
 .softboxik1.ru
-.usapq.softether.net
 .smetrics.sofygirls.com
 .www.soil5hear.com
 .secure.soil5hear.com
@@ -59297,6 +59295,7 @@ ad.winrar.com.cn
 .secure.yirr5frog.com
 .wr.yiyouliao.com
 .yjuxkncvy.com
+.yjvyyndre.com
 .yjxhxctqq.com
 .ykopnlrbb.com
 .yldmgrimg.net
@@ -59881,7 +59880,7 @@ ad.winrar.com.cn
 .5cbbdb4434.com
 .5cf8606941.com
 .5d8dd0486a.com
-.305f5127dc.5e1b8e9d68.com
+.5e1b8e9d68.com
 .7f1aefd20d.5e1d98ec8c.com
 .23167df8b3.5e6062e991.com
 .5e6ef8e03b.com
@@ -67629,6 +67628,7 @@ adapi.lenovogame.com
 .nocaudsomt.xyz
 .jb.nockerlmrs.com
 .noitdcelol.com
+.noithaticon.vn
 .nokontoken.com
 .noktaglaik.com
 .benytv.nomadeshop.com
@@ -68431,7 +68431,6 @@ ivy.pchouse.com.cn
 .qceedrcwar.com
 .qcfkvespkj.com
 .qckeumrwft.xyz
-.qcollect.co.za
 .qcsjmidihe.com
 .qe0ckm024b.com
 .qelqlunebz.com
@@ -68465,7 +68464,6 @@ ivy.pchouse.com.cn
 .qrawitobfm.com
 .qsghdoiywu.com
 .qsorirgzqw.com
-.qt-x34-api.net
 .qtuzpoopwv.com
 .quaintlake.com
 .qualienquan.vn
@@ -76890,8 +76888,6 @@ material.istreamsche.com
 .oxhdtgmlryv.com
 .oxidetoward.com
 .pxp.location.oysterfloats.us
-.emuf.location.oysterfloats.us
-.qxuzn.location.oysterfloats.us
 .yiajz.location.oysterfloats.us
 .axp.ozarksfirst.com
 .ozbnagojbop.com
@@ -77851,6 +77847,7 @@ ad-analysis.pconline.com.cn
 .rubickgames.com
 .rublacietrk.com
 .glass.rubyrevenue.com
+.api.rudderstack.com
 .sanity-dataplane.rudderstack.com
 .eldoradottfha.dataplane.rudderstack.com
 .prdwebcollector.ruetracking.com
@@ -80295,7 +80292,6 @@ ssl.360antivirus.org
 .666bbb888www.com
 .666ppp222ppp.com
 .666ppp888ppp.com
-.6bb9b4497037.xyz
 .6bgaput9ullc.com
 .6fxtpu64lxyt.com
 .6qu5dcmyumtw.com
@@ -83562,6 +83558,7 @@ ssl.360antivirus.org
 .ubmups.houseofindya.com
 .hpcfdhvwjwlt.com
 .hpnbvfiixnen.com
+.hruwegwayoki.com
 .hs-analytics.net
 .affiliate.htb-energy.co.jp
 .smetric.htionlineplus.de
@@ -85827,7 +85824,6 @@ ssl.360antivirus.org
 .paicdn.privateapi.click
 .privatelands.biz
 .prizeraffles.net
-.prjslxhtx003.top
 .prmtracking3.com
 .pr.prnewswire.co.uk
 .communicate.prnewswire.co.uk
@@ -89922,7 +89918,6 @@ stat.zuimeitianqi.com
 .vmi1571511.contaboserver.net
 .vmi1676184.contaboserver.net
 .vmi1718080.contaboserver.net
-.vmi1838661.contaboserver.net
 .vmi1886624.contaboserver.net
 .vmi1975921.contaboserver.net
 .tr.email.contact-jaguar.fr
@@ -91130,7 +91125,6 @@ collect.foresightnews.pro
 .gaibjhicxrkng.xyz
 .gainmoneyfast.com
 .gaiterunfixed.top
-.roofing.galacticleads.com
 .galjwnhotubfg.com
 .galleyssleeps.top
 .gallupcommend.com
@@ -93287,6 +93281,7 @@ plausible.joincommunity.xyz
 .owlerydominos.cam
 .cjfwcu.oxfordshop.com.au
 .oyuvcqmqjyrqd.com
+.ozbvlfiggzpxb.com
 .ozihechzlcsgs.com
 .oznhkuilvrsdf.com
 .jojo.pablo-nutello.art
@@ -95051,9 +95046,7 @@ plausible.joincommunity.xyz
 .trustzonevpn.info
 .truthvexedben.com
 .academics-log-compile-kb.trycloudflare.com
-.climb-items-macedonia-hometown.trycloudflare.com
 .realize-second-evaluation-salad.trycloudflare.com
-.springs-citation-house-congressional.trycloudflare.com
 .trymysadoroh.site
 .go.trytactistaff.com
 .ts134lnki1zd5.pro
@@ -96555,9 +96548,12 @@ plausible.joincommunity.xyz
 .sanalytics.boomerangtv.com.au
 .bootstraplugin.com
 .bootvolleyball.com
+.cog.guide.borden-carleton.ca
 .elb.guide.borden-carleton.ca
 .qkz.guide.borden-carleton.ca
 .bjnd.guide.borden-carleton.ca
+.bnizi.guide.borden-carleton.ca
+.dtegq.guide.borden-carleton.ca
 .gatqg.guide.borden-carleton.ca
 .jvzog.guide.borden-carleton.ca
 .pomsn.guide.borden-carleton.ca
@@ -96570,6 +96566,7 @@ plausible.joincommunity.xyz
 .bostonparadise.com
 .marketing.bostwick-braun.com
 .botnetdownload.com
+.foxthreatnigger.botnetrealsexo.com
 .bottleselement.com
 .bounceexchange.com
 .bouncyproperty.com
@@ -100759,7 +100756,6 @@ plausible.joincommunity.xyz
 .assets2.suncorpbank.com.au
 .metrics.suncorpbank.com.au
 .smetrics.suncorpbank.com.au
-.sundaymorningx.xyz
 .smetrics.sunlifeconnect.com
 .sunrisesharply.com
 .smetrics.sunshinehealth.com
@@ -103628,7 +103624,6 @@ plausible.joincommunity.xyz
 .hej.henriksommerfeld.se
 .herbgreencolumn.com
 .hercockremarke.info
-.herecomesthesun.xyz
 .hereditaryplead.com
 .bfjpbw.herrenausstatter.de
 .heukmsactivator.com
@@ -103959,6 +103954,7 @@ plausible.joincommunity.xyz
 .koolmediaoffers.com
 .super.koreanpornmovie.xyz
 .korununkept.digital
+.doc.kouken-kasei-jp.com
 .kqduogttdmryguw.com
 .krclyfkitjyvlls.com
 .krebsonsecurity.top
@@ -104883,6 +104879,7 @@ plausible.joincommunity.xyz
 .fxnygu.puzzlewarehouse.com
 .smetrics.pwcconsulting.co.kr
 .pxyrmsodhctqifm.com
+.a.q2b2n4y4ghu320.shop
 .go.qantaswellbeing.com
 .go-dev.qantaswellbeing.com
 .go-uat.qantaswellbeing.com
@@ -106287,6 +106284,7 @@ display.360totalsecurity.com
 .smetrics.abilifyasimtufii.com
 .smetrics.abilifymycitehcp.com
 .absentlyrindbulk.com
+.absolvewednesday.com
 .abstractedamount.com
 .ajtxoo.academiaassai.com.br
 .accedemotorcycle.com
@@ -107894,7 +107892,6 @@ display.360totalsecurity.com
 .istore-products.info
 .iswhatappyouneed.net
 .italianexpecting.com
-.portalb2b.itau-unibanco.com.br
 .smetrics.itdevconnections.com
 .t.itsehoitoapteekki.fi
 .go.itsehoitoapteekki.fi
@@ -111603,7 +111600,6 @@ display.360totalsecurity.com
 .pointmediatracker.com
 .pokecoinsfreebies.com
 .pokemonxydownload.org
-.polatfamilyengine.com
 .policemanspectrum.com
 .rt.policycoverageusa.com
 .politemischievous.com
@@ -112011,7 +112007,6 @@ display.360totalsecurity.com
 .sstats.sumitomo-pharma.co.jp
 .sunflowerbright106.io
 .sunflowerinformed.com
-.sunridemanagement.com
 .superficialspring.com
 .superficialsquare.com
 .superiorsufferorb.com
@@ -113556,7 +113551,6 @@ display.360totalsecurity.com
 .lienquan-sukienqua.com
 .lienquan-vuihe2021.com
 .lienquanmobilefree.com
-.lifeartfertility.co.za
 .click.lifelonghealthpath.com
 .act-on-marketing.lifesciences.solutions
 .analytics.lifestyledemocracy.com
@@ -115425,7 +115419,6 @@ display.360totalsecurity.com
 .secure.intuitive-intuition.com
 .app.inutriciondeportiva.com
 .invaluablebuildroam.com
-.invoiceinformations.com
 .ios-6-1-4-jailbreak.com
 .iphone5freegiveaway.com
 .ironicnickraspberry.com
@@ -120583,6 +120576,7 @@ samsungcloudsolution.net
 .tightendescendantcuddle.com
 .timidtraumaticterminate.com
 .t.tips-for-living-healthy.com
+.tobaccoearnestnessmayor.com
 .tongdaicaptruyenhinh.online
 .smetrics.toyotanorthwestedmonton.com
 .transientblobexaltation.com
