@@ -20,7 +20,7 @@ tproxy-port: 7894
 # 允许局域网的连接（可用来共享代理）
 allow-lan: true
 # 是否允许内核接受 IPv6 流量
-ipv6: true
+ipv6: false
 # 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
 mode: rule
 # 设置日志输出级别: silent/error/warning/info/debug
@@ -51,7 +51,7 @@ external-controller: 0.0.0.0:9090
 secret: ''
 
 # 更改geoip使用文件,mmdb或者dat,可选 true/false,true为dat,此项有默认值 false
-geodata-mode: true
+geodata-mode: false
 # GEO 文件加载模式，standard：标准加载器 memconservative：专为内存受限 (小内存) 设备优化的加载器 (默认值)
 geodata-loader: memconservative
 # 自动更新 GEO
@@ -101,7 +101,7 @@ sniffer:
 
 # Tun 配置  
 tun:
-  enable: true
+  enable: false
   # tun 模式堆栈,可用值：system/gvisor/mixed
   stack: mixed
   # dns劫持,一般设置为 any:53 即可, 即劫持所有53端口的udp流量
@@ -112,8 +112,9 @@ tun:
   auto-detect-interface: true
 
 dns:
-  cache-algorithm: arc
   enable: true
+  #缓存算法: lru: 最近最少使用 arc: 自适应替换缓存
+  cache-algorithm: arc
   # 优先使用 DOH 的 http/3
   # prefer-h3: true
   # 是否解析 IPV6, 如为 false, 则回应 AAAA 的空解析
@@ -138,5 +139,5 @@ dns:
     #'geosite:cn': system
     'geosite:private,cn,apple': [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
     'geosite:category-ads-all': rcode://success
-    'www.baidu.com,+.google.cn': [223.5.5.5, https://dns.alidns.com/dns-query]
+    #'www.baidu.com,+.google.cn': [223.5.5.5, https://dns.alidns.com/dns-query]
     #'geosite:gfw,geolocation-!cn': [https://dns.cloudflare.com/dns-query, https://dns.google/dns-query]
