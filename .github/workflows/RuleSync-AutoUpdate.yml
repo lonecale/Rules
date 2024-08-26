@@ -53,6 +53,10 @@ jobs:
         # rm -rf Tool-repo/Geosite/rules/*
         mkdir -p Tool-repo/Geosite/rules
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules Tool-repo/Geosite/geosite.dat
+
+        $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f geolocation-!cn@cn Tool-repo/Geosite/geosite.dat
+        $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f cn@!cn Tool-repo/Geosite/geosite.dat
+
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt Tool-repo/Geosite/geosite-pt.dat
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt@cn-pt Tool-repo/Geosite/geosite-pt.dat
         # 重命名文件以去除前缀
@@ -70,7 +74,10 @@ jobs:
         # 重命名文件以去除前缀
         cd Tool-repo/GeoIP/rules
         for file in geoip_*.*; do
-          mv "$file" "${file#geoip_}"
+          newname="${file#geoip_}"
+          mv "$file" "$newname"
+          grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+(/[0-9]+)?$' "$newname" > "${newname%.txt}_ipv4.txt"
+          grep -E '^[0-9a-fA-F:]+(/[0-9]+)?$' "$newname" > "${newname%..txt}_ipv6.txt"
         done   
 
     - name: Create Markdown navigation
