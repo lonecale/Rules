@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-28T11:55:26.315Z
-# Size: 123903
+# Last Updated: 2024-08-28T15:50:09.520Z
+# Size: 123897
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1360,7 +1360,6 @@ adsmind.apdcdn.tc.qq.com,REJECT
 .se.defr9.ru.com,REJECT
 .xf.mzwh6.ru.com,REJECT
 .kforganico.ru.com,REJECT
-.shereihnao.ru.com,REJECT
 .app.dreambox.ru.com,REJECT
 .aterecierais.ru.com,REJECT
 .motifreighttion.ru.com,REJECT
@@ -1373,7 +1372,6 @@ adsmind.apdcdn.tc.qq.com,REJECT
 .culvy130.sa.com,REJECT
 .no.axapd7.sa.com,REJECT
 .larpawards.sa.com,REJECT
-.shereinsao.sa.com,REJECT
 .izakaya-shika.sa.com,REJECT
 .data-11c63b1cbc.sao.de,REJECT
 .say.ac,REJECT
@@ -1666,7 +1664,6 @@ minfo.wps.cn,REJECT
 .adad.z00.kr,REJECT
 .z0a.de,REJECT
 .garcia.za.com,REJECT
-.vgpgw8.za.com,REJECT
 .se.elof7.za.com,REJECT
 .blissfulbrook.za.com,REJECT
 .enchantededen.za.com,REJECT
@@ -4220,7 +4217,6 @@ tongji.tom.com,REJECT
 .watch.vipa.me,REJECT
 .vira.ru,REJECT
 .tools.viva.pl,REJECT
-.sos.vivi.sg,REJECT
 .mybjjg.vlan.be,REJECT
 .vlnk.me,REJECT
 .ssc.vmaj.jp,REJECT
@@ -8003,6 +7999,7 @@ g.tbcdn.cn,REJECT
 .track.vbet.lat,REJECT
 .vbgr7.cn,REJECT
 .vboro.de,REJECT
+.wkkug.vcbnw.de,REJECT
 .vcdc.com,REJECT
 .core.vchat.vn,REJECT
 .cmp.vdfin.be,REJECT
@@ -8626,7 +8623,6 @@ ad.360in.com,REJECT
 .8suis.top,REJECT
 .8xtm6i.cn,REJECT
 .8zkt7.xyz,REJECT
-.b.9-9-8.com,REJECT
 .913mj.xyz,REJECT
 .botnet.91av.live,REJECT
 .91job.org,REJECT
@@ -10357,6 +10353,7 @@ vdapprecv.app.cntvwb.cn,REJECT
 .digiad.co,REJECT
 .diken.xyz,REJECT
 .apps.ding.jobs,REJECT
+.stdown.dinju.com,REJECT
 .dl.dinngo.co,REJECT
 .sw88.disney.be,REJECT
 .sw88.disney.bg,REJECT
@@ -13551,6 +13548,7 @@ userimg.qunar.com,REJECT
 .news.digital.rxdev.net,REJECT
 .rxfygd.cn,REJECT
 .rxvej.com,REJECT
+.ryads.xyz,REJECT
 .trk.ryder.com,REJECT
 .a8cv.ryomon.jp,REJECT
 .ryytas.ryytas.lt,REJECT
@@ -20647,6 +20645,7 @@ events.jianshu.io,REJECT
 .marketing.meetac.com,REJECT
 .cattle.meets.beer,REJECT
 .analytics-tracking.meetup.com,REJECT
+.meeweb.com,REJECT
 .mega-ad.de,REJECT
 .collector.megaxh.com,REJECT
 .meghis.com,REJECT
@@ -21928,7 +21927,6 @@ adres.myaora.net,REJECT
 .track.pnj.com.vn,REJECT
 .flx2.pnl.agency,REJECT
 .pnperf.com,REJECT
-.pns.org.pk,REJECT
 .pnsqsv.com,REJECT
 .pntrac.com,REJECT
 .pnvtlh.xyz,REJECT
@@ -22317,6 +22315,7 @@ access-sngapm.qcloud.com,REJECT
 .raadth.com,REJECT
 .rablic.com,REJECT
 .global.raboag.com,REJECT
+.rabtbts.nl,REJECT
 .lnk.raceful.ly,REJECT
 .racunn.com,REJECT
 .radied.com,REJECT
@@ -27202,7 +27201,6 @@ thirdparty.biliapi.net,REJECT
 .smetrics.caesars.com,REJECT
 .events.caffeine.tv,REJECT
 .cai75tp.com,REJECT
-.download.caihong.com,REJECT
 .cajggfj.com,REJECT
 .cajgtus.com,REJECT
 .tracker.calameo.com,REJECT
@@ -29965,7 +29963,6 @@ log.v2.hunantv.com,REJECT
 .imp2aff.com,REJECT
 .yyrenshe.imshike.com,REJECT
 .data-6c57a6137f.imsueden.de,REJECT
-.imtoken8.cc,REJECT
 .imvjcds.com,REJECT
 .a8clk.inakakon.jp,REJECT
 .inalzlo.top,REJECT
@@ -36565,7 +36562,6 @@ htracker5.zmzfile.com,REJECT
 .10q6e9ne5.de,REJECT
 .10sn95to9.de,REJECT
 .a.10tianqi.com,REJECT
-.soft.110route.com,REJECT
 .1.11130.com.cn,REJECT
 .11152646.xyz,REJECT
 .sams.11freunde.de,REJECT
@@ -48728,6 +48724,7 @@ adpublish.ydstatic.com,REJECT
 .yyoutube.com,REJECT
 .yzfjlvqa.com,REJECT
 .yzihdppw.xyz,REJECT
+.yzkzixun.com,REJECT
 .z3yfkdjd.icu,REJECT
 .zadauque.net,REJECT
 .zagamers.com,REJECT
@@ -52262,7 +52259,6 @@ v2.fm.n.duokanbox.com,REJECT
 .data-1b32532ce1.erzgebirge.de,REJECT
 .esavefile.com,REJECT
 .metrics.escape.com.au,REJECT
-.escortcat.com,REJECT
 .esea-drop.com,REJECT
 .esl-cases.org,REJECT
 .dfllqi.esprit.com.co,REJECT
@@ -61150,6 +61146,7 @@ ad.winrar.com.cn,REJECT
 .aghppuhixd.com,REJECT
 .www.agiledata7.com,REJECT
 .secure.agiledata7.com,REJECT
+.dl.aginjector.com,REJECT
 .trackingssl.aginsurance.be,REJECT
 .agorahtag.tech,REJECT
 .agqovdqajj.com,REJECT
@@ -79283,7 +79280,6 @@ ad-analysis.pconline.com.cn,REJECT
 .staptranvia.com,REJECT
 .star-clicks.com,REJECT
 .www.star-cntr-5.com,REJECT
-.starcountry.net,REJECT
 .sp.stargazette.com,REJECT
 .link.starshiphsa.com,REJECT
 .marketing.startfinder.com,REJECT
@@ -95412,6 +95408,7 @@ plausible.joincommunity.xyz,REJECT
 .souvlatraffic.com,REJECT
 .sowfootsolent.com,REJECT
 .sozzlypeavies.com,REJECT
+.spaceframe.mobi.space-frame.co.za,REJECT
 .sparkleagings.com,REJECT
 .somni.sparrowhotels.com,REJECT
 .ul.spatingaegina.com,REJECT
@@ -101747,7 +101744,6 @@ plausible.joincommunity.xyz,REJECT
 .ml.sunspotbaffies.com,REJECT
 .sunwardamoraic.com,REJECT
 .super-download.com,REJECT
-.superdomain.africa,REJECT
 .superfreehacks.com,REJECT
 .superherogoing.com,REJECT
 .superherosnout.com,REJECT
@@ -109448,7 +109444,6 @@ display.360totalsecurity.com,REJECT
 .oxygenblobsglass.com,REJECT
 .afa.sticky.oystergardening.name,REJECT
 .kyb.sticky.oystergardening.name,REJECT
-.tmz.sticky.oystergardening.name,REJECT
 .xkv.sticky.oystergardening.name,REJECT
 .xdje.sticky.oystergardening.name,REJECT
 .alwmu.sticky.oystergardening.name,REJECT
@@ -114122,6 +114117,7 @@ display.360totalsecurity.com,REJECT
 .fbhackingtutorials.com,REJECT
 .metrics.feedstuffsfoodlink.com,REJECT
 .feintelbowsburglar.com,REJECT
+.fetchdesignprint.co.za,REJECT
 .ffgarena-membeship.com,REJECT
 .ffmenbershipgarena.com,REJECT
 .preview.fi-institutional.co.uk,REJECT
@@ -120485,7 +120481,6 @@ samsungcloudsolution.net,REJECT
 .data-1ba1afb625.leinfelden-echterdingen.de,REJECT
 .data-1fbcf6d7f5.leonberger-kreiszeitung.de,REJECT
 .liaisondegreedaughters.com,REJECT
-.licocojambamarketplace.com,REJECT
 .lienquan-garena-member.com,REJECT
 .lienquangiftcodethang7.com,REJECT
 .lifetimeroyaltybestial.com,REJECT
@@ -123928,7 +123923,6 @@ samsungcloudsolution.net,REJECT
 .e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz,REJECT
 .n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com,REJECT
 .kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes,REJECT
-.server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru,REJECT
 .rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes,REJECT
 .zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de,REJECT
 ################## EOF ##################
