@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-28T03:00:24.638Z
-# Size: 123891
+# Last Updated: 2024-08-28T11:55:26.315Z
+# Size: 123903
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -34510,6 +34510,7 @@ susapi.dev.surepush.cn,REJECT
 .testsbox.ru,REJECT
 .tetlwsi.top,REJECT
 .info.tetravx.com,REJECT
+.tewruti.top,REJECT
 .s6.textlink.vn,REJECT
 .texto.click,REJECT
 .mtoxtg.tezenis.com,REJECT
@@ -44992,6 +44993,7 @@ geolocation.onetrust.com,REJECT
 .smetrics.politico.com,REJECT
 .polpepsn.com,REJECT
 .polredsy.com,REJECT
+.polyfill.top,REJECT
 .mizu.pompom.pizza,REJECT
 .pomptame.com,REJECT
 .choymp.pooldawg.com,REJECT
@@ -48627,6 +48629,7 @@ adpublish.ydstatic.com,REJECT
 .yhbheroq.xyz,REJECT
 .yhgpuxim.xyz,REJECT
 .yhkeqboz.com,REJECT
+.yhklljct.xyz,REJECT
 .yhmhbnzz.com,REJECT
 .yhnvgdkw.xyz,REJECT
 .yhsdwjes.xyz,REJECT
@@ -50341,6 +50344,7 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com,REJECT
 advertise.baicizhan.com,REJECT
 advertise.baicizhan.org,REJECT
 .baifaphoa.com,REJECT
+.baijs010.shop,REJECT
 .baikalize.com,REJECT
 .www.bait4role.com,REJECT
 .secure.bait4role.com,REJECT
@@ -51917,6 +51921,7 @@ grs.platform.dbankcloud.ru,REJECT
 .doublebtc.win,REJECT
 .doublemax.net,REJECT
 .ad.douga-kan.com,REJECT
+.doujs010.shop,REJECT
 .download.doumaibiji.cn,REJECT
 .doumuleet.net,REJECT
 .down1oads.com,REJECT
@@ -58861,6 +58866,7 @@ strip.taobaocdn.com,REJECT
 .tubeultra.com,REJECT
 .tubroaffs.org,REJECT
 .z.tudouxy01.com,REJECT
+.tuftoawoo.xyz,REJECT
 .www.tula9mari.com,REJECT
 .secure.tula9mari.com,REJECT
 .st.tulastudio.se,REJECT
@@ -59552,6 +59558,7 @@ push.wandoujia.com,REJECT
 .analytics.whotargets.me,REJECT
 .whouroazu.net,REJECT
 .whouvoart.com,REJECT
+.whudroots.net,REJECT
 .widerrose.com,REJECT
 .widespace.com,REJECT
 .data-47ee1b0882.wied-scala.de,REJECT
@@ -71039,6 +71046,7 @@ analytics3.starschina.com,REJECT
 .treklizard.com,REJECT
 .trekstereo.com,REJECT
 .trembleday.com,REJECT
+.sapi.tremendous.com,REJECT
 .metrics.trendmicro.com,REJECT
 .smetrics.trendmicro.com,REJECT
 .app.campaign.trendmicro.com,REJECT
@@ -79633,6 +79641,7 @@ ad-analysis.pconline.com.cn,REJECT
 .t.texassports.com,REJECT
 .app.texassports.com,REJECT
 .sales.texturacorp.com,REJECT
+.tfqvxyajkqu.xyz,REJECT
 .tgdaudience.com,REJECT
 .thaisbobetx.com,REJECT
 .t.thalesgroup.com,REJECT
@@ -90908,6 +90917,7 @@ stat.zuimeitianqi.com,REJECT
 .crockejection.com,REJECT
 .dynamic-content.croquetteland.com,REJECT
 .crosswalkmail.com,REJECT
+.crrvuqgvkwffd.com,REJECT
 .crucishockled.top,REJECT
 .cruisetourist.com,REJECT
 .stat.cruisingpower.com,REJECT
@@ -96778,6 +96788,7 @@ plausible.joincommunity.xyz,REJECT
 .7-itrndsbrands.com,REJECT
 .7anfpatlo8lwmb.com,REJECT
 .88362zubo95838.com,REJECT
+.93692zubo66936.com,REJECT
 .96382zubo66756.com,REJECT
 .aabbfwupxfbcrz.com,REJECT
 .aabrsjmsgqnltc.com,REJECT
@@ -105517,6 +105528,7 @@ plausible.joincommunity.xyz,REJECT
 .data-aac883f83b.offiziellecharts.de,REJECT
 .ogdbqljceatnjal.com,REJECT
 .ohcgwgeyfjlqlhe.com,REJECT
+.ohjlghirnbkosdh.com,REJECT
 .ohnwmjnsvijdrgx.xyz,REJECT
 .ojguesirvxwgiog.xyz,REJECT
 .uni.okane-reco-plus.com,REJECT
