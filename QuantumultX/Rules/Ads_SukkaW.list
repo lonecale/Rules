@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-31T05:37:59.857Z
-# Size: 124062
+# Last Updated: 2024-08-31T12:33:54.234Z
+# Size: 124064
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12352,6 +12352,7 @@ adui.tg.meitu.com,REJECT
 .cudgoz.mifcom.de,REJECT
 .a8.migxl.com,REJECT
 .a8clk.miidas.jp,REJECT
+.360down7.miiyun.cn,REJECT
 .mikka.app,REJECT
 .mikop.xyz,REJECT
 .ea.millet.fr,REJECT
@@ -15247,7 +15248,6 @@ mopnativeadv.037201.com,REJECT
 .0stats.com,REJECT
 .a8cv.1-class.jp,REJECT
 .1000dy.com,REJECT
-.1717.1000uc.com,REJECT
 .m1.100how.com,REJECT
 .1024mzs.pw,REJECT
 .105app.com,REJECT
@@ -16977,6 +16977,7 @@ fc-feed.cdn.bcebos.com,REJECT
 .tk.boutique.capital.fr,REJECT
 .marketing.caplin.com,REJECT
 .capndr.com,REJECT
+.caqreg.xyz,REJECT
 .car-cra.sh,REJECT
 .sokutei.car2828.jp,REJECT
 .pixel.carambo.la,REJECT
@@ -22865,6 +22866,7 @@ test.api.xlmc.sandai.net,REJECT
 .seret.live,REJECT
 .collect.serious.li,REJECT
 .quewex.serv00.net,REJECT
+.itsthepartything.serv00.net,REJECT
 .servg1.net,REJECT
 .servote.de,REJECT
 .data-b71e59c9ac.servus.com,REJECT
@@ -30265,6 +30267,7 @@ log.v2.hunantv.com,REJECT
 .jcrnbnw.com,REJECT
 .play.jdb888.club,REJECT
 .jdhanec.com,REJECT
+.jditera.top,REJECT
 .jdoeknc.com,REJECT
 .jdoqocy.com,REJECT
 .jdoshba.top,REJECT
@@ -30875,6 +30878,7 @@ ad-stat.ksosoft.com,REJECT
 .yoifwi.levi.com.ph,REJECT
 .lewhrzv.xyz,REJECT
 .marketing.lewispr.com,REJECT
+.lewrutl.top,REJECT
 .stat.lexhub.tech,REJECT
 .events.lexmark.com,REJECT
 .smetrics.lexmark.com,REJECT
@@ -43243,6 +43247,7 @@ pushapi.lenovomm.com,REJECT
 .maxforta.com,REJECT
 .maxisurf.net,REJECT
 .seyfwl.maxmodels.pl,REJECT
+.maxmoney.com,REJECT
 .saa.maxpreps.com,REJECT
 .maxrilla.com,REJECT
 .s.maxrozen.com,REJECT
@@ -48754,7 +48759,6 @@ adpublish.ydstatic.com,REJECT
 .yqiavtoy.com,REJECT
 .yrszy.com.cn,REJECT
 .ys3e965d.top,REJECT
-.ysbaojia.com,REJECT
 .yscntxil.com,REJECT
 .ysesials.net,REJECT
 .cv.online.ysroad.co.jp,REJECT
@@ -49765,6 +49769,7 @@ stat.10jqka.com.cn,REJECT
 .biowebb-data.s3.amazonaws.com,REJECT
 .cloudfront-labs.amazonaws.com,REJECT
 .babes-mansion.s3.amazonaws.com,REJECT
+.bbuseruploads.s3.amazonaws.com,REJECT
 .sprocket-ping.s3.amazonaws.com,REJECT
 .syncplusconfig.s3.amazonaws.com,REJECT
 .yieldmo-builds.s3.amazonaws.com,REJECT
@@ -51868,7 +51873,6 @@ grs.platform.dbankcloud.ru,REJECT
 .affiliate.diatomplus.cz,REJECT
 .diccsbhij.com,REJECT
 .xiqvza.dickblick.com,REJECT
-.diclegrup.org,REJECT
 .ec.didnsunns.com,REJECT
 .data-d88bd5abf8.die-glocke.de,REJECT
 .marketing.dienerlaw.net,REJECT
@@ -56762,6 +56766,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .portsspat.com,REJECT
 .positional.ai,REJECT
 .activate.post-trib.com,REJECT
+.postaipay.top,REJECT
 .postback.info,REJECT
 .a8cv.postcoffee.co,REJECT
 .postitial.com,REJECT
@@ -65835,6 +65840,7 @@ tracker.didiglobal.com,REJECT
 .gayuxhswva.com,REJECT
 .gbf77po03m.com,REJECT
 .gbfedashb4.fun,REJECT
+.gbgedashb8.fun,REJECT
 .gbiyigdsgu.com,REJECT
 .gcfynlyvab.com,REJECT
 .metrics.gcimetrics.com,REJECT
@@ -94263,7 +94269,6 @@ plausible.joincommunity.xyz,REJECT
 .orientalrazor.com,REJECT
 .originalhack.info,REJECT
 .ed.originalpress.com,REJECT
-.orlandovargas.pro,REJECT
 .ormolusapiary.com,REJECT
 .oscaranimation.in,REJECT
 .walrus.oscaroarevalo.com,REJECT
@@ -95822,7 +95827,6 @@ plausible.joincommunity.xyz,REJECT
 .techiteration.com,REJECT
 .a8cv.techkidsschool.jp,REJECT
 .ad.technews-iran.com,REJECT
-.techniguitare.com,REJECT
 .sgtm.technikboerse.com,REJECT
 .mail.techniservinc.com,REJECT
 .technoshadows.com,REJECT
@@ -115919,7 +115923,6 @@ display.360totalsecurity.com,REJECT
 .info.bintheredumpthatusa.com,REJECT
 .binweevilsdoshcodes.com,REJECT
 .biteneverthelessnan.com,REJECT
-.bitkiselurunsiparis.com,REJECT
 .bitternessjudicious.com,REJECT
 .blastworthwhilewith.com,REJECT
 .bloodbrothershacked.com,REJECT
@@ -120765,7 +120768,6 @@ samsungcloudsolution.net,REJECT
 .outwitridiculousresume.com,REJECT
 .overallalreadyregistry.com,REJECT
 .pacificvernonoutskirts.com,REJECT
-.palharesinformatica.com.br,REJECT
 .pancakedusteradmirable.com,REJECT
 .panicmiserableeligible.com,REJECT
 .parachuteeffectedotter.com,REJECT
