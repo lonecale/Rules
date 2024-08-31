@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-08-31T12:33:54.234Z
-  # Size: 124064
+  # Last Updated: 2024-08-31T18:21:09.998Z
+  # Size: 124086
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -4209,6 +4209,7 @@ payload:
   - .wall.vgr.com
   - .ssc.vh1.com
   - .matomo.vibb.ax
+  - .s.vibe.co
   - .link.vibo.io
   - .get.vida.co
   - .tracking.viez.vn
@@ -11814,6 +11815,7 @@ payload:
   - .kebi1.top
   - .kejet.net
   - .kemas.top
+  - .kemaz.xyz
   - .s.kenh14.vn
   - .ywrcqa.kens5.com
   - .srepdata.kens5.com
@@ -32582,6 +32584,7 @@ payload:
   - .connect.planusa.org
   - .stats.planxti.com
   - .collector.plarium.com
+  - .analytics.plasmic.app
   - .marketing.plastiq.com
   - .mt.plateiq.com
   - .plavxml.com
@@ -36846,6 +36849,7 @@ payload:
   - .666lotte.com
   - .691f42ad.xyz
   - .6kportot.com
+  - .72075223.xyz
   - .76236osm1.ru
   - .7841ffda.xyz
   - .78b78ff8.xyz
@@ -38827,6 +38831,7 @@ payload:
   - .choapeek.com
   - .choawour.xyz
   - .chong-wu.net
+  - .choocmee.com
   - .choogeet.net
   - .choongou.com
   - .choongou.xyz
@@ -42953,6 +42958,7 @@ payload:
   - .lkdybkwi.xyz
   - .lkoxbiwi.com
   - .ifkzro.llbean.co.jp
+  - .lllshkre.com
   - .trk.lmipumps.com
   - .lmoney01.com
   - .data-0e6bbb5192.lmscloud.net
@@ -44785,6 +44791,7 @@ payload:
   - .pc180101.com
   - .yjlbvd.pcfactory.cl
   - .emotir.pcone.com.tw
+  - .sp.pcoptimum.ca
   - .smetrics.pcoptimum.ca
   - .tick.pcrpriser.se
   - .mail.pcygphil.com
@@ -51891,6 +51898,7 @@ payload:
   - .dimeeghoo.com
   - .dimestore.com
   - .dimfarlow.com
+  - .dinejav11.fun
   - .smetrics.dinersclub.dk
   - .linktrace.diningcity.cn
   - .dinseegny.com
@@ -56828,6 +56836,7 @@ payload:
   - .privymktg.com
   - .prmobiles.com
   - .prmtracks.com
+  - .prngpwifu.com
   - .trk.pro-activ.com
   - .pro-advert.de
   - .pro-hacks.com
@@ -57925,6 +57934,7 @@ payload:
   - .snapcheat.app
   - .snapcheat.net
   - .link.snaphabit.app
+  - .ingest-data-afra.snappfood.dev
   - .sneakwind.com
   - .snigelweb.com
   - .snipersex.com
@@ -58775,6 +58785,7 @@ payload:
   - .tozoruaon.com
   - .tp1902abd.com
   - .tpdethnol.com
+  - .tpedvcvde.com
   - .tpizy1uy3x.ru
   - .tpzzdrxnp.com
   - .tqwxtglpr.com
@@ -60205,6 +60216,7 @@ payload:
   - .100widgets.com
   - .1028images.com
   - .c4038bd4ca.103dc14b45.com
+  - .107e9a08a8.com
   - .af043ebde4.10a03eb82c.com
   - .smetrics.10daily.com.au
   - .113-bca.online
@@ -65758,6 +65770,7 @@ payload:
   - .g0-get-msg.net
   - .g1188506010.co
   - .g1584674682.co
+  - .g1584674684.co
   - .g1782759015.co
   - .g1782759016.co
   - .g1980843350.co
@@ -70891,6 +70904,7 @@ payload:
   - .sstats.tiffany.com.au
   - .smetrics.tiffany.com.br
   - .smetrics.tiffany.com.mx
+  - .tigipurcyw.com
   - .tk.tikamoon.co.uk
   - .tikivip666.com
   - .tikivip777.com
@@ -72214,6 +72228,7 @@ payload:
   - .zlknhbwwlu.com
   - .zlkpfhyrjd.com
   - .zmhbgjifpz.com
+  - .zmysashrep.com
   - .zoeaegyral.com
   - .zogrepsili.com
   - .p.zol-img.com.cn
@@ -72555,6 +72570,7 @@ payload:
   - .ajillionmax.com
   - .smetrics.ajinomoto.co.jp
   - .ajlwaseodqo.com
+  - .ajregrrcxhv.com
   - .akenacngmnj.com
   - .akjorcnawqp.com
   - .partneri.akodlhsiezit.sk
@@ -79486,6 +79502,7 @@ payload:
   - .a8cv.studycompass.io
   - .stats.studyquicks.com
   - .autotrack.studyquicks.com
+  - .stupid-luck.com
   - .stupidscene.com
   - .stupidsnake.com
   - .sturdysnail.com
@@ -92832,6 +92849,7 @@ payload:
   - .infernoalts.store
   - .infinity-info.com
   - .learn.infinitylearn.com
+  - .no88kks.infinityscans.net
   - .ok88okg.infinityscans.net
   - .infirmaryboss.com
   - .influencedbox.com
@@ -102892,7 +102910,7 @@ payload:
   - .yxkfaskdaybakf.com
   - .zanox-affiliate.de
   - .zantpvrsmninvx.com
-  - .st.zarebasdezaley.com
+  - .zarebasdezaley.com
   - .hi.zaufanarecenzja.pl
   - .zbfemgimtyejpm.com
   - .zcekqwlqktzrfq.com
@@ -105115,6 +105133,7 @@ payload:
   - .labourmuttering.com
   - .trk.lacostemagasin.shop
   - .ni8.lafuma-boutique.com
+  - .laithepacinko.click
   - .info.lakewoodwestend.org
   - .tyvuwf.lameteoagricole.net
   - .lampshademirror.com
@@ -107383,6 +107402,7 @@ payload:
   - .yrincelewasgiw.info
   - .ysemblyjusting.info
   - .yuanchengxiezuo.com
+  - .yusiswensaidoh.info
   - .ywopyohpihnkppc.xyz
   - .ywronwasthetron.com
   - .yyjngvuaqrdgghs.com
@@ -111466,6 +111486,7 @@ payload:
   - .customarydesolate.com
   - .customerconversio.com
   - .customersupport.click
+  - .cvxwaslonejulyha.info
   - .marketing.cyber360solutions.com
   - .obqclg.dadway-onlineshop.com
   - .ttn.dailyculinarytips.com
@@ -122831,6 +122852,7 @@ payload:
   - .reluctanceleatheroptional.com
   - .remembertoolsuperstitious.com
   - .renewmodificationflashing.com
+  - .replaceexplanationevasion.com
   - .resolvedalarmmelodramatic.com
   - .resourceisabellareligious.com
   - .securedata.retailpartnerscolruytgroup.be
