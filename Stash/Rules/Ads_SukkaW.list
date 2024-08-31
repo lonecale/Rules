@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-08-30T12:35:50.506Z
-# Size: 124030
+# Last Updated: 2024-08-31T05:37:59.857Z
+# Size: 124062
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1790,6 +1790,7 @@ crashlytics.163.com
 .4736.in
 .apis.4bn.xyz
 .4dex.io
+.ti.4it.top
 .c1.4qx.net
 .go.4sq.com
 .to.4sq.com
@@ -11869,6 +11870,7 @@ policy.video.iqiyi.com
 .knlob.com
 .units.knotch.it
 .knowd.com
+.koauq.top
 .kite.kochie.io
 .kodcad.kr
 .beam.koddi.com
@@ -12350,7 +12352,6 @@ adui.tg.meitu.com
 .cudgoz.mifcom.de
 .a8.migxl.com
 .a8clk.miidas.jp
-.360down7.miiyun.cn
 .mikka.app
 .mikop.xyz
 .ea.millet.fr
@@ -16727,6 +16728,7 @@ fc-feed.cdn.bcebos.com
 .smetrics.bmwusa.com
 .bmxvxl.xyz
 .bndaeq.com
+.bndxrr.xyz
 .bngdin.com
 .bngdyn.com
 .bngprl.com
@@ -19212,6 +19214,7 @@ sa.holopin.io
 .htpirf.xyz
 .htrurb.xyz
 .htubzpb.cn
+.htxwzp.xyz
 .huanez.xyz
 .huatmp.icu
 .hwa.his.huawei.com
@@ -24902,6 +24905,7 @@ api-scout.vercel.app
 .wwwww.asia
 .wwxufo.com
 .v066.wxii12.com
+.wxsicu.xyz
 .wxymag.xyz
 .wyiegt.icu
 .wyoaij.icu
@@ -26450,6 +26454,7 @@ hydra.alibaba.com
 .affiliate.applemix.cz
 .info.applied.com
 .tracking.applift.com
+.appload.icu
 .appmetr.com
 .appnext.com
 .response.approva.net
@@ -29907,6 +29912,7 @@ log.v2.hunantv.com
 .idddlon.xyz
 .idessit.com
 .idiafix.com
+.iditero.top
 .ad.idnad.co.kr
 .idns.online
 .u1.idongde.com
@@ -30344,7 +30350,6 @@ ad.jiemian.com
 .jnrgcwf.com
 .jo9p72.cyou
 .xkbzom.jobblitz.de
-.jobcity.com
 .stat-ssl.jobcube.com
 .eylnhf.jobhouse.jp
 .jogdied.com
@@ -33148,6 +33153,7 @@ zzy1.quyaoya.com
 .sxjfhh.redding.com
 .srepdata.redding.com
 .9984342.reddoorz.in
+.go.redgifs.com
 .pixel.redgifs.com
 .rediads.com
 .redic6.site
@@ -33918,6 +33924,7 @@ staticadm.leju.sina.com.cn
 .siyaukq.com
 .sjsdnwo.com
 .brrmpm.skanskin.kr
+.skaumbp.icu
 .skcrtxr.com
 .skdzxqc.com
 .aiq-in.skechers.ca
@@ -36533,6 +36540,7 @@ htracker5.zmzfile.com
 .zqfcndk.com
 .zqgixxp.icu
 .zqpztal.com
+.zrkksps.icu
 .zrljzgs.xyz
 .app.zrotary.com
 .zrtfsoz.com
@@ -36824,6 +36832,7 @@ hot.m.shouji.360tpcdn.com
 .5afc476a.xyz
 .5cc3ac02.xyz
 .5visions.com
+.60571086.xyz
 .planarian.614deals.com
 .6471e7f7.xyz
 .656f1ba3.xyz
@@ -38932,6 +38941,7 @@ galaxy.bjcathay.com
 .trac.clicplan.com
 .clictrck.com
 .cliffnsc.xyz
+.clikapps.icu
 .meta-events.climbing.com
 .data.email.clippers.com
 .loc.cliv2508.com
@@ -41324,6 +41334,7 @@ cdn.getkoala.com
 .hackspix.com
 .hackxgen.com
 .hadarone.com
+.hadronid.net
 .haghalra.com
 .haglance.com
 .haihaime.net
@@ -42922,6 +42933,7 @@ pushapi.lenovomm.com
 .hiuplq.livesport.cz
 .livestat.com
 .livestats.fr
+.livetrack.in
 .app.link.livibank.com
 .mosvnx.livup.com.br
 .liximomo.fun
@@ -43231,7 +43243,6 @@ pushapi.lenovomm.com
 .maxforta.com
 .maxisurf.net
 .seyfwl.maxmodels.pl
-.maxmoney.com
 .saa.maxpreps.com
 .maxrilla.com
 .s.maxrozen.com
@@ -48251,6 +48262,7 @@ static.vuevideo.net
 .axp.wgnradio.com
 .wpb.wgplayer.com
 .universal.wgplayer.com
+.whachaun.net
 .whadupsi.net
 .whagrolt.com
 .whaidree.com
@@ -51969,6 +51981,7 @@ grs.platform.dbankcloud.ru
 .doublemax.net
 .ad.douga-kan.com
 .doujs010.shop
+.download.doumaibiji.cn
 .doumuleet.net
 .down1oads.com
 .download4.cfd
@@ -55506,7 +55519,6 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
-.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -56114,6 +56126,7 @@ i1.services.social.microsoft.com
 .ochoawhou.com
 .octinerep.com
 .octoclick.net
+.octonewjs.com
 .ttn.odddly.online
 .oddsserve.com
 .marketing.odfigroup.com
@@ -61592,7 +61605,6 @@ ad.winrar.com.cn
 .athbzeobts.com
 .athostouco.com
 .athvicatfx.com
-.atiasado.co.il
 .atinternet.com
 .share.atlantic.money
 .r.atlasearth.com
@@ -65838,6 +65850,7 @@ tracker.didiglobal.com
 .jttmym.gear4music.com
 .secureclicks.geaviation.com
 .geazjxqwbr.com
+.gedashb112.fun
 .ac.geechs-job.com
 .a8clk.cv.geechs-job.com
 .geekactive.com
@@ -65930,6 +65943,7 @@ tracker.didiglobal.com
 .give-aways.net
 .gixeedsute.net
 .gjffrtfkhf.xyz
+.gjmedashb0.fun
 .gjnzqdpzda.com
 .gjonfartyb.com
 .gjzbcvatvn.com
@@ -70232,6 +70246,7 @@ samsungqbe.com
 .evhvza.sodimac.com.br
 .soeverbabi.com
 .mqhuzk.soffadirekt.se
+.softcatalog.ru
 .tech.softchoice.com
 .images.response.softchoice.com
 .smetrics.softcrylic.com
@@ -72652,6 +72667,7 @@ app-ad.variflight.com
 .anncquyaxns.com
 .annonsserver.se
 .announcement.ru
+.annxwustakf.com
 .anonymousf.info
 .anseisjulus.com
 .t.antalisperu.com
@@ -74276,6 +74292,7 @@ grs.dbankcloud.asia
 .dollardelta.com
 .dompeterapp.com
 .donemagbuy.live
+.donferiae.click
 .rpfqvl.donnerwetter.de
 .donttbeevils.de
 .donyandmark.xyz
@@ -74730,6 +74747,7 @@ grs.dbankcloud.asia
 .fathomcleft.com
 .fatimacapos.com
 .faultspiano.com
+.fauvekintra.com
 .fb-accounts.com
 .fbacchacker.com
 .fbgiveaways.net
@@ -76855,6 +76873,7 @@ material.istreamsche.com
 .megavisites.com
 .mehatsai11.buzz
 .mehatsfr16.buzz
+.configmgrenroll.mehmanmarket.ir
 .boewzj.meiji-jisho.com
 .metrics.mein-dertour.de
 .data-7c0fd2a117.meinenzkreis.de
@@ -77131,6 +77150,7 @@ material.istreamsche.com
 .musiccounter.ru
 .musicleaked.com
 .lw.musictarget.com
+.musieblolly.com
 .as.musikexpress.de
 .data-99329e3cb2.musikexpress.de
 .data-e4997adf31.musikexpress.de
@@ -78114,6 +78134,7 @@ ad-analysis.pconline.com.cn
 .posjnewbgjg.com
 .stats.postescanada.ca
 .try.postmuseapp.com
+.postokdesk.live
 .postrelease.com
 .solicite.potegratis.site
 .potnormandy.com
@@ -81709,6 +81730,7 @@ ssl.360antivirus.org
 .acv.aun-air-wifi.com
 .acv.aun-n-hikari.com
 .auneechuksee.net
+.auntishmilty.com
 .sadbmetrics.aupaathletic.com
 .aurgersoagnu.net
 .auspiceguile.com
@@ -85445,6 +85467,7 @@ ssl.360antivirus.org
 .marrowopener.com
 .marryclamour.com
 .marshwhisper.com
+.marsoonlayup.com
 .marspearelct.com
 .analytics.martinandosa.com
 .stats.martyntaylor.com
@@ -86147,6 +86170,7 @@ ssl.360antivirus.org
 .partner.ochutnejorech.sk
 .ocmpsfoyadwm.com
 .a8cv.ococorozashi.com
+.octotracking.com
 .ocuwyfarlvbq.com
 .oczqhythihhu.com
 .track.odinenergyut.com
@@ -89274,6 +89298,7 @@ adclick.tencentmusic.com
 .worstideatum.com
 .wouldmakefea.org
 .wp3advesting.com
+.wpiajkniqnty.com
 .wpwserawnuwq.com
 .wqzqoobqpubx.com
 .wreckonturr.info
@@ -96068,7 +96093,6 @@ plausible.joincommunity.xyz
 .marketing.trusteedplans.com
 .trustzonevpn.info
 .truthvexedben.com
-.trycloudflare.com
 .trymysadoroh.site
 .go.trytactistaff.com
 .ts134lnki1zd5.pro
@@ -96133,6 +96157,7 @@ plausible.joincommunity.xyz
 .kqoelg.ultrafootball.com
 .ultrapartners.com
 .ultrasn0wtool.com
+.files5.uludagbilisim.com
 .go.umaimarketing.com
 .umentrandings.xyz
 .umvibwqrumfqk.com
@@ -97752,6 +97777,7 @@ plausible.joincommunity.xyz
 .carfulsranquel.com
 .carlingquerent.com
 .carmeleanurous.com
+.carousepygopod.com
 .carpentercolor.com
 .carpfreshtying.com
 .invite.carselonadaily.com
@@ -100123,6 +100149,7 @@ plausible.joincommunity.xyz
 .rzafbl.maxpeedingrods.com
 .dolphin.mayansmithgobat.de
 .mayxanhsupport.com
+.mazdeangastrea.com
 .mbgufryceqkoap.com
 .mbmgivexdvpajr.com
 .mbundapontic.click
@@ -100282,6 +100309,7 @@ plausible.joincommunity.xyz
 .mostlytreasure.com
 .mothwetcheater.com
 .motivessuggest.com
+.mouesdefaces.click
 .mountainbender.xyz
 .mountaincaller.top
 .mountaingaiety.com
@@ -101252,6 +101280,7 @@ plausible.joincommunity.xyz
 .rollconnection.com
 .rolpenszimocca.com
 .romashk9arfk10.com
+.romperspardesi.com
 .rompishvariola.com
 .mtuqnl.roomys-webstore.jp
 .cp.rootielearning.com
@@ -101431,6 +101460,7 @@ plausible.joincommunity.xyz
 .go.senior-planete.com
 .info.senior-systems.com
 .track.seniorsreliefs.org
+.senorasdatchas.com
 .sensiledivider.top
 .sensualsheilas.com
 .separatesilver.com
@@ -109566,7 +109596,6 @@ display.360totalsecurity.com
 .xkv.sticky.oystergardening.name
 .alwmu.sticky.oystergardening.name
 .cczyw.sticky.oystergardening.name
-.naaok.sticky.oystergardening.name
 .ozationsuchasric.org
 .ozsturgeonafford.com
 .p-digital-server.com
@@ -110999,6 +111028,7 @@ display.360totalsecurity.com
 .infos.anz-originator.com.au
 .infos.anzsmartchoice.com.au
 .aoalmfwinbsstec23.com
+.chocolatine.apexlegendsstatus.com
 .apistatexperience.com
 .go.track.apostasesportesbr.com
 .apostlegrievepomp.com
@@ -116937,6 +116967,7 @@ display.360totalsecurity.com
 .qsep.sponsor.printondemandagency.com
 .giwep.sponsor.printondemandagency.com
 .odtym.sponsor.printondemandagency.com
+.qaxoe.sponsor.printondemandagency.com
 .rhbbm.sponsor.printondemandagency.com
 .xzynh.sponsor.printondemandagency.com
 .prisonfirmlyswallow.com
@@ -122224,6 +122255,7 @@ samsungcloudsolution.net
 .aho.contest.printondemandmerchandise.com
 .vrh.contest.printondemandmerchandise.com
 .zrs.contest.printondemandmerchandise.com
+.jgzn.contest.printondemandmerchandise.com
 .lgbt.contest.printondemandmerchandise.com
 .ndwk.contest.printondemandmerchandise.com
 .oxvs.contest.printondemandmerchandise.com
