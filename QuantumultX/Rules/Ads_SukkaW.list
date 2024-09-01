@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-01T12:33:59.609Z
-# Size: 123319
+# Last Updated: 2024-09-01T18:11:58.709Z
+# Size: 123320
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11747,6 +11747,7 @@ policy.video.iqiyi.com,REJECT
 .jwia0.top,REJECT
 .jxad.jx163.com,REJECT
 .dld.jxwan.com,REJECT
+.jy01.shop,REJECT
 .o.jy135.com,REJECT
 .jygcv.sbs,REJECT
 .jyuskb.cn,REJECT
