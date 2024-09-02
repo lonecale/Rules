@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-01T18:11:58.709Z
-  # Size: 123320
+  # Last Updated: 2024-09-01T20:07:03.078Z
+  # Size: 123321
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -53161,6 +53161,7 @@ payload:
   - .watchtower.graindata.com
   - .grainmass.com
   - .grainshen.com
+  - .data.grammarly.com
   - .gnar.grammarly.com
   - .treatment.grammarly.com
   - .cms.grandcloud.cn
