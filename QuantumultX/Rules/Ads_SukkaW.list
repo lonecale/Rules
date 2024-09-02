@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-02T12:37:53.670Z
-# Size: 123443
+# Last Updated: 2024-09-02T15:03:10.361Z
+# Size: 123445
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12657,6 +12657,7 @@ adui.tg.meitu.com,REJECT
 .ma.news.naver.com,REJECT
 .webtoons.naver.com,REJECT
 .er.search.naver.com,REJECT
+.l.premium.naver.com,REJECT
 .logapi.tv.naver.com,REJECT
 .bnc-papago.naver.com,REJECT
 .shopsquare.naver.com,REJECT
@@ -64001,6 +64002,7 @@ analytics.bytegiftia.top,REJECT
 .a8.cocomeister.jp,REJECT
 .dtnmyp.cocotorico.com,REJECT
 .codbetakeys.us,REJECT
+.codeanyapp.com,REJECT
 .codeforpsn.com,REJECT
 .codeheaven.org,REJECT
 .jyuicr.codemonkey.com,REJECT
