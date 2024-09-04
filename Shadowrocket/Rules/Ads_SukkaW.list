@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-04T08:55:14.273Z
-# Size: 123911
+# Last Updated: 2024-09-04T17:34:12.087Z
+# Size: 123926
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -730,7 +730,6 @@ log.star.ele.me
 .logging.h3z.jp
 .h5v.eu
 .smetrics.ha.com
-.sh5080551.c.had.su
 .jdgtgb.haz.de
 .data-51ce0248a2.haz.de
 .data-60d896f23d.haz.de
@@ -1361,7 +1360,6 @@ adsmind.apdcdn.tc.qq.com
 .se.bphx0.ru.com
 .se.defr9.ru.com
 .xf.mzwh6.ru.com
-.kforganico.ru.com
 .app.dreambox.ru.com
 .aterecierais.ru.com
 .motifreighttion.ru.com
@@ -1369,11 +1367,9 @@ adsmind.apdcdn.tc.qq.com
 .go.rzr.to
 .s3r.io
 .mplus5.sa.com
-.jguavaa.sa.com
 .mi.ab48.sa.com
 .culvy130.sa.com
 .no.axapd7.sa.com
-.larpawards.sa.com
 .izakaya-shika.sa.com
 .data-11c63b1cbc.sao.de
 .say.ac
@@ -5360,6 +5356,7 @@ abema-adx.ameba.jp
 .analyticsresults.dev.datev.de
 .analyticsresults.bildungsforum.datev.de
 .ad.daum.net
+.cfs7.blog.daum.net
 .cfs9.blog.daum.net
 live.tvpot.daum.net
 .cfs10.blog.daum.net
@@ -5768,6 +5765,7 @@ live.tvpot.daum.net
 .rtrack.frome.co
 .stats.fs4c.org
 .ssl.ftp21.cc
+.down.ftp21.cc
 .hook.ftp21.cc
 .ftte.fun
 .ftte.xyz
@@ -11046,6 +11044,7 @@ zhwnlapi.etouch.cn
 .ynemmp.goertz.de
 .s.gofile.io
 .cc.gofile.io
+.cold2.gofile.io
 .go-test.goflux.de
 .ad.gogox.com
 .digitalmarketing.gogsg.com
@@ -12359,7 +12358,6 @@ adui.tg.meitu.com
 .cudgoz.mifcom.de
 .a8.migxl.com
 .a8clk.miidas.jp
-.360down7.miiyun.cn
 .mikka.app
 .mikop.xyz
 .ea.millet.fr
@@ -13317,6 +13315,7 @@ asimgs.pplive.cn
 .q27sz.com
 .qange.com
 .qbaka.net
+.139520.aioc.qbgxl.com
 .912648.aioc.qbgxl.com
 .cdn.qc24h.com
 .smetrics.qcnet.com
@@ -22906,6 +22905,7 @@ test.api.xlmc.sandai.net
 .shar-m.com
 .a8clk.shop.shareme.jp
 .y.shavsl.com
+.z.shavsl.com
 .beacon.shazam.com
 .shbxugs.cn
 .shbxukj.cn
@@ -35025,6 +35025,7 @@ susapi.dev.surepush.cn
 .tyisloi.top
 .tylfgkf.com
 .p.typekit.net
+.test.typoten.com
 .tyretui.top
 .tyuetxt.com
 .tyuimln.net
@@ -36858,6 +36859,7 @@ hot.m.shouji.360tpcdn.com
 .82o9v830.com
 .tracker.8473sads.com
 .ac.86huoche.com
+.88129513.xyz
 .888lotte.com
 .888media.net
 .89263907.xyz
@@ -39011,6 +39013,7 @@ galaxy.bjcathay.com
 .l.coastapp.com
 .coatfood.com
 .coawheer.net
+.api-ms.cobainaja.id
 .cobalten.com
 .cochack.site
 .cochacks.com
@@ -45021,6 +45024,7 @@ geolocation.onetrust.com
 .tr.emailing.pogioclub.be
 .pognamta.net
 .eloqua.pointcode.fr
+.poisegel.com
 .pokaroad.net
 .pokreess.com
 .aphid.polarcop.com
@@ -48311,6 +48315,7 @@ static.vuevideo.net
 .whuhough.xyz
 .whujoagh.net
 .whukroal.net
+.whulrima.xyz
 .whulsaux.com
 .whupsoza.xyz
 .whuptaiz.net
@@ -55643,7 +55648,6 @@ i1.services.social.microsoft.com
 .ens.moneyhouse.ch
 .moneysyst.biz
 .somni.moneytips.com
-.moninediy.com
 .tr.newsletter.monmedium.com
 .web.online.monnalisa.com
 .mjjvkx.monoprice.com
@@ -58554,6 +58558,7 @@ strip.taobaocdn.com
 .taproximo.com
 .tapstream.com
 .link.taptapapp.com
+.tapwhigwy.com
 .tardangro.com
 .link.target.com.au
 .targetnet.com
@@ -61760,7 +61765,6 @@ ad.winrar.com.cn
 .astrohacks.com
 .astrolabio.net
 .views.asurascans.com
-.asurastrike.de
 .joc.marketing.atafreight.com
 .atdnetwork.com
 .atdrilburr.com
@@ -66011,6 +66015,7 @@ tracker.didiglobal.com
 .metrics.gcimetrics.com
 .smetrics.gcimetrics.com
 .gcomfbzrsa.com
+.gcvcdashb2.fun
 .whale.gdebrauwer.dev
 .eloqua.gdlcouncil.org
 .gdmdigital.com
@@ -66027,6 +66032,7 @@ tracker.didiglobal.com
 .geekactive.com
 .analytics.geekyminds.net
 .geethaihoa.com
+.gekeebsirs.com
 .gekkocondo.top
 .gelatogems.com
 .data-8e96b6cfc5.gelbeseiten.de
@@ -66848,6 +66854,7 @@ tracker.didiglobal.com
 .affilbox.imediafile.com
 .img-saving.com
 .imgfeedget.com
+.imgoss1380.top
 .imgoss2255.top
 .imgwebfeed.com
 .qjcpcy.imkosmetik.com
@@ -67186,6 +67193,7 @@ analytics.infomaniak.com
 .rbesql.just4camper.fr
 .go.justarrivd.com
 .s.justblinds.com
+.justconfig.com
 .justdrop.store
 .juzaugleed.com
 .jwt8e5vzc1.com
@@ -69376,6 +69384,7 @@ ivy.pchouse.com.cn
 .qceedrcwar.com
 .qcfkvespkj.com
 .qckeumrwft.xyz
+.qcollect.co.za
 .qcsjmidihe.com
 .qe0ckm024b.com
 .qelqlunebz.com
@@ -72995,6 +73004,7 @@ app-ad.variflight.com
 .ea.assuronline.com
 .ljb0.assuronline.com
 .opo4.assuronline.com
+plausible.astexplorer.net
 .astinkertrk.com
 .astkyureman.com
 .adobeanalytic.astoncarter.com
@@ -76714,6 +76724,7 @@ material.istreamsche.com
 .leskdywzbfk.com
 .letraoquavn.com
 .images.one.leumicard.co.il
+.lflsoftware.com
 .lfngqrtheim.com
 .lgqffscxfqv.com
 .lhamjcpnpqb.xyz
@@ -81604,6 +81615,7 @@ ssl.360antivirus.org
 .aibvlvplqwkq.com
 .aidraiphejpb.com
 .aidspectacle.com
+.aigniltosesh.net
 .aikrighawaks.com
 .aimbotfreaks.org
 .aimediagroup.com
@@ -85445,6 +85457,7 @@ ssl.360antivirus.org
 .data-6636e03c3f.linux-magazin.de
 .cname.lions-mansion.jp
 .mxk.podcast.lisameyerson.com
+.yhn.podcast.lisameyerson.com
 .hvoq.podcast.lisameyerson.com
 .tpbq.podcast.lisameyerson.com
 .ypqm.podcast.lisameyerson.com
@@ -88386,6 +88399,7 @@ adclick.tencentmusic.com
 .thaitingsho.info
 .thanhphomomo.com
 .thanosofcos5.com
+.thargookroge.net
 .thatbeefysit.com
 .toucan.the-faithful.com
 .ads.the-saleroom.com
@@ -104904,6 +104918,7 @@ plausible.joincommunity.xyz
 .inflectionquake.com
 .influencedfable.com
 .influencedsmell.com
+.infnexhjihlxyhf.xyz
 .infodonorbranch.com
 .tr.mm.infopro-digital.com
 .tr.news.infopro-digital.com
@@ -107848,6 +107863,7 @@ display.360totalsecurity.com
 .cats-crash-hack.info
 .cattishinquiries.com
 .cautiouscherries.com
+.cdnweb2analytics.com
 .cdosagebreakfast.com
 .cea9d3d4f74fb831.com
 .celebratedrighty.com
@@ -111013,7 +111029,6 @@ display.360totalsecurity.com
 .metrics.armstrongflooring.com
 .track.arquivodenoticias.com
 .go.arrestedresources.com
-.artefxanimaciones.com
 .artemisaffiliates.com
 .seniorliving.artisseniorliving.com
 .processor.asccommunications.com
@@ -111894,6 +111909,7 @@ display.360totalsecurity.com
 .js.glitnoraffiliates.com
 .track.globalhealthnews.site
 .globalinteractive.com
+.globallaborsupply.com
 .globalsuccessclub.com
 .gt.tracking.globaltrendstoday.com
 .gloomilychristian.com
@@ -112139,7 +112155,6 @@ display.360totalsecurity.com
 .igi.patent.international-med.com
 .jub.patent.international-med.com
 .mzq.patent.international-med.com
-.tpb.patent.international-med.com
 .zlv.patent.international-med.com
 .hycy.patent.international-med.com
 .ilkj.patent.international-med.com
@@ -114657,6 +114672,7 @@ display.360totalsecurity.com
 .luggagebuttonlocum.com
 .tk.lulli-sur-la-toile.com
 .mqjpkx.lulli-sur-la-toile.com
+.luxurypropertiesfl.com
 .trk.luxurytravelcanada.org
 .machineryvegetable.com
 .madden16coinglitch.com
@@ -118913,7 +118929,6 @@ samsungcloudsolution.net
 .earwig.architecturesofhiding.com
 .target.arcobusinesssolutions.com
 .smetrics.arcobusinesssolutions.com
-.library.arihantmbainstitute.ac.in
 .arithmeticifrancorous.com
 .arkfreakyinsufficient.com
 .arkunexpectedtrousers.com
