@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-03T18:39:42.548Z
-# Size: 123569
+# Last Updated: 2024-09-04T08:55:14.273Z
+# Size: 123911
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5360,7 +5360,6 @@ abema-adx.ameba.jp,REJECT
 .analyticsresults.dev.datev.de,REJECT
 .analyticsresults.bildungsforum.datev.de,REJECT
 .ad.daum.net,REJECT
-.cfs7.blog.daum.net,REJECT
 .cfs9.blog.daum.net,REJECT
 live.tvpot.daum.net,REJECT
 .cfs10.blog.daum.net,REJECT
@@ -7038,6 +7037,7 @@ adlaunch.moji.com,REJECT
 .f362.nola.com,REJECT
 .geoip.nola.com,REJECT
 .logcollector.note.com,REJECT
+.notix.io,REJECT
 .qpuseo.notos.gr,REJECT
 .notsy.io,REJECT
 .novem.pl,REJECT
@@ -10362,6 +10362,7 @@ vdapprecv.app.cntvwb.cn,REJECT
 .digiad.co,REJECT
 .diken.xyz,REJECT
 .apps.ding.jobs,REJECT
+.stdown.dinju.com,REJECT
 .dl.dinngo.co,REJECT
 .sw88.disney.be,REJECT
 .sw88.disney.bg,REJECT
@@ -11237,6 +11238,7 @@ ylog.hiido.com,REJECT
 .hjiss.com,REJECT
 .hjklq.com,REJECT
 .hjnbvg.ru,REJECT
+.hjvvk.com,REJECT
 .hkeig.com,REJECT
 .abc.hkepc.com,REJECT
 .abc.hkepc.net,REJECT
@@ -13146,6 +13148,7 @@ s.osano.com,REJECT
 .axp.pix11.com,REJECT
 .ntrfr.pixel.bet,REJECT
 .a8cv.shop.pixela.jp,REJECT
+.pub.pixels.ai,REJECT
 .analytics.pixels.ai,REJECT
 .imp.pixiv.net,REJECT
 .inbound-analytics.pixlee.co,REJECT
@@ -13314,7 +13317,6 @@ asimgs.pplive.cn,REJECT
 .q27sz.com,REJECT
 .qange.com,REJECT
 .qbaka.net,REJECT
-.139520.aioc.qbgxl.com,REJECT
 .912648.aioc.qbgxl.com,REJECT
 .cdn.qc24h.com,REJECT
 .smetrics.qcnet.com,REJECT
@@ -18914,6 +18916,7 @@ pdl.gionee.com,REJECT
 .contacto.gtc.com.gt,REJECT
 .info.gtc.net.gt,REJECT
 .gth112.com,REJECT
+.gtlook.com,REJECT
 .gtrhnhg.cn,REJECT
 .gtsads.com,REJECT
 .beacon.gu-web.net,REJECT
@@ -19316,6 +19319,7 @@ acfeedbackws.icloud.com,REJECT
 .icqeou.xyz,REJECT
 .icstats.nl,REJECT
 .ads.ictnews.vn,REJECT
+.icudqq.xyz,REJECT
 .icwnix.icu,REJECT
 .icyads.com,REJECT
 .iddhui.com,REJECT
@@ -21407,6 +21411,7 @@ adres.myaora.net,REJECT
 .nscash.com,REJECT
 .nsdsvc.com,REJECT
 .marketing.nsford.com,REJECT
+.nsfsfn.xyz,REJECT
 .nsjnmx.icu,REJECT
 .logs.ntvplus.tv,REJECT
 .ndi.nuance.com,REJECT
@@ -22060,7 +22065,6 @@ web.data.pplive.com,REJECT
 .prizel.com,REJECT
 .prltmz.com,REJECT
 .prnhpe.pro,REJECT
-.prntsc.pro,REJECT
 .probtc.org,REJECT
 .probtn.com,REJECT
 .tracking.prodiga.no,REJECT
@@ -23719,7 +23723,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .tlfvj.cyou,REJECT
 .tlpyft.xyz,REJECT
 .tlxjuj.com,REJECT
-.felix.data.tm-awx.com,REJECT
+.data.tm-awx.com,REJECT
 .reach-id.orbit.tm-awx.com,REJECT
 .rake.tmap.co.kr,REJECT
 .tmjetb.xyz,REJECT
@@ -24534,6 +24538,7 @@ api-scout.vercel.app,REJECT
 .vuukle.net,REJECT
 .vuvacu.xyz,REJECT
 .vuvnix.icu,REJECT
+.vvttpn.xyz,REJECT
 .target.vwfs.co.uk,REJECT
 .smetrics.vwfs.co.uk,REJECT
 .vwmjkl.icu,REJECT
@@ -24770,6 +24775,7 @@ api-scout.vercel.app,REJECT
 .wewbnso.cn,REJECT
 .images.response.wexinc.com,REJECT
 .wextap.com,REJECT
+.wfijsc.xyz,REJECT
 .wfnpay.com,REJECT
 .wfpjeul.cn,REJECT
 .wfqgfaa.cn,REJECT
@@ -25458,6 +25464,7 @@ pvnapp.zol.com.cn,REJECT
 .zonepa.com,REJECT
 .zononi.com,REJECT
 .240812161425945.tyr.zont16.com,REJECT
+.240902180529931.tyr.zont16.com,REJECT
 .go.zoomex.com,REJECT
 .vdc.zoomph.com,REJECT
 .zopuqv.icu,REJECT
@@ -29923,6 +29930,7 @@ log.v2.hunantv.com,REJECT
 .ifllwfs.com,REJECT
 .log.iflytek.com,REJECT
 .ifrjnpv.com,REJECT
+.ifxqubw.icu,REJECT
 .igaming.biz,REJECT
 .igenius.org,REJECT
 .tags.igeo.com.bo,REJECT
@@ -30508,6 +30516,7 @@ ad.jiemian.com,REJECT
 .go.keenvibe.de,REJECT
 .community.keeperz.app,REJECT
 .kehalim.com,REJECT
+.kekonum.com,REJECT
 .cdn.kelpo.cloud,REJECT
 .analytics.kemlu.go.id,REJECT
 .trck.kenkiya.com,REJECT
@@ -30646,6 +30655,7 @@ ad.jiemian.com,REJECT
 .korpeoe.com,REJECT
 .tqtedm.kosmetik.at,REJECT
 .kotnvzp.com,REJECT
+.kotokot.com,REJECT
 .koukoku.red,REJECT
 .a8-kouten.kouten.work,REJECT
 .kovvild.com,REJECT
@@ -35015,7 +35025,6 @@ susapi.dev.surepush.cn,REJECT
 .tyisloi.top,REJECT
 .tylfgkf.com,REJECT
 .p.typekit.net,REJECT
-.test.typoten.com,REJECT
 .tyretui.top,REJECT
 .tyuetxt.com,REJECT
 .tyuimln.net,REJECT
@@ -36320,6 +36329,7 @@ feedback.windows.com,REJECT
 .yinhana.com,REJECT
 .yinmong.com,REJECT
 .yitaopt.com,REJECT
+.yiwckti.icu,REJECT
 .yjdigtr.com,REJECT
 .yjnhndt.com,REJECT
 .yjxzvqy.xyz,REJECT
@@ -36850,6 +36860,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .ac.86huoche.com,REJECT
 .888lotte.com,REJECT
 .888media.net,REJECT
+.89263907.xyz,REJECT
 .89407765.xyz,REJECT
 .89871256.xyz,REJECT
 .8b71e197.xyz,REJECT
@@ -37388,6 +37399,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .aishaibe.com,REJECT
 .aistekso.net,REJECT
 .aitarsou.com,REJECT
+.aitoocoo.xyz,REJECT
 .aitrades.com,REJECT
 .aitsatho.com,REJECT
 .aivoonsa.xyz,REJECT
@@ -38999,7 +39011,6 @@ galaxy.bjcathay.com,REJECT
 .l.coastapp.com,REJECT
 .coatfood.com,REJECT
 .coawheer.net,REJECT
-.api-ms.cobainaja.id,REJECT
 .cobalten.com,REJECT
 .cochack.site,REJECT
 .cochacks.com,REJECT
@@ -39532,6 +39543,7 @@ jobs.date-fns.org,REJECT
 .dfsdkkka.com,REJECT
 .dftjcofe.com,REJECT
 .dgamapxs.com,REJECT
+.dgcgugid.com,REJECT
 .dgojzjdb.com,REJECT
 .dgxmvglp.com,REJECT
 .www.dhenr54m.com,REJECT
@@ -44001,7 +44013,6 @@ dzc-metrics.mzstatic.com,REJECT
 .nickeeha.net,REJECT
 .a8.www.nicosuma.com,REJECT
 .a8.shop.nicosuma.com,REJECT
-.ads.nicovideo.jp,REJECT
 .astral.nicovideo.jp,REJECT
 .log.recommend.nicovideo.jp,REJECT
 .nidredra.net,REJECT
@@ -44121,6 +44132,7 @@ dzc-metrics.mzstatic.com,REJECT
 .data-01bd19c0b0.nq-online.de,REJECT
 .nqoxrsrf.com,REJECT
 .nrecitnr.com,REJECT
+.nrqjoxar.com,REJECT
 .nrxdmssm.com,REJECT
 .nsfwadds.com,REJECT
 .nshypdry.xyz,REJECT
@@ -44991,6 +45003,7 @@ geolocation.onetrust.com,REJECT
 .5jgwflo4y935b8udrp.www.pmn-nerez.cz,REJECT
 .pmnct63.shop,REJECT
 .pmweb.com.br,REJECT
+.pmwwedke.com,REJECT
 .log.pngindir.com,REJECT
 .poacawhe.net,REJECT
 .poanouwy.net,REJECT
@@ -45291,6 +45304,7 @@ geolocation.onetrust.com,REJECT
 .ptotchie.xyz,REJECT
 .ptoubeeh.net,REJECT
 .ptouckop.xyz,REJECT
+.ptoudsid.com,REJECT
 .ptoumsid.net,REJECT
 .ptoushoa.com,REJECT
 .ptowouse.xyz,REJECT
@@ -45602,6 +45616,7 @@ click.qianqian.com,REJECT
 .reklamko.pro,REJECT
 .relappro.com,REJECT
 .relestar.com,REJECT
+.relogotd.com,REJECT
 .reluraun.com,REJECT
 .remaysky.com,REJECT
 .reminews.com,REJECT
@@ -46013,6 +46028,7 @@ click.qianqian.com,REJECT
 .seekbang.com,REJECT
 .seeptoag.net,REJECT
 .a8.www.seesaa.co.jp,REJECT
+.seezutet.com,REJECT
 .sega-rom.com,REJECT
 .a8clk.segatoys.com,REJECT
 .ldorlv.seiban.co.jp,REJECT
@@ -46388,6 +46404,7 @@ click.qianqian.com,REJECT
 .partner.slimpasta.sk,REJECT
 .slingpic.com,REJECT
 .slingshot.io,REJECT
+.slinkhub.com,REJECT
 .sloydpev.com,REJECT
 .slutspro.com,REJECT
 .slwkrruv.com,REJECT
@@ -46404,6 +46421,7 @@ click.qianqian.com,REJECT
 .io.smartmyd.com,REJECT
 .smarttds.org,REJECT
 .metrics.smartzip.com,REJECT
+.smctkfqa.com,REJECT
 .link.smile.com.au,REJECT
 .smilered.com,REJECT
 .smlypotr.net,REJECT
@@ -46637,6 +46655,7 @@ inte.sogoucdn.com,REJECT
 .stansoam.com,REJECT
 .stardrop.fun,REJECT
 .stargame.com,REJECT
+.starkuno.com,REJECT
 .analytics.starlink.com,REJECT
 .starmobs.com,REJECT
 .partner.starnails.cz,REJECT
@@ -47442,6 +47461,7 @@ inte.sogoucdn.com,REJECT
 .turdauch.xyz,REJECT
 .turganic.com,REJECT
 .analytics.turnertv.com,REJECT
+.tuskgler.com,REJECT
 .links.tutorbin.com,REJECT
 .app.tutorela.com,REJECT
 .tututiki.com,REJECT
@@ -47631,6 +47651,7 @@ inte.sogoucdn.com,REJECT
 .urnkcqzu.com,REJECT
 .urqxesau.com,REJECT
 .my.ursstubs.com,REJECT
+.urutvnct.top,REJECT
 .usabilla.com,REJECT
 .iabgvi.usadosbr.com,REJECT
 .usainoad.net,REJECT
@@ -48919,13 +48940,17 @@ adpublish.ydstatic.com,REJECT
 .zzhyebbt.com,REJECT
 .a8.zzz-land.com,REJECT
 .01counter.com,REJECT
+.029xzsmew.com,REJECT
 .03180d2d.live,REJECT
 .052db.website,REJECT
 .076f66b2.live,REJECT
+.0f9e6fxhl.com,REJECT
+.0hkkatinn.com,REJECT
 .0ijvby90.skin,REJECT
 .0p1ohj2f5f.ru,REJECT
 .www.0s09t235s.com,REJECT
 .1297.0s09t235s.com,REJECT
+.0td6sdkfq.com,REJECT
 .100arcade.com,REJECT
 .marketing.100days.co.il,REJECT
 .smetrics.1011bigfm.com,REJECT
@@ -48950,19 +48975,26 @@ stat.10jqka.com.cn,REJECT
 .17gouwuba.com,REJECT
 .dm.17xuexiba.com,REJECT
 .1821z.website,REJECT
+.18ie7hx6s.com,REJECT
 .marketing.1970group.com,REJECT
 .1c52e1e2.live,REJECT
+.1fkx796mw.com,REJECT
 .www.1h2h54jkw.com,REJECT
 .b.1istochnik.ru,REJECT
 .1jutu5nnx.com,REJECT
+.1kylgnkat.com,REJECT
 .1p3opxwwet.ru,REJECT
 .1q2w3.website,REJECT
+.1qgxtxd2n.com,REJECT
+.1r8im40kd.com,REJECT
+.1vtk1jyaw.com,REJECT
 .200summit.com,REJECT
 .2012hacks.com,REJECT
 .2013hacks.com,REJECT
 .2014hacks.com,REJECT
 .2014tools.com,REJECT
 .2024114t.shop,REJECT
+.21mdxp5vz.com,REJECT
 .22media.world,REJECT
 .secure.24-astute.com,REJECT
 .24052107.live,REJECT
@@ -48978,13 +49010,22 @@ stat.10jqka.com.cn,REJECT
 .24h-ipad-ad.24hstatic.com,REJECT
 .24tradecs.net,REJECT
 .258104d2.live,REJECT
+.2690dny5l.com,REJECT
+.26y7fyw3o.com,REJECT
+.29vpnmv4q.com,REJECT
+.2a18z23fg.com,REJECT
+.2ben92aml.com,REJECT
+.2cvnmbxnc.com,REJECT
+.2eszq7woo.com,REJECT
 .2gwzdkjrtb.ru,REJECT
+.2h4els889.com,REJECT
 .cv.2jikaikun.com,REJECT
 .ebis.2jikaikun.com,REJECT
 .2linkpath.com,REJECT
 .2ltm627ho.com,REJECT
 .2s02keqc1.com,REJECT
 .2ucz3ymr1.com,REJECT
+.2xs4eumlc.com,REJECT
 .30dominos.com,REJECT
 .tracker.3452jdush.com,REJECT
 .www.34gwl8v1a.com,REJECT
@@ -49016,18 +49057,28 @@ stat.10jqka.com.cn,REJECT
 .videohots23girls3.34gwl8v1a.com,REJECT
 .videohots23girlss4.34gwl8v1a.com,REJECT
 .videohots23girlss5.34gwl8v1a.com,REJECT
+.34yjwa4u6.com,REJECT
 .360popads.com,REJECT
 .p1.360soucha.com,REJECT
 .meng.360zuowen.com,REJECT
 .bettingads.365scores.com,REJECT
+.3abj52u0w.com,REJECT
+.3bq57qu8o.com,REJECT
+.3casfzm7u.com,REJECT
+.3cg6sa78w.com,REJECT
 .3dmoviehd.com,REJECT
 .3ez1ja1uq3.ru,REJECT
 .3kbktygzr5.ru,REJECT
+.3m63qm4tp.com,REJECT
 .engage.3mbelgique.be,REJECT
 .engage.3mbulgaria.bg,REJECT
 .3pkf5m0gd.com,REJECT
 .mx6.3pornhere.com,REJECT
+.3u4zyeugi.com,REJECT
+.3voot0dg7.com,REJECT
+.3zap7emt4.com,REJECT
 .40nuggets.com,REJECT
+.42zjivdi4.com,REJECT
 .a.438574893.xyz,REJECT
 .43ors1osh.com,REJECT
 .43sjmq3hg.com,REJECT
@@ -49037,7 +49088,12 @@ stat.10jqka.com.cn,REJECT
 .4dsbanner.net,REJECT
 .4e8bjpldk.com,REJECT
 .4jnzhl0d0.com,REJECT
+.4lhq0cplb.com,REJECT
+.4m2cow8x0.com,REJECT
+.4m4ones1q.com,REJECT
 .4puuqeh41.com,REJECT
+.4taqjepdj.com,REJECT
+.4wgxxfd31.com,REJECT
 .4wnetwork.com,REJECT
 .xtazfx.50factory.com,REJECT
 .log.51changdu.com,REJECT
@@ -49049,32 +49105,48 @@ stat.10jqka.com.cn,REJECT
 .52dvzo62i.com,REJECT
 .data.yashir.5555555.co.il,REJECT
 .websocket.55online.news,REJECT
+.57e5ildg5.com,REJECT
 .58mingtian.cn,REJECT
 .58yongzhe.com,REJECT
 .collector-videoplayer.5centscdn.net,REJECT
 .5clo0xmbf.com,REJECT
 .5i68sbhin.com,REJECT
+.5ivy3ikkt.com,REJECT
 .5moxhf6z8c.ru,REJECT
 .5pykpdq7k.com,REJECT
 .5q7eb.website,REJECT
+.5qbowtbat.com,REJECT
+.5qv0c9bpe.com,REJECT
 .5vbs96dea.com,REJECT
 .5vz3cfs0yd.me,REJECT
+.5xp6lcaoz.com,REJECT
+.5z4eddt4i.com,REJECT
 .6-partner.com,REJECT
+.61t2ll6yy.com,REJECT
 .61zdn1c9.skin,REJECT
+.64imux6kg.com,REJECT
+.64z1afiw7.com,REJECT
 .6598kn9gpf.ru,REJECT
 .663008888.com,REJECT
 .tracker.6756wasdf.com,REJECT
 .68aq8q352.com,REJECT
 .69oxt4q05.com,REJECT
 .6jfvnf69jx.ru,REJECT
+.6l5hcmeg0.com,REJECT
 .6leaofqkh9.ru,REJECT
+.6m3p8pow4.com,REJECT
+.6oi7mfa1w.com,REJECT
+.6r9ahe6qb.com,REJECT
 .6rn05mmbct.ru,REJECT
 .dl.6thstreet.com,REJECT
 .bskblt.6thstreet.com,REJECT
 .clicks.6thstreet.com,REJECT
 .6v41p4bsq.com,REJECT
+.6wclcbgn1.com,REJECT
 .7-cracker.com,REJECT
 .70b927c8.live,REJECT
+.75h4x7992.com,REJECT
+.7662ljdeo.com,REJECT
 .235.79j68qav2.com,REJECT
 .www.79j68qav2.com,REJECT
 .0013.79j68qav2.com,REJECT
@@ -49150,11 +49222,15 @@ stat.10jqka.com.cn,REJECT
 .8568392.79j68qav2.com,REJECT
 .85493722.79j68qav2.com,REJECT
 .7bkzlyfvl.com,REJECT
+.7c3514356.com,REJECT
 .7daystodie.cn,REJECT
 .7jzic2hylf.ru,REJECT
 .7lyonline.com,REJECT
 .7nkbwdf1uq.ru,REJECT
+.7ysb92b65.com,REJECT
+.806wtmwci.com,REJECT
 .81zhaopin.com,REJECT
+.820615ypo.com,REJECT
 .21.833enmhob.com,REJECT
 .www.833enmhob.com,REJECT
 .0000.833enmhob.com,REJECT
@@ -49181,15 +49257,20 @@ stat.10jqka.com.cn,REJECT
 .8677.833enmhob.com,REJECT
 .9241.833enmhob.com,REJECT
 .9488.833enmhob.com,REJECT
+.84gs08xe1.com,REJECT
 .tracker.8574plsjd.com,REJECT
 .a.884736279.xyz,REJECT
 .888promos.com,REJECT
 .yngnwe.8division.com,REJECT
 .8eef59a5.live,REJECT
+.8il2nsgm5.com,REJECT
 .8jrc564wtf.cn,REJECT
 .8kbetviet.com,REJECT
+.8nj0pdo76.com,REJECT
+.8nugm4l6j.com,REJECT
 .www.8pv9vvi9b.com,REJECT
 .sexsex2313.8pv9vvi9b.com,REJECT
+.8wzntazeq.com,REJECT
 .24.935ft4j96.com,REJECT
 .www.935ft4j96.com,REJECT
 .1655.935ft4j96.com,REJECT
@@ -49200,9 +49281,13 @@ stat.10jqka.com.cn,REJECT
 .9068.935ft4j96.com,REJECT
 .12574.935ft4j96.com,REJECT
 .sexfree314.935ft4j96.com,REJECT
+.945vxo482.com,REJECT
 .961dzmubbg.su,REJECT
 .999-proxy.com,REJECT
 .collector-api.99designs.com,REJECT
+.9l3s3fnhl.com,REJECT
+.9ohy40tok.com,REJECT
+.9x4yujhb0.com,REJECT
 .a8cv.a-ru-ku.co.jp,REJECT
 .a-waiting.com,REJECT
 .affiliates.a2hosting.com,REJECT
@@ -49234,9 +49319,11 @@ stat.10jqka.com.cn,REJECT
 .ascmart.abphotos.link,REJECT
 .cucaido.abphotos.link,REJECT
 .tongkhohangnhat.abphotos.link,REJECT
+.abqsv91oe.com,REJECT
 .abrhydona.com,REJECT
 .abskursin.com,REJECT
 .kbighx.absolventa.de,REJECT
+.ac6hdk1js.com,REJECT
 .data-af9f3dfb33.academics.com,REJECT
 .acasadf112.cn,REJECT
 .acbvnliin.com,REJECT
@@ -49809,6 +49896,7 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com,REJECT
 .track.animeware.com,REJECT
 .retention.ankidecks.com,REJECT
 .ankunding.biz,REJECT
+.anmtifat6.com,REJECT
 .metrics.anntaylor.com,REJECT
 .activate.anntaylor.com,REJECT
 .smetrics.anntaylor.com,REJECT
@@ -50154,6 +50242,7 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com,REJECT
 .aptimorph.com,REJECT
 .apxtarget.com,REJECT
 .apytbfdzy.com,REJECT
+.aq30me9nw.com,REJECT
 .aqiefntjh.com,REJECT
 .aqtracker.com,REJECT
 .cv.aqua-style.jp,REJECT
@@ -50315,7 +50404,9 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com,REJECT
 .axbofpnri.com,REJECT
 .axductile.com,REJECT
 .armadillo.axeneo7.qc.ca,REJECT
+.axjndvucr.com,REJECT
 .aymobi.online,REJECT
+.aynhlxbr0.com,REJECT
 .ayxuadkeh.com,REJECT
 .azartcash.com,REJECT
 .azartplay.com,REJECT
@@ -50341,7 +50432,10 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com,REJECT
 .b1181fb1.site,REJECT
 .b2bcontext.ru,REJECT
 .swa.b2cjewels.com,REJECT
+.b39bsi2iv.com,REJECT
 .b57dqedu4.com,REJECT
+.b7qmb255e.com,REJECT
+.b9l55k525.com,REJECT
 .ba-content.de,REJECT
 .customfingerprints.bablosoft.com,REJECT
 .get.babyalbum.com,REJECT
@@ -50445,6 +50539,7 @@ advertise.baicizhan.org,REJECT
 .baystrade.com,REJECT
 .baywttgdhe.do,REJECT
 .bbgtranst.com,REJECT
+.bbjtx9pwy.com,REJECT
 .bbkydnakc.com,REJECT
 .app.bbmannpah.com,REJECT
 .campaign.bbmbonnier.se,REJECT
@@ -50611,6 +50706,7 @@ advertise.baicizhan.org,REJECT
 .bj1110.online,REJECT
 .sole.bkosmetik.com,REJECT
 .track.bkplay.online,REJECT
+.bkr5xeg0c.com,REJECT
 .t.blablacar.com,REJECT
 .ddome-tag.blablacar.com,REJECT
 .black6adv.com,REJECT
@@ -50680,6 +50776,7 @@ advertise.baicizhan.org,REJECT
 .ox.bncounter.com,REJECT
 .tracking.bnpparibas.fr,REJECT
 .bnserving.com,REJECT
+.bnxiorj2a.com,REJECT
 .bnxydwdgr.com,REJECT
 .metrics.bnymellon.com,REJECT
 .smetrics.bnymellon.com,REJECT
@@ -50884,6 +50981,7 @@ advertise.baicizhan.org,REJECT
 .bvl5bziz9d.ru,REJECT
 .bvyblnenz.com,REJECT
 .bwpirrwsh.com,REJECT
+.bwtcilgll.com,REJECT
 .vezsyr.bxblue.com.br,REJECT
 .bxevkphcx.com,REJECT
 .bxikceucv.com,REJECT
@@ -51051,6 +51149,7 @@ ad.caiyunapp.com,REJECT
 .tr.news6.cdiscount.com,REJECT
 .tracking.cdiscount.com,REJECT
 .tr.notification.cdiscount.com,REJECT
+.cdm48c9bg.com,REJECT
 .cdn-code.host,REJECT
 .cdn-image.com,REJECT
 .cdn-server.cc,REJECT
@@ -51592,10 +51691,12 @@ p.cloudcraft.co,REJECT
 .cspokemon.com,REJECT
 .cswin4bet.com,REJECT
 .www.cten10010.com,REJECT
+.cteozuek9.com,REJECT
 .cthkgodgy.com,REJECT
 .z492.ctinsider.com,REJECT
 .ctm-media.com,REJECT
 .ctvshopee.com,REJECT
+.cu9kqki45.com,REJECT
 .www.cuba7tilt.com,REJECT
 .secure.cuba7tilt.com,REJECT
 .redirect.cuballama.com,REJECT
@@ -51630,8 +51731,11 @@ p.cloudcraft.co,REJECT
 .jrxytj.cyrela.com.br,REJECT
 .czfpgkujv.com,REJECT
 .d-markets.net,REJECT
+.d08l9a634.com,REJECT
 .d24ak3f2b.top,REJECT
+.d5chnap6b.com,REJECT
 .d84bc26d.site,REJECT
+.da927u0bs.com,REJECT
 .media.dabong247.com,REJECT
 .nogxjk.dackonline.se,REJECT
 .dacounter.com,REJECT
@@ -51723,6 +51827,7 @@ grs.dbankcloud.eu,REJECT
 grs.platform.dbankcloud.ru,REJECT
 .dbgqgmqqc.com,REJECT
 .marketing.dbh-group.com,REJECT
+.dbr9gtaf8.com,REJECT
 .mit.researchlog.dbresearch.de,REJECT
 .analytics.code.dccouncil.gov,REJECT
 .fiydnu.dcgstores.com,REJECT
@@ -51731,6 +51836,7 @@ grs.platform.dbankcloud.ru,REJECT
 .dd1xbevqx.com,REJECT
 .dddevki4u.com,REJECT
 .ddtvskish.com,REJECT
+.ddzk5l3bd.com,REJECT
 .stt.deakin.edu.au,REJECT
 .metrics.deakin.edu.au,REJECT
 .smetrics.deakin.edu.au,REJECT
@@ -51809,6 +51915,7 @@ grs.platform.dbankcloud.ru,REJECT
 .dfsshop66.com,REJECT
 .dftoutiao.com,REJECT
 .dggwqknub.com,REJECT
+.dgqu3g706.com,REJECT
 .dhgfhedxx.xyz,REJECT
 .dhhuakggx.xyz,REJECT
 .gvfbpo.diafer.com.br,REJECT
@@ -51829,6 +51936,7 @@ grs.platform.dbankcloud.ru,REJECT
 .secure.diet3dart.com,REJECT
 .digi-ping.com,REJECT
 .digiads.co.id,REJECT
+.diginamis.com,REJECT
 .daast.digitalbox.ru,REJECT
 .track.digitalina.io,REJECT
 .eloqua.digitalpi.com,REJECT
@@ -51845,6 +51953,7 @@ grs.platform.dbankcloud.ru,REJECT
 .directchat.tv,REJECT
 .directrev.com,REJECT
 .a8.direia-to.net,REJECT
+.diromalxx.com,REJECT
 .dirtyasmr.com,REJECT
 .sa.discovery.com,REJECT
 .ssa.discovery.com,REJECT
@@ -51985,6 +52094,7 @@ grs.platform.dbankcloud.ru,REJECT
 .partners.dudley.gov.uk,REJECT
 .dugapiece.com,REJECT
 .duili-mtp.com,REJECT
+.duk0m1mlu.com,REJECT
 .duldxuonx.com,REJECT
 .dullstory.pro,REJECT
 .www.dump4barn.com,REJECT
@@ -52020,6 +52130,7 @@ v2.fm.n.duokanbox.com,REJECT
 .porcupine.dvresolve.com,REJECT
 .trk.dvsystems.com,REJECT
 .dwuxbazvi.com,REJECT
+.dxouwbn7o.com,REJECT
 .dxtsqgnwn.com,REJECT
 .dylwqfrdb.com,REJECT
 .dynsrvbaa.com,REJECT
@@ -52044,6 +52155,7 @@ v2.fm.n.duokanbox.com,REJECT
 .e-skidrow.com,REJECT
 .sadbmetrics.e-volucion.es,REJECT
 .e-volution.ai,REJECT
+.e2s77vndh.com,REJECT
 .e67jpj6to.com,REJECT
 .e75d10b9.live,REJECT
 .eafifa19.club,REJECT
@@ -52339,6 +52451,7 @@ v2.fm.n.duokanbox.com,REJECT
 .strack.evertondirect.evertonfc.com,REJECT
 .everymark.xyz,REJECT
 .show.everytell.com,REJECT
+.evf21r3fb.com,REJECT
 .get.evidence.care,REJECT
 .evivuwhoa.com,REJECT
 .connect.evocalize.com,REJECT
@@ -52396,6 +52509,7 @@ v2.fm.n.duokanbox.com,REJECT
 .f-counter.net,REJECT
 .f2svgmvts.com,REJECT
 .f4cebacks.com,REJECT
+.f58x48lpn.com,REJECT
 .f6176563.site,REJECT
 .f700fa18.live,REJECT
 .lu9xve2c97l898gjjxv4.fabcrunch.com,REJECT
@@ -52519,6 +52633,7 @@ v2.fm.n.duokanbox.com,REJECT
 .ffinwwfpqi.gq,REJECT
 .ffqvjpkwe.com,REJECT
 .fgadsqdma.top,REJECT
+.fhv00rxa2.com,REJECT
 .global.fia-china.com,REJECT
 .fiberdump.com,REJECT
 .buzzard.ficabo.com.au,REJECT
@@ -52626,6 +52741,7 @@ v2.fm.n.duokanbox.com,REJECT
 .fix-files.com,REJECT
 .fixedfold.com,REJECT
 .fixxtrade.com,REJECT
+.fj2hbi9vz.com,REJECT
 .fywfld.fjellsport.no,REJECT
 .fkcubmmpn.xyz,REJECT
 .fkzgfsddr.com,REJECT
@@ -52789,6 +52905,7 @@ v2.fm.n.duokanbox.com,REJECT
 .e2.resources.foxtel.com.au,REJECT
 .managed.xmpp.foxtel.com.au,REJECT
 .share.foxtrotco.com,REJECT
+.fpkpcvixh.com,REJECT
 .fqohigimw.com,REJECT
 .fqpxjydyj.com,REJECT
 .fqxjrbepn.com,REJECT
@@ -52899,14 +53016,17 @@ v2.fm.n.duokanbox.com,REJECT
 .fyglovilo.pro,REJECT
 .fymgkjtee.com,REJECT
 .g-content.bid,REJECT
+.g208zjbuz.com,REJECT
 .g33ktr4ck.com,REJECT
 .g33tr4c3r.com,REJECT
 .g4mehacks.com,REJECT
+.g5rkmcc9f.com,REJECT
 .g792337340.co,REJECT
 .g792337342.co,REJECT
 .g792337343.co,REJECT
 .g7ghdash2.fun,REJECT
 .g8bb6j5pn.com,REJECT
+.g90eium9p.com,REJECT
 .g990421675.co,REJECT
 .g990421676.co,REJECT
 .qzosds.gabalnara.com,REJECT
@@ -52991,6 +53111,7 @@ v2.fm.n.duokanbox.com,REJECT
 .gcprivacy.com,REJECT
 .gdasaasnt.com,REJECT
 .gdpgwtwby.com,REJECT
+.ge3shbdf1.fun,REJECT
 .geargrope.com,REJECT
 .gebiqxmcc.com,REJECT
 .gecdwmkee.com,REJECT
@@ -53150,10 +53271,12 @@ v2.fm.n.duokanbox.com,REJECT
 .gmgreklam.com,REJECT
 .gmkflsdaa.com,REJECT
 .gmod-free.com,REJECT
+.gmoyu0y9y.com,REJECT
 .gmuinujsn.com,REJECT
 .analytics.gnetworks.xyz,REJECT
 .gngsrgaza.com,REJECT
 .gnkljnfbd.com,REJECT
+.gnnnzxuzv.com,REJECT
 .gntsrybdc.com,REJECT
 .gnuppbsxa.xyz,REJECT
 .go-mpulse.net,REJECT
@@ -53354,6 +53477,7 @@ v2.fm.n.duokanbox.com,REJECT
 .a8.h-daiya.co.jp,REJECT
 .h12-media.com,REJECT
 .spoluprace.h2world.store,REJECT
+.h4r7dvewa.com,REJECT
 .h74v6kerf.com,REJECT
 .ha-deal.co.il,REJECT
 .www.haag0some.com,REJECT
@@ -53540,6 +53664,7 @@ v2.fm.n.duokanbox.com,REJECT
 .helpflame.com,REJECT
 .ferret.helpspace.com,REJECT
 .statistics.heltenkelt.se,REJECT
+.hem41xm47.com,REJECT
 .hemenindir.to,REJECT
 .log.hemera.com.vn,REJECT
 .trk.hemhealer.com,REJECT
@@ -53659,6 +53784,7 @@ v2.fm.n.duokanbox.com,REJECT
 .hnkyxyknp.com,REJECT
 .1.hnyouneng.com,REJECT
 .hnyswepsc.com,REJECT
+.hnzfm9mjw.com,REJECT
 .hoangkim1.org,REJECT
 .link.hobbinity.com,REJECT
 .ergrbp.hobidunya.com,REJECT
@@ -53749,6 +53875,7 @@ v2.fm.n.duokanbox.com,REJECT
 .apm-log-upload-os.hoyoverse.com,REJECT
 .sg-public-data-api.hoyoverse.com,REJECT
 .hkrpg-log-upload-os.hoyoverse.com,REJECT
+.hp1mufjhk.com,REJECT
 .hpeaxbmuh.com,REJECT
 .hpepeepce.com,REJECT
 .hqpornpro.com,REJECT
@@ -53802,6 +53929,10 @@ v2.fm.n.duokanbox.com,REJECT
 .hzsod71wov.me,REJECT
 .a8cv.i-office1.net,REJECT
 .bjqnpe.i-office1.net,REJECT
+.i4nstr1gm.com,REJECT
+.i5ioeb7ut.com,REJECT
+.i65wsmrj5.com,REJECT
+.ia4d7tn68.com,REJECT
 .iaheyftbsn.re,REJECT
 .iaihdexme.com,REJECT
 .click.iamdomain.xyz,REJECT
@@ -54049,6 +54180,7 @@ v2.fm.n.duokanbox.com,REJECT
 .iopiopiop.org,REJECT
 .iovia-pmj.com,REJECT
 .data-91e02cd2b8.ip-insider.de,REJECT
+.ip00am4sn.com,REJECT
 .ip2phrase.com,REJECT
 .c.ipaddress.com,REJECT
 .wh.ipaddress.com,REJECT
@@ -54058,6 +54190,7 @@ v2.fm.n.duokanbox.com,REJECT
 .www.iproute66.com,REJECT
 .ipsowrite.com,REJECT
 .ipsvptuxn.com,REJECT
+.ipvertnet.com,REJECT
 .iq7grexsvo.ru,REJECT
 .iq7grexsvo.su,REJECT
 .ircwzvpei.com,REJECT
@@ -54074,6 +54207,7 @@ v2.fm.n.duokanbox.com,REJECT
 .isaombank.com,REJECT
 .isboost.co.jp,REJECT
 .ishousumo.com,REJECT
+.isiu0w9gv.com,REJECT
 .isiyyhghu.com,REJECT
 .islamclick.ru,REJECT
 .smetrics.islandford.ca,REJECT
@@ -54104,8 +54238,10 @@ v2.fm.n.duokanbox.com,REJECT
 .iystorage.com,REJECT
 .izearanks.com,REJECT
 .j1oxqq05ry.ru,REJECT
+.j51a0p18x.com,REJECT
 .j6t91e89q.com,REJECT
 .j74y03g8u.com,REJECT
+.ja5rg8e5e.com,REJECT
 .yt.jabesmen.shop,REJECT
 .yjpzqw.jackjones.com,REJECT
 .jackskins.com,REJECT
@@ -54209,6 +54345,7 @@ v2.fm.n.duokanbox.com,REJECT
 .jjtsuxoln.com,REJECT
 .tracker.jkplayers.com,REJECT
 .tracker.jkstremum.xyz,REJECT
+.jl63v3fp1.com,REJECT
 .jlodgings.com,REJECT
 .jlshayne.info,REJECT
 .jmbluyxkl.xyz,REJECT
@@ -54261,6 +54398,7 @@ v2.fm.n.duokanbox.com,REJECT
 .jrkkcssob.com,REJECT
 .jroqvbvw.info,REJECT
 .jrs2igoimq.ru,REJECT
+.jrzrqi0au.com,REJECT
 .jscounter.com,REJECT
 .jsefrmwji.com,REJECT
 .jsgmsoapx.com,REJECT
@@ -54302,9 +54440,11 @@ v2.fm.n.duokanbox.com,REJECT
 .jyjhjopmq.com,REJECT
 .jynthelon.com,REJECT
 .jyuirxswk.com,REJECT
+.jzrgomnny.com,REJECT
 .k0r2eokjm6.ru,REJECT
 .k1gkl25as.top,REJECT
 .k3718qw08.com,REJECT
+.k3jtsrjqr.com,REJECT
 .1.k45z7tagm.com,REJECT
 .www.k45z7tagm.com,REJECT
 .2467.k45z7tagm.com,REJECT
@@ -54313,6 +54453,7 @@ v2.fm.n.duokanbox.com,REJECT
 .k4umr0wuc.com,REJECT
 .a8clk.www.ka-nabell.com,REJECT
 .kabbmedia.com,REJECT
+.kabea3lx4.com,REJECT
 .kaezakkjt.com,REJECT
 .kagnejule.xyz,REJECT
 .kailsfrot.com,REJECT
@@ -54441,6 +54582,8 @@ v2.fm.n.duokanbox.com,REJECT
 .kkkjpg-522.cc,REJECT
 .kkkpydfok.com,REJECT
 .a8cv.kkmatsusho.jp,REJECT
+.kkrdrgd0m.com,REJECT
+.kkwy85a1n.com,REJECT
 .data-32d8a1e8f7.kl-magazin.de,REJECT
 .data-d6a989bf01.kl-magazin.de,REJECT
 .r.kleertjes.com,REJECT
@@ -54458,6 +54601,7 @@ v2.fm.n.duokanbox.com,REJECT
 .stats.knowkit.cloud,REJECT
 .knownwarn.com,REJECT
 .marketing.knoxville.org,REJECT
+.knwsyddyx.com,REJECT
 .koabapeed.com,REJECT
 .koahoocom.com,REJECT
 .hi.koalendar.com,REJECT
@@ -54488,11 +54632,13 @@ v2.fm.n.duokanbox.com,REJECT
 .kotengens.net,REJECT
 .adebis.koutsujiko.jp,REJECT
 .kozoysnsx.com,REJECT
+.kpbmqxucd.com,REJECT
 .mastertag.kpcustomer.de,REJECT
 .kpdwueshr.com,REJECT
 .www.kpr2exp21.com,REJECT
 .secure.kpr2exp21.com,REJECT
 .www.kprbexp21.com,REJECT
+.kq272lw4c.com,REJECT
 .kq6lwk3m9g.ru,REJECT
 .kqqwutgln.com,REJECT
 .kqtvdljwv.com,REJECT
@@ -54520,6 +54666,7 @@ www.kuguopush.com,REJECT
 .kuvoansub.com,REJECT
 .kvahvault.top,REJECT
 .kvcd7w375h.ru,REJECT
+.kvtgl4who.com,REJECT
 .kvxxkbmby.com,REJECT
 .kxrcjhogag.ru,REJECT
 .kxuattexg.com,REJECT
@@ -54558,6 +54705,7 @@ www.kuguopush.com,REJECT
 .9141.l5eamr17d.com,REJECT
 .9662.l5eamr17d.com,REJECT
 .sexropter3.l5eamr17d.com,REJECT
+.l6zfigxku.com,REJECT
 .preferences.la-lakers.com,REJECT
 .labbyplop.com,REJECT
 .laborrend.com,REJECT
@@ -54667,11 +54815,13 @@ www.kuguopush.com,REJECT
 .lazadaz17.com,REJECT
 .www.lazy8krti.com,REJECT
 .secure.lazy8krti.com,REJECT
+.lb176n3cg.com,REJECT
 .lbbanners.com,REJECT
 .psi.lbesecapi.com,REJECT
 .events.lbesecapi.com,REJECT
 .aff-policy.lbesecapi.com,REJECT
 .aff-report.lbesecapi.com,REJECT
+.lboxpznkq.com,REJECT
 .lby2kd27c.com,REJECT
 .lcarlbvwr.com,REJECT
 .lcncbusdg.com,REJECT
@@ -54752,7 +54902,9 @@ api.game.letvstore.com,REJECT
 .lfstmedia.com,REJECT
 .mat.lgdisplay.com,REJECT
 .promotion.lginnotek.com,REJECT
+.lgs3ctypw.com,REJECT
 .lgsmartad.com,REJECT
+.lh031i88q.com,REJECT
 .lhdmihaby.xyz,REJECT
 .lhgwyrecj.com,REJECT
 .a8cv.lianest.co.jp,REJECT
@@ -54821,6 +54973,7 @@ api.game.letvstore.com,REJECT
 .bxiaev.linvosges.com,REJECT
 .liod1ours.com,REJECT
 .lipmswonv.com,REJECT
+.lipqkoxzy.com,REJECT
 .liqikxqpx.com,REJECT
 .lishuaibin.cn,REJECT
 .svoge.lisrend.space,REJECT
@@ -54846,6 +54999,7 @@ api.game.letvstore.com,REJECT
 .lkmedcjyh.xyz,REJECT
 .lludd-ize.com,REJECT
 .llwcfovpl.com,REJECT
+.lmgyjug31.com,REJECT
 .lmmpjhvli.com,REJECT
 .l997.lmtonline.com,REJECT
 .metrics.lmtonline.com,REJECT
@@ -54934,6 +55088,7 @@ api.game.letvstore.com,REJECT
 .lfmetrics.loyalfans.com,REJECT
 .lpetooopz.com,REJECT
 .lplmqxqte.com,REJECT
+.lpmcr1h7z.com,REJECT
 .lqertautw.com,REJECT
 .lqsbqjuld.com,REJECT
 .lr-intake.com,REJECT
@@ -54943,6 +55098,7 @@ api.game.letvstore.com,REJECT
 .t.lsusports.net,REJECT
 .athl.lsusports.net,REJECT
 .ltmcixdhx.com,REJECT
+.ltrac4vyw.com,REJECT
 .ltsubzgmw.xyz,REJECT
 .bhutkb.lucky-shop.jp,REJECT
 .luckyads.tech,REJECT
@@ -54981,11 +55137,15 @@ api.game.letvstore.com,REJECT
 .luymtmiku.com,REJECT
 .192.luyouwang.com,REJECT
 .jsx.luyouwang.com,REJECT
+.lvw7k4d3j.com,REJECT
+.lw2dplgt8.com,REJECT
 .lydiapain.com,REJECT
 .lysim-lre.com,REJECT
 .m0rsq075u.com,REJECT
 .hyena.m1guelpf.blog,REJECT
 .m1ll1c4n0.com,REJECT
+.m3i0v745b.com,REJECT
+.m53frvehb.com,REJECT
 .m9w6ldeg4.xyz,REJECT
 .jfgvom.maatila.co.kr,REJECT
 .elqtracking.macegroup.com,REJECT
@@ -55296,6 +55456,7 @@ s.maketheweb.io,REJECT
 .mfcewkrob.com,REJECT
 .chui.tristes.mfisswger.com,REJECT
 .mfofgdhtv.com,REJECT
+.mgl9hmluh.com,REJECT
 .imp.mgronline.com,REJECT
 .counter.mgronline.com,REJECT
 .mhboxleky.com,REJECT
@@ -55308,6 +55469,7 @@ s.maketheweb.io,REJECT
 .qc.mhsolution.vn,REJECT
 .mhtgdirbo.com,REJECT
 .info.mhzdesign.com,REJECT
+.mi62r416j.com,REJECT
 .miamribud.com,REJECT
 .miaoniter.com,REJECT
 .miarroba.info,REJECT
@@ -55386,6 +55548,7 @@ i1.services.social.microsoft.com,REJECT
 .a8cv.sell.miraias.co.jp,REJECT
 .eventos.mirecweek.com,REJECT
 .leesmee.mirgeht.store,REJECT
+.mirifelon.com,REJECT
 .ban.mirorgazma.ru,REJECT
 .mirsuwoaw.com,REJECT
 .www.misc1bulk.com,REJECT
@@ -55420,6 +55583,7 @@ i1.services.social.microsoft.com,REJECT
 .mktrex155.xyz,REJECT
 .adobeanalytics.mlaglobal.com,REJECT
 .mldxqrntd.xyz,REJECT
+.mltmsw0td.com,REJECT
 .mluemlmxn.com,REJECT
 .mm-api.agency,REJECT
 .mm-cgnews.com,REJECT
@@ -55493,6 +55657,7 @@ i1.services.social.microsoft.com,REJECT
 .moonbit.co.in,REJECT
 .referral.moonglabs.com,REJECT
 .ahisft.moonmagic.com,REJECT
+.moonreals.com,REJECT
 .moonskins.fun,REJECT
 .koala.moontells.com,REJECT
 .moorshoes.com,REJECT
@@ -55590,6 +55755,7 @@ i1.services.social.microsoft.com,REJECT
 .mutinycdn.com,REJECT
 .muziczion.com,REJECT
 .partner.muzskykruh.cz,REJECT
+.mvbh7124w.com,REJECT
 .mvblxbuxe.com,REJECT
 .mvcbattle.pro,REJECT
 .datadog-service.mvfglobal.com,REJECT
@@ -55652,11 +55818,13 @@ i1.services.social.microsoft.com,REJECT
 .tracker.myyschool.xyz,REJECT
 .www.n3kijf75r.com,REJECT
 .23301.n3kijf75r.com,REJECT
+.n40wn7hqh.com,REJECT
 .n69adserv.com,REJECT
 .n95-mask.site,REJECT
 .nabaldeed.top,REJECT
 .a8.nachurabo.com,REJECT
 .nacontent.pro,REJECT
+.nacy6d355.com,REJECT
 .nadajotum.com,REJECT
 .marketing.nagaworld.com,REJECT
 .naipatouz.com,REJECT
@@ -55711,6 +55879,7 @@ i1.services.social.microsoft.com,REJECT
 .srepdata.navytimes.com,REJECT
 .al.nawa-store.jp,REJECT
 .naybreath.com,REJECT
+.nb09pypu4.com,REJECT
 .lpbhnv.nbcboston.com,REJECT
 .geo.nbcsports.com,REJECT
 .oimg.nbcsports.com,REJECT
@@ -55721,6 +55890,7 @@ i1.services.social.microsoft.com,REJECT
 .nboedfpto.com,REJECT
 .landing1.ncaasdemo.com,REJECT
 .ck.ncclick.co.kr,REJECT
+.ncz3u7cj2.com,REJECT
 .a8cv.nd-clinic.net,REJECT
 .ndhfywacw.com,REJECT
 .ndjelsefd.com,REJECT
@@ -55918,6 +56088,7 @@ i1.services.social.microsoft.com,REJECT
 .waterboa.nighttrain.co,REJECT
 .nikdaoquan.vn,REJECT
 .adtech-prod.nikecloud.com,REJECT
+.nilmc7i0w.com,REJECT
 .data-45798f2697.nils-nager.de,REJECT
 .trk.nimasound.com,REJECT
 .nimblebird.co,REJECT
@@ -56054,9 +56225,11 @@ i1.services.social.microsoft.com,REJECT
 .adebis.nursery.co.jp,REJECT
 .nutiipwkk.com,REJECT
 .affil.nutriadapt.cz,REJECT
+.nv3tosjqd.com,REJECT
 .nvlalpfft.com,REJECT
 .nvtvssczb.com,REJECT
 .nwwrtbbit.com,REJECT
+.nxp8tefwy.com,REJECT
 .nxwpxtaik.xyz,REJECT
 .nykcksdpo.com,REJECT
 .nzx65821s.com,REJECT
@@ -56097,6 +56270,7 @@ i1.services.social.microsoft.com,REJECT
 .odqicviub.com,REJECT
 .odrgacvbl.com,REJECT
 .app.odusports.com,REJECT
+.oeuvy1td2.com,REJECT
 .ofchildr.buzz,REJECT
 .offergate.pro,REJECT
 .offerjuice.me,REJECT
@@ -56132,6 +56306,7 @@ i1.services.social.microsoft.com,REJECT
 .ohlattice.com,REJECT
 .ohmygosh.info,REJECT
 .ohmystats.com,REJECT
+.ohnpb9yi0.com,REJECT
 .djxjti.oil-stores.gr,REJECT
 .www.oita4bali.com,REJECT
 .secure.oita4bali.com,REJECT
@@ -56152,6 +56327,7 @@ i1.services.social.microsoft.com,REJECT
 .olenation.org,REJECT
 .olivefail.com,REJECT
 .server.olliehorn.com,REJECT
+.olq18dx1t.com,REJECT
 .omareeper.com,REJECT
 .omazeiros.com,REJECT
 .omcrobata.com,REJECT
@@ -56250,6 +56426,7 @@ i1.services.social.microsoft.com,REJECT
 .sponsors.orthoinfo.org,REJECT
 .go.ortholive.com,REJECT
 .secure.orthology.com,REJECT
+.os2mypcw8.com,REJECT
 .l.osakazine.net,REJECT
 .osgnhr9zv.top,REJECT
 .stat-ssl.osorezone.com,REJECT
@@ -56286,6 +56463,7 @@ i1.services.social.microsoft.com,REJECT
 .outrigger-a.outrigger.com,REJECT
 .outrotomr.com,REJECT
 .outseylor.com,REJECT
+.outsohoam.com,REJECT
 .get.outspoken.com,REJECT
 .outtunova.com,REJECT
 .ouxourtoo.com,REJECT
@@ -56310,6 +56488,7 @@ i1.services.social.microsoft.com,REJECT
 .oybcobkru.xyz,REJECT
 .oyen3zmvd.com,REJECT
 .p0kec0ins.com,REJECT
+.p1yhfi19l.com,REJECT
 .p6qf8cqa0.com,REJECT
 .player-feedback.p7s1video.net,REJECT
 .combi.pablo-colo.me,REJECT
@@ -56519,6 +56698,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .pixel.aws.pfnetwork.net,REJECT
 .pgammedia.com,REJECT
 .smetrics.pgatour.co.kr,REJECT
+.pgjt26tsm.com,REJECT
 .pglcyeawb.com,REJECT
 .pgtabxxmb.com,REJECT
 .phabycebe.com,REJECT
@@ -56604,6 +56784,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .pjunnest.cyou,REJECT
 .pjvunkjgh.com,REJECT
 .pjzgggywd.com,REJECT
+.pk0grqf29.com,REJECT
 .pk910324e.com,REJECT
 .pkjouzfyf.com,REJECT
 .www.pkrchp001.com,REJECT
@@ -56916,9 +57097,11 @@ iad0ssl.pcauto.com.cn,REJECT
 .q-counter.com,REJECT
 .q0mn5t187u.ru,REJECT
 .q0yxfvuo32.ru,REJECT
+.q1gfgcimk.com,REJECT
 .q1ilb0enze.ru,REJECT
 .q5e40b17ii.ru,REJECT
 .q6gub.website,REJECT
+.qa5r5j11y.com,REJECT
 .qagkyeqxv.xyz,REJECT
 .smtc.qantas.com.au,REJECT
 .data.gc.qantas.com.au,REJECT
@@ -56938,6 +57121,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .qkodjvdsm.com,REJECT
 .qkyspzfxnc.ru,REJECT
 .qmtqzsczx.com,REJECT
+.qnhuxyqjv.com,REJECT
 .qnp16tstw.com,REJECT
 .qnucoorpe.com,REJECT
 .qootvuedh.com,REJECT
@@ -56945,6 +57129,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .qq86tbqodk.ru,REJECT
 .qqohtssdp.com,REJECT
 .qqoomtwod.com,REJECT
+.qquhzi4f3.com,REJECT
 .qrdnpjxic.com,REJECT
 .qrpenodnn.com,REJECT
 .qrwkkcyih.xyz,REJECT
@@ -57048,6 +57233,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .rbkshort.info,REJECT
 .rbrvifibj.com,REJECT
 .rbsodzgoy.xyz,REJECT
+.rbxh2wukx.com,REJECT
 .rcckzzmtst.rcckzmtst.cfd,REJECT
 .metrics.rcsmetrics.it,REJECT
 .smetrics.rcsmetrics.it,REJECT
@@ -57235,6 +57421,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .marketing.news.riyadhair.com,REJECT
 .rizzonelli.it,REJECT
 .rjhuwqxah.com,REJECT
+.rjpyyrskn.com,REJECT
 .rjykqcrnz.com,REJECT
 .rkft2sdl8b.ru,REJECT
 .rkgnmwre.site,REJECT
@@ -57356,9 +57543,13 @@ iad0ssl.pcauto.com.cn,REJECT
 .www.ryke4peep.com,REJECT
 .secure.ryke4peep.com,REJECT
 .jhzwle.ryuryumall.jp,REJECT
+.rzqeps15a.com,REJECT
 .rzzqhhoim.com,REJECT
 .s-manager.com,REJECT
+.s2btwhr9v.com,REJECT
+.s3vracbwe.com,REJECT
 .s6mf2ru8h1.ru,REJECT
+.s9mlyfq8g.com,REJECT
 .sabergood.com,REJECT
 .sableloss.com,REJECT
 .sablesong.com,REJECT
@@ -57469,6 +57660,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .sdarot-il.org,REJECT
 .sdarot-tv.org,REJECT
 .guufxr.sdbullion.com,REJECT
+.sde98jd39.com,REJECT
 .sdfsad562.xyz,REJECT
 .sdfsshop1.com,REJECT
 .sea-nov-1.com,REJECT
@@ -57701,6 +57893,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .showmovie.xyz,REJECT
 .showsteel.com,REJECT
 .showzyeye.com,REJECT
+.shpool2s1.com,REJECT
 .shredquiz.com,REJECT
 js.shshuoshu.com,REJECT
 .shughaxiw.com,REJECT
@@ -57804,6 +57997,7 @@ sousuo.xm.sjzhushou.com,REJECT
 .smetrics.skipton.co.uk,REJECT
 .doporuc.skolaslava.cz,REJECT
 .marketing.skorsports.nl,REJECT
+.sksnmfecc.com,REJECT
 .skull-bets.io,REJECT
 .pls.skycastle.dev,REJECT
 .www.skye6oner.com,REJECT
@@ -57828,6 +58022,8 @@ sousuo.xm.sjzhushou.com,REJECT
 .slimspots.com,REJECT
 .slimtrade.com,REJECT
 .slimytree.com,REJECT
+.slinklink.com,REJECT
+.slinkzone.com,REJECT
 .slkkbnsgn.com,REJECT
 .slopeaota.com,REJECT
 .slopesoap.com,REJECT
@@ -58281,6 +58477,7 @@ sousuo.xm.sjzhushou.com,REJECT
 .swzgvmlvt.com,REJECT
 .sxirpkuxm.com,REJECT
 .sxlmggx12.com,REJECT
+.sy2h39ep8.com,REJECT
 .analytics.sydney.edu.au,REJECT
 .sanalytics.sydney.edu.au,REJECT
 .syltfvcaa.com,REJECT
@@ -58306,6 +58503,8 @@ sousuo.xm.sjzhushou.com,REJECT
 .marketing.t2systems.com,REJECT
 .marketing.t4media.co.uk,REJECT
 .t7cp4fldl.com,REJECT
+.t7tli5r8t.com,REJECT
+.t8mbwgbjn.com,REJECT
 .a8.tabechoku.com,REJECT
 .dl.tablelist.com,REJECT
 .dl-dev.tablelist.com,REJECT
@@ -58834,6 +59033,7 @@ strip.taobaocdn.com,REJECT
 .partneri.trollbeads.cz,REJECT
 .rdtk.troma-now.com,REJECT
 .tronmachi.com,REJECT
+.troolytop.com,REJECT
 .trovo-tag.com,REJECT
 .trrmmxjst.com,REJECT
 .marketing.trubridge.com,REJECT
@@ -58937,8 +59137,10 @@ strip.taobaocdn.com,REJECT
 .tzbirdcod.com,REJECT
 .tzgcwfvrf.com,REJECT
 .u-50-rbdm.com,REJECT
+.u59shs96o.com,REJECT
 .u7kgr54jr7.ru,REJECT
 .u9axpzf50.com,REJECT
+.u9clrgnus.com,REJECT
 .t.uabsports.com,REJECT
 .app.uabsports.com,REJECT
 .uamrnaakv.com,REJECT
@@ -58952,11 +59154,13 @@ strip.taobaocdn.com,REJECT
 .ucazgetyk.com,REJECT
 .a8.uchi-iwai.net,REJECT
 .ucurtatus.com,REJECT
+.ucx98rp6g.com,REJECT
 .udraokrou.com,REJECT
 .udtropary.top,REJECT
 .uejqwhabj.xyz,REJECT
 .uepkcdjgp.com,REJECT
 .uerbgnkas.com,REJECT
+.uf4l9b2kw.com,REJECT
 .ufaexpert.com,REJECT
 .ufiledsit.com,REJECT
 .track.ugamezone.com,REJECT
@@ -59090,6 +59294,7 @@ strip.taobaocdn.com,REJECT
 .t.bucky.uwbadgers.com,REJECT
 .app.bucky.uwbadgers.com,REJECT
 .uwkidcbbp.com,REJECT
+.ux782mkgx.com,REJECT
 .analytics.uxmetrics.com,REJECT
 .marketing.uxreactor.com,REJECT
 .uxxsiyokw.com,REJECT
@@ -59102,6 +59307,7 @@ strip.taobaocdn.com,REJECT
 .55.uyybde07w.com,REJECT
 .108.uyybde07w.com,REJECT
 .al.uzu-japan.com,REJECT
+.v8tw8x8z1.com,REJECT
 .v9banners.com,REJECT
 .activate.vagazette.com,REJECT
 .vahoupomp.com,REJECT
@@ -59438,6 +59644,7 @@ strip.taobaocdn.com,REJECT
 .vwwzygltq.com,REJECT
 .vxelkrhl.info,REJECT
 .vxfpsgwhm.com,REJECT
+.vy8f0wjhp.com,REJECT
 .vydfijoiw.com,REJECT
 .vzphikkfy.com,REJECT
 .info.w-systems.com,REJECT
@@ -59445,6 +59652,7 @@ strip.taobaocdn.com,REJECT
 .w14s58toxo.su,REJECT
 .w23eidn9j.com,REJECT
 .w3counter.com,REJECT
+.w454n74qw.com,REJECT
 .w716eb02n9.ru,REJECT
 .te.waeschepur.de,REJECT
 .tp.waeschepur.de,REJECT
@@ -59489,6 +59697,7 @@ push.wandoujia.com,REJECT
 .t.wayfair.co.uk,REJECT
 .data-60d896f23d.waz-online.de,REJECT
 .data-6dde45f576.waz-online.de,REJECT
+.wbajwc0yx.com,REJECT
 .wbekwxsup.com,REJECT
 .wbjjkdofo.xyz,REJECT
 .wcbxugtfk.com,REJECT
@@ -59638,6 +59847,7 @@ ad.winrar.com.cn,REJECT
 .withcabin.com,REJECT
 .www.wivo2gaza.com,REJECT
 .secure.wivo2gaza.com,REJECT
+.wjct3s8at.com,REJECT
 .wkoocuweg.com,REJECT
 .wkpfgjbmd.com,REJECT
 .wlafx4trk.com,REJECT
@@ -59710,6 +59920,7 @@ ad.winrar.com.cn,REJECT
 .wrqtcoxjw.com,REJECT
 .wryfinger.com,REJECT
 .wrylength.pro,REJECT
+.ws5ujgqkp.com,REJECT
 .marketing.wtcutrecht.nl,REJECT
 .wtjsnlwmx.com,REJECT
 .wujungexo.net,REJECT
@@ -59734,6 +59945,7 @@ ad.winrar.com.cn,REJECT
 .cougar.wzulfikar.com,REJECT
 .a8cv.lp.x-house.co.jp,REJECT
 .x-traceur.com,REJECT
+.x0c9ibwqz.com,REJECT
 .x4q4g2zy7.com,REJECT
 .xambxhihx.com,REJECT
 .xbasfbno.info,REJECT
@@ -59744,8 +59956,10 @@ ad.winrar.com.cn,REJECT
 .xcelltech.com,REJECT
 .xcgbpsyob.com,REJECT
 .xcqbbcqpl.xyz,REJECT
+.xcuffrzha.com,REJECT
 .xdisplay.site,REJECT
 .ad.xdomain.ne.jp,REJECT
+.xdsqhyqpc.com,REJECT
 .xdtraffic.com,REJECT
 .xduvqslud.com,REJECT
 .xegluwate.com,REJECT
@@ -59776,6 +59990,7 @@ ad.winrar.com.cn,REJECT
 .marine.xhamster3.com,REJECT
 .collector.xhamster3.com,REJECT
 .rockpoint.xhamster3.com,REJECT
+.xia4jc6x2.com,REJECT
 .link.xiahealth.com,REJECT
 .xianliao.voto,REJECT
 .cc.xiaodapei.com,REJECT
@@ -59793,6 +60008,7 @@ ad.winrar.com.cn,REJECT
 .xkueeqyzz.com,REJECT
 .xkyphardw.com,REJECT
 .tr.xlead.digital,REJECT
+.xloj4d3ny.com,REJECT
 .xlrm-tech.com,REJECT
 .data.xlsemanal.com,REJECT
 .sadbmetrics.xlsemanal.com,REJECT
@@ -59849,6 +60065,7 @@ ad.winrar.com.cn,REJECT
 .xzouahcxo.com,REJECT
 .xzxomkrfn.com,REJECT
 .a8clk.y-station.net,REJECT
+.y1zoxngxp.com,REJECT
 .1.y2sysv81v.com,REJECT
 .2.y2sysv81v.com,REJECT
 .3.y2sysv81v.com,REJECT
@@ -59913,6 +60130,7 @@ ad.winrar.com.cn,REJECT
 .yeteacher.top,REJECT
 .yetthyrax.com,REJECT
 .yfsstec96.xyz,REJECT
+.ygmkcuj3v.com,REJECT
 .yhderd69.shop,REJECT
 .yholvajpu.com,REJECT
 .yhtpsy8888.cc,REJECT
@@ -59970,6 +60188,7 @@ ad.winrar.com.cn,REJECT
 .yousweeps.net,REJECT
 .youxiaoad.com,REJECT
 .yoyadsdom.com,REJECT
+.yrhnw7h63.com,REJECT
 .ytbzqtrog.com,REJECT
 .ytoworkwi.org,REJECT
 .ytuooivmv.xyz,REJECT
@@ -59986,11 +60205,13 @@ ad.winrar.com.cn,REJECT
 .yurivideo.com,REJECT
 .yuwenbin.host,REJECT
 .a.yuzhainan.com,REJECT
+.yvcxnfry2.com,REJECT
 .ywvhxymyk.com,REJECT
 .yxmaeeqvl.com,REJECT
 .trk.yzsystems.com,REJECT
 .www.z00yy6tg2.com,REJECT
 .ge2rg4112.z00yy6tg2.com,REJECT
+.za1a3hklx.com,REJECT
 .zagtertda.com,REJECT
 .zailoanoy.com,REJECT
 .zangocash.com,REJECT
@@ -60039,6 +60260,7 @@ ad.winrar.com.cn,REJECT
 .zippywind.com,REJECT
 .zitaptugo.com,REJECT
 .ziwelatum.com,REJECT
+.zkt0flig7.com,REJECT
 .zmikrctxf.com,REJECT
 .znavidsde.cfd,REJECT
 .zoagouwie.com,REJECT
@@ -60060,6 +60282,7 @@ ad.winrar.com.cn,REJECT
 .ztbtbbizb.com,REJECT
 .ztnibpbkl.com,REJECT
 .ztrack.online,REJECT
+.zu9jt14b5.com,REJECT
 .zubajuroo.com,REJECT
 .zucqcozmv.com,REJECT
 .1.zuowenjun.com,REJECT
@@ -60929,6 +61152,7 @@ ad.winrar.com.cn,REJECT
 .abtyroguer.com,REJECT
 .abutparker.com,REJECT
 .abyamaskor.com,REJECT
+.abyocawlfe.com,REJECT
 .c2f7d2d036.ac046e638f.com,REJECT
 .ac35e1ff43.com,REJECT
 .info.academynet.com,REJECT
@@ -61121,6 +61345,7 @@ ad.winrar.com.cn,REJECT
 .aeeonmaill.com,REJECT
 .aefeeqdlnh.com,REJECT
 .aekhfdpxcw.com,REJECT
+.aenetgvtri.com,REJECT
 .adobe.aeonbank.co.jp,REJECT
 .btptod.aerzteblatt.de,REJECT
 .data-c0856a82d9.aerzteblatt.de,REJECT
@@ -61798,6 +62023,7 @@ ad.winrar.com.cn,REJECT
 .bathbrrvwr.com,REJECT
 .bathdeals.info,REJECT
 .batheunits.com,REJECT
+.batonferie.com,REJECT
 .affiliate.batteryshop.cz,REJECT
 .battle-mix.com,REJECT
 .battlehope.com,REJECT
@@ -62089,6 +62315,7 @@ ad.winrar.com.cn,REJECT
 .bluffyporn.com,REJECT
 .data-2e91d05bea.bluray-disc.de,REJECT
 .blvdstatus.com,REJECT
+.bmaafbjmya.com,REJECT
 .csvtu.bmolending.com,REJECT
 .bmoney2017.com,REJECT
 .smetrics.bmsmedinfo.com,REJECT
@@ -62296,6 +62523,7 @@ ad.winrar.com.cn,REJECT
 .bvbypswhds.com,REJECT
 .bvtfutroyr.com,REJECT
 .bvudraqxpl.com,REJECT
+.bwaerxjkaq.com,REJECT
 .bwnmwhblsf.com,REJECT
 .bxacmsvmxb.com,REJECT
 .bxwmfozavo.com,REJECT
@@ -62632,6 +62860,7 @@ analytics.bytegiftia.top,REJECT
 .cima-club.club,REJECT
 .sp.cincinnati.com,REJECT
 .analytics.cinematoday.jp,REJECT
+.ciqzagzwao.com,REJECT
 .marketing.circadence.com,REJECT
 .iphufr.circleline.com,REJECT
 .cirsoaksat.net,REJECT
@@ -64795,6 +65024,7 @@ tracker.didiglobal.com,REJECT
 .duwvinarma.com,REJECT
 .dvigutying.top,REJECT
 .dwfupceuqm.com,REJECT
+.dwiovmamhb.com,REJECT
 .www2.dws-global.com,REJECT
 .go.dxc.technology,REJECT
 .omni.dxc.technology,REJECT
@@ -64942,6 +65172,7 @@ tracker.didiglobal.com,REJECT
 .a8clk.cd.ecostorecom.jp,REJECT
 .t.ecupirates.com,REJECT
 .app.ecupirates.com,REJECT
+.ecvjrxlrql.com,REJECT
 .eda153603c.com,REJECT
 .eddffea7e1.com,REJECT
 .metrics.eddiebauer.com,REJECT
@@ -65139,6 +65370,7 @@ tracker.didiglobal.com,REJECT
 .euros4click.de,REJECT
 .data-a7deba18e8.evangelisch.de,REJECT
 .evasivejar.com,REJECT
+.evejartaal.com,REJECT
 .evengparme.com,REJECT
 .repdata.eveningsun.com,REJECT
 .srepdata.eveningsun.com,REJECT
@@ -65388,6 +65620,7 @@ tracker.didiglobal.com,REJECT
 .fge9vbrzwt.bid,REJECT
 .21.fh21static.com,REJECT
 .fhajhezinl.com,REJECT
+.fharfyqacn.com,REJECT
 .fhlceugidb.xyz,REJECT
 .m.fhxiaoshuo.com,REJECT
 .lighterthinnerstronger.fiber-line.com,REJECT
@@ -65809,6 +66042,7 @@ tracker.didiglobal.com,REJECT
 .info.genialklick.ch,REJECT
 .a8clk.geo-arekore.jp,REJECT
 .ffrmel.gerryweber.com,REJECT
+.gesdxashb1.fun,REJECT
 .gesfdashb5.fun,REJECT
 .log.getadblock.com,REJECT
 .ping.getadblock.com,REJECT
@@ -65864,6 +66098,7 @@ tracker.didiglobal.com,REJECT
 .links.info.gianteagle.com,REJECT
 .links.email.gianteagle.com,REJECT
 .log.giaoduc.net.vn,REJECT
+.gibadvpara.com,REJECT
 .gift4free.zone,REJECT
 .giftedglue.com,REJECT
 .jaomlf.giftmall.co.jp,REJECT
@@ -65985,6 +66220,7 @@ tracker.didiglobal.com,REJECT
 .goodcheats.net,REJECT
 .goodsscoop.com,REJECT
 .googleapi.club,REJECT
+.ogads-pa.googleapis.com,REJECT
 .firebaselogging.googleapis.com,REJECT
 .clouderrorreporting.googleapis.com,REJECT
 .androidtvchannels-pa.googleapis.com,REJECT
@@ -66514,6 +66750,7 @@ tracker.didiglobal.com,REJECT
 .smetrics.hyundaiusa.com,REJECT
 .hzzgnwdsha.com,REJECT
 .i-mobile.co.jp,REJECT
+.i8xkjci7nd.com,REJECT
 .reindeer.iainbroome.com,REJECT
 .iarreowsca.com,REJECT
 .iastrology.net,REJECT
@@ -66545,9 +66782,11 @@ tracker.didiglobal.com,REJECT
 .insights.idispharma.com,REJECT
 .mowvra.idlookmall.com,REJECT
 .idlyscrike.top,REJECT
+.idolsstars.com,REJECT
 .idontsmell.lol,REJECT
 .idowngrade.com,REJECT
 .wolf.idthompson.com,REJECT
+.idtzczpjqc.com,REJECT
 .idwystdnvb.com,REJECT
 .myeca.ieasyclick.net,REJECT
 .myecat1.ieasyclick.net,REJECT
@@ -67100,6 +67339,7 @@ analytics.infomaniak.com,REJECT
 .kqiivrxlal.xyz,REJECT
 .partnerapp.kravein.com.au,REJECT
 .krgukepers.org,REJECT
+.kriankxukt.com,REJECT
 .krjxhvyyzp.com,REJECT
 .smetrics.krugerseed.com,REJECT
 .ksdlumuhym.com,REJECT
@@ -67135,6 +67375,7 @@ analytics.infomaniak.com,REJECT
 .la-la-moon.com,REJECT
 .la3c05lr3o.com,REJECT
 .info.labelworks.com,REJECT
+.lablyjtnum.com,REJECT
 .sc.lacapitale.com,REJECT
 .scs.lacapitale.com,REJECT
 .lacecoming.com,REJECT
@@ -67430,6 +67671,7 @@ adapi.lenovogame.com,REJECT
 .traktor.lozkoholicy.pl,REJECT
 .lp-preview.net,REJECT
 .lpaizureik.com,REJECT
+.lpmugcevks.com,REJECT
 .lqtiwevsan.com,REJECT
 .lr-in-prod.com,REJECT
 .lsqggflcsm.com,REJECT
@@ -67869,7 +68111,6 @@ adapi.lenovogame.com,REJECT
 .moneymaiker.ru,REJECT
 .moneywallet.cf,REJECT
 .mongpepper.com,REJECT
-.monkeybeta.com,REJECT
 .info.monsooninc.com,REJECT
 .monxserver.com,REJECT
 .radio.moodybible.org,REJECT
@@ -68319,7 +68560,9 @@ adapi.lenovogame.com,REJECT
 .nobbutaaru.com,REJECT
 .nocaudsomt.xyz,REJECT
 .jb.nockerlmrs.com,REJECT
+.nognoongut.com,REJECT
 .noitdcelol.com,REJECT
+.noithaticon.vn,REJECT
 .nokontoken.com,REJECT
 .noktaglaik.com,REJECT
 .benytv.nomadeshop.com,REJECT
@@ -68633,6 +68876,7 @@ httpdns.push.oppomobile.com,REJECT
 .owrkwilxbw.com,REJECT
 .owwczycust.com,REJECT
 .owwogmlidz.com,REJECT
+.oxbbzxqfnv.com,REJECT
 .oxhfalnniu.com,REJECT
 .oxkgcefteo.com,REJECT
 .oxmoonlint.com,REJECT
@@ -68661,6 +68905,7 @@ httpdns.push.oppomobile.com,REJECT
 .p.pagesjaunes.fr,REJECT
 .pageview.click,REJECT
 .axp.pahomepage.com,REJECT
+.paintejuke.com,REJECT
 .pakbanners.com,REJECT
 .pakcircles.com,REJECT
 .palakahone.com,REJECT
@@ -69068,6 +69313,7 @@ ivy.pchouse.com.cn,REJECT
 .ptistyvymi.com,REJECT
 .pto-slb-09.com,REJECT
 .ptoksoaksi.com,REJECT
+.ptyhawwuwj.com,REJECT
 .pubdirecte.com,REJECT
 .pubg-trade.com,REJECT
 .pubgsilver.com,REJECT
@@ -69085,6 +69331,7 @@ ivy.pchouse.com.cn,REJECT
 .punpzyvwao.com,REJECT
 .punystudio.pro,REJECT
 .puppytooth.com,REJECT
+.puqvwadzaa.com,REJECT
 .webt.pure-audio.com,REJECT
 .cpm.pureadsltd.com,REJECT
 .rtb-eu.pureadsltd.com,REJECT
@@ -69129,7 +69376,6 @@ ivy.pchouse.com.cn,REJECT
 .qceedrcwar.com,REJECT
 .qcfkvespkj.com,REJECT
 .qckeumrwft.xyz,REJECT
-.qcollect.co.za,REJECT
 .qcsjmidihe.com,REJECT
 .qe0ckm024b.com,REJECT
 .qelqlunebz.com,REJECT
@@ -69442,6 +69688,7 @@ ivy.pchouse.com.cn,REJECT
 .reyswrloef.xyz,REJECT
 .reyungojas.com,REJECT
 .rfeablduda.com,REJECT
+.rfinidtirz.com,REJECT
 .rglxzqlqcp.com,REJECT
 .marketing.rgproducts.com,REJECT
 .rgvqcsxqge.com,REJECT
@@ -69753,6 +70000,7 @@ samsungqbe.com,REJECT
 .seegraufah.com,REJECT
 .seemaicees.xyz,REJECT
 .segmenthub.com,REJECT
+.sehlicegxy.com,REJECT
 .seisorreem.com,REJECT
 .seitentipp.com,REJECT
 .seizeshoot.com,REJECT
@@ -69885,6 +70133,7 @@ samsungqbe.com,REJECT
 .al.shinfulife.com,REJECT
 .shinhanapp.org,REJECT
 .shinhanfnc.com,REJECT
+.shiodfvkes.com,REJECT
 .smetrics.shionogi.co.jp,REJECT
 .shipshop99.com,REJECT
 .sizybn.shipsltd.co.jp,REJECT
@@ -70507,6 +70756,7 @@ analytics3.starschina.com,REJECT
 .svkmxwssih.com,REJECT
 .svptpcjefg.com,REJECT
 .svr-prc-01.com,REJECT
+.svrgcqgtpe.com,REJECT
 .swalessidi.com,REJECT
 .swaprocket.org,REJECT
 .swarmscape.com,REJECT
@@ -71334,6 +71584,7 @@ analytics3.starschina.com,REJECT
 .sstats.vanityfair.com,REJECT
 .stats2.vanityfair.com,REJECT
 .mdws.vantageone.net,REJECT
+.vapjcusfua.com,REJECT
 .vaptoangix.com,REJECT
 .m.varagesale.com,REJECT
 app-ad.variflight.com,REJECT
@@ -71370,6 +71621,7 @@ app-ad.variflight.com,REJECT
 .a8.vector-park.jp,REJECT
 .vederefilm.net,REJECT
 .vefxjjkrhf.com,REJECT
+.vegasreals.com,REJECT
 .velvetnova.com,REJECT
 .venetrigni.com,REJECT
 .veninslata.com,REJECT
@@ -71388,6 +71640,7 @@ app-ad.variflight.com,REJECT
 .smetrics.vetplus.com.au,REJECT
 .www.vetxanh.edu.vn,REJECT
 .vexilorath.com,REJECT
+.vfcsesjgbj.com,REJECT
 .vg876yuj.click,REJECT
 .vgmnpjnrpj.com,REJECT
 .viaphioner.com,REJECT
@@ -72091,6 +72344,7 @@ app-ad.variflight.com,REJECT
 .zaqxwnwwtx.com,REJECT
 .zaudograum.xyz,REJECT
 .zbvhwaakws.com,REJECT
+.zbvpfsorrl.com,REJECT
 .zcehasaldo.com,REJECT
 .a8cv.zeal-agent.com,REJECT
 .zelllwrite.com,REJECT
@@ -72127,10 +72381,12 @@ app-ad.variflight.com,REJECT
 .zipperxray.com,REJECT
 .squiggleflap370.zippityzap.uno,REJECT
 .zisboombah.net,REJECT
+.zissuzcuft.com,REJECT
 .zizoxozoox.com,REJECT
 .doporucim.zjistitcenu.cz,REJECT
 .zjlbugpawe.com,REJECT
 .zjo0tjqpm1.com,REJECT
+.zkarinoxmq.com,REJECT
 .partneri.zkustenzvuk.cz,REJECT
 .zlknhbwwlu.com,REJECT
 .zlkpfhyrjd.com,REJECT
@@ -72159,6 +72415,7 @@ app-ad.variflight.com,REJECT
 .zy16eoat1w.com,REJECT
 .zymessuppl.top,REJECT
 .zysheptany.com,REJECT
+.zzaniglcic.com,REJECT
 .oesonx.10000recipe.com,REJECT
 .awrgkd.1000farmacie.it,REJECT
 .ev.100calorias.com,REJECT
@@ -72306,6 +72563,7 @@ app-ad.variflight.com,REJECT
 .go.activengage.com,REJECT
 .activetrail.biz,REJECT
 .tr.actupremium.com,REJECT
+.acvdubxihrk.com,REJECT
 .ad-balancer.net,REJECT
 .ad-delivery.net,REJECT
 .ad-guardian.com,REJECT
@@ -72435,6 +72693,7 @@ app-ad.variflight.com,REJECT
 .againoutlaw.com,REJECT
 .agario-bots.com,REJECT
 .ageandinone.org,REJECT
+.agfhpexmasa.com,REJECT
 .agicinsttrk.com,REJECT
 .agilebreeze.com,REJECT
 .agnrcrpwyyn.com,REJECT
@@ -72446,6 +72705,7 @@ app-ad.variflight.com,REJECT
 .agribanks.space,REJECT
 .agribanks3.asia,REJECT
 .tr.email.agriexpo.online,REJECT
+.agscirowwsr.com,REJECT
 .agtwvigehvl.com,REJECT
 .ahcnxuepput.com,REJECT
 .ahdvpuovkaz.com,REJECT
@@ -72574,6 +72834,7 @@ app-ad.variflight.com,REJECT
 .fpa-cdn.amontalenti.com,REJECT
 .insure.amsservices.com,REJECT
 .www.amusingporn.com,REJECT
+.amwsteackff.com,REJECT
 .amyaxgaqvoh.com,REJECT
 .anacampaign.com,REJECT
 .cqbkhv.anacapri.com.br,REJECT
@@ -72658,6 +72919,7 @@ app-ad.variflight.com,REJECT
 .arcticamber.com,REJECT
 .tr.nl.ardennes.cci.fr,REJECT
 .ardomindtrk.com,REJECT
+.ardschatota.com,REJECT
 .ardslediana.com,REJECT
 .arearfeased.top,REJECT
 .marketing.arenasports.net,REJECT
@@ -73086,6 +73348,7 @@ applogapi.autohome.com.cn,REJECT
 .tk.blancheporte.be,REJECT
 .tk.blancheporte.fr,REJECT
 .smetrics.blanchir-sp.net,REJECT
+.blarnydines.com,REJECT
 .blaze-media.com,REJECT
 .bleandworld.xyz,REJECT
 .blendedbird.com,REJECT
@@ -74016,6 +74279,7 @@ logs.chelaile.net.cn,REJECT
 .datastoried.com,REJECT
 .datatechone.com,REJECT
 .datefunclub.com,REJECT
+.datesnsluts.com,REJECT
 .datetonight.xyz,REJECT
 .datexurlove.com,REJECT
 .dathackhaha.com,REJECT
@@ -74171,7 +74435,6 @@ grs.dbankcloud.asia,REJECT
 .directoffers.se,REJECT
 .directtrack.com,REJECT
 .direfuldesk.com,REJECT
-.dirtydreams.net,REJECT
 .dirtytwitch.com,REJECT
 .disavowhers.com,REJECT
 .disccompose.com,REJECT
@@ -74762,6 +75025,7 @@ grs.dbankcloud.asia,REJECT
 .filethunder.net,REJECT
 .filevarious.com,REJECT
 .filingspace.com,REJECT
+.filjwepwika.com,REJECT
 .filmoljupci.com,REJECT
 .rt.fimdador.com.br,REJECT
 .rtk.fimdador.com.br,REJECT
@@ -75202,6 +75466,7 @@ grs.dbankcloud.asia,REJECT
 .gimmickry26.fun,REJECT
 .gimpsgenips.com,REJECT
 .ginkscarnal.top,REJECT
+.giraingoats.net,REJECT
 .girlbuffalo.com,REJECT
 .gismoarette.top,REJECT
 .givaphofklu.com,REJECT
@@ -75415,6 +75680,7 @@ grs.dbankcloud.asia,REJECT
 .gybyxsy1588.com,REJECT
 .gymdeserves.com,REJECT
 .gypsiedjilt.com,REJECT
+.gypsitenevi.com,REJECT
 .gzglmoczfzf.com,REJECT
 .gzifhovadhf.com,REJECT
 .h1z1echange.com,REJECT
@@ -75459,6 +75725,7 @@ grs.dbankcloud.asia,REJECT
 .hackz-world.com,REJECT
 .hackzcheatz.com,REJECT
 .haderilovas.com,REJECT
+.hadouthoals.com,REJECT
 .data-67f17c94f0.haemorriden.net,REJECT
 .data-908fd409d9.haemorriden.net,REJECT
 .hagnaudsate.com,REJECT
@@ -75636,6 +75903,7 @@ grs.dbankcloud.asia,REJECT
 .hjgapllydic.com,REJECT
 .hjhwjphsryi.com,REJECT
 .hjprhubzqgw.com,REJECT
+.hkapicwuhvc.com,REJECT
 .hkeibmpspxn.com,REJECT
 .hkfgsxpnaga.xyz,REJECT
 .smetrics.hks-power.co.jp,REJECT
@@ -75870,6 +76138,7 @@ emma-414870e223.huodonghezi.com,REJECT
 .informereng.com,REJECT
 .infragantes.com,REJECT
 .ingigalitha.com,REJECT
+.ingonherbal.com,REJECT
 .trk.go.ingrammicro.com,REJECT
 .xvantage.ingrammicro.com,REJECT
 .responses.ingrammicro.com,REJECT
@@ -76445,7 +76714,6 @@ material.istreamsche.com,REJECT
 .leskdywzbfk.com,REJECT
 .letraoquavn.com,REJECT
 .images.one.leumicard.co.il,REJECT
-.lflsoftware.com,REJECT
 .lfngqrtheim.com,REJECT
 .lgqffscxfqv.com,REJECT
 .lhamjcpnpqb.xyz,REJECT
@@ -76917,6 +77185,7 @@ material.istreamsche.com,REJECT
 .mlzxfwvonky.com,REJECT
 .mmadsgadget.com,REJECT
 .mmbonline01.com,REJECT
+.mmoabpvutkr.com,REJECT
 .mmogamehack.com,REJECT
 .mmovietnam.info,REJECT
 .moanishaiti.com,REJECT
@@ -77413,6 +77682,7 @@ material.istreamsche.com,REJECT
 .obeselysass.top,REJECT
 .ot.obi-baumarkt.ch,REJECT
 .oblivionpie.com,REJECT
+.obpocloxbon.com,REJECT
 .obscurejury.com,REJECT
 .observer384.fun,REJECT
 .observerapp.com,REJECT
@@ -77435,6 +77705,7 @@ material.istreamsche.com,REJECT
 .go.oddsscanner.com,REJECT
 .link.oddsscanner.net,REJECT
 .odnaturedfe.org,REJECT
+.odpgponumrw.com,REJECT
 .securestats.odysseygolf.com,REJECT
 .oehfvrpeleg.com,REJECT
 .oelwojattkd.xyz,REJECT
@@ -77463,9 +77734,11 @@ material.istreamsche.com,REJECT
 .ofhappinyer.com,REJECT
 .ofphanpytor.com,REJECT
 .oftheappyri.org,REJECT
+.ofzzuqlfuof.com,REJECT
 .ogle-0740lb.com,REJECT
 .ogrepsougie.net,REJECT
 .ohdjswkuaym.xyz,REJECT
+.ohfavdbmuat.com,REJECT
 .www.ohhmyoffers.com,REJECT
 .0049.ohhmyoffers.com,REJECT
 .0093.ohhmyoffers.com,REJECT
@@ -77482,6 +77755,7 @@ material.istreamsche.com,REJECT
 .ojjduccmolc.com,REJECT
 .ok-server.co.il,REJECT
 .okfgsbtmcnh.com,REJECT
+.okhrtusmuod.com,REJECT
 .okiafogless.top,REJECT
 .okueroskynt.com,REJECT
 .tracking.olandsbladet.se,REJECT
@@ -77499,6 +77773,7 @@ material.istreamsche.com,REJECT
 .stats.omahasteaks.com,REJECT
 .sstats.omahasteaks.com,REJECT
 .marketing.omgnational.com,REJECT
+.omgwowgirls.com,REJECT
 .omission119.fun,REJECT
 .data-90b8b64b92.omnibusrevue.de,REJECT
 .omniconvert.com,REJECT
@@ -77592,6 +77867,7 @@ material.istreamsche.com,REJECT
 .orrwavakgqr.com,REJECT
 .orssengseen.com,REJECT
 .redtrk.osacommunity.it,REJECT
+.oscohkajcjz.com,REJECT
 .osekwacuoxt.xyz,REJECT
 .stats.osiemsiedem.com,REJECT
 .condor.oskarthoren.com,REJECT
@@ -77599,6 +77875,7 @@ material.istreamsche.com,REJECT
 .ossgogoaton.com,REJECT
 .osspalkiaom.com,REJECT
 .ossyfirecpo.com,REJECT
+.otdalxhhiah.com,REJECT
 .othdgemanow.com,REJECT
 .otherprofit.com,REJECT
 .otingolston.com,REJECT
@@ -77650,6 +77927,7 @@ material.istreamsche.com,REJECT
 .info.ozerybakery.com,REJECT
 .track.ozoliftplus.com,REJECT
 .ozwxhoonxlm.com,REJECT
+.ozznarazdtz.com,REJECT
 .msr.p-antiaging.com,REJECT
 .a8cv.p-antiaging.com,REJECT
 .paasvalhall.top,REJECT
@@ -78141,6 +78419,7 @@ ad-analysis.pconline.com.cn,REJECT
 .ps4emulator.org,REJECT
 .ps4isogames.com,REJECT
 .tr1.psa-surveys.com,REJECT
+.psapailrims.com,REJECT
 .psaukroatch.com,REJECT
 .pseeckotees.com,REJECT
 .pseeltaimpu.net,REJECT
@@ -78959,6 +79238,7 @@ ad-analysis.pconline.com.cn,REJECT
 .shorantonto.com,REJECT
 .shorlmodish.top,REJECT
 .shortupload.com,REJECT
+.shosidawgah.com,REJECT
 .show-me-how.net,REJECT
 .show-review.com,REJECT
 .rjjynf.showcase-tv.com,REJECT
@@ -79065,6 +79345,7 @@ ad-analysis.pconline.com.cn,REJECT
 .slickgrapes.com,REJECT
 .slimdownload.co,REJECT
 .slimopinion.com,REJECT
+.slinkonline.com,REJECT
 .lp.sliwitta.com.br,REJECT
 .slowingvile.com,REJECT
 .dcclaa.slowlyveggie.de,REJECT
@@ -79498,6 +79779,7 @@ ad-analysis.pconline.com.cn,REJECT
 .tackleyoung.com,REJECT
 .tackytrains.com,REJECT
 .tacticsjoan.com,REJECT
+.tacwrekhixf.com,REJECT
 .tagalodrome.com,REJECT
 .tagdelivery.com,REJECT
 .metrics.tagesspiegel.de,REJECT
@@ -79641,6 +79923,7 @@ ad-analysis.pconline.com.cn,REJECT
 .t.texassports.com,REJECT
 .app.texassports.com,REJECT
 .sales.texturacorp.com,REJECT
+.tfarruaxzgi.com,REJECT
 .tgdaudience.com,REJECT
 .thaisbobetx.com,REJECT
 .t.thalesgroup.com,REJECT
@@ -80505,6 +80788,7 @@ ad-analysis.pconline.com.cn,REJECT
 .wcadfvvwbbw.xyz,REJECT
 .wcadlvruvrq.xyz,REJECT
 .wcdxpxugsrk.xyz,REJECT
+.wcoaswaxkrt.com,REJECT
 .wddlydaxtmm.com,REJECT
 .wduqxbvhpwd.xyz,REJECT
 .b.we-are-anon.com,REJECT
@@ -80598,6 +80882,7 @@ ad-analysis.pconline.com.cn,REJECT
 .wgchrrammzv.com,REJECT
 .whaacgqzyaz.com,REJECT
 .whaijoorgoo.com,REJECT
+.whaitsaitch.com,REJECT
 .whamuthygle.com,REJECT
 .branchtest.whataburger.com,REJECT
 .analytics.whatculture.com,REJECT
@@ -80984,6 +81269,7 @@ ad-analysis.pconline.com.cn,REJECT
 .zitchuhoove.com,REJECT
 .zitscassias.top,REJECT
 .zjupukgjuez.com,REJECT
+.zkuotxaxkov.com,REJECT
 .zlippyshare.com,REJECT
 .smetrics.zodiacshoes.com,REJECT
 .zoeaethenar.com,REJECT
@@ -81160,6 +81446,7 @@ ssl.360antivirus.org,REJECT
 .academicvast.com,REJECT
 .tracking.academicyear.org,REJECT
 .acala-bridge.com,REJECT
+.acbahmofpppy.com,REJECT
 .acbcamapztca.com,REJECT
 .accdhcxcbzck.com,REJECT
 .accedeethnic.com,REJECT
@@ -81171,9 +81458,11 @@ ssl.360antivirus.org,REJECT
 .acgshenshicha.cn,REJECT
 .achaipheegly.com,REJECT
 .achieverknee.com,REJECT
+.achoachemain.com,REJECT
 .acidicresist.pro,REJECT
 .acloudimages.com,REJECT
 .acloudvideos.com,REJECT
+.acmdihtumpuj.com,REJECT
 .m.acmgloballab.com,REJECT
 .tr.mp.aconclue-pro.com,REJECT
 .acpakrjzyamb.com,REJECT
@@ -81330,6 +81619,7 @@ ssl.360antivirus.org,REJECT
 .akjasjanwhif.com,REJECT
 .akjdbjkcbacj.com,REJECT
 .akkvmkgdvokn.com,REJECT
+.aklaqdzukadh.com,REJECT
 .aknkvallbfml.com,REJECT
 .smetrics.aktiv-mit-psa.de,REJECT
 .aktxwijitaqs.com,REJECT
@@ -81498,6 +81788,7 @@ ssl.360antivirus.org,REJECT
 .aqbusmueljfy.com,REJECT
 .aqdkciossswu.com,REJECT
 .aqppwatriodz.com,REJECT
+.aqptziligoqn.com,REJECT
 .aqrkrahkynta.com,REJECT
 .aqroxlquvshe.com,REJECT
 .mytracking.aquae-jewels.com,REJECT
@@ -81679,6 +81970,7 @@ ssl.360antivirus.org,REJECT
 .awvqfalackho.com,REJECT
 .awvvhicirfti.com,REJECT
 .awwagqorqpty.com,REJECT
+.awxgfiqifawg.com,REJECT
 .axeldivision.com,REJECT
 .as.axelspringer.com,REJECT
 .axlohcsruwak.com,REJECT
@@ -81726,6 +82018,7 @@ ssl.360antivirus.org,REJECT
 .baitbaseball.com,REJECT
 .bakatvackzat.com,REJECT
 .metrics.bakeryinfo.co.uk,REJECT
+.baktceamrlic.com,REJECT
 .marketing.balconette.co.uk,REJECT
 .oiodyx.baldur-garten.de,REJECT
 .baldwhizhens.com,REJECT
@@ -81841,6 +82134,7 @@ ssl.360antivirus.org,REJECT
 .bestboundary.com,REJECT
 .bestcheats4u.com,REJECT
 .jcimgi.bestcuckoo.co.kr,REJECT
+.bestfunnyads.com,REJECT
 .besthacksdll.com,REJECT
 .track.bestpornsites.tv,REJECT
 .td.bestproducts.com,REJECT
@@ -81914,6 +82208,7 @@ ssl.360antivirus.org,REJECT
 .bjaxmaydcnal.xyz,REJECT
 .bjjnovsnejwm.com,REJECT
 .ads.bkitsoftware.com,REJECT
+.bktdmqdcvshs.xyz,REJECT
 .bkyqhavuracs.com,REJECT
 .target.blackandmild.com,REJECT
 .smetrics.blackandmild.com,REJECT
@@ -82420,6 +82715,7 @@ ssl.360antivirus.org,REJECT
 .get.cityworthapp.com,REJECT
 .civetformity.com,REJECT
 .cixompoqpbgh.com,REJECT
+.cizujougneem.com,REJECT
 .cl0udh0st1ng.com,REJECT
 .claimcousins.com,REJECT
 .claimiphone7.net,REJECT
@@ -82961,6 +83257,7 @@ ssl.360antivirus.org,REJECT
 .divinedeals.info,REJECT
 .divinitygasp.com,REJECT
 .divortrelict.top,REJECT
+.divvyprorata.com,REJECT
 .stats.divyanshu013.dev,REJECT
 .groundcare.dixiechopper.com,REJECT
 .web.news.dixiefashion.com,REJECT
@@ -83825,6 +84122,7 @@ ssl.360antivirus.org,REJECT
 .garthitalici.top,REJECT
 .marketing.gasandsupply.com,REJECT
 .gasolinerent.com,REJECT
+.gasorjohvocl.com,REJECT
 .gaterharming.top,REJECT
 .t.gatorleads.co.uk,REJECT
 .gausovoheeza.com,REJECT
@@ -83951,6 +84249,7 @@ ssl.360antivirus.org,REJECT
 .geosvc.globalmailer.com,REJECT
 .analyticcdn.globalmailer.com,REJECT
 .globalteaser.com,REJECT
+.glofodazoass.com,REJECT
 .glomtipagrou.xyz,REJECT
 .gloognoogrix.com,REJECT
 .gloomcutter.shop,REJECT
@@ -84134,6 +84433,7 @@ ssl.360antivirus.org,REJECT
 .gypufahuyhov.xyz,REJECT
 .ns.gyreneverist.com,REJECT
 .gyudlffoisng.com,REJECT
+.gzihfaatdohk.com,REJECT
 .h0w-t0-watch.net,REJECT
 .h1z1trade.online,REJECT
 .h2aek6rv0ard.com,REJECT
@@ -84357,6 +84657,7 @@ ssl.360antivirus.org,REJECT
 .hoodentangle.com,REJECT
 .hoodypledget.top,REJECT
 .hookup-clubs.com,REJECT
+.hopesislands.com,REJECT
 .hormosdebris.com,REJECT
 .t.hornetsports.com,REJECT
 .app.hornetsports.com,REJECT
@@ -84724,6 +85025,7 @@ ssl.360antivirus.org,REJECT
 .jgdtnxkapkso.com,REJECT
 .jggegj-rtbix.top,REJECT
 .jhneyyawsibo.com,REJECT
+.jicamadoless.com,REJECT
 .jieaxwgwnydl.com,REJECT
 .jikvcrikdvng.com,REJECT
 .jikzudkkispi.com,REJECT
@@ -84770,6 +85072,7 @@ ssl.360antivirus.org,REJECT
 .joyous-north.pro,REJECT
 .jpooavwizlvf.com,REJECT
 .jqdfehrixzyb.com,REJECT
+.jqmebwvmbbby.top,REJECT
 .jqmebwvmbrvz.top,REJECT
 .jqmebwvmbzwy.top,REJECT
 .jqr-cdn.download,REJECT
@@ -84978,6 +85281,7 @@ ssl.360antivirus.org,REJECT
 .kuyncvkntfke.com,REJECT
 .special.kvetinyexpres.cz,REJECT
 .kvjkkwyomjrx.com,REJECT
+.kwesxaxizwca.com,REJECT
 .kwxvjrhijacw.com,REJECT
 .kxowmbwprnck.com,REJECT
 .kxrfunmbktnl.com,REJECT
@@ -85128,6 +85432,7 @@ ssl.360antivirus.org,REJECT
 .limitesrifer.com,REJECT
 .linderbourgs.top,REJECT
 .lingamretene.com,REJECT
+.lingosurveys.com,REJECT
 .www.marketing.linguamatics.com,REJECT
 .linkelevator.com,REJECT
 .linkexchange.com,REJECT
@@ -85141,6 +85446,10 @@ ssl.360antivirus.org,REJECT
 .cname.lions-mansion.jp,REJECT
 .mxk.podcast.lisameyerson.com,REJECT
 .hvoq.podcast.lisameyerson.com,REJECT
+.tpbq.podcast.lisameyerson.com,REJECT
+.ypqm.podcast.lisameyerson.com,REJECT
+.awaco.podcast.lisameyerson.com,REJECT
+.wsyup.podcast.lisameyerson.com,REJECT
 .listbrandnew.com,REJECT
 .join.listmakerapp.com,REJECT
 .counter.live4members.com,REJECT
@@ -85919,6 +86228,7 @@ ssl.360antivirus.org,REJECT
 .nharghiooudi.xyz,REJECT
 .collector-statistics.nhn-commerce.com,REJECT
 .app.nhrmcmychart.com,REJECT
+.nhyxzeqkoqme.com,REJECT
 .nicesearches.com,REJECT
 .nicevipshop.info,REJECT
 .adtd.niche-beauty.com,REJECT
@@ -86026,6 +86336,7 @@ ssl.360antivirus.org,REJECT
 .oatchoagnoud.com,REJECT
 .oawhaursaith.com,REJECT
 .oaysdumjrpoq.xyz,REJECT
+.obbabvonfkal.com,REJECT
 .obedientrock.com,REJECT
 .obeyedortostr.cc,REJECT
 .obhggjchjkpb.xyz,REJECT
@@ -86152,6 +86463,7 @@ ssl.360antivirus.org,REJECT
 .ooxookrekaun.com,REJECT
 .opchikoritar.com,REJECT
 .opdavplcufic.com,REJECT
+.opdxpycrizuq.com,REJECT
 .open-skins.space,REJECT
 .openbetakeys.com,REJECT
 .opencsgocase.com,REJECT
@@ -86188,6 +86500,7 @@ ssl.360antivirus.org,REJECT
 .orraxckivsud.com,REJECT
 .orrvucstaxip.com,REJECT
 .info.ortecfinance.com,REJECT
+.osharvrziafx.com,REJECT
 .osiaffiliate.com,REJECT
 .logistics.osmworldwide.com,REJECT
 .osqbfakufafv.com,REJECT
@@ -86239,6 +86552,7 @@ ssl.360antivirus.org,REJECT
 .ovibospeseta.com,REJECT
 .ovjrqycdrwqh.com,REJECT
 .ovsdnhpigmtd.xyz,REJECT
+.ovspahdicqan.com,REJECT
 .owenexposure.com,REJECT
 .om.owenscorning.com,REJECT
 .target.owenscorning.com,REJECT
@@ -86461,6 +86775,7 @@ ssl.360antivirus.org,REJECT
 .dc.pimenta25.online,REJECT
 .pimenttoryfy.top,REJECT
 .pineappletech.ae,REJECT
+.pinesichor.click,REJECT
 .lu9xve2c97l898gjjxv4.pinkpossible.com,REJECT
 .pioneerusual.com,REJECT
 .pipeofferear.com,REJECT
@@ -86793,8 +87108,10 @@ ssl.360antivirus.org,REJECT
 .qewwklaovmmw.top,REJECT
 .qfgkixvmwgaf.com,REJECT
 .qfiofvovgapc.com,REJECT
+.qfoobwxadcmi.com,REJECT
 .qgevavwyafjf.com,REJECT
 .qickazzmoaxv.com,REJECT
+.qidmhohammat.com,REJECT
 .qiqdpeovkobj.com,REJECT
 .qizjkwx9klim.com,REJECT
 .qkqlqjjobvkr.top,REJECT
@@ -86820,6 +87137,7 @@ ssl.360antivirus.org,REJECT
 .quarterserver.de,REJECT
 .quatanthu.online,REJECT
 .quaternnerka.com,REJECT
+.qubjweguszko.com,REJECT
 .queasydashed.top,REJECT
 .dbj.quebecregion.com,REJECT
 .termite.queerburners.org,REJECT
@@ -86987,7 +87305,6 @@ ssl.360antivirus.org,REJECT
 .replaceroute.com,REJECT
 .sp.reporternews.com,REJECT
 .repsrowedpay.com,REJECT
-.republishnow.com,REJECT
 .rescuephrase.com,REJECT
 .glassmoni.researchgate.net,REJECT
 .affiliate.resellerclub.com,REJECT
@@ -87056,6 +87373,7 @@ ssl.360antivirus.org,REJECT
 .smetrics.rituxanforra.com,REJECT
 .marketing.riverfrontig.com,REJECT
 .rjhiomohthqr.com,REJECT
+.rmahmighoogg.com,REJECT
 .rmaiksacouuo.xyz,REJECT
 .rmhptjwikttv.com,REJECT
 .rndhaunteran.com,REJECT
@@ -87543,7 +87861,6 @@ ssl.360antivirus.org,REJECT
 .slkdnlkfnskl.com,REJECT
 .go.slotscalendar.ro,REJECT
 .be.slowmographer.co,REJECT
-.slownansuch.info,REJECT
 .sloydcostive.top,REJECT
 .sluicehamate.com,REJECT
 .slumdombigot.top,REJECT
@@ -88050,6 +88367,7 @@ adclick.tencentmusic.com,REJECT
 .test-domuin1.com,REJECT
 .testgamesjob.com,REJECT
 .s.testneedle.co.uk,REJECT
+.tetelsillers.com,REJECT
 .tetrdracausa.com,REJECT
 .hb.tewitfeoffee.com,REJECT
 .dot.texastribune.org,REJECT
@@ -88945,6 +89263,7 @@ adclick.tencentmusic.com,REJECT
 .walkinggruff.com,REJECT
 .walkingtutor.com,REJECT
 .wallowwholi.info,REJECT
+.wanalnatnwto.com,REJECT
 .analysis.wangtwothree.com,REJECT
 .wannessdebus.com,REJECT
 .wansafeguard.com,REJECT
@@ -89531,6 +89850,7 @@ stat.zuimeitianqi.com,REJECT
 .accusemonacan.com,REJECT
 .acdn923132475.com,REJECT
 .info.acoginsurance.com,REJECT
+.acolousmicast.com,REJECT
 .api.acquirewithus.com,REJECT
 .acrossbrittle.com,REJECT
 .smetrics.act4yourheart.com,REJECT
@@ -90201,6 +90521,7 @@ stat.zuimeitianqi.com,REJECT
 .mail.blueapronwine.com,REJECT
 .vasia.bluentated.racing,REJECT
 .smetrics.blueprintprep.com,REJECT
+.bluitesqiegbo.xyz,REJECT
 .blushingbeast.com,REJECT
 .blushingbread.com,REJECT
 .bmjlzyjwwmwyk.top,REJECT
@@ -90346,6 +90667,7 @@ stat.zuimeitianqi.com,REJECT
 .buzzadnetwork.com,REJECT
 .direct.buzzinsecrets.com,REJECT
 .bwbmyzvnjqwna.top,REJECT
+.bwozo9iqg75l.shop,REJECT
 .bwvqjqmlkezjk.top,REJECT
 .bwwhcljtytrpo.com,REJECT
 .bxpjpkldxrsss.xyz,REJECT
@@ -90398,6 +90720,7 @@ stat.zuimeitianqi.com,REJECT
 .smetrics.caribbeanjobs.com,REJECT
 .caribedkurukh.com,REJECT
 .sphc.caring4cancer.com,REJECT
+.carriedamiral.com,REJECT
 .smetrics.cartersoshkosh.ca,REJECT
 .cartmansneest.com,REJECT
 .sanalytics.cartoonito.com.br,REJECT
@@ -91206,6 +91529,7 @@ stat.zuimeitianqi.com,REJECT
 .dollarsponsor.com,REJECT
 .dollartopsail.top,REJECT
 .domicileperil.com,REJECT
+.dominaeusques.com,REJECT
 .dominantcodes.com,REJECT
 .dominantroute.com,REJECT
 .domineering1x.xyz,REJECT
@@ -91407,6 +91731,7 @@ stat.zuimeitianqi.com,REJECT
 .dwdlpqm6d4ra.test1.emanualonline.com,REJECT
 .embarkdisrupt.com,REJECT
 .embeamratline.top,REJECT
+.embolysaros.click,REJECT
 .embrailcamino.top,REJECT
 .success.emilygriffith.edu,REJECT
 .eminentbubble.com,REJECT
@@ -92970,6 +93295,7 @@ plausible.joincommunity.xyz,REJECT
 .khrrnhjuhdjvx.com,REJECT
 .kidnapdilemma.com,REJECT
 .kidslinecover.com,REJECT
+.kiestercentry.com,REJECT
 .znmtka.kikocosmetics.com,REJECT
 .kileysgreeney.com,REJECT
 .a8.kimonomachi.co.jp,REJECT
@@ -94163,6 +94489,7 @@ plausible.joincommunity.xyz,REJECT
 .pecifyspacing.com,REJECT
 .link.pedidosonline.com,REJECT
 .peeingmunster.top,REJECT
+.peerdomatop.click,REJECT
 .peeredplanned.com,REJECT
 .peevishchosen.com,REJECT
 .pelageforgers.com,REJECT
@@ -94605,7 +94932,7 @@ plausible.joincommunity.xyz,REJECT
 .smetrics.ralphlauren.co.kr,REJECT
 .smetrics.ralphlauren.co.uk,REJECT
 .ramrodsmorals.top,REJECT
-.fp.rancheparsnip.com,REJECT
+.rancheparsnip.com,REJECT
 .ranchreives.click,REJECT
 .randomamongst.com,REJECT
 .go.rankerinsight.com,REJECT
@@ -95499,6 +95826,7 @@ plausible.joincommunity.xyz,REJECT
 .szzhwaaxhnnrx.com,REJECT
 .metrics.t-mobilemoney.com,REJECT
 .smetrics.t-mobilemoney.com,REJECT
+.t85itha3nitde.com,REJECT
 .taaqxpyicjlgv.com,REJECT
 .tabloidbadger.com,REJECT
 .taichinhanbin.com,REJECT
@@ -95749,6 +96077,7 @@ plausible.joincommunity.xyz,REJECT
 .subdo.torrentlocura.com,REJECT
 .magicplayer-s.torrentstream.org,REJECT
 .magicplayer-api.torrentstream.org,REJECT
+.torsopledget.shop,REJECT
 .totalcoolblog.com,REJECT
 .go.totalhealth.guide,REJECT
 .totalnicefeed.com,REJECT
@@ -96261,6 +96590,7 @@ plausible.joincommunity.xyz,REJECT
 .wee-intention.com,REJECT
 .weedfowlsgram.com,REJECT
 .apps.weekendgowhere.sg,REJECT
+.weeweesozoned.com,REJECT
 .cfyhym.weightwatchers.fr,REJECT
 .welcomememory.pro,REJECT
 .sadbmetrics.welifefestival.es,REJECT
@@ -96308,6 +96638,7 @@ plausible.joincommunity.xyz,REJECT
 .analytics.whostheboss.co.uk,REJECT
 .uqhpej.wiberrentacar.com,REJECT
 .wickedoutrage.com,REJECT
+.wicopymastery.com,REJECT
 .widerdaydream.com,REJECT
 .widgets.solutions,REJECT
 .widow5blackfr.com,REJECT
@@ -96513,6 +96844,7 @@ plausible.joincommunity.xyz,REJECT
 .a8cv.yamasa-suppon.com,REJECT
 .ybmebpsmpwueo.com,REJECT
 .ybxkfivvpmofh.com,REJECT
+.ycleptbathing.com,REJECT
 .ydqmuofeandhh.com,REJECT
 .yearlingexert.com,REJECT
 .yearnstocking.com,REJECT
@@ -97344,6 +97676,7 @@ plausible.joincommunity.xyz,REJECT
 .dtegq.guide.borden-carleton.ca,REJECT
 .gatqg.guide.borden-carleton.ca,REJECT
 .jvzog.guide.borden-carleton.ca,REJECT
+.mdzbr.guide.borden-carleton.ca,REJECT
 .pomsn.guide.borden-carleton.ca,REJECT
 .wsotx.guide.borden-carleton.ca,REJECT
 .xjyul.guide.borden-carleton.ca,REJECT
@@ -99645,6 +99978,7 @@ plausible.joincommunity.xyz,REJECT
 .lightsingshots.com,REJECT
 .likenewvids.online,REJECT
 .data-47ee1b0882.liliservicekino.de,REJECT
+.lilnowpunptsxs.com,REJECT
 .limeaboriginal.com,REJECT
 .limemanprocbal.com,REJECT
 .tapir.lindahlstudios.com,REJECT
@@ -99947,6 +100281,7 @@ plausible.joincommunity.xyz,REJECT
 .mlwstbdnwdfyng.com,REJECT
 .mlxanxnktseoxm.com,REJECT
 .mmchoicehaving.com,REJECT
+.mmpgultziojbcw.com,REJECT
 .mmphijndajxiui.com,REJECT
 .mmsmpjtksdnjqw.com,REJECT
 .mmxshltodupdlr.xyz,REJECT
@@ -100224,6 +100559,7 @@ plausible.joincommunity.xyz,REJECT
 .nrqppdgnhaagjq.com,REJECT
 .nsjczjnrravfcj.com,REJECT
 .nslokxweviwqbg.com,REJECT
+.nsuuuhqgjrdxhs.com,REJECT
 .ntmastsaultet.info,REJECT
 .ntoftheusysia.info,REJECT
 .ntoftheusysih.info,REJECT
@@ -104521,6 +104857,7 @@ plausible.joincommunity.xyz,REJECT
 .igfreefollowers.com,REJECT
 .igjptqlywyvfveq.com,REJECT
 .ihappymuttered.info,REJECT
+.ihknbyeaclaxikb.com,REJECT
 .statse.ihr-partner-deka.de,REJECT
 .ilaterdeallyig.info,REJECT
 .iletterismyper.info,REJECT
@@ -106057,6 +106394,7 @@ plausible.joincommunity.xyz,REJECT
 .engage.siriusdecisions.com,REJECT
 .tracking.siriusdecisions.com,REJECT
 .images.go.siriusdecisions.com,REJECT
+.sistemasnetz.com.br,REJECT
 .m1.analytics.sitevision-cloud.se,REJECT
 .situsiklanbaris.com,REJECT
 .siversbesomer.space,REJECT
@@ -106377,6 +106715,7 @@ plausible.joincommunity.xyz,REJECT
 .axp.texomashomepage.com,REJECT
 .data-8b242b85ce.textilwirtschaft.de,REJECT
 .data-d5d9e85944.textilwirtschaft.de,REJECT
+.tfrsuupbwlmpott.com,REJECT
 .thanhtrapcrt.online,REJECT
 .somni.thatsmymortgage.com,REJECT
 .dpovcw.the-body-shop.co.jp,REJECT
@@ -107204,7 +107543,6 @@ display.360totalsecurity.com,REJECT
 .amicleara.amicleardeals.online,REJECT
 .aminitymilling.click,REJECT
 .amountdonutproxy.com,REJECT
-.amplayeranydwou.info,REJECT
 .amplitudesheriff.com,REJECT
 .amplitudewassnap.com,REJECT
 .amusementmorning.com,REJECT
@@ -107754,6 +108092,7 @@ display.360totalsecurity.com,REJECT
 .direct.dailydazzletoday.com,REJECT
 .dairyworkjourney.com,REJECT
 .dakjddjerdrct.online,REJECT
+.daltongrievously.com,REJECT
 .dandylowestpalsy.com,REJECT
 .dangkyappbank.online,REJECT
 .dangkycongtacvien.vn,REJECT
@@ -109901,6 +110240,7 @@ display.360totalsecurity.com,REJECT
 .superqualitylink.com,REJECT
 .discover.supplydepotstore.com,REJECT
 .surf-bar-traffic.com,REJECT
+.susifhfh2d8ldn09.com,REJECT
 .suspectedadvisor.com,REJECT
 .suspendedjetthus.com,REJECT
 .suspicionsmutter.com,REJECT
@@ -110697,6 +111037,7 @@ display.360totalsecurity.com,REJECT
 .panther.atgonlinecoaching.com,REJECT
 .smetrics.atlanticsuperstore.ca,REJECT
 .jt.tracks.atlantisinvestors.com,REJECT
+.attractivesurveys.com,REJECT
 .attributedrelease.com,REJECT
 .data.emails.aucklandairport.co.nz,REJECT
 .auditioningborder.com,REJECT
@@ -110751,6 +111092,7 @@ display.360totalsecurity.com,REJECT
 .rd.t1.benefitsusacenter.com,REJECT
 .loop.bengali-sex-video.com,REJECT
 .berriescourageous.com,REJECT
+.bestadsonlyforyou.com,REJECT
 .set.track.bestautoquotes.online,REJECT
 .bestcasinopartner.com,REJECT
 .bestcontentaccess.top,REJECT
@@ -111552,7 +111894,6 @@ display.360totalsecurity.com,REJECT
 .js.glitnoraffiliates.com,REJECT
 .track.globalhealthnews.site,REJECT
 .globalinteractive.com,REJECT
-.globallaborsupply.com,REJECT
 .globalsuccessclub.com,REJECT
 .gt.tracking.globaltrendstoday.com,REJECT
 .gloomilychristian.com,REJECT
@@ -111798,15 +112139,12 @@ display.360totalsecurity.com,REJECT
 .igi.patent.international-med.com,REJECT
 .jub.patent.international-med.com,REJECT
 .mzq.patent.international-med.com,REJECT
-.rdh.patent.international-med.com,REJECT
 .tpb.patent.international-med.com,REJECT
 .zlv.patent.international-med.com,REJECT
 .hycy.patent.international-med.com,REJECT
 .ilkj.patent.international-med.com,REJECT
-.lfse.patent.international-med.com,REJECT
 .lpgr.patent.international-med.com,REJECT
 .mgjf.patent.international-med.com,REJECT
-.mrbb.patent.international-med.com,REJECT
 .nzkj.patent.international-med.com,REJECT
 .rcyt.patent.international-med.com,REJECT
 .wbnr.patent.international-med.com,REJECT
@@ -112962,6 +113300,7 @@ display.360totalsecurity.com,REJECT
 .undergoneentitled.com,REJECT
 .server.underground-cheat.xyz,REJECT
 .underwilliameliza.com,REJECT
+.unfairgenelullaby.com,REJECT
 .unfaithfulgoddess.com,REJECT
 .unfinisheddolphin.com,REJECT
 .secure-wa-na.unileversolutions.com,REJECT
@@ -118059,6 +118398,7 @@ display.360totalsecurity.com,REJECT
 .privatproxy-endpoint.com,REJECT
 .privatproxy-endpoint.xyz,REJECT
 .prizegrantedrevision.com,REJECT
+.prodesarrolloapurimac.pe,REJECT
 .proenergy-engenharia.com,REJECT
 .professionalresources.pw,REJECT
 .profilebecomingtrain.com,REJECT
@@ -120432,6 +120772,7 @@ samsungcloudsolution.net,REJECT
 .seafoodrunnersablative.com,REJECT
 .searchingacutemourning.com,REJECT
 .searchresultsadblocker.com,REJECT
+.securityassociationgoa.com,REJECT
 .seizedlusciousextended.com,REJECT
 .seminarski-diplomski.co.rs,REJECT
 .separationharmgreatest.com,REJECT
@@ -122819,6 +123160,7 @@ samsungcloudsolution.net,REJECT
 .candleannihilationretrieval.com,REJECT
 .carpenterexplorerdemolition.com,REJECT
 .certainlydisparagewholesome.com,REJECT
+.childlessporcupinevaluables.com,REJECT
 .childrenplacidityconclusion.com,REJECT
 .circusinjunctionarrangement.com,REJECT
 .civilizationmoodincorporate.com,REJECT
