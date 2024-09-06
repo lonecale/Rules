@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-06T08:44:10.958Z
-# Size: 124035
+# Last Updated: 2024-09-06T16:17:30.678Z
+# Size: 124044
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -519,7 +519,6 @@ adshow.58.com,REJECT
 .native.cli.bz,REJECT
 .log-api.cli.im,REJECT
 .clx.ru,REJECT
-.support.clz.kr,REJECT
 .platypus.cmp.is,REJECT
 .cms.lv,REJECT
 .cxsh.cn.com,REJECT
@@ -911,6 +910,7 @@ stat.m.jd.com,REJECT
 .tracking.klt.nu,REJECT
 .stats.kod.ru,REJECT
 .smetrics.kol.se,REJECT
+.kayomirai.kro.kr,REJECT
 .adbsmetrics.kt.com,REJECT
 .adx.kul.vn,REJECT
 .tdep.kvk.nl,REJECT
@@ -4229,7 +4229,6 @@ tongji.tom.com,REJECT
 .watch.vipa.me,REJECT
 .vira.ru,REJECT
 .tools.viva.pl,REJECT
-.sos.vivi.sg,REJECT
 .mybjjg.vlan.be,REJECT
 .vlnk.me,REJECT
 .ssc.vmaj.jp,REJECT
@@ -4323,6 +4322,7 @@ adsystem.wasu.tv,REJECT
 .marketing.wbm.com,REJECT
 .metrics.wdc.com,REJECT
 .wdfl.co,REJECT
+.smallproew.web.app,REJECT
 .nfts-opensea.web.app,REJECT
 .triplewhale-pixel.web.app,REJECT
 .unidentifiedanalytics.web.app,REJECT
@@ -13344,6 +13344,7 @@ asimgs.pplive.cn,REJECT
 .q27sz.com,REJECT
 .qange.com,REJECT
 .qbaka.net,REJECT
+.139520.aioc.qbgxl.com,REJECT
 .912648.aioc.qbgxl.com,REJECT
 .cdn.qc24h.com,REJECT
 .smetrics.qcnet.com,REJECT
@@ -18767,6 +18768,7 @@ union.gdtimg.com,REJECT
 .giocdn.com,REJECT
 ads.gionee.com,REJECT
 pdl.gionee.com,REJECT
+.giorja.com,REJECT
 .giotyo.com,REJECT
 .giredo.com,REJECT
 .girl7y.com,REJECT
@@ -22756,6 +22758,7 @@ access-sngapm.qcloud.com,REJECT
 .invite.sadapay.pk,REJECT
 .invite-test.sadapay.pk,REJECT
 .sadm26.com,REJECT
+.saf-oil.ru,REJECT
 .ads.safarme.ir,REJECT
 .config.safedk.com,REJECT
 .ddl.safone.dev,REJECT
@@ -30392,7 +30395,6 @@ ad.jiemian.com,REJECT
 .jnrgcwf.com,REJECT
 .jo9p72.cyou,REJECT
 .xkbzom.jobblitz.de,REJECT
-.jobcity.com,REJECT
 .stat-ssl.jobcube.com,REJECT
 .eylnhf.jobhouse.jp,REJECT
 .jogdied.com,REJECT
@@ -34555,6 +34557,7 @@ susapi.dev.surepush.cn,REJECT
 .tentubu.xyz,REJECT
 .sofire.terabox.app,REJECT
 .valacc.teracomm.bg,REJECT
+.onemk3.teracomm.mk,REJECT
 .answers.teradata.ch,REJECT
 .answers.teradata.de,REJECT
 .answers.teradata.fr,REJECT
@@ -36968,7 +36971,6 @@ hot.m.shouji.360tpcdn.com,REJECT
 .abfishop.com,REJECT
 .abfishop.org,REJECT
 .impressions.svc.abillion.com,REJECT
-.abissnet.net,REJECT
 .abluekai.com,REJECT
 .abmunnaa.com,REJECT
 .aboucaih.com,REJECT
@@ -49880,6 +49882,7 @@ stat.10jqka.com.cn,REJECT
 .biowebb-data.s3.amazonaws.com,REJECT
 .cloudfront-labs.amazonaws.com,REJECT
 .babes-mansion.s3.amazonaws.com,REJECT
+.bbuseruploads.s3.amazonaws.com,REJECT
 .sprocket-ping.s3.amazonaws.com,REJECT
 .syncplusconfig.s3.amazonaws.com,REJECT
 .yieldmo-builds.s3.amazonaws.com,REJECT
@@ -56966,6 +56969,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .portsspat.com,REJECT
 .positional.ai,REJECT
 .activate.post-trib.com,REJECT
+.postaipay.top,REJECT
 .postback.info,REJECT
 .a8cv.postcoffee.co,REJECT
 .postitial.com,REJECT
@@ -65312,6 +65316,7 @@ tracker.didiglobal.com,REJECT
 .eventtracker.elitedaily.com,REJECT
 .elitefilez.com,REJECT
 .elitehackz.com,REJECT
+.elmipardaz.com,REJECT
 .elon-gifts.net,REJECT
 .elon-promo.com,REJECT
 .eloquencer.com,REJECT
@@ -69051,6 +69056,7 @@ httpdns.push.oppomobile.com,REJECT
 ivy.pchouse.com.cn,REJECT
 .pdayyocpnvh.ru,REJECT
 .online.pdfknihovna.cz,REJECT
+.log.pdfreaders.net,REJECT
 .pdjmarxsne.com,REJECT
 .pdridjiviq.com,REJECT
 .pdsyibwlxd.xyz,REJECT
@@ -69528,6 +69534,7 @@ ivy.pchouse.com.cn,REJECT
 .waati.quechoisir.org,REJECT
 .queenskart.com,REJECT
 .nsteq.queensland.com,REJECT
+.queimaxofc.com,REJECT
 .querysteer.com,REJECT
 .marketing.questforum.org,REJECT
 .quetthepos.com,REJECT
@@ -70924,6 +70931,7 @@ analytics3.starschina.com,REJECT
 .sda.tamdiem247.com,REJECT
 .stats.tamdiem247.com,REJECT
 .agent.tamedia.com.tw,REJECT
+.tameer2030.com,REJECT
 .tamerliqus.com,REJECT
 .tangozebra.com,REJECT
 .tangycover.com,REJECT
@@ -70993,6 +71001,7 @@ analytics3.starschina.com,REJECT
 .stats.teledyski.info,REJECT
 .data-d815104c6c.telefonbuch.de,REJECT
 .stats.sec.telefonica.com,REJECT
+.telegram.ninja,REJECT
 .clnbze.telemagazyn.pl,REJECT
 .stat.teleport.media,REJECT
 .fcpszk.telestream.net,REJECT
@@ -75495,6 +75504,7 @@ grs.dbankcloud.asia,REJECT
 .germaniavid.com,REJECT
 .germanize24.fun,REJECT
 .gesanbarrat.com,REJECT
+.gesvfvfhhb6.fun,REJECT
 .get-cracked.com,REJECT
 .get-kmspico.com,REJECT
 .www.get-zappify.com,REJECT
@@ -76807,7 +76817,6 @@ material.istreamsche.com,REJECT
 .leskdywzbfk.com,REJECT
 .letraoquavn.com,REJECT
 .images.one.leumicard.co.il,REJECT
-.lflsoftware.com,REJECT
 .lfngqrtheim.com,REJECT
 .lgqffscxfqv.com,REJECT
 .lhamjcpnpqb.xyz,REJECT
@@ -89247,6 +89256,7 @@ adclick.tencentmusic.com,REJECT
 .csbmey.viherpeukalot.fi,REJECT
 .viidirectory.com,REJECT
 .viietcombank.com,REJECT
+.villasara974.com,REJECT
 .vincomonevip.net,REJECT
 .vindexmesode.com,REJECT
 .vindicosuite.com,REJECT
@@ -93778,6 +93788,7 @@ plausible.joincommunity.xyz,REJECT
 .marinadewomen.com,REJECT
 .oxtrmw.marinarinaldi.com,REJECT
 .tracker.marinsoftware.com,REJECT
+.marioresidence.ro,REJECT
 .mariuspetrescu.gq,REJECT
 .smetrics.markandgraham.com,REJECT
 .markedmeasure.com,REJECT
@@ -103535,6 +103546,7 @@ plausible.joincommunity.xyz,REJECT
 .bleachscarecrow.com,REJECT
 .blicatedlitytl.info,REJECT
 .blindefficiency.pro,REJECT
+.log.bloodppressure.info,REJECT
 .images.go.bluejacketslink.com,REJECT
 .acton.bluetreesystems.com,REJECT
 .wobblewham.blunderfuzz.website,REJECT
@@ -109261,7 +109273,6 @@ display.360totalsecurity.com,REJECT
 .limpattemptnoose.com,REJECT
 .lingrethertantin.com,REJECT
 .www.linktasticxquest.com,REJECT
-.linkvilleplayers.org,REJECT
 .liondolularhene.info,REJECT
 .listenedmusician.com,REJECT
 .stats.literacysomerset.org,REJECT
@@ -112257,9 +112268,7 @@ display.360totalsecurity.com,REJECT
 .internalcondition.com,REJECT
 .jub.patent.international-med.com,REJECT
 .zlv.patent.international-med.com,REJECT
-.hycy.patent.international-med.com,REJECT
 .ilkj.patent.international-med.com,REJECT
-.lpgr.patent.international-med.com,REJECT
 .nzkj.patent.international-med.com,REJECT
 .rcyt.patent.international-med.com,REJECT
 .wbnr.patent.international-med.com,REJECT
