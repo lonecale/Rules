@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-07T12:30:28.598Z
-# Size: 124070
+# Last Updated: 2024-09-07T16:18:03.361Z
+# Size: 124071
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17647,6 +17647,7 @@ fc-feed.cdn.bcebos.com
 .didsit.com
 .diemov.com
 .diench.com
+.diendh.xyz
 .bttmkj.diesel.com
 .tk.dietbon.fr
 .difhil.icu
