@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-06T16:17:30.678Z
-  # Size: 124044
+  # Last Updated: 2024-09-07T12:30:28.598Z
+  # Size: 124070
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -520,6 +520,7 @@ payload:
   - .native.cli.bz
   - .log-api.cli.im
   - .clx.ru
+  - .support.clz.kr
   - .platypus.cmp.is
   - .cms.lv
   - .cxsh.cn.com
@@ -4230,6 +4231,7 @@ payload:
   - .watch.vipa.me
   - .vira.ru
   - .tools.viva.pl
+  - .sos.vivi.sg
   - .mybjjg.vlan.be
   - .vlnk.me
   - .ssc.vmaj.jp
@@ -12999,6 +13001,7 @@ payload:
   - .pps-log.op-mobile.opera.com
   - .smetrics.opnme.com
   - .tcbtus.opodo.com
+  - .opolis.io
   - .stats.opoloo.de
   - .opoxv.com
   - .oppuz.com
@@ -13346,7 +13349,6 @@ payload:
   - .qange.com
   - .qbaka.net
   - .139520.aioc.qbgxl.com
-  - .912648.aioc.qbgxl.com
   - .cdn.qc24h.com
   - .smetrics.qcnet.com
   - .qdmil.com
@@ -16474,6 +16476,7 @@ payload:
   - .aud.ayvens.com
   - .ayv.ayvens.com
   - .lgbdxo.azazie.com
+  - .azenco.xyz
   - .azenka.one
   - .porpoise.azettl.net
   - .azfitn.com
@@ -18546,6 +18549,7 @@ payload:
   - .fpfbbn.xyz
   - .fpjjjh.xyz
   - .fpninv.xyz
+  - .fppcrl.xyz
   - .cskh-hcm.fpt.edu.vn
   - .fptbdr.xyz
   - .fptls2.com
@@ -18667,7 +18671,6 @@ payload:
   - .metrics.gazyva.com
   - .smetrics.gazyva.com
   - .gb1aff.com
-  - .gbeotm.com
   - .www.gbl007.com
   - .gblcdn.com
   - .gbqofs.com
@@ -20508,6 +20511,7 @@ payload:
   - .lytiks.com
   - .lzbgeg.com
   - .lzupkz.com
+  - .lzzqfj.xyz
   - .mini.m-able.app
   - .m-brain.fi
   - .m28458.top
@@ -21990,7 +21994,6 @@ payload:
   - .track.pnj.com.vn
   - .flx2.pnl.agency
   - .pnperf.com
-  - .pns.org.pk
   - .pnsqsv.com
   - .pntrac.com
   - .pnvtlh.xyz
@@ -22942,7 +22945,6 @@ payload:
   - .shakre.com
   - .shar-m.com
   - .a8clk.shop.shareme.jp
-  - .y.shavsl.com
   - .beacon.shazam.com
   - .shbxugs.cn
   - .shbxukj.cn
@@ -25337,6 +25339,7 @@ payload:
   - .yueesv.icu
   - .a8.yumejin.jp
   - .links.yummly.com
+  - .yuqmok.xyz
   - .yutiqf.icu
   - .yuwqsk.xyz
   - .yuyyio.com
@@ -25637,6 +25640,7 @@ payload:
   - .mvjkbj.2-carat.net
   - .200stran.ru
   - .marketing.2016cle.com
+  - .212ehae.fun
   - .218emo1t.de
   - .dm.21hubei.com
   - .23dhj4q.com
@@ -26929,6 +26933,7 @@ payload:
   - .bestzba.com
   - .betarget.de
   - .ads.betfair.com
+  - .out.betforce.io
   - .betskin.pro
   - .smetrics.bevestor.de
   - .smetrics.preprod.bevestor.de
@@ -28257,6 +28262,7 @@ payload:
   - .dwlmjxf.com
   - .dwnld24.com
   - .dxrnksm.xyz
+  - .dxwksqa.icu
   - .a.dxzy163.com
   - .dy10000.net
   - .dynaads.net
@@ -30039,7 +30045,6 @@ payload:
   - .imp2aff.com
   - .yyrenshe.imshike.com
   - .data-6c57a6137f.imsueden.de
-  - .imtoken8.cc
   - .imvjcds.com
   - .a8clk.inakakon.jp
   - .inalzlo.top
@@ -30396,6 +30401,7 @@ payload:
   - .jnrgcwf.com
   - .jo9p72.cyou
   - .xkbzom.jobblitz.de
+  - .jobcity.com
   - .stat-ssl.jobcube.com
   - .eylnhf.jobhouse.jp
   - .jogdied.com
@@ -36923,6 +36929,7 @@ payload:
   - .91301246.xyz
   - .js.92aliyun.com
   - .9354ee72.xyz
+  - .94597672.xyz
   - .11.96131.com.cn
   - .smetrics.963bigfm.com
   - .96kso.online
@@ -38178,6 +38185,7 @@ payload:
   - .bewathis.com
   - .eb.bewithyou.jp
   - .eezdvg.beyyoglu.com
+  - .bezwtpxx.com
   - .bf-tools.net
   - .bflybplr.xyz
   - .ctp1.bforbank.com
@@ -38504,6 +38512,7 @@ payload:
   - .brookssa.com
   - .browserr.top
   - .analytics.brunch.co.kr
+  - .brutvncv.top
   - .brwsrfrm.com
   - .brygella.com
   - .bsbrcdna.com
@@ -38761,6 +38770,7 @@ payload:
   - .ceekougy.net
   - .ceeleeca.com
   - .ceemoptu.xyz
+  - .ceethipt.com
   - .celebrus.com
   - .bwekoc.celeconc.com
   - .t.cellcept.com
@@ -39038,7 +39048,6 @@ payload:
   - .ab.cnbanbao.com
   - .dm.cnbanbao.com
   - .ms.cnbanbao.com
-  - .server.cnc-kovey.ru
   - .cndcfvmc.com
   - .analytics.cnfanart.com
   - .sanalytics.cnfanart.com
@@ -42248,7 +42257,6 @@ payload:
   - .metrics.joefresh.com
   - .smetrics.joefresh.com
   - .joehacks.com
-  - .joeltrip.com
   - .joereisp.xyz
   - .jofknbpe.xyz
   - .seniorliving.johnknox.com
@@ -44071,6 +44079,7 @@ payload:
   - .nickeeha.net
   - .a8.www.nicosuma.com
   - .a8.shop.nicosuma.com
+  - .ads.nicovideo.jp
   - .astral.nicovideo.jp
   - .log.recommend.nicovideo.jp
   - .nidredra.net
@@ -46665,6 +46674,7 @@ payload:
   - .oms1.sportsnet.ca
   - .track.spothero.com
   - .ablink.emails.spothero.com
+  - .spotible.com
   - .spotmydl.com
   - .spotxcdn.com
   - .spotygen.com
@@ -49883,7 +49893,6 @@ payload:
   - .biowebb-data.s3.amazonaws.com
   - .cloudfront-labs.amazonaws.com
   - .babes-mansion.s3.amazonaws.com
-  - .bbuseruploads.s3.amazonaws.com
   - .sprocket-ping.s3.amazonaws.com
   - .syncplusconfig.s3.amazonaws.com
   - .yieldmo-builds.s3.amazonaws.com
@@ -52147,6 +52156,7 @@ payload:
   - .drust-gnf.com
   - .drvkypkfm.com
   - .sstats.ds-pharma.com
+  - .dsaewew21.fun
   - .marketing.dscdredge.com
   - .dskjbvzvs.com
   - .dsmvkbfzp.com
@@ -55430,7 +55440,6 @@ payload:
   - .media-412.com
   - .media-rep.com
   - .ana.mediable.info
-  - .mediafire.zip
   - .mediafuse.com
   - .mediakash.com
   - .mediakraft.se
@@ -56139,6 +56148,7 @@ payload:
   - .nfctoroxi.xyz
   - .techcombank.ngan-hang.net
   - .ngastatic.com
+  - .ngfycrwwd.com
   - .ngponhtot.xyz
   - .go.ngtvalves.com
   - .ads.nhadatmoi.net
@@ -56970,7 +56980,6 @@ payload:
   - .portsspat.com
   - .positional.ai
   - .activate.post-trib.com
-  - .postaipay.top
   - .postback.info
   - .a8cv.postcoffee.co
   - .postitial.com
@@ -57640,7 +57649,6 @@ payload:
   - .www.said3page.com
   - .secure.said3page.com
   - .saifcrack.com
-  - .sainzim.co.za
   - .saipeevit.net
   - .fgfukd.sakazen.co.jp
   - .stats.sakurasky.com
@@ -59738,6 +59746,7 @@ payload:
   - .wagaloo.co.in
   - .images.notice.wageworks.com
   - .adsnid.wagyushop.com
+  - .waigepsap.net
   - .www.wait8hurl.com
   - .secure.wait8hurl.com
   - .secure.wake4tidy.com
@@ -61766,7 +61775,6 @@ payload:
   - .arkadyczsk.com
   - .arkmedboo.live
   - .smetrics.armadaskis.com
-  - .armanayegh.com
   - .tr.communication.armatis-lc.com
   - .armedgroin.com
   - .arminuntor.com
@@ -64418,6 +64426,7 @@ payload:
   - .stats.coronalabs.com
   - .coronappzz.com
   - .smetrics.cortevents.com
+  - .cosedluteo.com
   - .envyderg.cosmind.online
   - .cosmmcloud.com
   - .a8cv.cosmosfoods.jp
@@ -66000,6 +66009,7 @@ payload:
   - .g0-g3t-msg.net
   - .g0-get-msg.net
   - .g1188506010.co
+  - .g11edashb1.fun
   - .g1584674682.co
   - .g1584674684.co
   - .g1782759015.co
@@ -69393,6 +69403,7 @@ payload:
   - .psurigrabi.com
   - .psurouptoa.com
   - .psvitaapps.com
+  - .ptailadsol.net
   - .ptamselrou.com
   - .ptatexiwhe.com
   - .ptaunsoova.com
@@ -75082,6 +75093,7 @@ payload:
   - .hare.felix-schmid.de
   - .feltatchaiz.net
   - .fkxlsc.fenix-store.com
+  - .ferrmidline.com
   - .feuingcrche.com
   - .fewcupboard.com
   - .ffa-hosting.com
@@ -76818,6 +76830,7 @@ payload:
   - .leskdywzbfk.com
   - .letraoquavn.com
   - .images.one.leumicard.co.il
+  - .lflsoftware.com
   - .lfngqrtheim.com
   - .lgqffscxfqv.com
   - .lhamjcpnpqb.xyz
@@ -78168,6 +78181,7 @@ payload:
   - .peeredfoggy.com
   - .peggyhypoid.com
   - .pejzeexukxo.com
+  - .pekseerdune.xyz
   - .tr.pm.pelhammedia.com
   - .indir.pembepanjur.com
   - .trk.pembertonam.com
@@ -78736,6 +78750,7 @@ payload:
   - .files.rblxshaders.com
   - .rbukrgxwqup.com
   - .rcesigojtwh.com
+  - .rchmupnlifo.xyz
   - .secure.checkout.re-brand-de.com
   - .xml.reachclicks.net
   - .filter.reachclicks.net
@@ -80933,6 +80948,7 @@ payload:
   - .vxlpha.weddingpark.net
   - .weednewspro.com
   - .weeklideals.com
+  - .weensnandow.com
   - .weeprobbery.com
   - .weewhunoamo.xyz
   - .weeworldvip.com
@@ -82600,6 +82616,7 @@ payload:
   - .proxy.ads.canalplus-bo.net
   - .canarytokens.com
   - .omni.cancercenter.com
+  - .cancriberths.com
   - .candiedtouch.com
   - .candypeaches.com
   - .canellecrazy.com
@@ -83330,6 +83347,7 @@ payload:
   - .digitaltarget.ru
   - .shell.dimitrimedia.com
   - .dimmestlasts.top
+  - .dimnaamebous.com
   - .dimnatriazin.com
   - .dimnessslick.com
   - .dinbilgaranti.se
@@ -85562,6 +85580,7 @@ payload:
   - .fheb.podcast.lisameyerson.com
   - .hvoq.podcast.lisameyerson.com
   - .kvxp.podcast.lisameyerson.com
+  - .nrux.podcast.lisameyerson.com
   - .tpbq.podcast.lisameyerson.com
   - .ypqm.podcast.lisameyerson.com
   - .awaco.podcast.lisameyerson.com
@@ -87314,6 +87333,7 @@ payload:
   - .rampageskins.com
   - .randomdnslab.com
   - .randomwowkey.com
+  - .rangergustav.com
   - .ranking-links.de
   - .rapaneaphoma.com
   - .raphanyleman.top
@@ -90976,6 +90996,7 @@ payload:
   - .tracking.christianpost.com
   - .dog.christinamoore.us
   - .marketing.chromachecker.com
+  - .stats.chromatone.center
   - .chronicmirror.com
   - .dhp.parish.chuathuongxot.org
   - .kpe.parish.chuathuongxot.org
@@ -92369,6 +92390,7 @@ payload:
   - .ebis.funai-finance.com
   - .funestjacket.shop
   - .fungamecheats.com
+  - .fungiaoutfame.com
   - .funnyairplane.com
   - .furnishedrely.com
   - .fusionwishful.com
@@ -93227,6 +93249,7 @@ payload:
   - .janitoraccrue.com
   - .data.janvanderstorm.de
   - .japan-shopac.asia
+  - .jatobaviruela.com
   - .jaunty-cancel.pro
   - .jauntycrystal.com
   - .jawinfallible.com
@@ -95115,6 +95138,7 @@ payload:
   - .smetrics.redcrossblood.org
   - .redcrossworld.com
   - .reddenlightly.com
+  - .reddockbedman.com
   - .activate.redeyechicago.com
   - .insight.redflashgroup.com
   - .redirectingat.com
@@ -95393,6 +95417,7 @@ payload:
   - .sclimbwidower.top
   - .info.scoopinsurance.ca
   - .scoredconnect.com
+  - .scotergushing.com
   - .scotizeoperae.com
   - .scrambleocean.com
   - .screenercloud.com
@@ -98462,6 +98487,7 @@ payload:
   - .tr.devize-companeo.ro
   - .devolutionrove.com
   - .dewincubiatoll.com
+  - .dezaleyarmless.com
   - .dgkajwnbrazepe.com
   - .dgodkrsmuilnqk.com
   - .dhl123.motorcycles
@@ -100325,7 +100351,6 @@ payload:
   - .secure.medtroniclearn.com
   - .meet-nowhere12.com
   - .mefestivalbout.com
-  - .megabytemantom.com
   - .megadataupload.com
   - .megadirtyfiles.com
   - .megapolis-hack.com
@@ -101721,6 +101746,7 @@ payload:
   - .sinsigabetaken.top
   - .axp.siouxlandproud.com
   - .a8clk.sirtuinbooster.net
+  - .siruperunlinks.com
   - .site-submit.com.ua
   - .analytics.sixfigureswine.com
   - .analytics.sixtmiddleeast.com
@@ -102071,7 +102097,6 @@ payload:
   - .syllableliking.com
   - .symbolizebeast.com
   - .symiwxemwgxtpj.com
-  - .dxlq.score.symposiumhaiti.com
   - .syndromegarlic.com
   - .synonymousrule.com
   - .syshrugglefor.info
@@ -104153,6 +104178,7 @@ payload:
   - .dosagebreakfast.com
   - .dota2traders.online
   - .smetrics.doujinshi-print.com
+  - .download-chrome.com
   - .downloadconfirm.net
   - .downloadfile123.xyz
   - .downloadfreelab.com
@@ -104275,6 +104301,7 @@ payload:
   - .emulatorxboxone.com
   - .ena-native-ads4.com
   - .encodeinflected.com
+  - .encounterponder.com
   - .encouragingleaf.com
   - .encouragingvase.com
   - .encroachfragile.com
@@ -109274,6 +109301,7 @@ payload:
   - .limpattemptnoose.com
   - .lingrethertantin.com
   - .www.linktasticxquest.com
+  - .linkvilleplayers.org
   - .liondolularhene.info
   - .listenedmusician.com
   - .stats.literacysomerset.org
@@ -112272,10 +112300,7 @@ payload:
   - .ilkj.patent.international-med.com
   - .nzkj.patent.international-med.com
   - .rcyt.patent.international-med.com
-  - .wbnr.patent.international-med.com
-  - .qsjex.patent.international-med.com
   - .unmmx.patent.international-med.com
-  - .uujuk.patent.international-med.com
   - .intersectionweigh.com
   - .smetrics.intertek-etlsemko.com
   - .interworksmedia.co.kr
@@ -113490,7 +113515,6 @@ payload:
   - .tracker.vidamaisnatura.com.br
   - .tracker.vidamaisnatura.net.br
   - .vieclammobile2019.com
-  - .viejolekecikarici.com
   - .p.viennaandbailey.co.nz
   - .vietcombank-credit.tk
   - .vietinbank-online.com
@@ -114705,6 +114729,7 @@ payload:
   - .kikmessengerforpcs.com
   - .kindhearted-winter.pro
   - .kindledrummerhitch.com
+  - .kineticrockburgers.com
   - .kingrecommendation.com
   - .data-47ee1b0882.kinocenter-cuxhaven.de
   - .knobsomebodycheery.com
@@ -117673,6 +117698,7 @@ payload:
   - .brightenpleasurejest.com
   - .broadliquorsecretion.com
   - .broadsheetspikesnick.com
+  - .brutishlylifevoicing.com
   - .buckwheatchipwrinkle.com
   - .buffcenturythreshold.com
   - .bungaloweighteenbore.com
