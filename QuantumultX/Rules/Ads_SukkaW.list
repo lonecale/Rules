@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-08T12:06:48.343Z
-# Size: 124121
+# Last Updated: 2024-09-08T15:34:49.019Z
+# Size: 124122
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11071,7 +11071,6 @@ zhwnlapi.etouch.cn,REJECT
 .ynemmp.goertz.de,REJECT
 .s.gofile.io,REJECT
 .cc.gofile.io,REJECT
-.cold2.gofile.io,REJECT
 .go-test.goflux.de,REJECT
 .ad.gogox.com,REJECT
 .digitalmarketing.gogsg.com,REJECT
@@ -20146,7 +20145,6 @@ events.jianshu.io,REJECT
 .kubrea.com,REJECT
 .kuheju.com,REJECT
 .ywojvu.kujten.com,REJECT
-.1.bdl99down.kukulaa.cn,REJECT
 .oufrqs.kunduz.com,REJECT
 .intelliworker.kupivip.ru,REJECT
 .kuurza.com,REJECT
@@ -22951,7 +22949,6 @@ test.api.xlmc.sandai.net,REJECT
 .shakre.com,REJECT
 .shar-m.com,REJECT
 .a8clk.shop.shareme.jp,REJECT
-.y.shavsl.com,REJECT
 .beacon.shazam.com,REJECT
 .shbxugs.cn,REJECT
 .shbxukj.cn,REJECT
@@ -48859,7 +48856,6 @@ adpublish.ydstatic.com,REJECT
 .yqiavtoy.com,REJECT
 .yrszy.com.cn,REJECT
 .ys3e965d.top,REJECT
-.ysbaojia.com,REJECT
 .yscntxil.com,REJECT
 .ysesials.net,REJECT
 .cv.online.ysroad.co.jp,REJECT
@@ -52165,7 +52161,6 @@ grs.platform.dbankcloud.ru,REJECT
 .doublemax.net,REJECT
 .ad.douga-kan.com,REJECT
 .doujs010.shop,REJECT
-.download.doumaibiji.cn,REJECT
 .doumuleet.net,REJECT
 .douwhawez.com,REJECT
 .down1oads.com,REJECT
@@ -55770,6 +55765,7 @@ i1.services.social.microsoft.com,REJECT
 .ens.moneyhouse.ch,REJECT
 .moneysyst.biz,REJECT
 .somni.moneytips.com,REJECT
+.moninediy.com,REJECT
 .tr.newsletter.monmedium.com,REJECT
 .web.online.monnalisa.com,REJECT
 .mjjvkx.monoprice.com,REJECT
@@ -61907,6 +61903,7 @@ ad.winrar.com.cn,REJECT
 .athbzeobts.com,REJECT
 .athostouco.com,REJECT
 .athvicatfx.com,REJECT
+.atiasado.co.il,REJECT
 .atinternet.com,REJECT
 .share.atlantic.money,REJECT
 .r.atlasearth.com,REJECT
@@ -68712,6 +68709,7 @@ adapi.lenovogame.com,REJECT
 .jb.nockerlmrs.com,REJECT
 .nognoongut.com,REJECT
 .noitdcelol.com,REJECT
+.noithaticon.vn,REJECT
 .nokontoken.com,REJECT
 .noktaglaik.com,REJECT
 .benytv.nomadeshop.com,REJECT
@@ -69527,6 +69525,7 @@ ivy.pchouse.com.cn,REJECT
 .qceedrcwar.com,REJECT
 .qcfkvespkj.com,REJECT
 .qckeumrwft.xyz,REJECT
+.qcollect.co.za,REJECT
 .qcsjmidihe.com,REJECT
 .qdeduzaixe.com,REJECT
 .qe0ckm024b.com,REJECT
@@ -74086,6 +74085,7 @@ logs.chelaile.net.cn,REJECT
 .cnquqbehksc.com,REJECT
 .axp.cnyhomepage.com,REJECT
 .coachquartz.com,REJECT
+.coadymarine.com,REJECT
 .traffic.prod.cobaltgroup.com,REJECT
 .cocfreegems.net,REJECT
 .cocklystats.top,REJECT
@@ -95270,6 +95270,7 @@ plausible.joincommunity.xyz,REJECT
 .retargeter.com.br,REJECT
 .retillbicycle.top,REJECT
 .retinaesprent.com,REJECT
+.reusable-flex.com,REJECT
 .info.reutersagency.com,REJECT
 .revenuemantra.com,REJECT
 .revenuestripe.com,REJECT
@@ -114858,6 +114859,7 @@ display.360totalsecurity.com,REJECT
 .luggagebuttonlocum.com,REJECT
 .tk.lulli-sur-la-toile.com,REJECT
 .mqjpkx.lulli-sur-la-toile.com,REJECT
+.luxurypropertiesfl.com,REJECT
 .trk.luxurytravelcanada.org,REJECT
 .machineryvegetable.com,REJECT
 .madden16coinglitch.com,REJECT
@@ -116832,6 +116834,7 @@ display.360totalsecurity.com,REJECT
 .mexicantransmission.com,REJECT
 .tracking.mhealthintelligence.com,REJECT
 .michiganrobotflower.com,REJECT
+.microsecurityupdate.com,REJECT
 .midgerelativelyhoax.com,REJECT
 .migrantacknowledged.com,REJECT
 .migrantfarewellmoan.com,REJECT
@@ -118055,7 +118058,6 @@ display.360totalsecurity.com,REJECT
 .path.financialhelpamerica.com,REJECT
 .findhalalrestaurants.com,REJECT
 .fingernaildevastated.com,REJECT
-.firstviewautoservice.com,REJECT
 .tr.news.flandrintechnologies.com,REJECT
 .fleddatabaseclothing.com,REJECT
 .smetrics.fleetcardapplication.com,REJECT
@@ -121949,7 +121951,6 @@ samsungcloudsolution.net,REJECT
 .animosityknockedgorgeous.com,REJECT
 .antidotesexualityorderly.com,REJECT
 .apologiesbackyardbayonet.com,REJECT
-.arabcomputersupportgroup.com,REJECT
 .archedmagnifylegislation.com,REJECT
 .arenalitteraccommodation.com,REJECT
 .articulatefootwearmumble.com,REJECT
