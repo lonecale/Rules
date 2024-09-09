@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-08T15:34:49.019Z
-# Size: 124122
+# Last Updated: 2024-09-08T21:37:07.125Z
+# Size: 124127
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9944,11 +9944,13 @@ ecmc.bdimg.com,REJECT
 .1208344341.rsc.cdn77.org,REJECT
 .1363394706.rsc.cdn77.org,REJECT
 .1437953666.rsc.cdn77.org,REJECT
+.1450691516.rsc.cdn77.org,REJECT
 .1480876790.rsc.cdn77.org,REJECT
 .1529462937.rsc.cdn77.org,REJECT
 .1548164934.rsc.cdn77.org,REJECT
 .1558334541.rsc.cdn77.org,REJECT
 .1588341617.rsc.cdn77.org,REJECT
+.1607162747.rsc.cdn77.org,REJECT
 .1675450967.rsc.cdn77.org,REJECT
 .1736253261.rsc.cdn77.org,REJECT
 .1918837748.rsc.cdn77.org,REJECT
@@ -14443,6 +14445,7 @@ stats.umsns.com,REJECT
 .utl-1.com,REJECT
 .app.utlob.com,REJECT
 .app-test.utlob.com,REJECT
+.uuajq.top,REJECT
 .uuaoy.com,REJECT
 .uvcwj.com,REJECT
 .uzljra.ru,REJECT
@@ -43830,6 +43833,7 @@ mgepodownload.mediatek.com,REJECT
 .muoizbtl.xyz,REJECT
 .muraubse.com,REJECT
 .muriheem.net,REJECT
+.murtbgab.com,REJECT
 .em6802.musesapp.com,REJECT
 .ads.museum.or.jp,REJECT
 .lp.musicpix.pro,REJECT
@@ -74580,6 +74584,7 @@ grs.dbankcloud.asia,REJECT
 .marketing.digitalvega.com,REJECT
 .stats-factory.digitregroup.io,REJECT
 .dignityprop.com,REJECT
+.diixqvrpoqs.com,REJECT
 .dikeaxillas.com,REJECT
 .ojhwie.dimanoinmano.it,REJECT
 .dinerinvite.com,REJECT
