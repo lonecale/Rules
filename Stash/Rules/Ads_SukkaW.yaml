@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-09T17:10:26.165Z
-  # Size: 124317
+  # Last Updated: 2024-09-10T12:38:36.726Z
+  # Size: 124371
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -6308,6 +6308,7 @@ payload:
   - .ad.iwhop.cn
   - .tracking.iwhop.cn
   - .iwuh.org
+  - .jitsu.ixbt.com
   - .cvhefd.ixbt.com
   - .ixnp.com
   - .iykig.cn
@@ -17547,6 +17548,7 @@ payload:
   - .ab.cumhot.org
   - .ads.cungcau.vn
   - .shtptt.cupshe.com
+  - .pub-referral-widget.current.us
   - .experts.cutter.com
   - .cuvtnzv.cn
   - .mdws.cvcu.bc.ca
@@ -18665,6 +18667,7 @@ payload:
   - .frosmo.com
   - .frsuli.com
   - .frvfrv.com
+  - .fsdf45.fun
   - .fsmhub.icu
   - .fspddt.xyz
   - .v3.fstats.xyz
@@ -19401,6 +19404,7 @@ payload:
   - .live.hyprmx.com
   - .static.hyprmx.com
   - .dependable-s.hyster.com
+  - .hyth74.fun
   - .hytxg2.com
   - .hzhyhm.com
   - .hznaxah.cn
@@ -20243,6 +20247,7 @@ payload:
   - .kwtrdd.com
   - .kwtyuv.com
   - .kwumme.xyz
+  - .kwyamu.xyz
   - .kxshyo.com
   - .kxxfdwt.cn
   - .kyaj11.com
@@ -20436,6 +20441,7 @@ payload:
   - .liuyi22.cn
   - .creative.live7mm.tv
   - .liveads.jp
+  - .unleash.livepix.gg
   - .livexxx.me
   - .lividn.com
   - .oxizwk.livique.ch
@@ -22238,6 +22244,7 @@ payload:
   - .ptdofj.xyz
   - .measure.pti.com.vn
   - .bilbo.pu2go.wiki
+  - .puabvo.com
   - .puata.info
   - .pubadx.one
   - .stats.pubfind.io
@@ -23643,6 +23650,7 @@ payload:
   - .tcvmtp.xyz
   - .nexus.tdbank.com
   - .click.e.tdbank.com
+  - .tdfqvx.xyz
   - .tdhlmto.cn
   - .tdhnxf.xyz
   - .tdhserg.cn
@@ -26461,6 +26469,7 @@ payload:
   - .info.allango.net
   - .ubrihx.allbirds.jp
   - .message.alldata.com
+  - .stats.allenai.org
   - .allhack.net
   - .insurance.alliant.com
   - .marketing.alliant.com
@@ -26922,6 +26931,7 @@ payload:
   - .logger.baofeng.com
   - .houyi.baofeng.net
   - .moviebox.baofeng.net
+  - .bapa215.top
   - .bapdvtk.com
   - .syycwa.barcelo.com
   - .oms.barrons.com
@@ -29752,6 +29762,7 @@ payload:
   - .hdbkell.com
   - .hdbkome.com
   - .hdfn.online
+  - .hdickeu.top
   - .hdjfeed.top
   - .hdoshbu.top
   - .hdqndkf.com
@@ -30132,6 +30143,7 @@ payload:
   - .wfffzb.iheal.co.kr
   - .ihgatms.cfd
   - .ihnhnpz.com
+  - .ihssdas.icu
   - .ii9g0qj9.de
   - .iinzwyd.com
   - .marketing.iip-llc.net
@@ -37003,6 +37015,7 @@ payload:
   - .31daa5lnq.de
   - .31def61c3.de
   - .333lotte.com
+  - .33848102.xyz
   - .33across.com
   - .3604free.com
   - .softdl.360tpcdn.com
@@ -37045,6 +37058,7 @@ payload:
   - .54eeeadb.xyz
   - .555lotte.com
   - .56514411.xyz
+  - .595image.com
   - .5ab2f817.xyz
   - .5afc476a.xyz
   - .5cc3ac02.xyz
@@ -43087,6 +43101,7 @@ payload:
   - .wvlirb.lexoffice.de
   - .img1.leyun365.com
   - .pywiia.lfmall.co.kr
+  - .lfrdskwj.icu
   - .lfxkgdvf.com
   - .ad.lgappstv.com
   - .ibs.lgappstv.com
@@ -47241,6 +47256,7 @@ payload:
   - .tberjonk.com
   - .tburmyor.com
   - .ebis-tracking.tcb-mito.com
+  - .uilogging.tcdevops.com
   - .tcdyjyrj.com
   - .tcheeter.com
   - .tcjulvon.com
@@ -48838,6 +48854,7 @@ payload:
   - .xlypzbzs.xyz
   - .xmllover.com
   - .xmqmuitc.com
+  - .xnbuapwp.icu
   - .xnfhxszj.xyz
   - .xnqwuwlq.org
   - .xnysqiur.com
@@ -53288,6 +53305,7 @@ payload:
   - .track.funplusjo.com
   - .funshared.com
   - .funtoday.info
+  - .fuphekaur.net
   - .love.furenkeji.com
   - .furrydrop.com
   - .furrydrop.net
@@ -57491,6 +57509,7 @@ payload:
   - .secure.raab3frog.com
   - .rabatprint.ma
   - .info.rackforce.com
+  - .racygirlq.com
   - .data-ee807be806.radioessen.de
   - .data-fdf4690b14.radioessen.de
   - .data-fdf4690b14.radiohagen.de
@@ -60344,6 +60363,7 @@ payload:
   - .xmultiply.pro
   - .xnvdigrbb.com
   - .xobr219pa.com
+  - .xoilactvcj.cc
   - .t.xolairhcp.com
   - .t-s.xolairhcp.com
   - .metrics.xolairhcp.com
@@ -60839,7 +60859,7 @@ payload:
   - .a55a75a9fc.2bfb6da60b.com
   - .db68da1d1a.2c5d30b6f1.com
   - .2d283cecd5.com
-  - .ccffeff137.2d439ab93e.com
+  - .2d439ab93e.com
   - .1dc651d70c.2d5c3a63b2.com
   - .9c3fa7532b.2da69cc358.com
   - .2de65ef3dd.com
@@ -65546,26 +65566,6 @@ payload:
   - .legalhold.ediscovery.com
   - .gazelle.editorclub.com
   - .ediuschina.com
-  - .follow.edmontonppc.ca
-  - .onupnu.edreams.com.au
-  - .xqncvy.edreams.com.mx
-  - .edrubyglo.buzz
-  - .edua29146y.com
-  - .edwfdhkgnx.com
-  - .ac2e1eb9bd.ee4f80c11d.com
-  - .ee625e4b1d.com
-  - .61726745d5.ee717332bb.com
-  - .eeab79bf10.com
-  - .eecd179r3b.com
-  - .info.eecoonline.com
-  - .a2712396a5.eed795c63c.com
-  - .eefa308edc.com
-  - .eegroosoad.com
-  - .eephoawaum.com
-  - .eeycumpmwy.com
-  - .de97a02584.efb566d3fe.com
-  - .effaceecho.com
-  - .effectfree.net
   - .atom-log.3.cn
   - .kzsisc.3.dk
   - .mit3app.3.dk
@@ -71844,6 +71844,7 @@ payload:
   - .ad.iwhop.cn
   - .tracking.iwhop.cn
   - .iwuh.org
+  - .jitsu.ixbt.com
   - .cvhefd.ixbt.com
   - .ixnp.com
   - .iykig.cn
@@ -83083,6 +83084,7 @@ payload:
   - .ab.cumhot.org
   - .ads.cungcau.vn
   - .shtptt.cupshe.com
+  - .pub-referral-widget.current.us
   - .experts.cutter.com
   - .cuvtnzv.cn
   - .mdws.cvcu.bc.ca
@@ -84201,6 +84203,7 @@ payload:
   - .frosmo.com
   - .frsuli.com
   - .frvfrv.com
+  - .fsdf45.fun
   - .fsmhub.icu
   - .fspddt.xyz
   - .v3.fstats.xyz
@@ -84937,6 +84940,7 @@ payload:
   - .live.hyprmx.com
   - .static.hyprmx.com
   - .dependable-s.hyster.com
+  - .hyth74.fun
   - .hytxg2.com
   - .hzhyhm.com
   - .hznaxah.cn
@@ -85779,6 +85783,7 @@ payload:
   - .kwtrdd.com
   - .kwtyuv.com
   - .kwumme.xyz
+  - .kwyamu.xyz
   - .kxshyo.com
   - .kxxfdwt.cn
   - .kyaj11.com
@@ -85972,6 +85977,7 @@ payload:
   - .liuyi22.cn
   - .creative.live7mm.tv
   - .liveads.jp
+  - .unleash.livepix.gg
   - .livexxx.me
   - .lividn.com
   - .oxizwk.livique.ch
@@ -87774,6 +87780,7 @@ payload:
   - .ptdofj.xyz
   - .measure.pti.com.vn
   - .bilbo.pu2go.wiki
+  - .puabvo.com
   - .puata.info
   - .pubadx.one
   - .stats.pubfind.io
@@ -89179,6 +89186,7 @@ payload:
   - .tcvmtp.xyz
   - .nexus.tdbank.com
   - .click.e.tdbank.com
+  - .tdfqvx.xyz
   - .tdhlmto.cn
   - .tdhnxf.xyz
   - .tdhserg.cn
@@ -91997,6 +92005,7 @@ payload:
   - .info.allango.net
   - .ubrihx.allbirds.jp
   - .message.alldata.com
+  - .stats.allenai.org
   - .allhack.net
   - .insurance.alliant.com
   - .marketing.alliant.com
@@ -92458,6 +92467,7 @@ payload:
   - .logger.baofeng.com
   - .houyi.baofeng.net
   - .moviebox.baofeng.net
+  - .bapa215.top
   - .bapdvtk.com
   - .syycwa.barcelo.com
   - .oms.barrons.com
@@ -95288,6 +95298,7 @@ payload:
   - .hdbkell.com
   - .hdbkome.com
   - .hdfn.online
+  - .hdickeu.top
   - .hdjfeed.top
   - .hdoshbu.top
   - .hdqndkf.com
@@ -95668,6 +95679,7 @@ payload:
   - .wfffzb.iheal.co.kr
   - .ihgatms.cfd
   - .ihnhnpz.com
+  - .ihssdas.icu
   - .ii9g0qj9.de
   - .iinzwyd.com
   - .marketing.iip-llc.net
@@ -102539,6 +102551,7 @@ payload:
   - .31daa5lnq.de
   - .31def61c3.de
   - .333lotte.com
+  - .33848102.xyz
   - .33across.com
   - .3604free.com
   - .softdl.360tpcdn.com
@@ -102581,6 +102594,7 @@ payload:
   - .54eeeadb.xyz
   - .555lotte.com
   - .56514411.xyz
+  - .595image.com
   - .5ab2f817.xyz
   - .5afc476a.xyz
   - .5cc3ac02.xyz
@@ -108623,6 +108637,7 @@ payload:
   - .wvlirb.lexoffice.de
   - .img1.leyun365.com
   - .pywiia.lfmall.co.kr
+  - .lfrdskwj.icu
   - .lfxkgdvf.com
   - .ad.lgappstv.com
   - .ibs.lgappstv.com
@@ -112777,6 +112792,7 @@ payload:
   - .tberjonk.com
   - .tburmyor.com
   - .ebis-tracking.tcb-mito.com
+  - .uilogging.tcdevops.com
   - .tcdyjyrj.com
   - .tcheeter.com
   - .tcjulvon.com
@@ -114374,6 +114390,7 @@ payload:
   - .xlypzbzs.xyz
   - .xmllover.com
   - .xmqmuitc.com
+  - .xnbuapwp.icu
   - .xnfhxszj.xyz
   - .xnqwuwlq.org
   - .xnysqiur.com
@@ -118824,6 +118841,7 @@ payload:
   - .track.funplusjo.com
   - .funshared.com
   - .funtoday.info
+  - .fuphekaur.net
   - .love.furenkeji.com
   - .furrydrop.com
   - .furrydrop.net
@@ -123027,6 +123045,7 @@ payload:
   - .secure.raab3frog.com
   - .rabatprint.ma
   - .info.rackforce.com
+  - .racygirlq.com
   - .data-ee807be806.radioessen.de
   - .data-fdf4690b14.radioessen.de
   - .data-fdf4690b14.radiohagen.de
@@ -124346,4 +124365,39 @@ payload:
   - .syntetech.com
   - .eloqua.syslog-ng.com
   - .marketing.systancia.com
+  - .sywarcjmy.xyz
+  - .syyzbelmw.com
+  - .data-a4e945dbeb.sz-auktion.de
+  - .szbnnqyqn.com
+  - .szlipubod.com
+  - .szpabffpr.com
+  - .szvnmktrk.com
+  - .marketing.t2systems.com
+  - .marketing.t4media.co.uk
+  - .t7cp4fldl.com
+  - .t7tli5r8t.com
+  - .t8mbwgbjn.com
+  - .a8.tabechoku.com
+  - .dl.tablelist.com
+  - .dl-dev.tablelist.com
+  - .smetrics.tackntogs.com
+  - .tafimedia.com
+  - .tafmaster.com
+  - .blog.tagcentral.fr
+  - .data-nl.tageskarte.io
+  - .data-f5d00c1ea1.tageskarte.io
+  - .tagmanager.cn
+  - .tagtree.co.kr
+  - .partner.tahnabranu.cz
+  - .ferret.tailgraph.com
+  - .gotest.taillight.com
+  - .goat.tailspace.net
+  - .tailsweep.com
+  - .taixiumomo.me
+  - .takehacks.com
+  - .takemydesk.co
+  - .cashback.takhfifan.com
+  - .takingpot.com
+  - .swwcyk.takvim.com.tr
+  - .talazywho.pro
   ################## EOF ##################
