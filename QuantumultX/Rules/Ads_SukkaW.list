@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-11T14:31:36.052Z
-# Size: 123829
+# Last Updated: 2024-09-12T12:36:47.430Z
+# Size: 123853
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12060,7 +12060,6 @@ snap.licdn.com,REJECT
 .ljr3.site,REJECT
 .llmxt.fun,REJECT
 .tmz.vo.llnwd.net,REJECT
-.kjos.vo.llnwd.net,REJECT
 .wdig.vo.llnwd.net,REJECT
 .abbott.vo.llnwd.net,REJECT
 .appnext.hs.llnwd.net,REJECT
@@ -19540,6 +19539,7 @@ zuimeitianqi.inveno.com,REJECT
 .iummqg.xyz,REJECT
 .iupgxu.com,REJECT
 .iuqasw.xyz,REJECT
+.iuuwuk.xyz,REJECT
 .iuwzdf.com,REJECT
 .ivanie.com,REJECT
 .tracking.info.ivanti.com,REJECT
@@ -19792,6 +19792,7 @@ events.jianshu.io,REJECT
 .jwpltx.com,REJECT
 .jwwhsqz.ru,REJECT
 .jxeyhgw.cn,REJECT
+.jxjpnd.xyz,REJECT
 .jxpjlb.xyz,REJECT
 .jy147a.com,REJECT
 .jyewkb.icu,REJECT
@@ -22286,7 +22287,7 @@ access-sngapm.qcloud.com,REJECT
 .raw-co.com,REJECT
 .rawasy.com,REJECT
 .rawmtft.cn,REJECT
-.cdn.rawqel.com,REJECT
+.rawqel.com,REJECT
 .raylnk.com,REJECT
 .e.raytek.com,REJECT
 .metrics.rbcgam.com,REJECT
@@ -23899,6 +23900,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .ugtbit.icu,REJECT
 .ugyeon.com,REJECT
 .ugyyod.com,REJECT
+.uhuf56.fun,REJECT
 .uiatkc.xyz,REJECT
 .uicdns.xyz,REJECT
 .uidapi.com,REJECT
@@ -30096,6 +30098,7 @@ log.v2.hunantv.com,REJECT
 .jcrnbnw.com,REJECT
 .play.jdb888.club,REJECT
 .jdhanec.com,REJECT
+.jdickea.top,REJECT
 .jditera.top,REJECT
 .jdoeknc.com,REJECT
 .jdoqocy.com,REJECT
@@ -30856,6 +30859,7 @@ lgtvsdp.com,REJECT
 .lsgpxqe.com,REJECT
 .lsgwkbk.com,REJECT
 .lsyliel.top,REJECT
+.ltapsxz.xyz,REJECT
 .ltassrv.com,REJECT
 .ltcdrop.com,REJECT
 .stats.ltdhunt.com,REJECT
@@ -34653,6 +34657,7 @@ susapi.dev.surepush.cn,REJECT
 .dujgiq.trendhim.pl,REJECT
 .mtlsyk.trendhim.ro,REJECT
 .ktbdxs.trendhim.se,REJECT
+.js.trendmd.com,REJECT
 .collector.trendmd.com,REJECT
 .trenhdg.com,REJECT
 .stats.trenntoi.de,REJECT
@@ -35014,6 +35019,7 @@ ga.utilapi.bid,REJECT
 .uyjxzvu.com,REJECT
 .uyretut.top,REJECT
 .uyuwkbt.top,REJECT
+.uyyquln.icu,REJECT
 .open.uzitapp.com,REJECT
 .static.uzlifat.com,REJECT
 .uzrxoxd.xyz,REJECT
@@ -35085,6 +35091,7 @@ ga.utilapi.bid,REJECT
 .www.vcrnads.com,REJECT
 .vczypss.com,REJECT
 .vdoqomz.icu,REJECT
+.vdsdsf2.fun,REJECT
 .vebo123.vip,REJECT
 .vebo8386.me,REJECT
 .vecggfp.icu,REJECT
@@ -36579,6 +36586,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .smetric.4imprint.com,REJECT
 .content.4teamwork.ch,REJECT
 .54019033.xyz,REJECT
+.54199287.xyz,REJECT
 .54eeeadb.xyz,REJECT
 .555lotte.com,REJECT
 .56514411.xyz,REJECT
@@ -44299,6 +44307,7 @@ geolocation.onetrust.com,REJECT
 .partneri.oportskem.cz,REJECT
 .share.oppvenuz.com,REJECT
 .sharelink.oppvenuz.com,REJECT
+.opqhihiw.com,REJECT
 .opsaupsa.com,REJECT
 .opsookiz.net,REJECT
 .opsoomet.net,REJECT
@@ -53354,6 +53363,7 @@ v2.fm.n.duokanbox.com,REJECT
 .hackzones.com,REJECT
 .hackzonne.net,REJECT
 .hadtwobr.info,REJECT
+.hafonmadp.com,REJECT
 .smetrics.hagerty.co.uk,REJECT
 .www.haig7anax.com,REJECT
 .secure.haig7anax.com,REJECT
@@ -60306,7 +60316,7 @@ ad.winrar.com.cn,REJECT
 .2619374464.com,REJECT
 .3f2c49ab2d.265641f673.com,REJECT
 .6e8db01a49.26c42ca1c2.com,REJECT
-.dd18d2814e.26ea4af114.com,REJECT
+.26ea4af114.com,REJECT
 .45d31559c9.26fc91ec79.com,REJECT
 .000bff278d.275a93755c.com,REJECT
 .2799f73c61.com,REJECT
@@ -64865,6 +64875,7 @@ tracker.didiglobal.com,REJECT
 .ducubchooa.com,REJECT
 .dudemobile.net,REJECT
 .dufjgdjeyo.com,REJECT
+.duhthvtcgp.com,REJECT
 .dujcubbzog.com,REJECT
 .dukirliaon.com,REJECT
 .duluoweiyu.com,REJECT
@@ -65061,6 +65072,7 @@ tracker.didiglobal.com,REJECT
 .metrics.egencia.com.au,REJECT
 .metrics.egencia.com.hk,REJECT
 .metrics.egencia.com.sg,REJECT
+.egesdashb8.fun,REJECT
 .egllhcnwro.com,REJECT
 .data-770ef2669c.egovernment.de,REJECT
 .ehokeeshex.com,REJECT
@@ -65553,18 +65565,6 @@ tracker.didiglobal.com,REJECT
 .first-rate.com,REJECT
 .track.firstcopy.site,REJECT
 .firstfrogs.com,REJECT
-.fistdoggie.com,REJECT
-.fistofzeus.com,REJECT
-.fitcenterz.com,REJECT
-.fitmessage.com,REJECT
-.uzjjhl.fitnesslook.ru,REJECT
-.a8clk.www.fitnessshop.jp,REJECT
-.fitthings.info,REJECT
-.fixcounter.com,REJECT
-.track.fixit-wiki.com,REJECT
-.fjdpdcdndc.com,REJECT
-.fkbwtoopwg.com,REJECT
-.fkecheotlf.com,REJECT
 .atom-log.3.cn,REJECT
 .kzsisc.3.dk,REJECT
 .mit3app.3.dk,REJECT
@@ -77596,7 +77596,6 @@ snap.licdn.com,REJECT
 .ljr3.site,REJECT
 .llmxt.fun,REJECT
 .tmz.vo.llnwd.net,REJECT
-.kjos.vo.llnwd.net,REJECT
 .wdig.vo.llnwd.net,REJECT
 .abbott.vo.llnwd.net,REJECT
 .appnext.hs.llnwd.net,REJECT
@@ -85076,6 +85075,7 @@ zuimeitianqi.inveno.com,REJECT
 .iummqg.xyz,REJECT
 .iupgxu.com,REJECT
 .iuqasw.xyz,REJECT
+.iuuwuk.xyz,REJECT
 .iuwzdf.com,REJECT
 .ivanie.com,REJECT
 .tracking.info.ivanti.com,REJECT
@@ -85328,6 +85328,7 @@ events.jianshu.io,REJECT
 .jwpltx.com,REJECT
 .jwwhsqz.ru,REJECT
 .jxeyhgw.cn,REJECT
+.jxjpnd.xyz,REJECT
 .jxpjlb.xyz,REJECT
 .jy147a.com,REJECT
 .jyewkb.icu,REJECT
@@ -87822,7 +87823,7 @@ access-sngapm.qcloud.com,REJECT
 .raw-co.com,REJECT
 .rawasy.com,REJECT
 .rawmtft.cn,REJECT
-.cdn.rawqel.com,REJECT
+.rawqel.com,REJECT
 .raylnk.com,REJECT
 .e.raytek.com,REJECT
 .metrics.rbcgam.com,REJECT
@@ -89435,6 +89436,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .ugtbit.icu,REJECT
 .ugyeon.com,REJECT
 .ugyyod.com,REJECT
+.uhuf56.fun,REJECT
 .uiatkc.xyz,REJECT
 .uicdns.xyz,REJECT
 .uidapi.com,REJECT
@@ -95632,6 +95634,7 @@ log.v2.hunantv.com,REJECT
 .jcrnbnw.com,REJECT
 .play.jdb888.club,REJECT
 .jdhanec.com,REJECT
+.jdickea.top,REJECT
 .jditera.top,REJECT
 .jdoeknc.com,REJECT
 .jdoqocy.com,REJECT
@@ -96392,6 +96395,7 @@ lgtvsdp.com,REJECT
 .lsgpxqe.com,REJECT
 .lsgwkbk.com,REJECT
 .lsyliel.top,REJECT
+.ltapsxz.xyz,REJECT
 .ltassrv.com,REJECT
 .ltcdrop.com,REJECT
 .stats.ltdhunt.com,REJECT
@@ -100189,6 +100193,7 @@ susapi.dev.surepush.cn,REJECT
 .dujgiq.trendhim.pl,REJECT
 .mtlsyk.trendhim.ro,REJECT
 .ktbdxs.trendhim.se,REJECT
+.js.trendmd.com,REJECT
 .collector.trendmd.com,REJECT
 .trenhdg.com,REJECT
 .stats.trenntoi.de,REJECT
@@ -100550,6 +100555,7 @@ ga.utilapi.bid,REJECT
 .uyjxzvu.com,REJECT
 .uyretut.top,REJECT
 .uyuwkbt.top,REJECT
+.uyyquln.icu,REJECT
 .open.uzitapp.com,REJECT
 .static.uzlifat.com,REJECT
 .uzrxoxd.xyz,REJECT
@@ -100621,6 +100627,7 @@ ga.utilapi.bid,REJECT
 .www.vcrnads.com,REJECT
 .vczypss.com,REJECT
 .vdoqomz.icu,REJECT
+.vdsdsf2.fun,REJECT
 .vebo123.vip,REJECT
 .vebo8386.me,REJECT
 .vecggfp.icu,REJECT
@@ -102115,6 +102122,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .smetric.4imprint.com,REJECT
 .content.4teamwork.ch,REJECT
 .54019033.xyz,REJECT
+.54199287.xyz,REJECT
 .54eeeadb.xyz,REJECT
 .555lotte.com,REJECT
 .56514411.xyz,REJECT
@@ -109835,6 +109843,7 @@ geolocation.onetrust.com,REJECT
 .partneri.oportskem.cz,REJECT
 .share.oppvenuz.com,REJECT
 .sharelink.oppvenuz.com,REJECT
+.opqhihiw.com,REJECT
 .opsaupsa.com,REJECT
 .opsookiz.net,REJECT
 .opsoomet.net,REJECT
@@ -118890,6 +118899,7 @@ v2.fm.n.duokanbox.com,REJECT
 .hackzones.com,REJECT
 .hackzonne.net,REJECT
 .hadtwobr.info,REJECT
+.hafonmadp.com,REJECT
 .smetrics.hagerty.co.uk,REJECT
 .www.haig7anax.com,REJECT
 .secure.haig7anax.com,REJECT
@@ -123857,4 +123867,18 @@ sousuo.xm.sjzhushou.com,REJECT
 .t8mbwgbjn.com,REJECT
 .a8.tabechoku.com,REJECT
 .dl.tablelist.com,REJECT
+.dl-dev.tablelist.com,REJECT
+.smetrics.tackntogs.com,REJECT
+.tafimedia.com,REJECT
+.tafmaster.com,REJECT
+.blog.tagcentral.fr,REJECT
+.data-nl.tageskarte.io,REJECT
+.data-f5d00c1ea1.tageskarte.io,REJECT
+.tagmanager.cn,REJECT
+.tagtree.co.kr,REJECT
+.partner.tahnabranu.cz,REJECT
+.ferret.tailgraph.com,REJECT
+.gotest.taillight.com,REJECT
+.goat.tailspace.net,REJECT
+.tailsweep.com,REJECT
 ################## EOF ##################

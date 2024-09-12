@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-11T14:31:36.052Z
-  # Size: 123829
+  # Last Updated: 2024-09-12T12:36:47.430Z
+  # Size: 123853
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -12061,7 +12061,6 @@ payload:
   - .ljr3.site
   - .llmxt.fun
   - .tmz.vo.llnwd.net
-  - .kjos.vo.llnwd.net
   - .wdig.vo.llnwd.net
   - .abbott.vo.llnwd.net
   - .appnext.hs.llnwd.net
@@ -19541,6 +19540,7 @@ payload:
   - .iummqg.xyz
   - .iupgxu.com
   - .iuqasw.xyz
+  - .iuuwuk.xyz
   - .iuwzdf.com
   - .ivanie.com
   - .tracking.info.ivanti.com
@@ -19793,6 +19793,7 @@ payload:
   - .jwpltx.com
   - .jwwhsqz.ru
   - .jxeyhgw.cn
+  - .jxjpnd.xyz
   - .jxpjlb.xyz
   - .jy147a.com
   - .jyewkb.icu
@@ -22287,7 +22288,7 @@ payload:
   - .raw-co.com
   - .rawasy.com
   - .rawmtft.cn
-  - .cdn.rawqel.com
+  - .rawqel.com
   - .raylnk.com
   - .e.raytek.com
   - .metrics.rbcgam.com
@@ -23900,6 +23901,7 @@ payload:
   - .ugtbit.icu
   - .ugyeon.com
   - .ugyyod.com
+  - .uhuf56.fun
   - .uiatkc.xyz
   - .uicdns.xyz
   - .uidapi.com
@@ -30097,6 +30099,7 @@ payload:
   - .jcrnbnw.com
   - .play.jdb888.club
   - .jdhanec.com
+  - .jdickea.top
   - .jditera.top
   - .jdoeknc.com
   - .jdoqocy.com
@@ -30857,6 +30860,7 @@ payload:
   - .lsgpxqe.com
   - .lsgwkbk.com
   - .lsyliel.top
+  - .ltapsxz.xyz
   - .ltassrv.com
   - .ltcdrop.com
   - .stats.ltdhunt.com
@@ -34654,6 +34658,7 @@ payload:
   - .dujgiq.trendhim.pl
   - .mtlsyk.trendhim.ro
   - .ktbdxs.trendhim.se
+  - .js.trendmd.com
   - .collector.trendmd.com
   - .trenhdg.com
   - .stats.trenntoi.de
@@ -35015,6 +35020,7 @@ payload:
   - .uyjxzvu.com
   - .uyretut.top
   - .uyuwkbt.top
+  - .uyyquln.icu
   - .open.uzitapp.com
   - .static.uzlifat.com
   - .uzrxoxd.xyz
@@ -35086,6 +35092,7 @@ payload:
   - .www.vcrnads.com
   - .vczypss.com
   - .vdoqomz.icu
+  - .vdsdsf2.fun
   - .vebo123.vip
   - .vebo8386.me
   - .vecggfp.icu
@@ -36580,6 +36587,7 @@ payload:
   - .smetric.4imprint.com
   - .content.4teamwork.ch
   - .54019033.xyz
+  - .54199287.xyz
   - .54eeeadb.xyz
   - .555lotte.com
   - .56514411.xyz
@@ -44300,6 +44308,7 @@ payload:
   - .partneri.oportskem.cz
   - .share.oppvenuz.com
   - .sharelink.oppvenuz.com
+  - .opqhihiw.com
   - .opsaupsa.com
   - .opsookiz.net
   - .opsoomet.net
@@ -53355,6 +53364,7 @@ payload:
   - .hackzones.com
   - .hackzonne.net
   - .hadtwobr.info
+  - .hafonmadp.com
   - .smetrics.hagerty.co.uk
   - .www.haig7anax.com
   - .secure.haig7anax.com
@@ -60307,7 +60317,7 @@ payload:
   - .2619374464.com
   - .3f2c49ab2d.265641f673.com
   - .6e8db01a49.26c42ca1c2.com
-  - .dd18d2814e.26ea4af114.com
+  - .26ea4af114.com
   - .45d31559c9.26fc91ec79.com
   - .000bff278d.275a93755c.com
   - .2799f73c61.com
@@ -64866,6 +64876,7 @@ payload:
   - .ducubchooa.com
   - .dudemobile.net
   - .dufjgdjeyo.com
+  - .duhthvtcgp.com
   - .dujcubbzog.com
   - .dukirliaon.com
   - .duluoweiyu.com
@@ -65062,6 +65073,7 @@ payload:
   - .metrics.egencia.com.au
   - .metrics.egencia.com.hk
   - .metrics.egencia.com.sg
+  - .egesdashb8.fun
   - .egllhcnwro.com
   - .data-770ef2669c.egovernment.de
   - .ehokeeshex.com
@@ -65554,18 +65566,6 @@ payload:
   - .first-rate.com
   - .track.firstcopy.site
   - .firstfrogs.com
-  - .fistdoggie.com
-  - .fistofzeus.com
-  - .fitcenterz.com
-  - .fitmessage.com
-  - .uzjjhl.fitnesslook.ru
-  - .a8clk.www.fitnessshop.jp
-  - .fitthings.info
-  - .fixcounter.com
-  - .track.fixit-wiki.com
-  - .fjdpdcdndc.com
-  - .fkbwtoopwg.com
-  - .fkecheotlf.com
   - .atom-log.3.cn
   - .kzsisc.3.dk
   - .mit3app.3.dk
@@ -77597,7 +77597,6 @@ payload:
   - .ljr3.site
   - .llmxt.fun
   - .tmz.vo.llnwd.net
-  - .kjos.vo.llnwd.net
   - .wdig.vo.llnwd.net
   - .abbott.vo.llnwd.net
   - .appnext.hs.llnwd.net
@@ -85077,6 +85076,7 @@ payload:
   - .iummqg.xyz
   - .iupgxu.com
   - .iuqasw.xyz
+  - .iuuwuk.xyz
   - .iuwzdf.com
   - .ivanie.com
   - .tracking.info.ivanti.com
@@ -85329,6 +85329,7 @@ payload:
   - .jwpltx.com
   - .jwwhsqz.ru
   - .jxeyhgw.cn
+  - .jxjpnd.xyz
   - .jxpjlb.xyz
   - .jy147a.com
   - .jyewkb.icu
@@ -87823,7 +87824,7 @@ payload:
   - .raw-co.com
   - .rawasy.com
   - .rawmtft.cn
-  - .cdn.rawqel.com
+  - .rawqel.com
   - .raylnk.com
   - .e.raytek.com
   - .metrics.rbcgam.com
@@ -89436,6 +89437,7 @@ payload:
   - .ugtbit.icu
   - .ugyeon.com
   - .ugyyod.com
+  - .uhuf56.fun
   - .uiatkc.xyz
   - .uicdns.xyz
   - .uidapi.com
@@ -95633,6 +95635,7 @@ payload:
   - .jcrnbnw.com
   - .play.jdb888.club
   - .jdhanec.com
+  - .jdickea.top
   - .jditera.top
   - .jdoeknc.com
   - .jdoqocy.com
@@ -96393,6 +96396,7 @@ payload:
   - .lsgpxqe.com
   - .lsgwkbk.com
   - .lsyliel.top
+  - .ltapsxz.xyz
   - .ltassrv.com
   - .ltcdrop.com
   - .stats.ltdhunt.com
@@ -100190,6 +100194,7 @@ payload:
   - .dujgiq.trendhim.pl
   - .mtlsyk.trendhim.ro
   - .ktbdxs.trendhim.se
+  - .js.trendmd.com
   - .collector.trendmd.com
   - .trenhdg.com
   - .stats.trenntoi.de
@@ -100551,6 +100556,7 @@ payload:
   - .uyjxzvu.com
   - .uyretut.top
   - .uyuwkbt.top
+  - .uyyquln.icu
   - .open.uzitapp.com
   - .static.uzlifat.com
   - .uzrxoxd.xyz
@@ -100622,6 +100628,7 @@ payload:
   - .www.vcrnads.com
   - .vczypss.com
   - .vdoqomz.icu
+  - .vdsdsf2.fun
   - .vebo123.vip
   - .vebo8386.me
   - .vecggfp.icu
@@ -102116,6 +102123,7 @@ payload:
   - .smetric.4imprint.com
   - .content.4teamwork.ch
   - .54019033.xyz
+  - .54199287.xyz
   - .54eeeadb.xyz
   - .555lotte.com
   - .56514411.xyz
@@ -109836,6 +109844,7 @@ payload:
   - .partneri.oportskem.cz
   - .share.oppvenuz.com
   - .sharelink.oppvenuz.com
+  - .opqhihiw.com
   - .opsaupsa.com
   - .opsookiz.net
   - .opsoomet.net
@@ -118891,6 +118900,7 @@ payload:
   - .hackzones.com
   - .hackzonne.net
   - .hadtwobr.info
+  - .hafonmadp.com
   - .smetrics.hagerty.co.uk
   - .www.haig7anax.com
   - .secure.haig7anax.com
@@ -123858,4 +123868,18 @@ payload:
   - .t8mbwgbjn.com
   - .a8.tabechoku.com
   - .dl.tablelist.com
+  - .dl-dev.tablelist.com
+  - .smetrics.tackntogs.com
+  - .tafimedia.com
+  - .tafmaster.com
+  - .blog.tagcentral.fr
+  - .data-nl.tageskarte.io
+  - .data-f5d00c1ea1.tageskarte.io
+  - .tagmanager.cn
+  - .tagtree.co.kr
+  - .partner.tahnabranu.cz
+  - .ferret.tailgraph.com
+  - .gotest.taillight.com
+  - .goat.tailspace.net
+  - .tailsweep.com
   ################## EOF ##################
