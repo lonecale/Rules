@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-13T12:36:06.238Z
-# Size: 123882
+# Last Updated: 2024-09-13T14:21:44.667Z
+# Size: 123884
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10841,6 +10841,7 @@ zhwnlapi.etouch.cn,REJECT
 .fq02.shop,REJECT
 .fq03.shop,REJECT
 .fq04.shop,REJECT
+.fq05.shop,REJECT
 .fqkwn.com,REJECT
 .fqtag.com,REJECT
 .fqwgi.com,REJECT
@@ -11743,6 +11744,7 @@ policy.video.iqiyi.com,REJECT
 .jy04.shop,REJECT
 .jy05.shop,REJECT
 .jy06.shop,REJECT
+.jy07.shop,REJECT
 .o.jy135.com,REJECT
 .jygcv.sbs,REJECT
 .jyuskb.cn,REJECT
@@ -65563,8 +65565,6 @@ tracker.didiglobal.com,REJECT
 .links.firecracker.me,REJECT
 .firecracks.com,REJECT
 .analytics.firespring.com,REJECT
-.fireupload.org,REJECT
-.first-rate.com,REJECT
 .atom-log.3.cn,REJECT
 .kzsisc.3.dk,REJECT
 .mit3app.3.dk,REJECT
@@ -76377,6 +76377,7 @@ zhwnlapi.etouch.cn,REJECT
 .fq02.shop,REJECT
 .fq03.shop,REJECT
 .fq04.shop,REJECT
+.fq05.shop,REJECT
 .fqkwn.com,REJECT
 .fqtag.com,REJECT
 .fqwgi.com,REJECT
@@ -77279,6 +77280,7 @@ policy.video.iqiyi.com,REJECT
 .jy04.shop,REJECT
 .jy05.shop,REJECT
 .jy06.shop,REJECT
+.jy07.shop,REJECT
 .o.jy135.com,REJECT
 .jygcv.sbs,REJECT
 .jyuskb.cn,REJECT
