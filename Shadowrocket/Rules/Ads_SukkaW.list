@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-14T04:09:22.619Z
+# Last Updated: 2024-09-14T12:34:37.908Z
 # Size: 123905
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -28005,6 +28005,7 @@ adimg.daumcdn.net
 .drkness.net
 .beacon.dropbox.com
 .marketing.dropbox.com
+.drtrs55.fun
 .adv.drtuber.com
 .drummers.cn
 .trk.drvonda.com
@@ -32167,7 +32168,6 @@ ad.bn.netease.com
 .invite.paltalk.net
 .px.pandora.com
 .pxsg.pandora.com
-.t.ac.pandora.com
 .stats.pandora.com
 .metrics.pandora.com
 .smetrics.pandora.com
@@ -93541,6 +93541,7 @@ adimg.daumcdn.net
 .drkness.net
 .beacon.dropbox.com
 .marketing.dropbox.com
+.drtrs55.fun
 .adv.drtuber.com
 .drummers.cn
 .trk.drvonda.com
@@ -97703,7 +97704,6 @@ ad.bn.netease.com
 .invite.paltalk.net
 .px.pandora.com
 .pxsg.pandora.com
-.t.ac.pandora.com
 .stats.pandora.com
 .metrics.pandora.com
 .smetrics.pandora.com

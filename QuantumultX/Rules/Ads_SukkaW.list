@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-14T04:09:22.619Z
+# Last Updated: 2024-09-14T12:34:37.908Z
 # Size: 123905
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -28005,6 +28005,7 @@ adimg.daumcdn.net,REJECT
 .drkness.net,REJECT
 .beacon.dropbox.com,REJECT
 .marketing.dropbox.com,REJECT
+.drtrs55.fun,REJECT
 .adv.drtuber.com,REJECT
 .drummers.cn,REJECT
 .trk.drvonda.com,REJECT
@@ -32167,7 +32168,6 @@ ad.bn.netease.com,REJECT
 .invite.paltalk.net,REJECT
 .px.pandora.com,REJECT
 .pxsg.pandora.com,REJECT
-.t.ac.pandora.com,REJECT
 .stats.pandora.com,REJECT
 .metrics.pandora.com,REJECT
 .smetrics.pandora.com,REJECT
@@ -93541,6 +93541,7 @@ adimg.daumcdn.net,REJECT
 .drkness.net,REJECT
 .beacon.dropbox.com,REJECT
 .marketing.dropbox.com,REJECT
+.drtrs55.fun,REJECT
 .adv.drtuber.com,REJECT
 .drummers.cn,REJECT
 .trk.drvonda.com,REJECT
@@ -97703,7 +97704,6 @@ ad.bn.netease.com,REJECT
 .invite.paltalk.net,REJECT
 .px.pandora.com,REJECT
 .pxsg.pandora.com,REJECT
-.t.ac.pandora.com,REJECT
 .stats.pandora.com,REJECT
 .metrics.pandora.com,REJECT
 .smetrics.pandora.com,REJECT
