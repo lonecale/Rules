@@ -184,9 +184,9 @@ curl -L -o Tool-repo/Clash/Rules/Ads_EasyListPrivacy.list "https://raw.githubuse
 curl -L -o Tool-repo/Clash/Rules/Ads_Dlerio.list "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
 curl -L -o Tool-repo/Clash/Rules/Anti-ad.list "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
 curl -L -o Tool-repo/Clash/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/AdGuardChinese.list"
+cp -r Tool-repo/Surge/Rules/Reject.list Tool-repo/Clash/Rules/Reject.list
 # Lan
 cp -r Tool-repo/Surge/Rules/Lan.list Tool-repo/Clash/Rules/Lan.list
-
 
 
 #--- Quantumult X ---#
