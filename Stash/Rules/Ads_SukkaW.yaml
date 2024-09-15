@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-15T06:06:56.937Z
-  # Size: 123940
+  # Last Updated: 2024-09-15T12:34:59.635Z
+  # Size: 123941
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -31735,6 +31735,7 @@ payload:
   - .analytics.nhattao.com
   - .nhjn788.fun
   - .nhjnkis.com
+  - .nhjnw78.fun
   - .oms.nhllive.com
   - .nhqqv.space
   - .nhungmiu.me
@@ -65565,7 +65566,6 @@ payload:
   - .filezworld.com
   - .filinggood.com
   - .filingking.com
-  - .filletdose.com
   - .atom-log.3.cn
   - .kzsisc.3.dk
   - .mit3app.3.dk
@@ -97271,6 +97271,7 @@ payload:
   - .analytics.nhattao.com
   - .nhjn788.fun
   - .nhjnkis.com
+  - .nhjnw78.fun
   - .oms.nhllive.com
   - .nhqqv.space
   - .nhungmiu.me

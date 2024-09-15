@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-15T06:06:56.937Z
-# Size: 123940
+# Last Updated: 2024-09-15T12:34:59.635Z
+# Size: 123941
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -31734,6 +31734,7 @@ ad.bn.netease.com,REJECT
 .analytics.nhattao.com,REJECT
 .nhjn788.fun,REJECT
 .nhjnkis.com,REJECT
+.nhjnw78.fun,REJECT
 .oms.nhllive.com,REJECT
 .nhqqv.space,REJECT
 .nhungmiu.me,REJECT
@@ -65564,7 +65565,6 @@ tracker.didiglobal.com,REJECT
 .filezworld.com,REJECT
 .filinggood.com,REJECT
 .filingking.com,REJECT
-.filletdose.com,REJECT
 .atom-log.3.cn,REJECT
 .kzsisc.3.dk,REJECT
 .mit3app.3.dk,REJECT
@@ -97270,6 +97270,7 @@ ad.bn.netease.com,REJECT
 .analytics.nhattao.com,REJECT
 .nhjn788.fun,REJECT
 .nhjnkis.com,REJECT
+.nhjnw78.fun,REJECT
 .oms.nhllive.com,REJECT
 .nhqqv.space,REJECT
 .nhungmiu.me,REJECT
