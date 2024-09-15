@@ -17,6 +17,7 @@ DOMAIN,ajax.cdnjs.com
 DOMAIN,ajax.cloudflare.com
 DOMAIN,ajax.googleapis.com
 DOMAIN,ajax.microsoft.com
+DOMAIN,ak.sail-horizon.com
 DOMAIN,akidoo.top
 DOMAIN,alt-images.codestream.com
 DOMAIN,alt.idgesg.net
@@ -204,6 +205,7 @@ DOMAIN,badges.greenkeeper.io
 DOMAIN,bcdn.starapps.studio
 DOMAIN,binaries.prisma.sh
 DOMAIN,blacklist.tampermonkey.net
+DOMAIN,blade-public-static.blade-group.com
 DOMAIN,boards.greenhouse.io
 DOMAIN,bot.ivy.ai
 DOMAIN,brick.a.ssl.fastly.net
@@ -530,6 +532,7 @@ DOMAIN,code.ionicframework.com
 DOMAIN,code.jquery.com
 DOMAIN,compass-ssl.xbox.com
 DOMAIN,components.clever-cloud.com
+DOMAIN,components.justanswer.com
 DOMAIN,config.extension.grammarly.com
 DOMAIN,confluence-v1.prod.atl-paas.net
 DOMAIN,connect.facebook.net
@@ -580,6 +583,7 @@ DOMAIN,doppler-config.cbsivideo.com
 DOMAIN,doujin-assets.dmm.co.jp
 DOMAIN,downloads.coindesk.com
 DOMAIN,drscdn.500px.org
+DOMAIN,dynamic-assets.coinbase.com
 DOMAIN,dynamic-assets.mobilius.top
 DOMAIN,e.deviantart.net
 DOMAIN,e3.365dm.com
@@ -606,6 +610,7 @@ DOMAIN,emos.plurk.com
 DOMAIN,emp.bbci.co.uk
 DOMAIN,epic-social-social-modules-prod.ol.epicgames.com
 DOMAIN,error.rakuten.co.jp
+DOMAIN,eu-images.contentstack.com
 DOMAIN,eu.hamreus.com
 DOMAIN,euc-widget.freshworks.com
 DOMAIN,events-delivery.apple.com
@@ -745,6 +750,7 @@ DOMAIN,images.arigatotravel.com
 DOMAIN,images.axios.com
 DOMAIN,images.bfmtv.com
 DOMAIN,images.contentful.com
+DOMAIN,images.contentstack.io
 DOMAIN,images.design-editor.com
 DOMAIN,images.dmca.com
 DOMAIN,images.ecomm.microsoft.com
@@ -947,6 +953,7 @@ DOMAIN,media3.giphy.com
 DOMAIN,media4.giphy.com
 DOMAIN,medias.meow.social
 DOMAIN,megapx-assets.dcard.tw
+DOMAIN,micro.rubiconproject.com
 DOMAIN,minotar.net
 DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
@@ -1021,6 +1028,7 @@ DOMAIN,pcdn-my.pcloud.com
 DOMAIN,pcdn-www.pcloud.com
 DOMAIN,pcz.javidol.org
 DOMAIN,pengtu.cc
+DOMAIN,pg2dhpc3p5ec22g3.jkforum.net
 DOMAIN,phishing.army
 DOMAIN,photos5.appleinsider.com
 DOMAIN,pic-bstarstatic.akamaized.net
@@ -1083,6 +1091,7 @@ DOMAIN,public-assets.typeform.com
 DOMAIN,public-files.gumroad.com
 DOMAIN,public-pages.cbinsights.com
 DOMAIN,public.flourish.studio
+DOMAIN,public.hare200.com
 DOMAIN,public.mocortech.com
 DOMAIN,public.saasexch.com
 DOMAIN,publicsuffix.org
@@ -1331,6 +1340,7 @@ DOMAIN,static.incapsula.com
 DOMAIN,static.independent.co.uk
 DOMAIN,static.infomaniak.ch
 DOMAIN,static.institution.grammarly.com
+DOMAIN,static.iris.informa.com
 DOMAIN,static.itch.io
 DOMAIN,static.javcdn.info
 DOMAIN,static.killedbygoogle.com
@@ -1460,6 +1470,7 @@ DOMAIN,talk.hyvor.com
 DOMAIN,talk.washingtonpost.com
 DOMAIN,telemetry.1passwordservices.com
 DOMAIN,telemetry.nextjs.org
+DOMAIN,telemetry.split.io
 DOMAIN,telemetry.vercel.com
 DOMAIN,th.bing.com
 DOMAIN,themes.fourthwall.com
@@ -1491,6 +1502,7 @@ DOMAIN,ubistatic-a.ubisoft.com
 DOMAIN,ubistatic2-a.akamaihd.net
 DOMAIN,ubistatic2-a.ubisoft.com
 DOMAIN,ui-cdn.digitalocean.com
+DOMAIN,ui.contentstack.com
 DOMAIN,ui.trailhead.com
 DOMAIN,unlimited-cdn.waifu2x.net
 DOMAIN,updates.signal.org
@@ -1568,6 +1580,8 @@ DOMAIN,wl-apps.yourwebsite.life
 DOMAIN,wp.salesforce.com
 DOMAIN,wpmedia.tealium.com
 DOMAIN,ws-assets.zoominfo.com
+DOMAIN,ww2-secure.justanswer.com
+DOMAIN,ww2.justanswer.com
 DOMAIN,www-static.ripe.net
 DOMAIN,www.10086.win
 DOMAIN,www.bbthat.com
@@ -1612,6 +1626,7 @@ DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,amaicdn.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anpoimages.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app.gitbook.com
 DOMAIN-SUFFIX,app.render.com
 DOMAIN-SUFFIX,appmifile.com
@@ -1705,7 +1720,6 @@ DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.docker.com
-DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudimg.io
@@ -1962,6 +1976,7 @@ DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,local.webcontainer.io
+DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,lowendbox.com
 DOMAIN-SUFFIX,lowescdn.com
@@ -1989,6 +2004,7 @@ DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,myavlive.com
 DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,myfilebase.com
 DOMAIN-SUFFIX,mypinata.cloud
 DOMAIN-SUFFIX,myshopapps.com
 DOMAIN-SUFFIX,nel.cloudflare.com
@@ -2081,7 +2097,6 @@ DOMAIN-SUFFIX,quip-cdn.com
 DOMAIN-SUFFIX,quip-marketing.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qy0.ru
-DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,radix-ui.com
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,ravencoinipfs-gateway.com
