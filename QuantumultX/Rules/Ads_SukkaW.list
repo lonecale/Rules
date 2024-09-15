@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-14T12:34:37.908Z
-# Size: 123905
+# Last Updated: 2024-09-15T06:06:56.937Z
+# Size: 123940
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10716,6 +10716,7 @@ zhwnlapi.etouch.cn,REJECT
 .ads.expekt.se,REJECT
 .ntrfr.expekt.se,REJECT
 .expepp.de,REJECT
+.analytics.explus.vn,REJECT
 .exta-z.ru,REJECT
 .extend.tv,REJECT
 .extole.io,REJECT
@@ -15049,6 +15050,7 @@ a-dxk.play.api.3g.youku.com,REJECT
 .ysgvqw.cn,REJECT
 .yssryr.cn,REJECT
 .ysxt9.com,REJECT
+.cicfbo.yt-hgs.de,REJECT
 .ytgzz.com,REJECT
 .ytihp.com,REJECT
 .ytimm.com,REJECT
@@ -15709,7 +15711,6 @@ adcloud.jp,REJECT
 .z.cdn.adpool.bet,REJECT
 .adpulse.ir,REJECT
 .adquery.io,REJECT
-.adquet.com,REJECT
 .adrcdn.com,REJECT
 .adreach.co,REJECT
 .adreda.com,REJECT
@@ -16249,6 +16250,7 @@ file.apicvn.com,REJECT
 .wsuqzu.armani.com,REJECT
 .armi.media,REJECT
 .zurjxe.armine.com,REJECT
+.arojgi.xyz,REJECT
 .partneri.arouska.cz,REJECT
 .trk.arozone.cn,REJECT
 .arrlnk.com,REJECT
@@ -18935,6 +18937,7 @@ pdl.gionee.com,REJECT
 .t.hagebau.de,REJECT
 .secu.hagerty.ca,REJECT
 .udzucw.haggar.com,REJECT
+.hahaql.top,REJECT
 .hahusa.top,REJECT
 .hailfi.top,REJECT
 .media.hajper.com,REJECT
@@ -23365,6 +23368,7 @@ redirect.simba.taobao.com,REJECT
 hz.tbusergw.taobao.net,REJECT
 hz.pre.tbusergw.taobao.net,REJECT
 .gg.taoseyy.cn,REJECT
+.taosiz.xyz,REJECT
 .collector.taoxh.life,REJECT
 .tapjoy.com,REJECT
 .tapjoy.net,REJECT
@@ -23522,6 +23526,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .smetrics.thewolf.ca,REJECT
 .livecounter.theyosh.nl,REJECT
 .thiraq.com,REJECT
+.qqwyihwm.thjen.tech,REJECT
 .thjwxz.xyz,REJECT
 .tholor.com,REJECT
 .thor-z.com,REJECT
@@ -24142,6 +24147,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .sp.vcstar.com,REJECT
 .sxjfhh.vcstar.com,REJECT
 .vcugbgu.cn,REJECT
+.vcxv73.fun,REJECT
 .vddf0.club,REJECT
 .vdlvry.com,REJECT
 .vdoing.com,REJECT
@@ -24270,6 +24276,7 @@ api-scout.vercel.app,REJECT
 .vimomo.vip,REJECT
 .track.vio.edu.vn,REJECT
 .sentry.virgool.io,REJECT
+.countly.virgool.io,REJECT
 .virgul.com,REJECT
 .virool.com,REJECT
 .tracking.virtus.com,REJECT
@@ -28224,6 +28231,7 @@ adimg.daumcdn.net,REJECT
 .analytics.edgekey.net,REJECT
 .moatads.com.edgekey.net,REJECT
 adx-dre.op.dbankcloud.com.edgekey.net,REJECT
+.edickew.top,REJECT
 .log.edidomus.it,REJECT
 .arrlrk.edigital.hu,REJECT
 .frog.editorx.com,REJECT
@@ -28493,6 +28501,7 @@ adx-dre.op.dbankcloud.com.edgekey.net,REJECT
 .promo.ewellix.com,REJECT
 .eweriow.top,REJECT
 .ewikajs.com,REJECT
+.ewqws55.fun,REJECT
 .bxlsct.ex-shop.net,REJECT
 .marketing.exablox.com,REJECT
 .exaccess.ru,REJECT
@@ -36102,6 +36111,7 @@ feedback.windows.com,REJECT
 .yinhana.com,REJECT
 .yinmong.com,REJECT
 .yitaopt.com,REJECT
+.yiucfif.icu,REJECT
 .yiwckti.icu,REJECT
 .yjdigtr.com,REJECT
 .yjxzvqy.xyz,REJECT
@@ -36622,6 +36632,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .74142961.xyz,REJECT
 .75690049.xyz,REJECT
 .76236osm1.ru,REJECT
+.77886044.xyz,REJECT
 .7841ffda.xyz,REJECT
 .78b78ff8.xyz,REJECT
 .7bpeople.com,REJECT
@@ -36651,6 +36662,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .8ovgk.online,REJECT
 .data-449cc4329e.90minuten.at,REJECT
 .91301246.xyz,REJECT
+.92790388.xyz,REJECT
 .js.92aliyun.com,REJECT
 .9354ee72.xyz,REJECT
 .94597672.xyz,REJECT
@@ -40744,6 +40756,7 @@ cdn.getkoala.com,REJECT
 .ggooogle.com,REJECT
 .ggsbjzyo.com,REJECT
 .ggskinsx.fun,REJECT
+.ggxdzrvo.com,REJECT
 .ggxskins.fun,REJECT
 .ghbdsbfd.com,REJECT
 .cmp-cdn.ghostery.com,REJECT
@@ -44338,6 +44351,7 @@ geolocation.onetrust.com,REJECT
 .app.optus.com.au,REJECT
 .nocaadobefpc.optus.com.au,REJECT
 .oqeazohx.com,REJECT
+.oqejupqb.xyz,REJECT
 .orabsola.com,REJECT
 .s.oralblow.com,REJECT
 .orangeads.fr,REJECT
@@ -44345,6 +44359,7 @@ geolocation.onetrust.com,REJECT
 .analytics.orenshmu.com,REJECT
 .orgassme.com,REJECT
 .origunix.com,REJECT
+.orjmtknm.com,REJECT
 .join.ornament.app,REJECT
 .webhooks-affiliates.ornament.app,REJECT
 .bn.orthodoxy.ru,REJECT
@@ -47572,6 +47587,7 @@ inte.sogoucdn.com,REJECT
 .vayhappy.com,REJECT
 .vaytien3.com,REJECT
 .vayvn247.com,REJECT
+.vazshojt.com,REJECT
 .vcjczwnc.xyz,REJECT
 .partner.vecteezy.com,REJECT
 .veeloomo.net,REJECT
@@ -47777,6 +47793,7 @@ inte.sogoucdn.com,REJECT
 .ad.vkoolzzz.net,REJECT
 .int.vlancaa.site,REJECT
 .vlkxsrhi.com,REJECT
+.vm8lm1vp.xyz,REJECT
 .vmbcdprc.com,REJECT
 .vn-apple.com,REJECT
 .vn-banks.xyz,REJECT
@@ -53625,6 +53642,7 @@ v2.fm.n.duokanbox.com,REJECT
 .hoangkim1.org,REJECT
 .link.hobbinity.com,REJECT
 .ergrbp.hobidunya.com,REJECT
+.cdptracker.hocmai.com.vn,REJECT
 .hocylpbff.com,REJECT
 .hodlers.party,REJECT
 .hodling.faith,REJECT
@@ -58998,6 +59016,7 @@ strip.taobaocdn.com,REJECT
 .ucx98rp6g.com,REJECT
 .udraokrou.com,REJECT
 .udtropary.top,REJECT
+.uduxztwig.com,REJECT
 .uejqwhabj.xyz,REJECT
 .uepkcdjgp.com,REJECT
 .uerbgnkas.com,REJECT
@@ -60478,6 +60497,7 @@ ad.winrar.com.cn,REJECT
 .44ffd27303.com,REJECT
 .453130fa9e.com,REJECT
 .53e2c2f74d.45ba1be349.com,REJECT
+.45cb7b8453.com,REJECT
 .45f2a90583.com,REJECT
 .461digital.com,REJECT
 .46243b6252.com,REJECT
@@ -61016,6 +61036,7 @@ ad.winrar.com.cn,REJECT
 .abutparker.com,REJECT
 .abyamaskor.com,REJECT
 .abyocawlfe.com,REJECT
+.abzaligtwd.com,REJECT
 .c2f7d2d036.ac046e638f.com,REJECT
 .ac35e1ff43.com,REJECT
 .info.academynet.com,REJECT
@@ -65544,27 +65565,6 @@ tracker.didiglobal.com,REJECT
 .filinggood.com,REJECT
 .filingking.com,REJECT
 .filletdose.com,REJECT
-.adobe.filmstruck.com,REJECT
-.ensighten.filmstruck.com,REJECT
-.finachcial.com,REJECT
-.finafnhara.com,REJECT
-.affil.finakademie.cz,REJECT
-.rl.finalprice.com,REJECT
-.comparison.financeads.net,REJECT
-.financemen.net,REJECT
-.juzqsq.finanzcheck.de,REJECT
-.data-c2b71254f2.finanzen100.de,REJECT
-.data-e623de9fda.finanzen100.de,REJECT
-.data-fc6e3104c2.finanztreff.de,REJECT
-.finative.cloud,REJECT
-.finbiznews.com,REJECT
-.findandtry.com,REJECT
-.findhelp24.com,REJECT
-.smetrics.findomestic.it,REJECT
-.findslofty.com,REJECT
-.ejbbcf.finishline.com,REJECT
-.smetrics.finishline.com,REJECT
-.finitecube.com,REJECT
 .atom-log.3.cn,REJECT
 .kzsisc.3.dk,REJECT
 .mit3app.3.dk,REJECT
@@ -76252,6 +76252,7 @@ zhwnlapi.etouch.cn,REJECT
 .ads.expekt.se,REJECT
 .ntrfr.expekt.se,REJECT
 .expepp.de,REJECT
+.analytics.explus.vn,REJECT
 .exta-z.ru,REJECT
 .extend.tv,REJECT
 .extole.io,REJECT
@@ -80585,6 +80586,7 @@ a-dxk.play.api.3g.youku.com,REJECT
 .ysgvqw.cn,REJECT
 .yssryr.cn,REJECT
 .ysxt9.com,REJECT
+.cicfbo.yt-hgs.de,REJECT
 .ytgzz.com,REJECT
 .ytihp.com,REJECT
 .ytimm.com,REJECT
@@ -81245,7 +81247,6 @@ adcloud.jp,REJECT
 .z.cdn.adpool.bet,REJECT
 .adpulse.ir,REJECT
 .adquery.io,REJECT
-.adquet.com,REJECT
 .adrcdn.com,REJECT
 .adreach.co,REJECT
 .adreda.com,REJECT
@@ -81785,6 +81786,7 @@ file.apicvn.com,REJECT
 .wsuqzu.armani.com,REJECT
 .armi.media,REJECT
 .zurjxe.armine.com,REJECT
+.arojgi.xyz,REJECT
 .partneri.arouska.cz,REJECT
 .trk.arozone.cn,REJECT
 .arrlnk.com,REJECT
@@ -84471,6 +84473,7 @@ pdl.gionee.com,REJECT
 .t.hagebau.de,REJECT
 .secu.hagerty.ca,REJECT
 .udzucw.haggar.com,REJECT
+.hahaql.top,REJECT
 .hahusa.top,REJECT
 .hailfi.top,REJECT
 .media.hajper.com,REJECT
@@ -88901,6 +88904,7 @@ redirect.simba.taobao.com,REJECT
 hz.tbusergw.taobao.net,REJECT
 hz.pre.tbusergw.taobao.net,REJECT
 .gg.taoseyy.cn,REJECT
+.taosiz.xyz,REJECT
 .collector.taoxh.life,REJECT
 .tapjoy.com,REJECT
 .tapjoy.net,REJECT
@@ -89058,6 +89062,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .smetrics.thewolf.ca,REJECT
 .livecounter.theyosh.nl,REJECT
 .thiraq.com,REJECT
+.qqwyihwm.thjen.tech,REJECT
 .thjwxz.xyz,REJECT
 .tholor.com,REJECT
 .thor-z.com,REJECT
@@ -89678,6 +89683,7 @@ hz.pre.tbusergw.taobao.net,REJECT
 .sp.vcstar.com,REJECT
 .sxjfhh.vcstar.com,REJECT
 .vcugbgu.cn,REJECT
+.vcxv73.fun,REJECT
 .vddf0.club,REJECT
 .vdlvry.com,REJECT
 .vdoing.com,REJECT
@@ -89806,6 +89812,7 @@ api-scout.vercel.app,REJECT
 .vimomo.vip,REJECT
 .track.vio.edu.vn,REJECT
 .sentry.virgool.io,REJECT
+.countly.virgool.io,REJECT
 .virgul.com,REJECT
 .virool.com,REJECT
 .tracking.virtus.com,REJECT
@@ -93760,6 +93767,7 @@ adimg.daumcdn.net,REJECT
 .analytics.edgekey.net,REJECT
 .moatads.com.edgekey.net,REJECT
 adx-dre.op.dbankcloud.com.edgekey.net,REJECT
+.edickew.top,REJECT
 .log.edidomus.it,REJECT
 .arrlrk.edigital.hu,REJECT
 .frog.editorx.com,REJECT
@@ -94029,6 +94037,7 @@ adx-dre.op.dbankcloud.com.edgekey.net,REJECT
 .promo.ewellix.com,REJECT
 .eweriow.top,REJECT
 .ewikajs.com,REJECT
+.ewqws55.fun,REJECT
 .bxlsct.ex-shop.net,REJECT
 .marketing.exablox.com,REJECT
 .exaccess.ru,REJECT
@@ -101638,6 +101647,7 @@ feedback.windows.com,REJECT
 .yinhana.com,REJECT
 .yinmong.com,REJECT
 .yitaopt.com,REJECT
+.yiucfif.icu,REJECT
 .yiwckti.icu,REJECT
 .yjdigtr.com,REJECT
 .yjxzvqy.xyz,REJECT
@@ -102158,6 +102168,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .74142961.xyz,REJECT
 .75690049.xyz,REJECT
 .76236osm1.ru,REJECT
+.77886044.xyz,REJECT
 .7841ffda.xyz,REJECT
 .78b78ff8.xyz,REJECT
 .7bpeople.com,REJECT
@@ -102187,6 +102198,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .8ovgk.online,REJECT
 .data-449cc4329e.90minuten.at,REJECT
 .91301246.xyz,REJECT
+.92790388.xyz,REJECT
 .js.92aliyun.com,REJECT
 .9354ee72.xyz,REJECT
 .94597672.xyz,REJECT
@@ -106280,6 +106292,7 @@ cdn.getkoala.com,REJECT
 .ggooogle.com,REJECT
 .ggsbjzyo.com,REJECT
 .ggskinsx.fun,REJECT
+.ggxdzrvo.com,REJECT
 .ggxskins.fun,REJECT
 .ghbdsbfd.com,REJECT
 .cmp-cdn.ghostery.com,REJECT
@@ -109874,6 +109887,7 @@ geolocation.onetrust.com,REJECT
 .app.optus.com.au,REJECT
 .nocaadobefpc.optus.com.au,REJECT
 .oqeazohx.com,REJECT
+.oqejupqb.xyz,REJECT
 .orabsola.com,REJECT
 .s.oralblow.com,REJECT
 .orangeads.fr,REJECT
@@ -109881,6 +109895,7 @@ geolocation.onetrust.com,REJECT
 .analytics.orenshmu.com,REJECT
 .orgassme.com,REJECT
 .origunix.com,REJECT
+.orjmtknm.com,REJECT
 .join.ornament.app,REJECT
 .webhooks-affiliates.ornament.app,REJECT
 .bn.orthodoxy.ru,REJECT
@@ -113108,6 +113123,7 @@ inte.sogoucdn.com,REJECT
 .vayhappy.com,REJECT
 .vaytien3.com,REJECT
 .vayvn247.com,REJECT
+.vazshojt.com,REJECT
 .vcjczwnc.xyz,REJECT
 .partner.vecteezy.com,REJECT
 .veeloomo.net,REJECT
@@ -113313,6 +113329,7 @@ inte.sogoucdn.com,REJECT
 .ad.vkoolzzz.net,REJECT
 .int.vlancaa.site,REJECT
 .vlkxsrhi.com,REJECT
+.vm8lm1vp.xyz,REJECT
 .vmbcdprc.com,REJECT
 .vn-apple.com,REJECT
 .vn-banks.xyz,REJECT
@@ -119161,6 +119178,7 @@ v2.fm.n.duokanbox.com,REJECT
 .hoangkim1.org,REJECT
 .link.hobbinity.com,REJECT
 .ergrbp.hobidunya.com,REJECT
+.cdptracker.hocmai.com.vn,REJECT
 .hocylpbff.com,REJECT
 .hodlers.party,REJECT
 .hodling.faith,REJECT
@@ -123933,4 +123951,22 @@ strip.taobaocdn.com,REJECT
 .tapwhigwy.com,REJECT
 .tardangro.com,REJECT
 .link.target.com.au,REJECT
+.targetnet.com,REJECT
+.targetseek.ru,REJECT
+.cv.taskar.online,REJECT
+.ct.taskhuman.com,REJECT
+.ct-dev.taskhuman.com,REJECT
+.metrics.tasteline.com,REJECT
+.link.tastemade.com,REJECT
+.tastenfts.com,REJECT
+.tattepush.com,REJECT
+.data-a7deba18e8.taufspruch.de,REJECT
+.tauspenup.top,REJECT
+.tawdryson.com,REJECT
+.a8cv.taxi-qjin.com,REJECT
+.taxissung.com,REJECT
+.ta.taxslayer.com,REJECT
+.tsa.taxslayer.com,REJECT
+.tbcconnect.ge,REJECT
 ################## EOF ##################
+
