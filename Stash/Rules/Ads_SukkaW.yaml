@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-16T12:39:02.838Z
-  # Size: 123267
+  # Last Updated: 2024-09-17T12:37:38.392Z
+  # Size: 123322
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -1927,6 +1927,7 @@ payload:
   - .adk2.co
   - .adku.co
   - .admo.tv
+  - .adnx.de
   - .adnz.co
   - .adon.io
   - .adop.cc
@@ -4393,6 +4394,7 @@ payload:
   - .data-e4997adf31.welt.de
   - .get.weme.sh
   - .ygecho.wenz.de
+  - .wds.weqs.me
   - .plausible.west.io
   - .mdws.wfcu.ca
   - .metrics.wgu.edu
@@ -6071,6 +6073,7 @@ payload:
   - .sc.hl.co.uk
   - .ssc.hl.co.uk
   - .geo.hltv.org
+  - .rum.hlx.page
   - .local.hniux.cn
   - .sailfish.hoap.com
   - .antelope.hoap.dev
@@ -9991,6 +9994,7 @@ payload:
   - .1026750852.rsc.cdn77.org
   - .1047430889.rsc.cdn77.org
   - .1080872514.rsc.cdn77.org
+  - .1116283932.rsc.cdn77.org
   - .1136707664.rsc.cdn77.org
   - .1187531871.rsc.cdn77.org
   - .1208344341.rsc.cdn77.org
@@ -10011,6 +10015,7 @@ payload:
   - .1693418686.rsc.cdn77.org
   - .1710712823.rsc.cdn77.org
   - .1736253261.rsc.cdn77.org
+  - .1866741353.rsc.cdn77.org
   - .1918837748.rsc.cdn77.org
   - .1991482557.rsc.cdn77.org
   - .cdnaz.win
@@ -12999,7 +13004,6 @@ payload:
   - .openx.org
   - .adx.opera.com
   - .try.opera.com
-  - .net.geo.opera.com
   - .api-a.op-mobile.opera.com
   - .s-adx.op-mobile.opera.com
   - .pps-log.op-mobile.opera.com
@@ -14923,6 +14927,7 @@ payload:
   - .xoalt.com
   - .xolen.xyz
   - .xroll.pro
+  - .xrrdi.com
   - .m.xrum.info
   - .xs6po.icu
   - .xszw0.icu
@@ -17056,6 +17061,7 @@ payload:
   - .cccpmo.com
   - .ccrtvi.com
   - .ccwxma.xyz
+  - .cdcs34.fun
   - .cdctwm.com
   - .fuvtxd.cdkeys.com
   - .affiliates.cdkeys.com
@@ -18155,6 +18161,7 @@ payload:
   - .securetags.esriuk.com
   - .esrpkd.com
   - .estara.com
+  - .esyook.xyz
   - .et-cod.com
   - .et-code.ru
   - .marketing.et.support
@@ -18280,6 +18287,7 @@ payload:
   - .data-40a1d254c9.familie.de
   - .data-9fa9a37f64.familie.de
   - .fandmo.com
+  - .adsmg.fanfox.net
   - .link.fanzapp.io
   - .fapcat.com
   - .io.fapnow.xxx
@@ -18540,6 +18548,7 @@ payload:
   - .freihit.de
   - .iqmetrics.freitag.de
   - .stats.frenlo.com
+  - .frgf99.fun
   - .t.friars.com
   - .app.friars.com
   - .frntzz.xyz
@@ -18918,6 +18927,7 @@ payload:
   - .gtbdhr.com
   - .contacto.gtc.com.gt
   - .info.gtc.net.gt
+  - .gtdf33.fun
   - .gth112.com
   - .gtlook.com
   - .gtrhnhg.cn
@@ -19113,6 +19123,7 @@ payload:
   - .hitcpm.com
   - .hitlist.ru
   - .hitlnk.com
+  - .hitoxx.xyz
   - .hits2u.com
   - .cdn.hittrx.xyz
   - .hixutb.xyz
@@ -20813,6 +20824,7 @@ payload:
   - .mnaspm.com
   - .mndlvr.com
   - .mndsrv.com
+  - .mngusr.com
   - .mnhjkl.com
   - .mninoq.xyz
   - .mnnmnn.com
@@ -25164,6 +25176,7 @@ payload:
   - .mdws.yourcu.com
   - .ypcngw.xyz
   - .ypgjkk.xyz
+  - .ypkiog.xyz
   - .ypkxka.xyz
   - .yqdnad.icu
   - .yqlxkzs.cn
@@ -25732,6 +25745,7 @@ payload:
   - .acdnpro.com
   - .acemdvv.com
   - .marketing.acendas.com
+  - .data.acierto.com
   - .acmexxx.com
   - .acoossz.top
   - .tr.acq-pjms.fr
@@ -28262,6 +28276,7 @@ payload:
   - .eecjrmd.com
   - .eeeesss.xyz
   - .eenbies.com
+  - .eeqweqw.fun
   - .eespekw.com
   - .eetlwsw.top
   - .eewrutw.top
@@ -29697,6 +29712,7 @@ payload:
   - .hublosk.com
   - .track.hubspot.com
   - .metrics-fe-na1.hubspot.com
+  - .cta-service-cms2.hubspot.com
   - .hubvisor.io
   - .hubzoom.com
   - .get.hugoapp.com
@@ -30559,6 +30575,7 @@ payload:
   - .al.store.kyokotsu.jp
   - .kyteevl.com
   - .kyuwkbd.top
+  - .kzaawga.icu
   - .kzcayec.icu
   - .kzcdgja.com
   - .kzdxpcn.com
@@ -32709,6 +32726,7 @@ payload:
   - .pushkav.com
   - .pushlat.com
   - .pushlnk.com
+  - .stats.pushloop.io
   - .pushlum.com
   - .pushorg.com
   - .pushort.com
@@ -32757,6 +32775,7 @@ payload:
   - .qbhjokk.xyz
   - .qbhzghb.xyz
   - .qcxhwrm.com
+  - .qdickey.top
   - .qdoshby.top
   - .qdotzfy.com
   - .qdtjjxr.xyz
@@ -34391,7 +34410,6 @@ payload:
   - .theenfu.com
   - .gtm.thefeed.com
   - .metrics.thefeed.com
-  - .theforge.ir
   - .metrics.thefork.com
   - .smetrics.thegpsa.org
   - .thehacks.us
@@ -36231,6 +36249,7 @@ payload:
   - .www.zcbmn14.com
   - .zchtpzu.com
   - .zcoptry.com
+  - .zcypmsp.icu
   - .zdjtxjp.xyz
   - .adv.zdnet.co.kr
   - .log.zdnet.co.kr
@@ -36481,6 +36500,7 @@ payload:
   - .22lmsi1t5.de
   - .22pornz.site
   - .2325fdrf.fun
+  - .23879858.xyz
   - .23hssicm9.de
   - .24-7bank.com
   - .go.24-kredi.com
@@ -36488,6 +36508,7 @@ payload:
   - .247ilabs.com
   - .247napas.com
   - .247playz.com
+  - .24837724.xyz
   - .utiq.24hamburg.de
   - .data-f1e447fbcf.24hamburg.de
   - .data-f59db3288b.24hamburg.de
@@ -37117,6 +37138,7 @@ payload:
   - .aickakru.net
   - .aifoghou.com
   - .aigneloa.com
+  - .aignewha.com
   - .aihoasso.net
   - .aiixyxwx.com
   - .aijiamao.top
@@ -38726,6 +38748,7 @@ payload:
   - .subscriptions.macyscominc.dev.cjmadobe.com
   - .desuscripcion.palladiumhotelgroup.dev.cjmadobe.com
   - .cklithuw.xyz
+  - .clanto.cloud
   - .l.claphere.com
   - .links.claphere.com
   - .collector.clareity.net
@@ -39404,6 +39427,7 @@ payload:
   - .mktg.digineer.com
   - .digisets.com
   - .magictag.digislots.in
+  - .digistats.de
   - .data.digitalks.az
   - .xml.digiteci.com
   - .filter.digiteci.com
@@ -41647,6 +41671,8 @@ payload:
   - .inboxtag.com
   - .inbudewr.com
   - .get.incisive.com
+  - .ivstat.indavideo.hu
+  - .stat.indidata.com
   - .boar.indieweb.org
   - .play.alt.indigital.lt
   - .indirads.org
@@ -42606,6 +42632,7 @@ payload:
   - .legalleg.com
   - .link.legapass.com
   - .legenhit.com
+  - .test.legitcode.ws
   - .legreeft.xyz
   - .lehoacku.net
   - .lehtymns.com
@@ -42975,6 +43002,7 @@ payload:
   - .mapbasin.com
   - .mapeeree.xyz
   - .cellar-analytics.mapion.co.jp
+  - .maptitch.net
   - .shopee.maquatang.vn
   - .maquiags.com
   - .res.marianne.net
@@ -47401,6 +47429,7 @@ payload:
   - .undefined.pw
   - .underdone.ru
   - .unfhxszj.xyz
+  - .unherdtp.com
   - .rsuevw.unicef.or.jp
   - .sucmetrics.unicredit.de
   - .ucmetrics.unicredit.it
@@ -47966,6 +47995,7 @@ payload:
   - .data-deb04a4388.wb-trauer.de
   - .wbidder2.com
   - .wbidder3.com
+  - .wbkfklsl.com
   - .wbusiness.fr
   - .dlisuq.wbw-nail.com
   - .wbzfybvl.com
@@ -48862,6 +48892,7 @@ payload:
   - .videohots23girlss4.34gwl8v1a.com
   - .videohots23girlss5.34gwl8v1a.com
   - .34yjwa4u6.com
+  - .360news4u.com
   - .360popads.com
   - .p1.360soucha.com
   - .meng.360zuowen.com
@@ -53866,6 +53897,7 @@ payload:
   - .adv.imadrep.co.kr
   - .simg.imadrep.co.kr
   - .imagiflex.com
+  - .imamictra.com
   - .imdbwatch.com
   - .img4click.com
   - .imgcdnbet.com
@@ -54247,6 +54279,7 @@ payload:
   - .jtdqxsfzi.com
   - .jtkjixnmj.org
   - .jtthvswmc.com
+  - .jubasfogs.com
   - .judicated.com
   - .judosllyn.com
   - .juicebard.com
@@ -62423,6 +62456,7 @@ payload:
   - .cagakzcwyr.com
   - .caglonseeh.com
   - .stat.caijing.com.cn
+  - .caitoasece.com
   - .cajanggaun.top
   - .cajdldhaci.com
   - .cajrijrhov.com
@@ -68963,6 +68997,7 @@ payload:
   - .playgamess.net
   - .ads.playground.xyz
   - .lets.playzingus.com
+  - .plenastonk.com
   - .plenomedia.com
   - .plhhisqiem.com
   - .pliantleft.com
@@ -70916,6 +70951,7 @@ payload:
   - .ticklefell.com
   - .ticklesign.com
   - .tidymitten.com
+  - .tieboysoli.com
   - .tienanhanh.com
   - .tienbnhanh.com
   - .tiencnhanh.com
@@ -70985,6 +71021,7 @@ payload:
   - .toftforcal.com
   - .adb.toggoeltern.de
   - .sadb.toggoeltern.de
+  - .toisedmoky.com
   - .a8cv.tokei-syuri.jp
   - .tokenbroker.sh
   - .tokofyttes.com
@@ -71857,6 +71894,7 @@ payload:
   - .wf66l5ylwq.com
   - .wfubtuatsa.com
   - .wgyoaqtjfb.com
+  - .whaickossu.net
   - .whalecloud.com
   - .app.what3words.com
   - .cbt.whatcounts.net
@@ -74119,6 +74157,7 @@ payload:
   - .go.dallasstars.com
   - .damaged-fix.pro
   - .damedamehoy.xyz
+  - .damgurwdblf.xyz
   - .ortkrq.damyller.com.br
   - .xml3.danarimedia.com
   - .admin3.danarimedia.com
@@ -80139,6 +80178,7 @@ payload:
   - .twinsoflave.com
   - .twistyscash.com
   - .twobluedeer.com
+  - .twoepidemic.com
   - .twztdhdgjtg.com
   - .txpwtidvgvt.com
   - .txzaazmdhtw.com
@@ -80744,6 +80784,7 @@ payload:
   - .triggers.wfxtriggers.com
   - .wgchrrammzv.com
   - .whaacgqzyaz.com
+  - .whaickeenie.xyz
   - .whaijoorgoo.com
   - .whaitsaitch.com
   - .whamuthygle.com
@@ -84159,6 +84200,7 @@ payload:
   - .data.info.gobrightline.com
   - .data.email.gobrightline.com
   - .preferences.email.gobrightline.com
+  - .gocheewimtie.xyz
   - .adpush.goforandroid.com
   - .gogamecheats.com
   - .wat.gogoinflight.com
@@ -85143,6 +85185,7 @@ payload:
   - .ktnukmtsbfko.com
   - .ktrmmxocabjd.com
   - .t.kttfinancial.com
+  - .kubachigugal.com
   - .kuesjmznhhid.com
   - .a8.kujo-service.com
   - .affiliate.kulturistika.com
@@ -85317,6 +85360,7 @@ payload:
   - .linksecurecd.com
   - .ads.linksrequest.com
   - .linkxchanger.com
+  - .lintyahimsas.com
   - .data-6636e03c3f.linux-magazin.de
   - .cname.lions-mansion.jp
   - .mxk.podcast.lisameyerson.com
@@ -91427,6 +91471,7 @@ payload:
   - .doublepimpssl.com
   - .doubleview.online
   - .doubtcigardug.com
+  - .doubtslutecia.com
   - .doucheraisiny.com
   - .douoblelimpup.com
   - .fn.dowagerbeurre.com
@@ -92482,6 +92527,7 @@ payload:
   - .hatapybbwxkbs.com
   - .hatchetsummit.com
   - .haughtysafety.com
+  - .iv.hautboyhellen.com
   - .hauteinakebia.top
   - .havingsreward.com
   - .t.hawkeyesports.com
@@ -93207,6 +93253,7 @@ payload:
   - .laboredlocket.com
   - .laccaiccrusta.com
   - .tr.lachaiselongue.fr
+  - .laciniatibert.com
   - .info.laconservancy.org
   - .lactantsurety.top
   - .laichsbedamns.com
@@ -93551,6 +93598,7 @@ payload:
   - .mcfreepremium.com
   - .mckensecuryr.info
   - .mcraftaccount.com
+  - .mcrertpgdjbvj.com
   - .mcrfncrswbeka.com
   - .mcurrentlyse.shop
   - .marketing.mdbeautyclinic.ca
@@ -94176,6 +94224,7 @@ payload:
   - .osmousavosets.com
   - .osotirukurwyo.com
   - .ospreymedialp.com
+  - .ospreyorceins.com
   - .ossmightyenar.net
   - .ossnidorinoom.com
   - .data-a77fb9b63f.osthessen-news.de
@@ -95479,6 +95528,7 @@ payload:
   - .squintopposed.com
   - .squirrelhands.com
   - .go.sseairtricity.com
+  - .ssfatyozvtbom.com
   - .ssl-verified.site
   - .info.sswhitedental.com
   - .st4ckgiveway.site
@@ -97406,6 +97456,7 @@ payload:
   - .acv.biglobe-hikari.net
   - .bigneptunesept.com
   - .bigormisfromnep.ru
+  - .bilayershaughs.com
   - .descargar.billeteramango.com
   - .encuestas.billeteramango.com
   - .billionstarads.com
@@ -98415,6 +98466,7 @@ payload:
   - .tracking.erfahreneladies.de
   - .marketing.erioninsurance.com
   - .eroadvertising.com
+  - .errantstetrole.com
   - .ertistsldahehu.com
   - .erysilenitmanb.com
   - .esathyasesume.info
@@ -106097,6 +106149,7 @@ payload:
   - .sjjaewodpexdcyf.com
   - .skatingbelonged.com
   - .skidrowreleases.com
+  - .skieppeerical.click
   - .skillpropulsion.com
   - .skirtimprobable.com
   - .s.metrics.skyandtelescope.com
@@ -106653,6 +106706,7 @@ payload:
   - .ucteqibnblrjhpb.com
   - .ufbnqsfbpkmindy.com
   - .uhhgaodcxckgvqs.xyz
+  - .uhwwrtoesislugj.xyz
   - .ukbcjxvaejpfdxx.com
   - .uknsyenergyfle.info
   - .uksqotykpmjtdgw.com
@@ -107541,6 +107595,7 @@ payload:
   - .fundraising.centuryresources.com
   - .cessationhamster.com
   - .plans.ceteraretirement.com
+  - .cfusion-internet.com
   - .dc.chadecatuaba1.online
   - .chalkedretrieval.com
   - .challengecircuit.com
