@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-18T12:37:15.364Z
-# Size: 123273
+# Last Updated: 2024-09-18T15:18:36.481Z
+# Size: 123276
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -47649,6 +47649,7 @@ inte.sogoucdn.com,REJECT
 .vib-bank.com,REJECT
 .vib-care.com,REJECT
 .vib8-vay.com,REJECT
+.vibanioa.com,REJECT
 .vibvayvn.com,REJECT
 .vicepiter.ru,REJECT
 .p.victoria.dev,REJECT
@@ -87045,6 +87046,7 @@ ssl.360antivirus.org,REJECT
 .quiethacking.com,REJECT
 .lfapbe.quiksilver.co.jp,REJECT
 .quokkacheeks.com,REJECT
+.quzwteqzaabm.com,REJECT
 .qvgkwcarqmhw.com,REJECT
 .qwa3ldhn9u0t.com,REJECT
 .qwaapgxfahce.com,REJECT
@@ -113206,6 +113208,7 @@ display.360totalsecurity.com,REJECT
 .tenant-content.apm.appfolio-analytics.com,REJECT
 .applianceplatforms.com,REJECT
 .marketing.appliedvisionworks.com,REJECT
+.appointeeivyspongy.com,REJECT
 .aptitudeproprietor.com,REJECT
 .aq7ua5ma85rddeinve.com,REJECT
 .arbourtalessterile.com,REJECT
