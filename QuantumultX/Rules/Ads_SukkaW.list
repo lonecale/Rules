@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-18T04:42:28.830Z
-# Size: 123269
+# Last Updated: 2024-09-18T12:37:15.364Z
+# Size: 123273
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -733,6 +733,7 @@ log.star.ele.me,REJECT
 .waatch.gva.be,REJECT
 .metrics.gvb.ch,REJECT
 .smetrics.gvb.ch,REJECT
+.log-ana.h3z.jp,REJECT
 .logging.h3z.jp,REJECT
 .h5v.eu,REJECT
 .smetrics.ha.com,REJECT
@@ -32079,6 +32080,7 @@ ad.bn.netease.com,REJECT
 .marketing.optitex.com,REJECT
 .cdn.optmn.cloud,REJECT
 .optzsrv.com,REJECT
+.oqaejin.icu,REJECT
 .oqsttfy.com,REJECT
 .branch.oraleye.com,REJECT
 .oraporn.com,REJECT
@@ -38348,6 +38350,7 @@ galaxy.bjcathay.com,REJECT
 .bw95vpjda.ru,REJECT
 .bx-cloud.com,REJECT
 .bxrqdnkb.com,REJECT
+.bxxibvjt.com,REJECT
 .byaronan.com,REJECT
 .bycxhgrp.xyz,REJECT
 .bydzfldt.xyz,REJECT
@@ -43907,6 +43910,7 @@ dzc-metrics.mzstatic.com,REJECT
 .marketing.nona.digital,REJECT
 .nonremid.com,REJECT
 .noodokod.xyz,REJECT
+.nooglaug.net,REJECT
 .noojoomo.com,REJECT
 .go.noondate.com,REJECT
 .noopking.com,REJECT

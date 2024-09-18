@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-18T04:42:28.830Z
-# Size: 123269
+# Last Updated: 2024-09-18T12:37:15.364Z
+# Size: 123273
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -733,6 +733,7 @@ log.star.ele.me
 .waatch.gva.be
 .metrics.gvb.ch
 .smetrics.gvb.ch
+.log-ana.h3z.jp
 .logging.h3z.jp
 .h5v.eu
 .smetrics.ha.com
@@ -32079,6 +32080,7 @@ ad.bn.netease.com
 .marketing.optitex.com
 .cdn.optmn.cloud
 .optzsrv.com
+.oqaejin.icu
 .oqsttfy.com
 .branch.oraleye.com
 .oraporn.com
@@ -38348,6 +38350,7 @@ galaxy.bjcathay.com
 .bw95vpjda.ru
 .bx-cloud.com
 .bxrqdnkb.com
+.bxxibvjt.com
 .byaronan.com
 .bycxhgrp.xyz
 .bydzfldt.xyz
@@ -43907,6 +43910,7 @@ dzc-metrics.mzstatic.com
 .marketing.nona.digital
 .nonremid.com
 .noodokod.xyz
+.nooglaug.net
 .noojoomo.com
 .go.noondate.com
 .noopking.com
