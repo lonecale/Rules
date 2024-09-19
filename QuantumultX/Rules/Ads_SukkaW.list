@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-19T12:37:37.884Z
-# Size: 123308
+# Last Updated: 2024-09-19T18:09:40.404Z
+# Size: 123310
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -31987,6 +31987,7 @@ ad.bn.netease.com,REJECT
 .ojyggbl.com,REJECT
 .ok8867s.com,REJECT
 .okfiles.net,REJECT
+.okiterk.top,REJECT
 .okkodoo.com,REJECT
 .trk.oklocal.com,REJECT
 .okrasbj6.de,REJECT
@@ -96844,6 +96845,7 @@ plausible.joincommunity.xyz,REJECT
 .68287zubo85737.com,REJECT
 .7-itrndsbrands.com,REJECT
 .73336zubo25326.com,REJECT
+.786yfvedhcbxjk.top,REJECT
 .7anfpatlo8lwmb.com,REJECT
 .88362zubo95838.com,REJECT
 .93692zubo66936.com,REJECT
