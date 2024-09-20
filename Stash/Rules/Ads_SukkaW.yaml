@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-20T12:37:34.648Z
-  # Size: 123333
+  # Last Updated: 2024-09-20T15:45:44.562Z
+  # Size: 123335
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -9566,6 +9566,7 @@ payload:
   - .eduad.baidu.com
   - .entry.baidu.com
   - .fclog.baidu.com
+  - .msite.baidu.com
   - .shadu.baidu.com
   - .share.baidu.com
   - .union.baidu.com
@@ -16407,6 +16408,7 @@ payload:
   - .tags.aumago.com
   - .aurabom.ru
   - .pages.aureon.com
+  - .aushaq.top
   - .austow.com
   - .so.auto999.cn
   - .ftnnce.autodoc.dk
