@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-19T18:09:40.404Z
-# Size: 123310
+# Last Updated: 2024-09-20T12:37:34.648Z
+# Size: 123333
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -7262,6 +7262,7 @@ adlaunch.moji.com
 .smetrics.ovum.com
 .ow5a.net
 .owlsr.us
+.google-analytics.bi.owox.com
 .ozoj.com
 .web.mapp.ozone.bg
 .images.bio.ozyme.fr
@@ -8257,6 +8258,7 @@ g.tbcdn.cn
 .s.vucko.co
 .os.vudu.com
 .target.vudu.com
+.vvadz.cc
 .vvbox.cz
 .sponsors.vvng.com
 .target.vwfs.com
@@ -15010,6 +15012,7 @@ gemini.yahoo.com
 .yceml.net
 .ycgfdf.cn
 .ycrax.com
+.ads.yeeyi.com
 .test-links.yelsa.app
 .yengo.com
 .web.info.yeppon.it
@@ -16653,6 +16656,7 @@ fc-feed.cdn.bcebos.com
 .marketing.bfandt.com
 .bfbchr.xyz
 .bfhueh.top
+.bgbg00.fun
 .bghebf.xyz
 .1.bh5.com.cn
 .bhcont.com
@@ -19428,6 +19432,7 @@ acfeedbackws.icloud.com
 .link.stg.imprint.co
 .data-9090cf2efa.impulse.de
 .imstks.com
+.imusye.xyz
 .imwxsu.xyz
 .marketing.inaani.com
 .redirect.indacar.io
@@ -21896,6 +21901,7 @@ adres.myaora.net
 .pmpubs.com
 .pmsrvr.com
 .pmtrkp.icu
+.pmzlnt.xyz
 .data.pnet.co.za
 .wyzqiy.pnet.co.za
 .data-ssl.pnet.co.za
@@ -22061,7 +22067,6 @@ web.data.pplive.com
 .tracker.publico.pt
 .publir.com
 .metrix.publix.com
-.cdn.pubnub.com
 .pubwise.io
 .aoulpo.puccini.pl
 .pueber.com
@@ -24782,6 +24787,7 @@ api-scout.vercel.app
 .wpncdn.com
 .wpnjrm.com
 .wpnsrv.com
+.wpsbaq.xyz
 .wqvbuj.icu
 .analytics.wrc.nic.in
 .wrenko.com
@@ -26859,6 +26865,7 @@ thirdparty.biliapi.net
 .swa.blgwonen.nl
 .blidbqd.com
 .join.blimp.homes
+.blinxmi.icu
 .bliss91.com
 .bllom.cloud
 .blmibao.com
@@ -27603,6 +27610,7 @@ update.coolyun.com
 .cscccase.ru
 .csdata1.com
 .csdf4dn.pro
+.csdsa22.fun
 .csfusion.ru
 .csgo-up.com
 .csgocpu.com
@@ -30847,6 +30855,7 @@ lgtvsdp.com
 .lkcoffe.com
 .lkg6g644.de
 .lkhfkjp.com
+.lkiterl.top
 .lkqpxhw.com
 .lksbnrs.com
 .lkxahvf.com
@@ -32421,6 +32430,7 @@ init.phpwind.com
 .pixelpop.co
 .pixels.asia
 .ocelot.pixlwebs.nl
+.pjaihds.icu
 .pjcijbv.icu
 .pjnwmbz.com
 .pjoibbc.com
@@ -36697,6 +36707,7 @@ hot.m.shouji.360tpcdn.com
 .80xmedia.com
 .814272c4.xyz
 .82o9v830.com
+.83761158.xyz
 .83887336.xyz
 .84631949.xyz
 .tracker.8473sads.com
@@ -39498,6 +39509,7 @@ jobs.date-fns.org
 .data-5ab0f5b45f.dk-online.de
 .data-a9dcbfdd12.dk-online.de
 .dkotrack.com
+.dkstrtss.xyz
 .dle-news.xyz
 .ad.dline.com.tr
 .dljuejfp.com
@@ -40647,6 +40659,7 @@ rt.funshion.net
 .data-fdf649e16e.fussballn.de
 .futureads.io
 .futureus.com
+.fwsfwef2.fun
 .fx-trend.com
 .ad.fx168api.com
 .sw88.fxchannel.pl
@@ -46531,6 +46544,7 @@ inte.sogoucdn.com
 .statserv.net
 .stattooz.com
 .stattrax.com
+.staukaul.com
 .staureez.net
 .partner.stavario.com
 .stawhoph.com
@@ -56875,6 +56889,7 @@ iad0ssl.pcauto.com.cn
 .pstreetma.com
 .pt0zhwhc26.ru
 .ptaicoamt.com
+.ptatzrucj.com
 .ptclassic.com
 .ptekuwiny.pro
 .pthrecjtu.com
@@ -60617,7 +60632,7 @@ ad.winrar.com.cn
 .648db44857.5bdc059842.com
 .0ca528a25b.5bdd71381c.com
 .5c01ad4cb7.com
-.bb155692c8.5c4ccd56c9.com
+.5c4ccd56c9.com
 .a778de2012.5c530d2179.com
 .5ca59a669a.com
 .5caa478343.com
@@ -66799,6 +66814,7 @@ tracker.didiglobal.com
 .inet-ebank.com
 .tracking.inexchange.com
 .inferclick.com
+.infisecure.com
 .cq.hq1.influitive.com
 .app.email.influitive.com
 .marketing.influitive.com
@@ -67294,6 +67310,7 @@ analytics.infomaniak.com
 .lafastnews.com
 .lagqmwyvqr.com
 .laitushous.com
+.lajjmqeshj.com
 .lakequincy.com
 .lakvandula.com
 .lalokdocwl.com
@@ -68954,6 +68971,7 @@ ivy.pchouse.com.cn
 .pbox.photobox.co.uk
 .a8clk.photorevo.info
 .phursefter.net
+.phuthobsee.com
 .phuzeeksub.com
 .phytotyper.com
 .phywifupta.com
@@ -71243,6 +71261,7 @@ analytics3.starschina.com
 .sitecats.troweprice.com
 .xgspzv.troyestore.com
 .true-hacks.com
+.ads-router-noneu.truecaller.com
 .truehits.in.th
 .sstats.truist-prd.com
 .sstats.truist-tst.com
@@ -83472,6 +83491,7 @@ ssl.360antivirus.org
 .smetrics.emblemhealth.com
 .embogsoarers.com
 .embolipokies.com
+.embowerdatto.com
 .embracetrace.com
 .eloqua.emdmillipore.com
 .emeraldfiles.com
@@ -89431,6 +89451,7 @@ adclick.tencentmusic.com
 .odc.wunderground.com
 .wvietcombank.com
 .wvwxjfjjytaf.com
+.wwaowwonthco.com
 .wwarvlorkeww.top
 .wwarvlorobzw.top
 .wwclickserv.club
@@ -107030,6 +107051,7 @@ plausible.joincommunity.xyz
 .mktredtrack.worldscientific.com
 .worldwidemailer.com
 .worshipstubborn.com
+.worthwhile-wash.com
 .woukrkskillsom.info
 .wouldlikukemyf.info
 .wowcalmnessdumb.com
@@ -121869,6 +121891,7 @@ samsungcloudsolution.net
 .images.cornerstonebuildingbrands.com
 .stream.corporatefinanceinstitute.com
 .counsellinggrimlyengineer.com
+.countabledawdlerunaudited.com
 .countdownwildestmargarine.com
 .coveredsnortedelectronics.com
 .crambidnonutilitybayadeer.com
