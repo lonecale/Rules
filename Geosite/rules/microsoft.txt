@@ -5,6 +5,10 @@ full:officecdn-microsoft-com.akamaized.net
 full:statics-marketingsites-eas-ms-com.akamaized.net
 full:statics-marketingsites-eus-ms-com.akamaized.net
 full:statics-marketingsites-wcus-ms-com.akamaized.net
+full:crl.microsoft.com
+full:mscrl.microsoft.com
+full:ocsp.microsoft.com
+full:oneocsp.microsoft.com
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -24,10 +28,6 @@ full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
-full:crl.microsoft.com
-full:mscrl.microsoft.com
-full:ocsp.microsoft.com
-full:oneocsp.microsoft.com
 microsoft
 hotmail
 office
@@ -100,7 +100,7 @@ docs.com
 dynamics.com
 edgesuite.net
 efproject.net
-microsoftnews.cc
+msocsp.com
 fluidpreview.com
 footprintdns.com
 gameuxmasterguide.com
@@ -235,7 +235,7 @@ sway-cdn.com
 sway.com
 sysinternals.com
 tailwindtraders.com
-msocsp.com
+xamarin.com
 tfsallin.net
 translatetheweb.com
 unlocklimitlesslearning.com
@@ -262,8 +262,9 @@ microsoft.ca
 yammer.com
 fasttrackreadysupport.com
 microsoft.cat
-microsoftsqlserver.com
-xamarin.com
+microsoftsilverlight.net
+vscode-unpkg.net
+microsoftnews.cc
 microsoftnews.com
 microsoftnews.net
 microsoftnews.org
@@ -288,10 +289,10 @@ onedrive.com
 onedrive.eu
 onedrive.net
 onedrive.org
-vscode-unpkg.net
 vscode-cdn.net
 vscode.dev
 vsassets.io
+vfsforgit.org
 microsoft.by
 forzamotorsport.net
 forzaracingchampionship.com
@@ -433,8 +434,8 @@ thegithubshop.com
 npmjs.org
 npm.community
 npmjs.com
-vfsforgit.org
 vfsforgit.com
+visualstudio.net
 adaptivecards.io
 api-extractor.com
 apisof.net
@@ -457,8 +458,8 @@ microsoftreactor.net
 microsoftreactor.org
 microsoftsilverlight.com
 microsoftsilverlight.org
-microsoftsilverlight.net
-visualstudio.net
+visualstudio.eu
+microsoftsqlserver.com
 mmdnn.com
 mono-project.com
 msdn.com
@@ -477,13 +478,12 @@ uwpcommunitytoolkit.com
 visualstudio-staging.com
 visualstudio.com
 visualstudio.co
-visualstudio.eu
 microsoftstore.com.hk
 onedrive.co.uk
 skypedata.akadns.net
 skype-edf.akadns.net
-visualstudio.co.uk
 live.com.au
+visualstudio.co.uk
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 dcg.microsoft.com
 dynamics.cn
@@ -557,6 +557,7 @@ full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:xb.dlservice.microsoft.com
+full:www.microsoft.com
 microsoftnews.cn
 msn.cn
 xboxlive.cn
@@ -628,4 +629,3 @@ full:emoi-cncdn.bing.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
-full:www.microsoft.com
