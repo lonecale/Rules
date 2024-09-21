@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-20T19:49:25.461Z
-# Size: 123719
+# Last Updated: 2024-09-21T11:04:37.665Z
+# Size: 123733
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3179,6 +3179,7 @@ mobilead.kuwo.cn,REJECT
 .ktdcoy.lyst.it,REJECT
 .a.lz13.cn,REJECT
 .marketing.m-m.net,REJECT
+.sdkconfig.pulse.m10s.io,REJECT
 .tr.message.maaf.fr,REJECT
 .tr.avisecheance.maaf.fr,REJECT
 .tr.dossier-assurance.maaf.fr,REJECT
@@ -16045,6 +16046,7 @@ adcloud.jp,REJECT
 .aglurj.com,REJECT
 .agmed.cyou,REJECT
 .agmtrk.com,REJECT
+.agufoi.xyz,REJECT
 .ahaclub.ru,REJECT
 .aheave.com,REJECT
 .ahscdn.com,REJECT
@@ -17591,6 +17593,7 @@ fc-feed.cdn.bcebos.com,REJECT
 .cygnus.com,REJECT
 .marketing.cypram.com,REJECT
 .cyprie.com,REJECT
+.cysgcm.xyz,REJECT
 .ad.cyycoy.com,REJECT
 .czh5aa.xyz,REJECT
 .czouthy.cn,REJECT
@@ -19408,6 +19411,7 @@ ad.hzyoka.com,REJECT
 .ibanner.de,REJECT
 .ibatom.com,REJECT
 .net.iberia.com,REJECT
+.ibqmey.xyz,REJECT
 .ibryte.com,REJECT
 .stats.ibtimes.sg,REJECT
 .download.ibuzza.net,REJECT
@@ -22870,6 +22874,7 @@ test.api.xlmc.sandai.net,REJECT
 .services.sdiapi.com,REJECT
 .metrics.sdkbox.com,REJECT
 .guang.sdsgwy.com,REJECT
+.sdss99.fun,REJECT
 .sdtsad.com,REJECT
 .a8cv.se-navi.jp,REJECT
 .smetrics.seat.co.nz,REJECT
@@ -25189,6 +25194,7 @@ advertpay-vip-ssl.xunlei.com,REJECT
 .xvorpqz.cn,REJECT
 .xvpcjl.xyz,REJECT
 .trck1.xwager.xyz,REJECT
+.xwbmjb.xyz,REJECT
 .xwdjnj.xyz,REJECT
 .xwlnhw.com,REJECT
 .x.xxxbule.tv,REJECT
@@ -31476,6 +31482,7 @@ wmlog.meituan.com,REJECT
 .hgprha.mizalle.com,REJECT
 .mjsytjw.com,REJECT
 .mkazanc.com,REJECT
+.mkiterx.top,REJECT
 .mkitgfs.com,REJECT
 .mklrty.info,REJECT
 .ns2.mkptrew.xyz,REJECT
@@ -34139,6 +34146,7 @@ staticadm.leju.sina.com.cn,REJECT
 .track.spaxads.com,REJECT
 .marketing.spbatpa.org,REJECT
 .speakol.com,REJECT
+.analytics.spearly.com,REJECT
 .tk.speedway.fr,REJECT
 .dyzmpx.speedway.fr,REJECT
 .speee-ad.jp,REJECT
@@ -36578,6 +36586,7 @@ htracker5.zmzfile.com,REJECT
 .zxrfzxb.com,REJECT
 .zybbiez.com,REJECT
 .zzlong14.cn,REJECT
+.zzohucf.icu,REJECT
 .zzyjpmh.com,REJECT
 .003store.com,REJECT
 .00701059.xyz,REJECT
@@ -36593,6 +36602,7 @@ htracker5.zmzfile.com,REJECT
 .04424170.xyz,REJECT
 .awklir.0506mall.com,REJECT
 .05826.online,REJECT
+.07421283.xyz,REJECT
 .08f8f073.xyz,REJECT
 .0916video.ru,REJECT
 .09745951.xyz,REJECT
@@ -36885,6 +36895,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .80xmedia.com,REJECT
 .814272c4.xyz,REJECT
 .82o9v830.com,REJECT
+.83409127.xyz,REJECT
 .83761158.xyz,REJECT
 .83887336.xyz,REJECT
 .84631949.xyz,REJECT
@@ -39190,6 +39201,7 @@ galaxy.bjcathay.com,REJECT
 .takin.cors.digital,REJECT
 .analytics.corusent.com,REJECT
 .cosmo001.top,REJECT
+.cosmo100.top,REJECT
 .cotchaug.com,REJECT
 .metrics.cotellic.com,REJECT
 .smetrics.cotellic.com,REJECT
@@ -45727,6 +45739,7 @@ click.qianqian.com,REJECT
 .reportic.app,REJECT
 .republer.com,REJECT
 .www.req12pkg.com,REJECT
+.reqwevf3.fun,REJECT
 .rereddit.com,REJECT
 .reryn2ce.com,REJECT
 .reryn3ce.com,REJECT
@@ -82481,6 +82494,7 @@ ssl.360antivirus.org,REJECT
 .blackxboxone.com,REJECT
 .blanco-adv.co.il,REJECT
 .bland-factor.pro,REJECT
+.blasedustin.shop,REJECT
 .blazingskins.com,REJECT
 .blazonstowel.com,REJECT
 .marketing.bldgcontrols.com,REJECT
