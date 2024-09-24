@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-24T12:39:26.541Z
-# Size: 115520
+# Last Updated: 2024-09-24T18:31:23.490Z
+# Size: 115525
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -8483,6 +8483,7 @@ ad.10010.com,REJECT
 .2qy9zm.cn,REJECT
 .2under.ru,REJECT
 .audit.303br.net,REJECT
+.hjkhxfh.360doc.cn,REJECT
 .domcwlxin.360doc.cn,REJECT
 .xne1ocient87zxz.360doc.cn,REJECT
 .smetrics.360dx.com,REJECT
@@ -11206,6 +11207,7 @@ yiliao.hupan.com,REJECT
 .gdl.i9dhjx.ru,REJECT
 .i9klo.com,REJECT
 .iaindu.cn,REJECT
+.iaiqk.top,REJECT
 .l.ialoc.app,REJECT
 .ianik.xyz,REJECT
 .iasrv.com,REJECT
@@ -18172,6 +18174,7 @@ links.services.disqus.com,REJECT
 .fptls2.com,REJECT
 .fptls3.com,REJECT
 .fpzpmx.com,REJECT
+.fq010.shop,REJECT
 .fqbjzj.xyz,REJECT
 .fqghykp.cn,REJECT
 .fqtljn.xyz,REJECT
@@ -19466,6 +19469,7 @@ events.jianshu.io,REJECT
 .jxeyhgw.cn,REJECT
 .jxjpnd.xyz,REJECT
 .jxpjlb.xyz,REJECT
+.jy010.shop,REJECT
 .jy147a.com,REJECT
 .jyewkb.icu,REJECT
 .jyfdbj.xyz,REJECT
@@ -27931,6 +27935,7 @@ adx-dre.op.dbankcloud.com.edgekey.net,REJECT
 .evsembu.com,REJECT
 .evtwkkh.com,REJECT
 .evwmwnd.com,REJECT
+.ewaterw.top,REJECT
 .promo.ewellix.com,REJECT
 .eweriow.top,REJECT
 .ewikajs.com,REJECT

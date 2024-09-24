@@ -313,6 +313,7 @@ DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobad.ijinshan.com
 DOMAIN,mobads-logs.baidu.com
+DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobileads.msn.com
@@ -1179,6 +1180,7 @@ DOMAIN-SUFFIX,adform.net
 DOMAIN-SUFFIX,adhvz.cn
 DOMAIN-SUFFIX,adimg.liba.com
 DOMAIN-SUFFIX,adinall.com
+DOMAIN-SUFFIX,adintl.cn
 DOMAIN-SUFFIX,adjb.5nd.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adkernel.com
@@ -1597,6 +1599,7 @@ DOMAIN-SUFFIX,befyah.icu
 DOMAIN-SUFFIX,behvgsik.icu
 DOMAIN-SUFFIX,beijing.buzhi5.com
 DOMAIN-SUFFIX,beilamusi.com
+DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,bekmhvbb.xyz
 DOMAIN-SUFFIX,bellessb.com
 DOMAIN-SUFFIX,benpsbp.com
