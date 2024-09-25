@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-25T04:30:19.635Z
-# Size: 115560
+# Last Updated: 2024-09-25T12:39:18.154Z
+# Size: 115562
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56752,6 +56752,7 @@ strip.taobaocdn.com,REJECT
 .gmxcdm.vestel.com.tr,REJECT
 .veuuulalu.xyz,REJECT
 .vexevutus.com,REJECT
+.vfdvdfv77.fun,REJECT
 .vg02h8z1ul.me,REJECT
 .vhjgeivll.com,REJECT
 .vi-mayman.com,REJECT
@@ -82162,6 +82163,7 @@ ssl.360antivirus.org,REJECT
 .phenomtrackapi-ir.phenompeople.com,REJECT
 .phetsaikrugi.com,REJECT
 .phewhouhopse.com,REJECT
+.phidianowlet.com,REJECT
 .yolo.philipbjorge.com,REJECT
 .philstraffic.com,REJECT
 .smetrics.phoenixinwest.de,REJECT
