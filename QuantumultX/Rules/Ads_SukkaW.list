@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-25T12:39:18.154Z
-# Size: 115562
+# Last Updated: 2024-09-25T17:18:49.592Z
+# Size: 115577
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12160,7 +12160,7 @@ snap.licdn.com,REJECT
 .medrol.ru,REJECT
 .meendo.ru,REJECT
 .megaad.nz,REJECT
-adui.tg.meitu.com,REJECT
+.adui.tg.meitu.com,REJECT
 .tongji-res.meizu.com,REJECT
 .bszxhc.mej.co.jp,REJECT
 .mm.melia.com,REJECT
@@ -35588,6 +35588,7 @@ htracker5.zmzfile.com,REJECT
 .137kfj65k.de,REJECT
 .13p76nnir.de,REJECT
 .api.140proof.com,REJECT
+.14202444.xyz,REJECT
 .14cpoff22.de,REJECT
 .14fefmsjd.de,REJECT
 .1516shop.com,REJECT
@@ -37631,6 +37632,7 @@ galaxy.bjcathay.com,REJECT
 .cdhfvrug.xyz,REJECT
 .cdipsumf.top,REJECT
 .cdmnlxtu.xyz,REJECT
+.ads.cdn2-img.net,REJECT
 .cdn7.network,REJECT
 .cdnfimgs.com,REJECT
 .cdnmaster.cn,REJECT
@@ -38208,6 +38210,7 @@ cdn.cr-relay.com,REJECT
 .d1tracker.ru,REJECT
 .d23d450d.xyz,REJECT
 .d29gqcij.com,REJECT
+.d43849fz.xyz,REJECT
 .d477275c.xyz,REJECT
 .da28c69e.xyz,REJECT
 .daartads.com,REJECT
@@ -39643,6 +39646,7 @@ rt.funshion.net,REJECT
 .metrics.geekwire.com,REJECT
 .lalala.geenstijl.nl,REJECT
 .geerairu.net,REJECT
+.geetacog.xyz,REJECT
 .geethaiw.xyz,REJECT
 .geethoap.com,REJECT
 .cqbbpf.geewiz.co.za,REJECT
@@ -48073,6 +48077,7 @@ stat.10jqka.com.cn,REJECT
 .pstat.akathists.com,REJECT
 .aklamator.com,REJECT
 .gkvouu.aktiesport.nl,REJECT
+.akvqulocj.com,REJECT
 .akzfxmgcq.com,REJECT
 .al-adtech.com,REJECT
 .alaeshire.com,REJECT
@@ -52996,6 +53001,7 @@ s.maketheweb.io,REJECT
 .jdgtgb.meineorte.com,REJECT
 .navigation-timing.meinestadt.de,REJECT
 .stat.meitudata.com,REJECT
+.meitustat.com,REJECT
 .melit-zoy.com,REJECT
 .app.meliuz.com.br,REJECT
 .melnhroru.com,REJECT
@@ -54315,6 +54321,7 @@ iad0ssl.pcauto.com.cn,REJECT
 .pmieprlpq.com,REJECT
 .pncloudfl.com,REJECT
 .yywbgs.pneumatiky.sk,REJECT
+.pnwawbwwx.com,REJECT
 .poagugauz.net,REJECT
 .stats.poddtoppen.se,REJECT
 .link.podercard.com,REJECT
@@ -58155,7 +58162,7 @@ ad.winrar.com.cn,REJECT
 .7411603f57.com,REJECT
 .741a18df39.com,REJECT
 .58f53b4478.74264bd2c8.com,REJECT
-.a9e69f8da2.742ba1f9a9.com,REJECT
+.742ba1f9a9.com,REJECT
 .743fa12700.com,REJECT
 .7d8c044232.74e7e0defc.com,REJECT
 .ad686b0a36.74f0283889.com,REJECT
@@ -72340,6 +72347,7 @@ emma-414870e223.huodonghezi.com,REJECT
 .imageshells.com,REJECT
 .imagestash.pics,REJECT
 .marketing.imagexmedia.com,REJECT
+.imbeselbeno.com,REJECT
 .imediacrew.club,REJECT
 .imemediates.org,REJECT
 .ee.impactextend.dk,REJECT
@@ -84322,6 +84330,7 @@ adclick.tencentmusic.com,REJECT
 .vainfulkmole.com,REJECT
 .analytics.valheimgamer.com,REJECT
 .valiantjosie.com,REJECT
+.validworking.pro,REJECT
 .valiumbessel.com,REJECT
 .search.valuehunter.site,REJECT
 .valuermainly.com,REJECT
@@ -85230,6 +85239,7 @@ stat.zuimeitianqi.com,REJECT
 .albeitinflame.com,REJECT
 .alchemysocial.com,REJECT
 .alchimybegins.com,REJECT
+.aldolstelly.click,REJECT
 .affiliate.alexandrajohn.com,REJECT
 .alexisbeaming.com,REJECT
 .alfionecasave.com,REJECT
@@ -87256,6 +87266,7 @@ collect.foresightnews.pro,REJECT
 .data-17c7ec5f16.fussballfieber.de,REJECT
 .data-ec98eddf4a.fussballfieber.de,REJECT
 .fussy-highway.pro,REJECT
+.fussysandwich.pro,REJECT
 .futharcconny.shop,REJECT
 .futurehybrid.tech,REJECT
 .communication.futuresummits.com,REJECT
@@ -89140,6 +89151,7 @@ plausible.joincommunity.xyz,REJECT
 .opulentsylvan.com,REJECT
 .opvanillishan.com,REJECT
 .oracleinfinity.io,REJECT
+.oregonguttera.com,REJECT
 .smetrics.orenciapatient.se,REJECT
 .dw.organaamnions.com,REJECT
 .orientalrazor.com,REJECT
@@ -91309,6 +91321,7 @@ plausible.joincommunity.xyz,REJECT
 .a8.williesenglish.jp,REJECT
 .smetrics.wilsonniblett.com,REJECT
 .winaffiliates.com,REJECT
+.windlebrogues.com,REJECT
 .windowsavings.pro,REJECT
 .windowsuseful.com,REJECT
 .osimg.windsurfercrs.com,REJECT
@@ -91746,6 +91759,7 @@ plausible.joincommunity.xyz,REJECT
 .comtelitalia.alcatel-lucent.com,REJECT
 .aldosesmajeure.com,REJECT
 .alecmeantimehe.com,REJECT
+.alepinezaptieh.com,REJECT
 .marketing.alereforensics.com,REJECT
 .aletrenhegenmi.com,REJECT
 .algjqsuzialktg.com,REJECT
@@ -94484,6 +94498,7 @@ plausible.joincommunity.xyz,REJECT
 .meokiemtien.online,REJECT
 .seniorliving.merionevanston.com,REJECT
 .mff.messefrankfurt.com,REJECT
+.methodyprovand.com,REJECT
 .methoxyunpaled.com,REJECT
 .get.metileanoffer.site,REJECT
 .metrica-yandex.com,REJECT
@@ -115590,4 +115605,3 @@ samsungcloudsolution.net,REJECT
 .zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de,REJECT
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,REJECT
 ################## EOF ##################
-

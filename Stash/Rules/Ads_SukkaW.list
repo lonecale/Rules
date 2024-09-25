@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-25T12:39:18.154Z
-# Size: 115562
+# Last Updated: 2024-09-25T17:18:49.592Z
+# Size: 115577
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12160,7 +12160,7 @@ snap.licdn.com
 .medrol.ru
 .meendo.ru
 .megaad.nz
-adui.tg.meitu.com
+.adui.tg.meitu.com
 .tongji-res.meizu.com
 .bszxhc.mej.co.jp
 .mm.melia.com
@@ -35588,6 +35588,7 @@ htracker5.zmzfile.com
 .137kfj65k.de
 .13p76nnir.de
 .api.140proof.com
+.14202444.xyz
 .14cpoff22.de
 .14fefmsjd.de
 .1516shop.com
@@ -37631,6 +37632,7 @@ galaxy.bjcathay.com
 .cdhfvrug.xyz
 .cdipsumf.top
 .cdmnlxtu.xyz
+.ads.cdn2-img.net
 .cdn7.network
 .cdnfimgs.com
 .cdnmaster.cn
@@ -38208,6 +38210,7 @@ cdn.cr-relay.com
 .d1tracker.ru
 .d23d450d.xyz
 .d29gqcij.com
+.d43849fz.xyz
 .d477275c.xyz
 .da28c69e.xyz
 .daartads.com
@@ -39643,6 +39646,7 @@ rt.funshion.net
 .metrics.geekwire.com
 .lalala.geenstijl.nl
 .geerairu.net
+.geetacog.xyz
 .geethaiw.xyz
 .geethoap.com
 .cqbbpf.geewiz.co.za
@@ -48073,6 +48077,7 @@ stat.10jqka.com.cn
 .pstat.akathists.com
 .aklamator.com
 .gkvouu.aktiesport.nl
+.akvqulocj.com
 .akzfxmgcq.com
 .al-adtech.com
 .alaeshire.com
@@ -52996,6 +53001,7 @@ s.maketheweb.io
 .jdgtgb.meineorte.com
 .navigation-timing.meinestadt.de
 .stat.meitudata.com
+.meitustat.com
 .melit-zoy.com
 .app.meliuz.com.br
 .melnhroru.com
@@ -54315,6 +54321,7 @@ iad0ssl.pcauto.com.cn
 .pmieprlpq.com
 .pncloudfl.com
 .yywbgs.pneumatiky.sk
+.pnwawbwwx.com
 .poagugauz.net
 .stats.poddtoppen.se
 .link.podercard.com
@@ -58155,7 +58162,7 @@ ad.winrar.com.cn
 .7411603f57.com
 .741a18df39.com
 .58f53b4478.74264bd2c8.com
-.a9e69f8da2.742ba1f9a9.com
+.742ba1f9a9.com
 .743fa12700.com
 .7d8c044232.74e7e0defc.com
 .ad686b0a36.74f0283889.com
@@ -72340,6 +72347,7 @@ emma-414870e223.huodonghezi.com
 .imageshells.com
 .imagestash.pics
 .marketing.imagexmedia.com
+.imbeselbeno.com
 .imediacrew.club
 .imemediates.org
 .ee.impactextend.dk
@@ -84322,6 +84330,7 @@ adclick.tencentmusic.com
 .vainfulkmole.com
 .analytics.valheimgamer.com
 .valiantjosie.com
+.validworking.pro
 .valiumbessel.com
 .search.valuehunter.site
 .valuermainly.com
@@ -85230,6 +85239,7 @@ stat.zuimeitianqi.com
 .albeitinflame.com
 .alchemysocial.com
 .alchimybegins.com
+.aldolstelly.click
 .affiliate.alexandrajohn.com
 .alexisbeaming.com
 .alfionecasave.com
@@ -87256,6 +87266,7 @@ collect.foresightnews.pro
 .data-17c7ec5f16.fussballfieber.de
 .data-ec98eddf4a.fussballfieber.de
 .fussy-highway.pro
+.fussysandwich.pro
 .futharcconny.shop
 .futurehybrid.tech
 .communication.futuresummits.com
@@ -89140,6 +89151,7 @@ plausible.joincommunity.xyz
 .opulentsylvan.com
 .opvanillishan.com
 .oracleinfinity.io
+.oregonguttera.com
 .smetrics.orenciapatient.se
 .dw.organaamnions.com
 .orientalrazor.com
@@ -91309,6 +91321,7 @@ plausible.joincommunity.xyz
 .a8.williesenglish.jp
 .smetrics.wilsonniblett.com
 .winaffiliates.com
+.windlebrogues.com
 .windowsavings.pro
 .windowsuseful.com
 .osimg.windsurfercrs.com
@@ -91746,6 +91759,7 @@ plausible.joincommunity.xyz
 .comtelitalia.alcatel-lucent.com
 .aldosesmajeure.com
 .alecmeantimehe.com
+.alepinezaptieh.com
 .marketing.alereforensics.com
 .aletrenhegenmi.com
 .algjqsuzialktg.com
@@ -94484,6 +94498,7 @@ plausible.joincommunity.xyz
 .meokiemtien.online
 .seniorliving.merionevanston.com
 .mff.messefrankfurt.com
+.methodyprovand.com
 .methoxyunpaled.com
 .get.metileanoffer.site
 .metrica-yandex.com
@@ -115590,4 +115605,3 @@ samsungcloudsolution.net
 .zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################
-
