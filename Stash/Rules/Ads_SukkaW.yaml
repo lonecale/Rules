@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-25T17:18:49.592Z
-  # Size: 115577
+  # Last Updated: 2024-09-26T12:39:49.616Z
+  # Size: 115608
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -9851,6 +9851,7 @@ payload:
   - .1026750852.rsc.cdn77.org
   - .1047430889.rsc.cdn77.org
   - .1080872514.rsc.cdn77.org
+  - .1102480842.rsc.cdn77.org
   - .1116283932.rsc.cdn77.org
   - .1136707664.rsc.cdn77.org
   - .1157433411.rsc.cdn77.org
@@ -9859,6 +9860,7 @@ payload:
   - .1205088249.rsc.cdn77.org
   - .1208344341.rsc.cdn77.org
   - .1228540867.rsc.cdn77.org
+  - .1361552718.rsc.cdn77.org
   - .1363394706.rsc.cdn77.org
   - .1437953666.rsc.cdn77.org
   - .1450691516.rsc.cdn77.org
@@ -13340,6 +13342,7 @@ payload:
   - .rovno.xyz
   - .app.solution.roxar.com
   - .roxby.org
+  - sashimi.royli.dev
   - .mdws.rpcul.com
   - .rpe.co.il
   - .rqmob.com
@@ -17599,6 +17602,7 @@ payload:
   - .smetric.eddiev.com
   - .web.mapp.edenred.it
   - .edgbas.com
+  - sapi.edgedb.com
   - .edghkc.xyz
   - .partneri.edibles.eu
   - .nanofantiki.edigest.ru
@@ -18928,6 +18932,7 @@ payload:
   - .ibanner.de
   - .ibatom.com
   - .net.iberia.com
+  - .ibkoiw.xyz
   - .ibqmey.xyz
   - .ibryte.com
   - .stats.ibtimes.sg
@@ -19577,6 +19582,7 @@ payload:
   - .kgdyoh.icu
   - .kgeqsu.xyz
   - .kggikf.icu
+  - .kgipui.xyz
   - .kgqcse.xyz
   - .kgubus.xyz
   - .ad.khan.co.kr
@@ -21799,6 +21805,7 @@ payload:
   - .bdcode.qinglm.com
   - .qinjgh.icu
   - .qivaiw.com
+  - .qjwvwu.xyz
   - .bdgg.qjy168.com
   - .qkikkg.xyz
   - .qkscga.xyz
@@ -24021,6 +24028,7 @@ payload:
   - .vtlyrj.xyz
   - .vtnmxx.xyz
   - .vuabem.com
+  - .vulitd.xyz
   - .vungle.com
   - .vupsnx.xyz
   - .vuqufo.uno
@@ -26276,6 +26284,7 @@ payload:
   - .cdn.bescore.com
   - .tr.info.bessans.com
   - .best-cdn.pl
+  - .counter.best-hit.tv
   - .best-top.de
   - .best-top.ro
   - .tmx.bestbuy.com
@@ -28262,6 +28271,7 @@ payload:
   - .dcclaa.freundin.de
   - .data-e4cfccd10c.freundin.de
   - .data-e7308988a6.freundin.de
+  - .frfve33.fun
   - .frgre33.fun
   - .nqacsh.fritid24.dk
   - .trk.fruitdor.fr
@@ -35164,6 +35174,7 @@ payload:
   - .xjkhaow.com
   - .xkejsns.com
   - .xkesqbp.icu
+  - .xkgttas.icu
   - .xkowcsl.com
   - .xktxemf.com
   - .xkwwnle.com
@@ -35410,6 +35421,7 @@ payload:
   - .log.zdnet.co.kr
   - .hits.zdnet.co.kr
   - .weblog.zdnet.co.kr
+  - .zdscdkc.icu
   - .vuwjv7sjvg7.zedporn.com
   - .bxbuvv.zeelool.com
   - .qksxet.zeetours.nl
@@ -38184,6 +38196,7 @@ payload:
   - .cutechin.com
   - .detnmz.cuteness.com
   - .cutsauvo.net
+  - .cuwlmupz.com
   - .cvastico.com
   - .cvbjctqs.xyz
   - .cvfgere96.cn
@@ -38206,6 +38219,7 @@ payload:
   - .analytics.cyrillus.com
   - .czilladx.com
   - .czncztrk.com
+  - .czpnpjrg.xyz
   - .d-agency.net
   - .dns-log.d-n-s.org.uk
   - .d1tracker.ru
@@ -45306,6 +45320,8 @@ payload:
   - .stratos.blue
   - .cdn.stray228.com
   - .play.strdef.world
+  - .track.streak.ninja
+  - .analytics-op.streak.ninja
   - .eq-beacon.stream.co.jp
   - .eq-player-log.cdnext.stream.ne.jp
   - .stats.streamhub.io
@@ -46722,6 +46738,7 @@ payload:
   - .data-af9f3dfb33.weltkunst.de
   - .wemfpbtd.xyz
   - .wenoolgo.icu
+  - .weryt111.fun
   - .marketing.wesco.com.br
   - .wesell.co.il
   - .bgupcq.westfalia.de
@@ -47346,6 +47363,7 @@ payload:
   - .zmfcnlvu.xyz
   - .zmjagawa.com
   - .zmmuzuyb.com
+  - .zmvopcio.icu
   - .zmyjessp.com
   - .zoachoar.net
   - .zoachops.com
@@ -56205,6 +56223,7 @@ payload:
   - .tizermine.net
   - .tjekscores.dk
   - .uhqunq.tktimport.com
+  - .tleejvlhs.com
   - .tlpltwcgr.com
   - .images.reach.tmf-group.com
   - .ad01.tmgrup.com.tr
@@ -62643,6 +62662,7 @@ payload:
   - .faucetfoot.com
   - .mf.fauldbeeth.com
   - .faultyfowl.com
+  - .fauphoaglu.net
   - .fausothaur.com
   - .fauwhoocoa.com
   - .favzzmeziy.com
@@ -63226,6 +63246,7 @@ payload:
   - .smetrics.golfgalaxy.com
   - .a8.golfland.co.jp
   - .gombotrubu.com
+  - .gonoushauw.net
   - .goodsscoop.com
   - .info.goodwillgr.org
   - .googleapi.club
@@ -64471,6 +64492,7 @@ payload:
   - .ljtodywdhx.xyz
   - .ljubleasyu.com
   - .ljyajgjvuv.com
+  - .ljyzfwahwe.com
   - .lkenflknkd.com
   - .lkiawpwigg.com
   - .lkjoncgixi.com
@@ -65177,7 +65199,6 @@ payload:
   - .frdoki.nailcolor.work
   - .naive-skin.pro
   - .najsiejfnc.win
-  - .nakamasweb.com
   - .naloblwidg.com
   - .smetrics.namestudio.com
   - .nandasmile.org
@@ -70485,6 +70506,7 @@ payload:
   - .securedata.collectandgo.be
   - .data.customermail.collectandgo.be
   - .securedata.collectandgo.fr
+  - .colloqlarum.com
   - .news.coloradobiz.com
   - .colossalcry.com
   - .colossusssp.com
@@ -74286,6 +74308,7 @@ payload:
   - .gorilla.physio-soft.com
   - .vg.piaroanjust.com
   - .hfmogh.piatradesign.ro
+  - .piazzatepal.com
   - .picklesdumb.com
   - .pictureturn.com
   - .kjswto.pierrehardy.com
@@ -74573,6 +74596,7 @@ payload:
   - .putfeablean.org
   - .putlockertv.com
   - .putridchart.pro
+  - .puyyyifbmdh.com
   - .web.e.pvccladding.com
   - .pvnaegtrtju.com
   - .pweabzcatoh.com
@@ -74745,6 +74769,7 @@ payload:
   - .rebelsubway.com
   - .rebevengwas.com
   - .vqzxxb.rebodykorea.com
+  - .rebosoyodle.com
   - .receiptcent.com
   - .recognified.net
   - .recondite1x.xyz
@@ -75442,6 +75467,7 @@ payload:
   - .socketbuild.com
   - .sofcryingfo.xyz
   - .wildebeest.soft-spoken.dev
+  - .softentears.com
   - .softietouch.com
   - .softonicads.com
   - .www.softtrack08.com
@@ -77129,6 +77155,7 @@ payload:
   - .yqaywudifu.date
   - .yqgmvxufpkr.com
   - .yqpalfulpst.com
+  - .yrwqquykdja.com
   - .yszhtlsfvvf.com
   - .ytimewornan.org
   - .yttompthree.com
@@ -79697,6 +79724,7 @@ payload:
   - .frightysever.org
   - .friskbiscuit.com
   - .hf.frisklelooms.com
+  - .frondsgenoas.com
   - .frostplacard.com
   - .frostykitten.com
   - .frothirenews.top
@@ -81727,6 +81755,7 @@ payload:
   - .tracker.nocodelytics.com
   - .lc.nodoseamylic.com
   - .noetianidite.top
+  - .nohowsankhya.com
   - .nomeuspagrus.com
   - .nominalclck.name
   - .nomorepecans.com
@@ -82560,6 +82589,7 @@ payload:
   - .termite.queerburners.org
   - .queerygenets.com
   - .marketing.quenchonline.com
+  - .questeelskin.com
   - .queuescotman.com
   - .uffleq.quibblet.website
   - .drizzlep.quibblet.website
@@ -86872,6 +86902,7 @@ payload:
   - .endorsesmelly.com
   - .endurablebulb.com
   - .endurableshop.com
+  - .endwaysdsname.com
   - .enejvkctedmos.com
   - .partner.energiezivota.com
   - .smetrics.energy953radio.ca
