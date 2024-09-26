@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-26T12:39:49.616Z
-# Size: 115608
+# Last Updated: 2024-09-26T17:23:21.062Z
+# Size: 115611
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6158,6 +6158,7 @@ shence.hupu.com,REJECT
 .access.ipro.net,REJECT
 .access2.ipro.net,REJECT
 .iptuy.cn,REJECT
+.ipxx.pro,REJECT
 .response.iqpc.com,REJECT
 .dg.irco.com,REJECT
 .trk.irco.com,REJECT
@@ -29298,6 +29299,7 @@ log.v2.hunantv.com,REJECT
 .data-f1e447fbcf.ippen.media,REJECT
 .data-f59db3288b.ippen.media,REJECT
 .ipsoazr.icu,REJECT
+.ipv4dns.com,REJECT
 .iqgessh.icu,REJECT
 .iqkjrwf.com,REJECT
 .iqlpkca.com,REJECT
@@ -39726,6 +39728,7 @@ cdn.getkoala.com,REJECT
 .ggsbjzyo.com,REJECT
 .ggxdzrvo.com,REJECT
 .ghbdsbfd.com,REJECT
+.ghiuge55.fun,REJECT
 .cmp-cdn.ghostery.com,REJECT
 .collector-hpn.ghostery.net,REJECT
 .gibaivoa.com,REJECT

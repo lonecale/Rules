@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-26T12:39:49.616Z
-  # Size: 115608
+  # Last Updated: 2024-09-26T17:23:21.062Z
+  # Size: 115611
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -6159,6 +6159,7 @@ payload:
   - .access.ipro.net
   - .access2.ipro.net
   - .iptuy.cn
+  - .ipxx.pro
   - .response.iqpc.com
   - .dg.irco.com
   - .trk.irco.com
@@ -29299,6 +29300,7 @@ payload:
   - .data-f1e447fbcf.ippen.media
   - .data-f59db3288b.ippen.media
   - .ipsoazr.icu
+  - .ipv4dns.com
   - .iqgessh.icu
   - .iqkjrwf.com
   - .iqlpkca.com
@@ -39727,6 +39729,7 @@ payload:
   - .ggsbjzyo.com
   - .ggxdzrvo.com
   - .ghbdsbfd.com
+  - .ghiuge55.fun
   - .cmp-cdn.ghostery.com
   - .collector-hpn.ghostery.net
   - .gibaivoa.com
