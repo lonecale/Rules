@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-09-27T12:38:43.029Z
-  # Size: 115658
+  # Last Updated: 2024-09-27T18:48:43.956Z
+  # Size: 115672
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -12725,6 +12725,14 @@ payload:
   - .oevll.com
   - .of-bo.com
   - .t.ofsys.com
+  - .ogfba.net
+  - .ogfbb.net
+  - .ogfbc.net
+  - .ogfbd.net
+  - .ogfbe.net
+  - .ogffa.net
+  - .ogfga.net
+  - .ogfna.net
   - .ognyvo.ru
   - .ogrid.org
   - .a.oh100.com
@@ -13573,6 +13581,7 @@ payload:
   - .ebis.smakon.jp
   - .rtpmqv.smakon.jp
   - .smalh.com
+  - .smarf.icu
   - .sms.info.smart.com
   - .data.info.smart.com
   - .data.marketing.smart.com
@@ -14676,6 +14685,7 @@ payload:
   - .tracking.xmor.info
   - .xoalt.com
   - .xolen.xyz
+  - .cdn.xpln.tech
   - .xrrdi.com
   - .m.xrum.info
   - .xs6po.icu
@@ -21422,6 +21432,7 @@ payload:
   - .smetrics.btondemand.pfizer.com
   - .pfjtgxc.cn
   - .marketing.pfsida.com
+  - .pgazaz.icu
   - .pgieqr.top
   - .pgmcdn.com
   - .phause.com
@@ -65125,6 +65136,7 @@ payload:
   - .multimater.com
   - .stats.multiply.cloud
   - .tracker.multisearch.io
+  - .multisetup.pro
   - .api.mumuglobal.com
   - .store-api.mumuglobal.com
   - .a.munters.com.au
@@ -74063,6 +74075,7 @@ payload:
   - .hksfkh.otomotoprofi.pl
   - .stats.otsohavanto.net
   - .oubeliketh.info
+  - .l.ouest-france.fr
   - .go.labonneadresse.ouest-france.fr
   - .ouldhukelpm.org
   - .ouleegneeje.com
@@ -79022,6 +79035,7 @@ payload:
   - .detachedknot.com
   - .detailedglue.com
   - .detectdinner.com
+  - .determineapp.com
   - .deupfpxwdzxs.com
   - .aa.deutsche-bank.de
   - .at.deutsche-bank.de

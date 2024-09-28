@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-27T12:38:43.029Z
-# Size: 115658
+# Last Updated: 2024-09-27T18:48:43.956Z
+# Size: 115672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12724,6 +12724,14 @@ nmbr.info,REJECT
 .oevll.com,REJECT
 .of-bo.com,REJECT
 .t.ofsys.com,REJECT
+.ogfba.net,REJECT
+.ogfbb.net,REJECT
+.ogfbc.net,REJECT
+.ogfbd.net,REJECT
+.ogfbe.net,REJECT
+.ogffa.net,REJECT
+.ogfga.net,REJECT
+.ogfna.net,REJECT
 .ognyvo.ru,REJECT
 .ogrid.org,REJECT
 .a.oh100.com,REJECT
@@ -13572,6 +13580,7 @@ newspush.sinajs.cn,REJECT
 .ebis.smakon.jp,REJECT
 .rtpmqv.smakon.jp,REJECT
 .smalh.com,REJECT
+.smarf.icu,REJECT
 .sms.info.smart.com,REJECT
 .data.info.smart.com,REJECT
 .data.marketing.smart.com,REJECT
@@ -14675,6 +14684,7 @@ img.auction-ads.wpscdn.cn,REJECT
 .tracking.xmor.info,REJECT
 .xoalt.com,REJECT
 .xolen.xyz,REJECT
+.cdn.xpln.tech,REJECT
 .xrrdi.com,REJECT
 .m.xrum.info,REJECT
 .xs6po.icu,REJECT
@@ -21421,6 +21431,7 @@ adres.myaora.net,REJECT
 .smetrics.btondemand.pfizer.com,REJECT
 .pfjtgxc.cn,REJECT
 .marketing.pfsida.com,REJECT
+.pgazaz.icu,REJECT
 .pgieqr.top,REJECT
 .pgmcdn.com,REJECT
 .phause.com,REJECT
@@ -65124,6 +65135,7 @@ adapi.lenovogame.com,REJECT
 .multimater.com,REJECT
 .stats.multiply.cloud,REJECT
 .tracker.multisearch.io,REJECT
+.multisetup.pro,REJECT
 .api.mumuglobal.com,REJECT
 .store-api.mumuglobal.com,REJECT
 .a.munters.com.au,REJECT
@@ -74062,6 +74074,7 @@ material.istreamsche.com,REJECT
 .hksfkh.otomotoprofi.pl,REJECT
 .stats.otsohavanto.net,REJECT
 .oubeliketh.info,REJECT
+.l.ouest-france.fr,REJECT
 .go.labonneadresse.ouest-france.fr,REJECT
 .ouldhukelpm.org,REJECT
 .ouleegneeje.com,REJECT
@@ -79021,6 +79034,7 @@ ssl.360antivirus.org,REJECT
 .detachedknot.com,REJECT
 .detailedglue.com,REJECT
 .detectdinner.com,REJECT
+.determineapp.com,REJECT
 .deupfpxwdzxs.com,REJECT
 .aa.deutsche-bank.de,REJECT
 .at.deutsche-bank.de,REJECT
