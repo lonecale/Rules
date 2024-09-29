@@ -677,4 +677,4 @@ curl -L -o Tool-repo/GeoIP/geoip.dat "https://github.com/Loyalsoldier/v2ray-rule
 
 mkdir -p Tool-repo/Geosite
 curl -L -o Tool-repo/Geosite/geosite.dat "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
-curl -L -o Tool-repo/Geosite/geosite-pt.dat "https://github.com/ixff/v2ray-rules-dat/releases/latest/download/geosite.dat"
+curl -L -o Tool-repo/Geosite/geosite-pt.dat "https://github.com/ixff/meta-rules-dat/releases/download/latest/geosite.dat"
