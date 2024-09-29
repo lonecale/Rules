@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-29T03:01:41.029Z
-# Size: 115752
+# Last Updated: 2024-09-29T12:35:53.816Z
+# Size: 115755
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -30480,6 +30480,7 @@ delivery.maihehd.com,REJECT
 .mediad.asia,REJECT
 .mediadar.ru,REJECT
 .tr.mediafin.be,REJECT
+.trjs2.mediafin.be,REJECT
 .report.mediahub.vn,REJECT
 .report2.mediahub.vn,REJECT
 .smetrics.seguro.mediaset.es,REJECT
@@ -64606,6 +64607,7 @@ adapi.lenovogame.com,REJECT
 .tracker.lolalytics.com,REJECT
 .c.lolamarket.com,REJECT
 .partneri.londonstore.cz,REJECT
+.lonelybulb.com,REJECT
 .lonerdrawn.com,REJECT
 .long-thanh.com,REJECT
 .longarctic.com,REJECT
@@ -107537,6 +107539,7 @@ display.360totalsecurity.com,REJECT
 .maintainedencircle.com,REJECT
 .maintenancewinning.com,REJECT
 .majesticwaterscape.com,REJECT
+.majesticwilderness.com,REJECT
 .malletaskewbrittle.com,REJECT
 .managesborerecords.com,REJECT
 .contact.marathon-sports-ec.com,REJECT
