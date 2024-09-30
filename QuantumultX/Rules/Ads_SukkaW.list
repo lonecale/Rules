@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-30T12:40:48.185Z
-# Size: 115190
+# Last Updated: 2024-09-30T17:41:21.839Z
+# Size: 115176
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,13 +9,13 @@
 # The domainset supports AD blocking,tracking protection,privacy protection,anti-phishing,anti-mining
 #
 # Build from:
-#  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 #  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Huawei-AdBlock.txt
 #  - https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 #  - https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
 #  - https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+#  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 #  - https://easylist.to/easylist/easylist.txt
 #  - https://easylist.to/easylist/easyprivacy.txt
 #  - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -25,7 +25,7 @@
 #  - https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
 #  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 #  - https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt
-#  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 #########################################
 .atom-log.3.cn,REJECT
 .kzsisc.3.dk,REJECT
@@ -2216,7 +2216,6 @@ crashlytics.163.com,REJECT
 .mdws.cccu.ca,REJECT
 .cnstats.cdev.eu,REJECT
 .tr.n.info.cdgp.fr,REJECT
-.cdn1.su,REJECT
 .cdns.ws,REJECT
 .azuvwa.ceps.io,REJECT
 .analytics.ceu.com,REJECT
@@ -31966,7 +31965,6 @@ zzy1.quyaoya.com,REJECT
 .qzvzluu.xyz,REJECT
 .smetrics.pdt.r-agent.com,REJECT
 .smetrics.cast.r-agent.com,REJECT
-.r202cop.xyz,REJECT
 .r8nu86wg.me,REJECT
 .a.raasnet.com,REJECT
 .p.raasnet.com,REJECT
@@ -33373,7 +33371,6 @@ susapi.dev.surepush.cn,REJECT
 .stat-ssl.teamroom.jp,REJECT
 .fowl.teamyap.app,REJECT
 .vjqola.teatreat.kr,REJECT
-.cmp.tech426.com,REJECT
 .as.techbook.de,REJECT
 .ast.techbook.de,REJECT
 .data-50c00d5d12.techbook.de,REJECT
@@ -33893,7 +33890,6 @@ susapi.dev.surepush.cn,REJECT
 .jcaqvl.twinset.com,REJECT
 .twinsrv.com,REJECT
 .twittad.com,REJECT
-.ads-api.twitter.com,REJECT
 .ads-bidder-api.twitter.com,REJECT
 .twlmq.space,REJECT
 .twnrydt.com,REJECT
@@ -39687,6 +39683,8 @@ cdn.getkoala.com,REJECT
 .xml-eu-v4.goclickz.net,REJECT
 .godloveme.cn,REJECT
 .partner.goelite.club,REJECT
+.data-434ba718f3.gofeminin.de,REJECT
+.data-5dd8125a5b.gofeminin.de,REJECT
 .gofenews.com,REJECT
 .mtzzpw.gogood.co.il,REJECT
 .gohillgo.com,REJECT
@@ -46543,8 +46541,7 @@ static.vuevideo.net,REJECT
 .wfuwlkgm.com,REJECT
 .wgidskie.top,REJECT
 .axp.wgnradio.com,REJECT
-.wpb.wgplayer.com,REJECT
-.universal.wgplayer.com,REJECT
+.wgplayer.com,REJECT
 .whachaun.net,REJECT
 .whadupsi.net,REJECT
 .whagrolt.com,REJECT
@@ -47508,7 +47505,6 @@ stat.10jqka.com.cn,REJECT
 .smetrics.eticketing.abbott.com.sg,REJECT
 .smetrics.abbottgps.com,REJECT
 .abburmyer.com,REJECT
-.cpi.abcapiabc.com,REJECT
 .info.abcnorcal.org,REJECT
 .stats.abdodaoud.com,REJECT
 .abelekidr.com,REJECT
@@ -49243,7 +49239,6 @@ p.cloudcraft.co,REJECT
 .coin-have.com,REJECT
 .coin-hive.com,REJECT
 .coinblind.com,REJECT
-.ads.coingecko.com,REJECT
 .coinhive.info,REJECT
 .coinhiver.com,REJECT
 .coinhives.com,REJECT
@@ -52771,7 +52766,6 @@ s.maketheweb.io,REJECT
 .metamask.blog,REJECT
 .e.metarouter.io,REJECT
 .observe.metarouter.io,REJECT
-.metasteal.xyz,REJECT
 .lrhyty.meteovista.be,REJECT
 .metric.methoddev.com,REJECT
 .metrics34.com,REJECT
@@ -59964,9 +59958,6 @@ analytics.bytegiftia.top,REJECT
 .tr.www.cloudflare.com,REJECT
 .data.em2.cloudflare.com,REJECT
 .csp-reporting.cloudflare.com,REJECT
-.www.supportxmr.com.cdn.cloudflare.net,REJECT
-.consent.irvinecompany.com.cdn.cloudflare.net,REJECT
-.mediaserver.gvcaffiliates.com.cdn.cloudflare.net,REJECT
 .stats.cloudflex.team,REJECT
 .cloudfrale.com,REJECT
 .d6cto2pyf2ks.cloudfront.net,REJECT
@@ -61575,7 +61566,6 @@ adx-drru.op.dbankcloud.com,REJECT
 .1db7ae623d.ddc1aaee63.com,REJECT
 .ddctoqpfve.com,REJECT
 .43681e8af5.dde2488558.com,REJECT
-.ddfskjdfh.site,REJECT
 .0929d40cdd.de2da13f46.com,REJECT
 .zefpks.dealdonkey.com,REJECT
 .dfanalytics.dealerfire.com,REJECT
@@ -65471,7 +65461,6 @@ httpdns.push.oppomobile.com,REJECT
 .pantafives.com,REJECT
 .pantherads.com,REJECT
 .panyh123456.cn,REJECT
-.papeilist.pics,REJECT
 .paphoolred.com,REJECT
 .paqcpeotbx.com,REJECT
 .events.paramount.tech,REJECT
@@ -66405,7 +66394,6 @@ samsungqbe.com,REJECT
 .sartolutus.com,REJECT
 .sascentral.com,REJECT
 .ovmrti.sassyclassy.de,REJECT
-.satanishka.fun,REJECT
 .saub27i3os.com,REJECT
 .lp.saudeifoco.com,REJECT
 .saumeechoa.com,REJECT
@@ -66907,6 +66895,7 @@ samsungqbe.com,REJECT
 .soupevents.com,REJECT
 .soupoleums.com,REJECT
 .soupy-user.com,REJECT
+.sourcecode.pro,REJECT
 .a8net.sourcenext.com,REJECT
 .ogcsvq.sourcenext.com,REJECT
 .cod.southmoney.com,REJECT
@@ -73119,7 +73108,6 @@ material.istreamsche.com,REJECT
 .moonvids.online,REJECT
 .go.moosehockey.com,REJECT
 .mootermedia.com,REJECT
-.moralis-api.zip,REJECT
 .morbitempus.com,REJECT
 .morevisits.info,REJECT
 .morganbank.site,REJECT
@@ -73944,7 +73932,7 @@ ad-analysis.pconline.com.cn,REJECT
 .s.perverttube.top,REJECT
 .peshkarties.top,REJECT
 .info.pestfree.direct,REJECT
-.query1.petametrics.com,REJECT
+.petametrics.com,REJECT
 .sheep.peterfowler.com,REJECT
 .tk.petit-bateau.be,REJECT
 .tk.petit-bateau.de,REJECT
@@ -85253,7 +85241,6 @@ stat.zuimeitianqi.com,REJECT
 .bangrighteous.com,REJECT
 .bankingpotent.com,REJECT
 .bup.bankofamerica.com,REJECT
-.sofa.bankofamerica.com,REJECT
 .tilt.bankofamerica.com,REJECT
 .target.bankofamerica.com,REJECT
 .metrics.bankofamerica.com,REJECT
@@ -85930,7 +85917,6 @@ stat.zuimeitianqi.com,REJECT
 .comparedsilas.com,REJECT
 .chat.compassshield.com,REJECT
 .compiledoctor.com,REJECT
-.compound-swap.com,REJECT
 .go.computacenter.com,REJECT
 .landing.computershare.com,REJECT
 .info.comsoft-direct.nl,REJECT

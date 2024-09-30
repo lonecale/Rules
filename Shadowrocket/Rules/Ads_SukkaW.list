@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-30T12:40:48.185Z
-# Size: 115190
+# Last Updated: 2024-09-30T17:41:21.839Z
+# Size: 115176
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,13 +9,13 @@
 # The domainset supports AD blocking,tracking protection,privacy protection,anti-phishing,anti-mining
 #
 # Build from:
-#  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 #  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Huawei-AdBlock.txt
 #  - https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 #  - https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
 #  - https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+#  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 #  - https://easylist.to/easylist/easylist.txt
 #  - https://easylist.to/easylist/easyprivacy.txt
 #  - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -25,7 +25,7 @@
 #  - https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
 #  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 #  - https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt
-#  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 #########################################
 .atom-log.3.cn
 .kzsisc.3.dk
@@ -2216,7 +2216,6 @@ crashlytics.163.com
 .mdws.cccu.ca
 .cnstats.cdev.eu
 .tr.n.info.cdgp.fr
-.cdn1.su
 .cdns.ws
 .azuvwa.ceps.io
 .analytics.ceu.com
@@ -31966,7 +31965,6 @@ zzy1.quyaoya.com
 .qzvzluu.xyz
 .smetrics.pdt.r-agent.com
 .smetrics.cast.r-agent.com
-.r202cop.xyz
 .r8nu86wg.me
 .a.raasnet.com
 .p.raasnet.com
@@ -33373,7 +33371,6 @@ susapi.dev.surepush.cn
 .stat-ssl.teamroom.jp
 .fowl.teamyap.app
 .vjqola.teatreat.kr
-.cmp.tech426.com
 .as.techbook.de
 .ast.techbook.de
 .data-50c00d5d12.techbook.de
@@ -33893,7 +33890,6 @@ susapi.dev.surepush.cn
 .jcaqvl.twinset.com
 .twinsrv.com
 .twittad.com
-.ads-api.twitter.com
 .ads-bidder-api.twitter.com
 .twlmq.space
 .twnrydt.com
@@ -39687,6 +39683,8 @@ cdn.getkoala.com
 .xml-eu-v4.goclickz.net
 .godloveme.cn
 .partner.goelite.club
+.data-434ba718f3.gofeminin.de
+.data-5dd8125a5b.gofeminin.de
 .gofenews.com
 .mtzzpw.gogood.co.il
 .gohillgo.com
@@ -46543,8 +46541,7 @@ static.vuevideo.net
 .wfuwlkgm.com
 .wgidskie.top
 .axp.wgnradio.com
-.wpb.wgplayer.com
-.universal.wgplayer.com
+.wgplayer.com
 .whachaun.net
 .whadupsi.net
 .whagrolt.com
@@ -47508,7 +47505,6 @@ stat.10jqka.com.cn
 .smetrics.eticketing.abbott.com.sg
 .smetrics.abbottgps.com
 .abburmyer.com
-.cpi.abcapiabc.com
 .info.abcnorcal.org
 .stats.abdodaoud.com
 .abelekidr.com
@@ -49243,7 +49239,6 @@ p.cloudcraft.co
 .coin-have.com
 .coin-hive.com
 .coinblind.com
-.ads.coingecko.com
 .coinhive.info
 .coinhiver.com
 .coinhives.com
@@ -52771,7 +52766,6 @@ s.maketheweb.io
 .metamask.blog
 .e.metarouter.io
 .observe.metarouter.io
-.metasteal.xyz
 .lrhyty.meteovista.be
 .metric.methoddev.com
 .metrics34.com
@@ -59964,9 +59958,6 @@ analytics.bytegiftia.top
 .tr.www.cloudflare.com
 .data.em2.cloudflare.com
 .csp-reporting.cloudflare.com
-.www.supportxmr.com.cdn.cloudflare.net
-.consent.irvinecompany.com.cdn.cloudflare.net
-.mediaserver.gvcaffiliates.com.cdn.cloudflare.net
 .stats.cloudflex.team
 .cloudfrale.com
 .d6cto2pyf2ks.cloudfront.net
@@ -61575,7 +61566,6 @@ adx-drru.op.dbankcloud.com
 .1db7ae623d.ddc1aaee63.com
 .ddctoqpfve.com
 .43681e8af5.dde2488558.com
-.ddfskjdfh.site
 .0929d40cdd.de2da13f46.com
 .zefpks.dealdonkey.com
 .dfanalytics.dealerfire.com
@@ -65471,7 +65461,6 @@ httpdns.push.oppomobile.com
 .pantafives.com
 .pantherads.com
 .panyh123456.cn
-.papeilist.pics
 .paphoolred.com
 .paqcpeotbx.com
 .events.paramount.tech
@@ -66405,7 +66394,6 @@ samsungqbe.com
 .sartolutus.com
 .sascentral.com
 .ovmrti.sassyclassy.de
-.satanishka.fun
 .saub27i3os.com
 .lp.saudeifoco.com
 .saumeechoa.com
@@ -66907,6 +66895,7 @@ samsungqbe.com
 .soupevents.com
 .soupoleums.com
 .soupy-user.com
+.sourcecode.pro
 .a8net.sourcenext.com
 .ogcsvq.sourcenext.com
 .cod.southmoney.com
@@ -73119,7 +73108,6 @@ material.istreamsche.com
 .moonvids.online
 .go.moosehockey.com
 .mootermedia.com
-.moralis-api.zip
 .morbitempus.com
 .morevisits.info
 .morganbank.site
@@ -73944,7 +73932,7 @@ ad-analysis.pconline.com.cn
 .s.perverttube.top
 .peshkarties.top
 .info.pestfree.direct
-.query1.petametrics.com
+.petametrics.com
 .sheep.peterfowler.com
 .tk.petit-bateau.be
 .tk.petit-bateau.de
@@ -85253,7 +85241,6 @@ stat.zuimeitianqi.com
 .bangrighteous.com
 .bankingpotent.com
 .bup.bankofamerica.com
-.sofa.bankofamerica.com
 .tilt.bankofamerica.com
 .target.bankofamerica.com
 .metrics.bankofamerica.com
@@ -85930,7 +85917,6 @@ stat.zuimeitianqi.com
 .comparedsilas.com
 .chat.compassshield.com
 .compiledoctor.com
-.compound-swap.com
 .go.computacenter.com
 .landing.computershare.com
 .info.comsoft-direct.nl
