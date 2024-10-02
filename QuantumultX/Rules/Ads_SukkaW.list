@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-02T12:39:01.847Z
-# Size: 115318
+# Last Updated: 2024-10-02T15:42:18.317Z
+# Size: 115322
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10539,6 +10539,7 @@ zhwnlapi.etouch.cn,REJECT
 .log.f-tra.com,REJECT
 .f090.site,REJECT
 .f23al.xyz,REJECT
+.f5zv2.icu,REJECT
 .partner.fabulo.sk,REJECT
 .wdnyom.faces.com,REJECT
 .tracker.facey.com,REJECT
@@ -27267,6 +27268,7 @@ adimg.daumcdn.net,REJECT
 .dk4ywix.com,REJECT
 .dkmjxh.info,REJECT
 .dkrqyly.com,REJECT
+.dlcodes.com,REJECT
 .dle-news.pw,REJECT
 .dlski.space,REJECT
 .yu.dlxxjsh.top,REJECT
@@ -39252,6 +39254,7 @@ huawei.facebook.com,REJECT
 .foapsovi.net,REJECT
 .foasowut.xyz,REJECT
 .fobeetch.net,REJECT
+.focalink.com,REJECT
 .a8cv.focusneo.net,REJECT
 .info.focuspos.com,REJECT
 .fodifhvg.com,REJECT
@@ -82855,6 +82858,7 @@ ssl.360antivirus.org,REJECT
 .sexflirtbook.com,REJECT
 .ddd.sexstories69.com,REJECT
 .net.sexstories69.com,REJECT
+.cp-sap.sfmc-content.com,REJECT
 .sforourcompa.org,REJECT
 .sfrujefjswrn.xyz,REJECT
 .mail.shaferglazer.com,REJECT
