@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-02T15:42:18.317Z
-# Size: 115322
+# Last Updated: 2024-10-03T12:38:42.290Z
+# Size: 115372
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10331,6 +10331,7 @@ vdapprecv.app.cntvwb.cn
 .c.eacla.com
 .absinfo.eagle.org
 .ealeo.com
+.eanff.com
 .go.eapps.com
 .earnco.in
 .myinfo.eaton.com
@@ -11749,6 +11750,7 @@ adsfile.bssdlbig.kugou.com
 .info.lansa.com
 .communications.lansa.com
 .data-8468e8ebc5.laola1.at
+.laoqo.top
 .applinks.laoshi.io
 .join.lapse.app
 .laqira.io
@@ -12156,6 +12158,7 @@ snap.licdn.com
 .mm786.com
 .marketing-ap.mmc.co.jp
 .nr.static.mmcdn.com
+.nwr.static.mmcdn.com
 .mmmdn.net
 .mmtro.com
 .mn1nm.com
@@ -15755,6 +15758,7 @@ osfota.cdn.aliyun.com
 .device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 .devicemessaging.us-east-1.amazon.com
+.bugsnag.shopbop.amazon.dev
 .amazuk.com
 .ambaab.com
 .links.commercialemails.amcplc.com
@@ -16037,6 +16041,7 @@ file.apicvn.com
 .tags.aumago.com
 .aurabom.ru
 .pages.aureon.com
+.ausfyk.xyz
 .aushaq.top
 .austow.com
 .so.auto999.cn
@@ -24567,6 +24572,7 @@ advertpay-vip-ssl.xunlei.com
 .yclxrj.top
 .ycmgeb.icu
 .ycqbgm.xyz
+.ycuhky.xyz
 .ycwuoq.xyz
 .ydv7k.cyou
 .yealnk.com
@@ -24704,6 +24710,7 @@ impservice.dictapp.youdao.com
 .box.zap.com.br
 .fglopb.zapaka.com
 .pjmryh.zapatos.es
+.marty.zappos.com
 .track.zappos.com
 .amethyst.zappos.com
 .prod-sponsoredads.mkt.zappos.com
@@ -27264,6 +27271,7 @@ adimg.daumcdn.net
 .link-test.divcity.com
 .metrics.divosta.com
 .ad-img.diyidan.net
+.djecgyk.icu
 .djxpnuo.xyz
 .dk4ywix.com
 .dkmjxh.info
@@ -30970,6 +30978,7 @@ ad.bn.netease.com
 .tr.notification-gdpr.norrsken.fr
 .invites.nospace.app
 .amvyzr.nostalux.be
+.notabl8.com
 .d01.notifa.info
 .p01.notifa.info
 .p02.notifa.info
@@ -31591,6 +31600,7 @@ init.phpwind.com
 .plufdsb.com
 .plugerr.com
 .pmc1201.com
+.pmgfwya.icu
 .pmtkhcr.com
 .pmxyzqm.com
 .pncvaoh.com
@@ -36823,6 +36833,7 @@ log.b612kaji.com
 .log.baonghean.vn
 .adv.baotintuc.vn
 .thongke.baotintuc.vn
+.log-video.baotintuc.vn
 .log.baovanhoa.vn
 .baovietn.vip
 .xml.bappaads.com
@@ -36944,6 +36955,7 @@ ae.bdstatic.com
 .www.berunews.com
 .9u12sw4aa591h3hg.berunews.com
 .mergle.berwham.site
+.beryt111.fun
 .besguses.pro
 .somniture.bestcheck.de
 .data-1818d50639.bestcheck.de
@@ -37079,6 +37091,7 @@ galaxy.bjcathay.com
 .bjwgifte.com
 .bkbbjtfp.xyz
 .bklesfzb.com
+.bktsauna.com
 .bkvtrack.com
 .stats.blackblog.cz
 .init.blackcrow.ai
@@ -38867,6 +38880,7 @@ jobs.date-fns.org
 .ewerilxw.top
 .ewhareey.com
 .ewoutosh.com
+.ewurserw.top
 .ewzavfde.xyz
 .exactsag.com
 .exaleprn.com
@@ -42430,6 +42444,7 @@ dzc-metrics.mzstatic.com
 .nerdolac.com
 .nereserv.com
 .nervegus.com
+.neryt111.fun
 .nessainy.net
 .zhqcir.netage.ne.jp
 .a8clk.www.netage.ne.jp
@@ -43297,6 +43312,7 @@ geolocation.onetrust.com
 .stats.persgroep.nl
 .pertawee.net
 .pertlouv.com
+.peryt111.fun
 .pesoaniz.com
 .pestholy.com
 .stats.petanode.com
@@ -44266,6 +44282,7 @@ click.qianqian.com
 .fglrgt.ruggable.com
 .rukplaza.com
 .ruliaoqi.com
+.rulrahed.com
 .runadtag.com
 .runative.com
 .runmixed.com
@@ -45275,6 +45292,7 @@ inte.sogoucdn.com
 .krill.swiss-uke.ch
 .b2bmarketingsb.swisscom.com
 .swoezdra.com
+.swurserb.top
 .sy57d8wi.com
 .tracking.sydostran.se
 .sm.sylectus.com
@@ -46891,6 +46909,7 @@ xdcs-collector.ximalaya.com
 .xizanzhi.com
 .xjakcitm.com
 .xjappzvz.xyz
+.xjtosdof.icu
 .xkbbjtfp.xyz
 .xlca666.site
 .t.xlcenter.com
@@ -48659,6 +48678,7 @@ advertise.baicizhan.org
 .qcv5.blogtruyen.vn
 .tracking.bloomberg.com
 .analytics.bloomberg.com
+.eventrecorder.cm.bloomberg.com
 .blu5fdclr.com
 .www.blue2fund.com
 .secure.blue2fund.com
@@ -49452,6 +49472,7 @@ p.cloudcraft.co
 .craterbox.com
 .crazyhell.com
 .crazylead.com
+.y.crazyporn.xxx
 .dl.crazyporn.xxx
 .sli.crazyporn.xxx
 .crdfifmrm.com
@@ -51628,6 +51649,7 @@ v2.fm.n.duokanbox.com
 .instaflrt.com
 .instantfox.co
 .lets.instantify.it
+.heatmap-events-collector.instapage.com
 .lp.insulivax.com
 .insuranc.club
 .intake-lr.com
@@ -56357,6 +56379,7 @@ strip.taobaocdn.com
 .swzrtm.unclereco.com
 .underclick.ru
 .undertone.com
+.unhhsrraf.com
 .unhorseaa.com
 .hmsagy.uniecampus.it
 .go.unifiedav.com
@@ -58101,7 +58124,7 @@ ad.winrar.com.cn
 .8d96fe2f01.com
 .8db4fde90b.com
 .dfc1a3c2c3.8de4cb9cb7.com
-.cb07f20af1.8de5d7e235.com
+.8de5d7e235.com
 .8ec9b7706a.com
 .8f2b4c98e7.com
 .8f72931b99.com
@@ -63558,6 +63581,7 @@ tracker.didiglobal.com
 .iklanhemat.com
 .ikonatozee.top
 .ikouthaupi.com
+.ikssllnhrb.com
 .ilbuqwjwzw.com
 .adilk.ilikecomix.com
 .ilikethis.info
@@ -63920,6 +63944,7 @@ analytics.infomaniak.com
 .jylgvkxgfy.com
 .jynp9m209p.com
 .jzbvpyvhus.com
+.jzplabcvvy.com
 .k-analytix.com
 .kaascypher.com
 .kabarnaira.com
@@ -65518,6 +65543,7 @@ httpdns.push.oppomobile.com
 .ozonemedia.com
 .stats.ozwebsites.biz
 .p59othersq.com
+.paddlemenu.com
 .info.padistance.org
 .marketing.paducah.travel
 .tracker-aa.pafbetscore.lv
@@ -65885,6 +65911,7 @@ ivy.pchouse.com.cn
 .psaiwaxaib.net
 .psaizeemit.com
 .psalrausoa.com
+.psaulrouck.net
 .psaurdoofy.com
 .psaurteepo.com
 .psefteeque.com
@@ -67947,6 +67974,7 @@ analytics3.starschina.com
 .unixfuture.com
 .t.unlvrebels.com
 .app.unlvrebels.com
+.unmanyabby.com
 .www.unrealpain.com
 .unrummaged.com
 .untidyrice.com
@@ -68022,6 +68050,7 @@ analytics3.starschina.com
 .bppbnn.vacanceole.com
 .vagilunger.com
 .vahufapave.com
+.vaivurizoa.net
 .valepoking.com
 .valetsword.com
 .validclick.com
@@ -71946,6 +71975,7 @@ grs.dbankcloud.asia
 .hjgapllydic.com
 .hjhwjphsryi.com
 .hjprhubzqgw.com
+.hkaphqknkao.com
 .hkapicwuhvc.com
 .hkeibmpspxn.com
 .hkfgsxpnaga.xyz
@@ -72086,6 +72116,7 @@ emma-414870e223.huodonghezi.com
 .a8cv.hyperknife.info
 .eiveja.hyungjaebio.com
 .hzmksreiuojy.ru
+.hzychcvdmjo.com
 .i-sacombank.com
 .srrtgr.iamlondon.co.kr
 .macaw.ianmitchell.dev
@@ -72362,6 +72393,7 @@ material.istreamsche.com
 .jfsocqmvvqt.com
 .jgdipcsviur.com
 .jgfcgqivdpd.com
+.jgfuxnrloev.com
 .tmwkya.jh-profishop.at
 .olklgn.jh-profishop.de
 .jhfdmiwcgnty.ru
@@ -72383,6 +72415,7 @@ material.istreamsche.com
 .jmopproojsc.xyz
 .jmqrogtmvfo.com
 .jmtbmqchgpw.xyz
+.jobetartane.com
 .joblessdrum.com
 .data-ee807be806.jobmarkt-nrw.de
 .data-fdf4690b14.jobmarkt-nrw.de
@@ -72885,6 +72918,7 @@ material.istreamsche.com
 .lysinevii.click
 .lysjpqhhzve.com
 .lyssapebble.com
+.lzoasvofvzw.com
 .lzukrobrykk.com
 .tr.e.m-entreprise.fr
 .a8clk.ma-platform.com
@@ -73738,6 +73772,7 @@ material.istreamsche.com
 .ooxobsaupta.com
 .opatacarnal.top
 .connect.opendoorerp.com
+.openersbens.com
 .invite.openhouse.study
 .openkatalog.com
 .openmindter.com
@@ -77413,6 +77448,7 @@ ssl.360antivirus.org
 .www.angorch-cdr7.com
 .anguishmotto.com
 .anguishworst.com
+.anickeebsoon.com
 .sa.animalplanet.com
 .ssa.animalplanet.com
 .links.animalplanet.com
@@ -82609,6 +82645,7 @@ ssl.360antivirus.org
 .roomyreading.com
 .rootcaptawed.com
 .s.rosettastone.com
+.rosskenyte.click
 .rotondelibya.com
 .rougharmless.com
 .roughseaside.com
@@ -82854,6 +82891,7 @@ ssl.360antivirus.org
 .setsdowntown.com
 .seventybrush.com
 .sewagegove.click
+.sewparamedic.com
 .sexdating123.com
 .sexflirtbook.com
 .ddd.sexstories69.com
@@ -85647,7 +85685,7 @@ stat.zuimeitianqi.com
 .metrics.brooksrunning.com
 .browsobsolete.com
 .brtenusjkmgyb.com
-.rm.brucinabowmen.com
+.brucinabowmen.com
 .brucineborneo.top
 .marketing.brucknertruck.com
 .bruntstabulae.com
@@ -87029,6 +87067,7 @@ collect.foresightnews.pro
 .preferencecenter.fticonsulting.com
 .tracking.ftitechnology.com
 .ftzivuesohvebj.ru
+.fucategallied.com
 .in.fuckhardclips.com
 .data-90cb6242e4.fuersie-online.de
 .data-f1e447fbcf.fuldaerzeitung.de
@@ -87513,6 +87552,7 @@ collect.foresightnews.pro
 .cmp.huffingtonpost.fr
 .hugysoral.digital
 .hulabipptemux.com
+.huldahflotter.com
 .humiliatemoot.com
 .a8cv.humming-water.com
 .humpdecompose.com
@@ -87844,6 +87884,7 @@ collect.foresightnews.pro
 .jkajyrkjmzmkz.top
 .jkzakzalzoewy.top
 .jlmokzndbiafs.com
+.jnoujcdiprjvx.com
 .joannaiodisms.com
 .joanneehretia.com
 .jobmkewrymvbw.top
@@ -90561,6 +90602,8 @@ plausible.joincommunity.xyz
 .totalnicenewz.com
 .partner.totalniplavani.cz
 .app.touchofmodern.com
+.touchytautogs.com
+.toushuhoophis.xyz
 .tovespiquener.com
 .towardsturtle.com
 .marketing.toxicology.abbott
@@ -90625,6 +90668,7 @@ plausible.joincommunity.xyz
 .o398.trumbulltimes.com
 .gfykqr.trustedchoice.com
 .marketing.trusteedplans.com
+.trusteenubian.com
 .trustzonevpn.info
 .truthvexedben.com
 .trymysadoroh.site
@@ -90667,6 +90711,7 @@ plausible.joincommunity.xyz
 .uamoctchgmkya.com
 .uanbpywrumpuj.com
 .ubertracking.info
+.ubiquitoussea.com
 .ble.ubm-licensing.com
 .data-47ee1b0882.uc-kino-ruegen.de
 .t.ucdavisaggies.com
@@ -90763,6 +90808,7 @@ plausible.joincommunity.xyz
 .eonmxd.urban-research.jp
 .urgedsuitcase.com
 .urgefranchise.com
+.urinousbiriba.com
 .urquqtbswaqta.com
 .urucuripomely.com
 .mucho.us-assistance.org
@@ -93509,6 +93555,7 @@ plausible.joincommunity.xyz
 .sud.holidayinsider.com
 .metrics.hollandamerica.com
 .smetrics.hollandamerica.com
+.hollekejokiest.com
 .metrics.hollisterco.com.hk
 .metrics.homedecorators.com
 .app.homelocatorapp.com
@@ -96072,6 +96119,7 @@ plausible.joincommunity.xyz
 .analytics.tiendaenoferta.com
 .tienvenhanhvtb.com
 .log.tieudungthoinay.vn
+.tifpqpbqurspix.com
 .mdws.tignishcreditu.com
 .seniorliving.timberridgelcs.com
 .content.timetogather.co.uk
@@ -100695,6 +100743,7 @@ plausible.joincommunity.xyz
 .withinresentful.com
 .withyouryretye.info
 .woetcwdynnltfnh.com
+.wokseephishopty.net
 .xiwhhx.wolfandshepherd.com
 .bnk.wolterskluwerfs.com
 .ins.wolterskluwerfs.com
@@ -107211,6 +107260,7 @@ display.360totalsecurity.com
 .morionsluigini.digital
 .mormonindianajones.com
 .motionsablehostess.com
+.motu-teamblue.services
 .mourningonionthing.com
 .data-47ee1b0882.movietown-eichsfeld.de
 .mowhamsterradiator.com
