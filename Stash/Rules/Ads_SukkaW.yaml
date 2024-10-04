@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-04T01:38:11.933Z
-  # Size: 115392
+  # Last Updated: 2024-10-04T12:38:12.266Z
+  # Size: 115398
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -18566,6 +18566,7 @@ payload:
   - .trk.haskel.com
   - .hatzhq.net
   - .marketing.haughn.com
+  - .hauqou.top
   - .data-048d215ebe.haustec.de
   - .data-b4df3518e0.haustec.de
   - .havttn.xyz
@@ -22535,6 +22536,7 @@ payload:
   - .logger.snackly.co
   - .counter.snackly.co
   - .solutions.snapfi.com
+  - .errortracking.snapp.site
   - .promoted.sndcdn.com
   - .dichvucong.snggov.com
   - .kszuxn.snidel.com
@@ -43969,6 +43971,7 @@ payload:
   - .qwertize.com
   - .qwerty24.net
   - .qwnmfiti.xyz
+  - .qwursery.top
   - .qxhspimg.com
   - .qydrwhhk.xyz
   - .qykvrcqk.com
@@ -52542,6 +52545,7 @@ payload:
   - .w.love4porn.com
   - .dl.love4porn.com
   - .loveadvert.ru
+  - .loveameng.top
   - .bgtaeb.loveandpop.kr
   - .wwpxck.lovelymine.dk
   - .sanalytics.lovemoney.com
@@ -101117,6 +101121,7 @@ payload:
   - .web.b2bpleasefashion.com
   - .info.b2lead-marketing.com
   - .baigh8eosmgie01.site
+  - .baigh8eosmgie02.site
   - .marketing.bajajelectricals.com
   - .baldappetizingun.com
   - .banisterslighten.com
@@ -104889,6 +104894,7 @@ payload:
   - .a8cv.honeys-onlineshop.com
   - .nljjem.honeys-onlineshop.com
   - .hongi7ie8owiie01.site
+  - .hongi7ie8owiie02.site
   - .honoursimmoderate.com
   - .hopedpluckcuisine.com
   - .horribledecorated.com

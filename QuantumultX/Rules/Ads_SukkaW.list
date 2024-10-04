@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-04T01:38:11.933Z
-# Size: 115392
+# Last Updated: 2024-10-04T12:38:12.266Z
+# Size: 115398
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18565,6 +18565,7 @@ pdl.gionee.com,REJECT
 .trk.haskel.com,REJECT
 .hatzhq.net,REJECT
 .marketing.haughn.com,REJECT
+.hauqou.top,REJECT
 .data-048d215ebe.haustec.de,REJECT
 .data-b4df3518e0.haustec.de,REJECT
 .havttn.xyz,REJECT
@@ -22534,6 +22535,7 @@ d8.sinaimg.cn,REJECT
 .logger.snackly.co,REJECT
 .counter.snackly.co,REJECT
 .solutions.snapfi.com,REJECT
+.errortracking.snapp.site,REJECT
 .promoted.sndcdn.com,REJECT
 .dichvucong.snggov.com,REJECT
 .kszuxn.snidel.com,REJECT
@@ -43968,6 +43970,7 @@ click.qianqian.com,REJECT
 .qwertize.com,REJECT
 .qwerty24.net,REJECT
 .qwnmfiti.xyz,REJECT
+.qwursery.top,REJECT
 .qxhspimg.com,REJECT
 .qydrwhhk.xyz,REJECT
 .qykvrcqk.com,REJECT
@@ -52541,6 +52544,7 @@ api.game.letvstore.com,REJECT
 .w.love4porn.com,REJECT
 .dl.love4porn.com,REJECT
 .loveadvert.ru,REJECT
+.loveameng.top,REJECT
 .bgtaeb.loveandpop.kr,REJECT
 .wwpxck.lovelymine.dk,REJECT
 .sanalytics.lovemoney.com,REJECT
@@ -101116,6 +101120,7 @@ display.360totalsecurity.com,REJECT
 .web.b2bpleasefashion.com,REJECT
 .info.b2lead-marketing.com,REJECT
 .baigh8eosmgie01.site,REJECT
+.baigh8eosmgie02.site,REJECT
 .marketing.bajajelectricals.com,REJECT
 .baldappetizingun.com,REJECT
 .banisterslighten.com,REJECT
@@ -104888,6 +104893,7 @@ display.360totalsecurity.com,REJECT
 .a8cv.honeys-onlineshop.com,REJECT
 .nljjem.honeys-onlineshop.com,REJECT
 .hongi7ie8owiie01.site,REJECT
+.hongi7ie8owiie02.site,REJECT
 .honoursimmoderate.com,REJECT
 .hopedpluckcuisine.com,REJECT
 .horribledecorated.com,REJECT
