@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-03T12:38:42.290Z
-# Size: 115372
+# Last Updated: 2024-10-04T01:38:11.933Z
+# Size: 115392
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10326,6 +10326,7 @@ vdapprecv.app.cntvwb.cn,REJECT
 .dzfzak.cn,REJECT
 .dzjzg.com,REJECT
 .tr.contact.e-turf.fr,REJECT
+.e1zin.icu,REJECT
 .e6wwd.top,REJECT
 .eacdn.com,REJECT
 .c.eacla.com,REJECT
@@ -18640,6 +18641,7 @@ pdl.gionee.com,REJECT
 .hgx1.space,REJECT
 .hhausq.top,REJECT
 .hhnhxu.com,REJECT
+.hhrerv.xyz,REJECT
 .hhwd68.com,REJECT
 .hi-go.shop,REJECT
 .m.hi1222.com,REJECT
@@ -19590,6 +19592,7 @@ events.jianshu.io,REJECT
 .app.kora.money,REJECT
 .korexo.com,REJECT
 .adebis.kose.co.jp,REJECT
+.kossog.xyz,REJECT
 .koufqy.xyz,REJECT
 .b.kouke5.com,REJECT
 .smetrics.kowa-h.com,REJECT
@@ -20234,6 +20237,7 @@ adm.meiguo.com,REJECT
 .mggzah.icu,REJECT
 .mghkpg.com,REJECT
 .mgmuye.xyz,REJECT
+.mgqtcs.xyz,REJECT
 .mgs123.com,REJECT
 .mhadsd.com,REJECT
 .engage.mhainc.com,REJECT
@@ -26872,6 +26876,7 @@ thirdparty.biliapi.net,REJECT
 .serviceos.comcast.net,REJECT
 .target.comdata.com,REJECT
 .smetrics.comdata.com,REJECT
+.comicad.net,REJECT
 .comihon.com,REJECT
 .log002.commutil.kr,REJECT
 .hbfpvm.comolib.com,REJECT
@@ -31023,6 +31028,7 @@ ad.bn.netease.com,REJECT
 .nsomomo.com,REJECT
 .nsyywkq.com,REJECT
 .nszeybs.com,REJECT
+.ntiutox.icu,REJECT
 .analytics.ntlc.com.vn,REJECT
 .ntlzvrv.xyz,REJECT
 .ntmemns.com,REJECT
@@ -36104,6 +36110,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .aegiumks.com,REJECT
 .a8.guardian-mp.aerial-p.com,REJECT
 .aerontre.com,REJECT
+.aeryt111.fun,REJECT
 .aeshopvn.com,REJECT
 .aevspdhb.com,REJECT
 .afahivar.com,REJECT
@@ -40362,6 +40369,7 @@ cdn.getkoala.com,REJECT
 .igoognou.xyz,REJECT
 .diagnose.igstatic.com,REJECT
 .ihauvogh.com,REJECT
+.ihkybtde.com,REJECT
 .ihoolrun.net,REJECT
 .iibhytvj.com,REJECT
 .iicheewi.com,REJECT
@@ -41310,6 +41318,7 @@ ad-cn.jovcloud.com,REJECT
 .lazada68.com,REJECT
 .lazada77.com,REJECT
 .lbfgwkxq.com,REJECT
+.lbjekygz.icu,REJECT
 .lbjxsort.xyz,REJECT
 .lctcbtly.xyz,REJECT
 .lcwfabt1.com,REJECT
@@ -41916,6 +41925,7 @@ mgepodownload.mediatek.com,REJECT
 .ma.meritmind.de,REJECT
 .ma.meritmind.se,REJECT
 .info.meriwest.com,REJECT
+.meryt111.fun,REJECT
 .marketing.mesalabs.com,REJECT
 .stats.mesenvies.fr,REJECT
 .mesqwrte.net,REJECT
@@ -46825,6 +46835,7 @@ static.vuevideo.net,REJECT
 .wvwjdrli.com,REJECT
 .wwhsxwow.xyz,REJECT
 .wwpush22.com,REJECT
+.wwursere.top,REJECT
 .www-path.com,REJECT
 .wynather.com,REJECT
 .wynvalur.com,REJECT
@@ -56917,6 +56928,7 @@ push.wandoujia.com,REJECT
 .secure.weed6tape.com,REJECT
 .week1time.com,REJECT
 .lrhyty.weeronline.nl,REJECT
+.weezoptez.net,REJECT
 .wegetpaid.net,REJECT
 .link.wegowhere.com,REJECT
 .etd.weidemann.com,REJECT
@@ -73471,6 +73483,7 @@ material.istreamsche.com,REJECT
 .never2never.com,REJECT
 .newbluetrue.xyz,REJECT
 .nkydma.newbuild.studio,REJECT
+.newcategory.pro,REJECT
 .newestchalk.com,REJECT
 .newestnone.shop,REJECT
 .newnudecash.com,REJECT
@@ -73821,6 +73834,7 @@ material.istreamsche.com,REJECT
 .redtrk.osacommunity.it,REJECT
 .oscohkajcjz.com,REJECT
 .osekwacuoxt.xyz,REJECT
+.osgsijvkoap.com,REJECT
 .stats.osiemsiedem.com,REJECT
 .condor.oskarthoren.com,REJECT
 .a8clk.osoujihonpo.com,REJECT
@@ -82363,6 +82377,7 @@ ssl.360antivirus.org,REJECT
 .qrrqysjnwctp.xyz,REJECT
 .qskxpvncyjly.com,REJECT
 .qsmsmahlrhop.com,REJECT
+.qtoxhaamntfi.com,REJECT
 .qtuopsqmunzo.com,REJECT
 .quackupsilon.com,REJECT
 .quaffvietnam.com,REJECT
@@ -85524,6 +85539,7 @@ stat.zuimeitianqi.com,REJECT
 .beyourxfriend.com,REJECT
 .bfeflwuhyhxgw.com,REJECT
 .bflgokbupydgr.xyz,REJECT
+.bfnsnehjbkewk.com,REJECT
 .bgrgkbnqdsvxc.com,REJECT
 .bgxwlomtebrtq.com,REJECT
 .bharalhallahs.com,REJECT
@@ -88882,6 +88898,7 @@ plausible.joincommunity.xyz,REJECT
 .nynjiahyewoji.com,REJECT
 .nyqpgzohhllvx.com,REJECT
 .nzlebmxoebtff.com,REJECT
+.oaceewhouceet.net,REJECT
 .objectdressed.com,REJECT
 .ob.objectsrented.com,REJECT
 .partner.oblicejovajoga.cz,REJECT
@@ -96235,6 +96252,7 @@ plausible.joincommunity.xyz,REJECT
 .edge.truistmomentum.com,REJECT
 .trungtamgarena.com,REJECT
 .trusteverything.de,REJECT
+.trusting-offer.com,REJECT
 .trustmaxonline.com,REJECT
 .truthfulsensor.com,REJECT
 .truthhascudgel.com,REJECT
@@ -99554,6 +99572,7 @@ plausible.joincommunity.xyz,REJECT
 .provider-direct.com,REJECT
 .go.psentertainment.com,REJECT
 .marketing.psentertainment.com,REJECT
+.psutopheehaufoo.net,REJECT
 .ptsixwereksbef.info,REJECT
 .target.publicissapient.com,REJECT
 .smetrics.publicissapient.com,REJECT
@@ -114064,6 +114083,7 @@ samsungcloudsolution.net,REJECT
 .crambidnonutilitybayadeer.com,REJECT
 .credentialstrapdoormagnet.com,REJECT
 .currencychillythoughtless.com,REJECT
+.daffodilnotifyquarterback.com,REJECT
 .damagedmissionaryadmonish.com,REJECT
 .dangerinsignificantinvent.com,REJECT
 .dashboardartistauthorized.com,REJECT
