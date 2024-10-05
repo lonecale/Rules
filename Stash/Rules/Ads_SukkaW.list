@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-04T12:38:12.266Z
-# Size: 115398
+# Last Updated: 2024-10-04T20:47:04.579Z
+# Size: 115417
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9791,7 +9791,9 @@ ecmc.bdimg.com
 .v.cdn4.life
 .1080872514.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
+.1192349565.rsc.cdn77.org
 .1208344341.rsc.cdn77.org
+.1380804958.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
 .1480876790.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
@@ -10109,6 +10111,7 @@ vdapprecv.app.cntvwb.cn
 .d0main.ru
 .d10wv.fun
 .d2c.ne.jp
+.d2tf0.icu
 .dafdfd.cn
 .tern.daffy.org
 .dajkq.com
@@ -10900,6 +10903,7 @@ trackapp.guahao.cn
 .analytics.gvim.mobi
 .gw-dv.vip
 .gx101.com
+.gxnfz.com
 .ll.gxsky.com
 .gylor.xyz
 .gynax.com
@@ -16233,6 +16237,7 @@ fc-feed.cdn.bcebos.com
 .a8clk.beauteq.jp
 .connect.becker.com
 .webtracking.becker.com
+.bedzbu.xyz
 .log.beecost.vn
 .beetraf.ru
 .tracker.beezup.com
@@ -22436,6 +22441,7 @@ d8.sinaimg.cn
 .ygsoeu.size.co.uk
 .sjaaquj.cn
 .sjalipa.cn
+.sjezce.xyz
 .sjgsgy.xyz
 .smetrics.sjmtech.ma
 .sjsabb.com
@@ -36163,6 +36169,7 @@ hot.m.shouji.360tpcdn.com
 .agrib-vn.com
 .zmzkyj.agrieuro.com
 .tk.agrizone.net
+.agrmufot.com
 .agukalty.net
 .agurgeed.net
 .ahadsply.com
@@ -41819,6 +41826,7 @@ pushapi.lenovomm.com
 .mbbankmn.com
 .mbdippex.com
 .mbfn-fic.com
+.mbhhxqkr.com
 .mbphiclx.com
 .link.mbtihell.com
 .mc-nudes.com
@@ -43944,6 +43952,7 @@ click.qianqian.com
 .qowqnnhf.com
 .qprthjab.com
 .qqqqbdma.com
+.qqryt111.fun
 .qrtrsucg.com
 .qrzlaatf.xyz
 .qsiuiwnh.com
@@ -45890,6 +45899,7 @@ inte.sogoucdn.com
 .twinplan.com
 .twistads.com
 .gts-ads.twistbox.com
+.twurseri.top
 .twwxjqsk.com
 .marketing.txsource.net
 .tybmbbgu.xyz
@@ -54627,6 +54637,7 @@ iad0ssl.pcauto.com.cn
 .data-d167bd4c4e.regenbogen.de
 .evkeeza-e.regeneron.com
 .praluent-e.regeneron.com
+.regexmail.com
 .regnicmow.xyz
 .ad.rejichoice.jp
 .branch.rejuvenan.com
@@ -57538,6 +57549,7 @@ ad.winrar.com.cn
 .1370065b3a.com
 .13b3403320.com
 .13b696a4c1.com
+.13c4491879.com
 .b0bee72a02.13e153630d.com
 .563639804d.13e63e2dea.com
 .b6d8052764.13e72f87ba.com
@@ -64954,6 +64966,7 @@ adapi.lenovogame.com
 .mustbehand.com
 .muttergrew.com
 .kminhi.mutuionline.it
+.mvfmdfsvoq.com
 .mwcxljdywq.com
 .mwikpepfiw.com
 .mxmezfyjgw.com
@@ -70777,6 +70790,7 @@ grs.dbankcloud.asia
 .images.mail.dolce-gusto.com
 .dollardelta.com
 .dompeterapp.com
+.donarycrips.com
 .donateyowl.shop
 .donemagbuy.live
 .donferiae.click
@@ -71492,6 +71506,7 @@ grs.dbankcloud.asia
 .track.gaconnector.com
 .gadssystems.com
 .nwfkjx.gadventures.com
+.gaetojnxujn.com
 .gafmajosxog.com
 .app.gaincapital.com
 .galaxiemedia.fr
@@ -73928,7 +73943,6 @@ material.istreamsche.com
 .smetrics.panerabread.com
 .app.panomoments.com
 .swebanalytics.panoramafirm.pl
-.pantheonsite.io
 .pantsurplus.com
 .njxnsb.paodeacucar.com
 .smetrics.paodeacucar.com
@@ -76760,6 +76774,7 @@ ad-analysis.pconline.com.cn
 .data-057c6f44b1.womenshealth.de
 .data-557fc65a33.womenshealth.de
 .wonconsists.com
+.woneguess.click
 .wongahmalta.com
 .wonoddgiris.com
 .woodhenmils.com
@@ -81007,6 +81022,7 @@ ssl.360antivirus.org
 .rum.marquardmedia.hu
 .adimages.marriagetrac.com
 .marriedvalue.com
+.marrowleaves.com
 .marrowopener.com
 .marryclamour.com
 .marshwhisper.com
@@ -88066,6 +88082,7 @@ plausible.joincommunity.xyz
 .metrics.knowyourtrigs.com
 .knudsenunmast.top
 .app.kochamwino.com.pl
+.koiaripolymny.com
 .az.koipatolipper.com
 .komarchlupoid.com
 .doporuc.konferenceryba.cz
@@ -92353,6 +92370,7 @@ plausible.joincommunity.xyz
 .connect.care.christushealth.org
 .chroniclesugar.com
 .chubbycreature.com
+.chullocaviars.shop
 .eq.chunderrepiner.com
 .cincherdatable.com
 .t.cincinnatiarts.org
@@ -94506,6 +94524,7 @@ plausible.joincommunity.xyz
 .mufflercypress.com
 .muffygaslike.click
 .mukhtarproving.com
+.mulsouloobsaiz.xyz
 .go.multi-conveyor.com
 .stats.multiplelenses.com
 .analytics.multithread.studio

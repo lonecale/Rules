@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-04T12:38:12.266Z
-  # Size: 115398
+  # Last Updated: 2024-10-04T20:47:04.579Z
+  # Size: 115417
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -9792,7 +9792,9 @@ payload:
   - .v.cdn4.life
   - .1080872514.rsc.cdn77.org
   - .1187531871.rsc.cdn77.org
+  - .1192349565.rsc.cdn77.org
   - .1208344341.rsc.cdn77.org
+  - .1380804958.rsc.cdn77.org
   - .1437953666.rsc.cdn77.org
   - .1480876790.rsc.cdn77.org
   - .1529462937.rsc.cdn77.org
@@ -10110,6 +10112,7 @@ payload:
   - .d0main.ru
   - .d10wv.fun
   - .d2c.ne.jp
+  - .d2tf0.icu
   - .dafdfd.cn
   - .tern.daffy.org
   - .dajkq.com
@@ -10901,6 +10904,7 @@ payload:
   - .analytics.gvim.mobi
   - .gw-dv.vip
   - .gx101.com
+  - .gxnfz.com
   - .ll.gxsky.com
   - .gylor.xyz
   - .gynax.com
@@ -16234,6 +16238,7 @@ payload:
   - .a8clk.beauteq.jp
   - .connect.becker.com
   - .webtracking.becker.com
+  - .bedzbu.xyz
   - .log.beecost.vn
   - .beetraf.ru
   - .tracker.beezup.com
@@ -22437,6 +22442,7 @@ payload:
   - .ygsoeu.size.co.uk
   - .sjaaquj.cn
   - .sjalipa.cn
+  - .sjezce.xyz
   - .sjgsgy.xyz
   - .smetrics.sjmtech.ma
   - .sjsabb.com
@@ -36164,6 +36170,7 @@ payload:
   - .agrib-vn.com
   - .zmzkyj.agrieuro.com
   - .tk.agrizone.net
+  - .agrmufot.com
   - .agukalty.net
   - .agurgeed.net
   - .ahadsply.com
@@ -41820,6 +41827,7 @@ payload:
   - .mbbankmn.com
   - .mbdippex.com
   - .mbfn-fic.com
+  - .mbhhxqkr.com
   - .mbphiclx.com
   - .link.mbtihell.com
   - .mc-nudes.com
@@ -43945,6 +43953,7 @@ payload:
   - .qowqnnhf.com
   - .qprthjab.com
   - .qqqqbdma.com
+  - .qqryt111.fun
   - .qrtrsucg.com
   - .qrzlaatf.xyz
   - .qsiuiwnh.com
@@ -45891,6 +45900,7 @@ payload:
   - .twinplan.com
   - .twistads.com
   - .gts-ads.twistbox.com
+  - .twurseri.top
   - .twwxjqsk.com
   - .marketing.txsource.net
   - .tybmbbgu.xyz
@@ -54628,6 +54638,7 @@ payload:
   - .data-d167bd4c4e.regenbogen.de
   - .evkeeza-e.regeneron.com
   - .praluent-e.regeneron.com
+  - .regexmail.com
   - .regnicmow.xyz
   - .ad.rejichoice.jp
   - .branch.rejuvenan.com
@@ -57539,6 +57550,7 @@ payload:
   - .1370065b3a.com
   - .13b3403320.com
   - .13b696a4c1.com
+  - .13c4491879.com
   - .b0bee72a02.13e153630d.com
   - .563639804d.13e63e2dea.com
   - .b6d8052764.13e72f87ba.com
@@ -64955,6 +64967,7 @@ payload:
   - .mustbehand.com
   - .muttergrew.com
   - .kminhi.mutuionline.it
+  - .mvfmdfsvoq.com
   - .mwcxljdywq.com
   - .mwikpepfiw.com
   - .mxmezfyjgw.com
@@ -70778,6 +70791,7 @@ payload:
   - .images.mail.dolce-gusto.com
   - .dollardelta.com
   - .dompeterapp.com
+  - .donarycrips.com
   - .donateyowl.shop
   - .donemagbuy.live
   - .donferiae.click
@@ -71493,6 +71507,7 @@ payload:
   - .track.gaconnector.com
   - .gadssystems.com
   - .nwfkjx.gadventures.com
+  - .gaetojnxujn.com
   - .gafmajosxog.com
   - .app.gaincapital.com
   - .galaxiemedia.fr
@@ -73929,7 +73944,6 @@ payload:
   - .smetrics.panerabread.com
   - .app.panomoments.com
   - .swebanalytics.panoramafirm.pl
-  - .pantheonsite.io
   - .pantsurplus.com
   - .njxnsb.paodeacucar.com
   - .smetrics.paodeacucar.com
@@ -76761,6 +76775,7 @@ payload:
   - .data-057c6f44b1.womenshealth.de
   - .data-557fc65a33.womenshealth.de
   - .wonconsists.com
+  - .woneguess.click
   - .wongahmalta.com
   - .wonoddgiris.com
   - .woodhenmils.com
@@ -81008,6 +81023,7 @@ payload:
   - .rum.marquardmedia.hu
   - .adimages.marriagetrac.com
   - .marriedvalue.com
+  - .marrowleaves.com
   - .marrowopener.com
   - .marryclamour.com
   - .marshwhisper.com
@@ -88067,6 +88083,7 @@ payload:
   - .metrics.knowyourtrigs.com
   - .knudsenunmast.top
   - .app.kochamwino.com.pl
+  - .koiaripolymny.com
   - .az.koipatolipper.com
   - .komarchlupoid.com
   - .doporuc.konferenceryba.cz
@@ -92354,6 +92371,7 @@ payload:
   - .connect.care.christushealth.org
   - .chroniclesugar.com
   - .chubbycreature.com
+  - .chullocaviars.shop
   - .eq.chunderrepiner.com
   - .cincherdatable.com
   - .t.cincinnatiarts.org
@@ -94507,6 +94525,7 @@ payload:
   - .mufflercypress.com
   - .muffygaslike.click
   - .mukhtarproving.com
+  - .mulsouloobsaiz.xyz
   - .go.multi-conveyor.com
   - .stats.multiplelenses.com
   - .analytics.multithread.studio
