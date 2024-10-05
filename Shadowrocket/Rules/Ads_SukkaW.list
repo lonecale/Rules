@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-05T12:36:13.016Z
-# Size: 115439
+# Last Updated: 2024-10-05T15:54:17.170Z
+# Size: 115441
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9704,6 +9704,7 @@ ecmc.bdimg.com
 .bwcdn.xyz
 .solutions.bwtek.com
 .bxmns.com
+.bxqgk.icu
 .bxsk.site
 .bydst.com
 .byeej.com
@@ -43181,6 +43182,7 @@ geolocation.onetrust.com
 .ownlocal.com
 .owoxauky.com
 .owrddzml.com
+.owurserk.top
 .oxbowfog.com
 .smetrics.oxfam.org.uk
 .oxghhbxz.com
