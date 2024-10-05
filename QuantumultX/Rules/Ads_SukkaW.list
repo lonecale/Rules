@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-04T20:47:04.579Z
-# Size: 115417
+# Last Updated: 2024-10-05T12:36:13.016Z
+# Size: 115439
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17472,6 +17472,7 @@ links.services.disqus.com,REJECT
 .eadsrv.com,REJECT
 .eaezoi.xyz,REJECT
 .eapect.icu,REJECT
+.eaqgsw.xyz,REJECT
 .eaqlos.xyz,REJECT
 .earzow.com,REJECT
 .track.easeus.com,REJECT
@@ -20549,6 +20550,7 @@ c.msn.com.cn,REJECT
 .muyihh.top,REJECT
 .m.muyuge.com,REJECT
 .muyxmmz.cn,REJECT
+.mvcngm.xyz,REJECT
 .mvevgi.xyz,REJECT
 .mvirkw.xyz,REJECT
 .mvmqos.xyz,REJECT
@@ -21562,6 +21564,7 @@ web.data.pplive.com,REJECT
 .prsrjdr.ru,REJECT
 .prtadf.xyz,REJECT
 .prtawe.com,REJECT
+.prtfpl.xyz,REJECT
 .prtord.com,REJECT
 .metrics.pruina.com,REJECT
 .przbzr.xyz,REJECT
@@ -24599,6 +24602,7 @@ advertpay-vip-ssl.xunlei.com,REJECT
 .yeumomo.me,REJECT
 .yevudi.uno,REJECT
 .yfaqgk.xyz,REJECT
+.yfoega.xyz,REJECT
 .ygkwjd.xyz,REJECT
 .yhbcii.com,REJECT
 .yhgfoe.xyz,REJECT
@@ -26714,6 +26718,7 @@ thirdparty.biliapi.net,REJECT
 .chitika.net,REJECT
 .cnebis.chocola.com,REJECT
 .a8.choomia.com,REJECT
+.chooncv.icu,REJECT
 .info.christus.mx,REJECT
 .asistente.christus.mx,REJECT
 .trk.salud.christus.mx,REJECT
@@ -31356,6 +31361,7 @@ ad.bn.netease.com,REJECT
 .paikoasa.tv,REJECT
 .painsko.com,REJECT
 .paiwena.xyz,REJECT
+.pakaujf.icu,REJECT
 .palama2.com,REJECT
 .a8.palclair.jp,REJECT
 .ebis.palclair.jp,REJECT
@@ -35700,6 +35706,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .55766925.xyz,REJECT
 .56514411.xyz,REJECT
 .595image.com,REJECT
+.59644010.xyz,REJECT
 .5ab2f817.xyz,REJECT
 .5afc476a.xyz,REJECT
 .5cc3ac02.xyz,REJECT
@@ -35724,6 +35731,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .77886044.xyz,REJECT
 .7841ffda.xyz,REJECT
 .78b78ff8.xyz,REJECT
+.79180284.xyz,REJECT
 .7bpeople.com,REJECT
 .7ca989e1.xyz,REJECT
 .7e60f1f9.xyz,REJECT
@@ -41205,6 +41213,7 @@ ad-cn.jovcloud.com,REJECT
 .kxkqxdgp.com,REJECT
 .kxtmstjs.org,REJECT
 .kycxhgrp.xyz,REJECT
+.kydagoba.com,REJECT
 .kydzfldt.xyz,REJECT
 .kyefakwa.com,REJECT
 .kyjwtxei.xyz,REJECT
@@ -42681,6 +42690,7 @@ dzc-metrics.mzstatic.com,REJECT
 .nsstatic.com,REJECT
 .nsstatic.net,REJECT
 .ntcqmdif.com,REJECT
+.ntpnfyga.icu,REJECT
 .ad.ntvmsnbc.com,REJECT
 .ntvpever.com,REJECT
 .marketing.nualight.com,REJECT
@@ -46113,6 +46123,7 @@ inte.sogoucdn.com,REJECT
 .uvpqrydt.xyz,REJECT
 .uwfcqtdb.xyz,REJECT
 .uwoaptee.com,REJECT
+.uwursert.top,REJECT
 .uxicgxqq.com,REJECT
 .uycxhgrp.xyz,REJECT
 .uydzfldt.xyz,REJECT
@@ -58331,6 +58342,7 @@ ad.winrar.com.cn,REJECT
 .track.abrdnpit.co.uk,REJECT
 .abruptroad.com,REJECT
 .abs-static.org,REJECT
+.absalomcsa.com,REJECT
 .discover.absciex.com.cn,REJECT
 .absolosisa.com,REJECT
 .stat.absolutist.com,REJECT
@@ -62584,6 +62596,7 @@ tracker.didiglobal.com,REJECT
 .pages.info.ficohsa.com.pa,REJECT
 .data.comunicaciones.ficohsa.com.pa,REJECT
 .clam.figmachina.com,REJECT
+.fijiicaria.com,REJECT
 .file-subiz.com,REJECT
 .filebanner.com,REJECT
 .filecontrol.ru,REJECT
@@ -73456,10 +73469,12 @@ material.istreamsche.com,REJECT
 .gemrla.natuurhuisje.be,REJECT
 .qouxkn.natuurhuisje.nl,REJECT
 .naufistuwha.com,REJECT
+.naukegainok.net,REJECT
 .navelfletch.com,REJECT
 .navgewtxakd.com,REJECT
 .routes.navibration.com,REJECT
 .prod.ew.srp.navigacloud.com,REJECT
+.img2021.navyfederal.org,REJECT
 .analytics.navyfederal.org,REJECT
 .email.msg.navyfederal.org,REJECT
 .nazallhtjfh.com,REJECT
@@ -74967,6 +74982,7 @@ ad-analysis.pconline.com.cn,REJECT
 .searswalers.com,REJECT
 .smetrics.seasearcher.com,REJECT
 .app.seasonshare.com,REJECT
+.secqueduomo.com,REJECT
 .fnfhgj.secretsales.com,REJECT
 .secthatlead.com,REJECT
 .on.securedhops.com,REJECT
@@ -89073,6 +89089,7 @@ plausible.joincommunity.xyz,REJECT
 .oznhkuilvrsdf.com,REJECT
 .prism.pablonouvelle.com,REJECT
 .pacijwarnfrtq.com,REJECT
+.pacquetmuysca.com,REJECT
 .pacquetpusher.com,REJECT
 .pagtvmcbfjafj.com,REJECT
 .paidlemirkily.com,REJECT
@@ -89141,6 +89158,7 @@ plausible.joincommunity.xyz,REJECT
 .patronknowing.com,REJECT
 .pattenplouter.com,REJECT
 .pattyheadlong.com,REJECT
+.pausingroyale.com,REJECT
 .paussidsipage.com,REJECT
 .link.pavilhaodaagua.pt,REJECT
 .pavisordjerib.com,REJECT
@@ -89339,6 +89357,7 @@ plausible.joincommunity.xyz,REJECT
 .smetrics.powertracagri.com,REJECT
 .jp.ppgamingproxy.lol,REJECT
 .pqrtd9hhtu9x.info,REJECT
+.prabblealltud.com,REJECT
 .practicepeter.com,REJECT
 .smetrics.pradaxapatient.se,REJECT
 .praterswhally.com,REJECT
@@ -90810,6 +90829,7 @@ plausible.joincommunity.xyz,REJECT
 .unitersgrazie.com,REJECT
 .xcojhb.unitysquare.co.kr,REJECT
 .unjointbobbed.com,REJECT
+.unlargecamden.com,REJECT
 .unlawedimaret.top,REJECT
 .unpackjanuary.com,REJECT
 .unpaledbooker.top,REJECT
@@ -92819,6 +92839,7 @@ plausible.joincommunity.xyz,REJECT
 .donecperficiam.net,REJECT
 .donhangkiemtra.com,REJECT
 .donneesskilder.top,REJECT
+.donnishsubgrin.com,REJECT
 .doricalbestain.com,REJECT
 .dorothydrawing.com,REJECT
 .dosconsiderate.com,REJECT
@@ -101960,6 +101981,7 @@ display.360totalsecurity.com,REJECT
 .glamorousmixture.com,REJECT
 .stats.glassmountains.co.uk,REJECT
 .lp.glauciavieira.online,REJECT
+.glazieroometer.click,REJECT
 .glitteringstress.pro,REJECT
 .ssl.o.globalacademycme.com,REJECT
 .std.o.globalacademycme.com,REJECT
