@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-05T15:54:17.170Z
-# Size: 115441
+# Last Updated: 2024-10-06T00:09:47.679Z
+# Size: 115468
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -7558,7 +7558,6 @@ adnet.sohu.com,REJECT
 .verify.test.spin.app,REJECT
 .spiny.ai,REJECT
 .play.spkr.com,REJECT
-.events.split.io,REJECT
 .partner.spopo.cz,REJECT
 .data-01a4b5d23e.sport.de,REJECT
 .data-3823552b7a.sport.de,REJECT
@@ -9802,6 +9801,8 @@ ecmc.bdimg.com,REJECT
 .1558334541.rsc.cdn77.org,REJECT
 .1675450967.rsc.cdn77.org,REJECT
 .1736253261.rsc.cdn77.org,REJECT
+.1846032945.rsc.cdn77.org,REJECT
+.1881574171.rsc.cdn77.org,REJECT
 .1991482557.rsc.cdn77.org,REJECT
 .cdnaz.win,REJECT
 .reporting.cdndex.io,REJECT
@@ -10763,6 +10764,7 @@ zhwnlapi.etouch.cn,REJECT
 .getgx.net,REJECT
 .gethit.ru,REJECT
 .getjad.io,REJECT
+.getjan.io,REJECT
 .stats.getty.edu,REJECT
 .getui.com,REJECT
 .gfjn5.xyz,REJECT
@@ -21264,6 +21266,7 @@ adres.myaora.net,REJECT
 .pbmt.cloud,REJECT
 .pbstck.com,REJECT
 .smetrics.pbteen.com,REJECT
+.pbvdlb.xyz,REJECT
 .ads2.pbxware.ru,REJECT
 .pc-ads.com,REJECT
 .pc1ads.com,REJECT
@@ -21797,6 +21800,7 @@ access-sngapm.qcloud.com,REJECT
 .qzalsk.xyz,REJECT
 .qzehwg.xyz,REJECT
 .qziuwzn.cn,REJECT
+.qzorwe.xyz,REJECT
 .qzozsa.xyz,REJECT
 .qzsvwo.xyz,REJECT
 .r-ad.ne.jp,REJECT
@@ -22672,6 +22676,7 @@ shouji.sougou.com,REJECT
 .sravga.xyz,REJECT
 .srcips.com,REJECT
 .srldkqj.cn,REJECT
+.srmsii.xyz,REJECT
 .metrics.srpnet.com,REJECT
 .smetrics.srpnet.com,REJECT
 .srtrak.com,REJECT
@@ -24688,6 +24693,7 @@ impservice.dictapp.youdao.com,REJECT
 .ythjhk.com,REJECT
 .ytimgg.com,REJECT
 .ytzihf.com,REJECT
+.yuayku.xyz,REJECT
 .sgtm.yubico.com,REJECT
 .yukbsa.xyz,REJECT
 .a8.yumejin.jp,REJECT
@@ -25983,6 +25989,7 @@ gvod.aiseejapp.atianqi.com,REJECT
 .app.avopass.com,REJECT
 .crosspromotion-us.avosapps.us,REJECT
 .avplwte.xyz,REJECT
+.avqdhss.icu,REJECT
 .avsplow.com,REJECT
 .uvqvvh.avva.com.tr,REJECT
 .avvfjhg.xyz,REJECT
@@ -29247,6 +29254,7 @@ log.v2.hunantv.com,REJECT
 .isylieo.top,REJECT
 .data-b182afd830.it-times.de,REJECT
 .data-d815104c6c.it2media.de,REJECT
+.itakrid.icu,REJECT
 .tr.news.itancia.com,REJECT
 .itdise.info,REJECT
 .xgefvi.iteshop.com,REJECT
@@ -38061,6 +38069,7 @@ cdn.cr-relay.com,REJECT
 .cspdimfa.com,REJECT
 .csqgebok.com,REJECT
 .cst.cstwpush.com,REJECT
+.csy8cjm7.xyz,REJECT
 .ctcxflak.xyz,REJECT
 .cteripre.com,REJECT
 .cthulhu.cash,REJECT
@@ -48616,6 +48625,7 @@ advertise.baicizhan.org,REJECT
 .bidswitch.net,REJECT
 .bidtimize.com,REJECT
 .bidverdrd.com,REJECT
+.bifrufhci.com,REJECT
 .big-loads.com,REJECT
 .a8clk.www.big-m-one.com,REJECT
 .big6q4y2oy.ru,REJECT
@@ -50153,7 +50163,6 @@ v2.fm.n.duokanbox.com,REJECT
 .kbviuj.enoteca.co.jp,REJECT
 .enoughts.info,REJECT
 .enquisite.com,REJECT
-.ensighten.com,REJECT
 .ensurania.com,REJECT
 .adebis.entetsu.co.jp,REJECT
 .sa.entireweb.com,REJECT
@@ -57211,6 +57220,7 @@ ad.winrar.com.cn,REJECT
 .xkqggicpn.com,REJECT
 .xkueeqyzz.com,REJECT
 .xkyphardw.com,REJECT
+.xlafbbnzn.com,REJECT
 .tr.xlead.digital,REJECT
 .xloj4d3ny.com,REJECT
 .xlrm-tech.com,REJECT
@@ -57699,6 +57709,7 @@ ad.winrar.com.cn,REJECT
 .2f1a1a7f62.com,REJECT
 .2f2bef3deb.com,REJECT
 .2f72472ace.com,REJECT
+.2f8a651b12.com,REJECT
 .2ffabf3b1d.com,REJECT
 .2giga.download,REJECT
 .2go7v1nes8.com,REJECT
@@ -63305,6 +63316,7 @@ tracker.didiglobal.com,REJECT
 .havenwrite.com,REJECT
 .havetohave.com,REJECT
 .tracking-na.hawksearch.com,REJECT
+.hazelmarks.com,REJECT
 .hbloveinfo.com,REJECT
 .hbplatform.com,REJECT
 .data-cdc8773b0f.hcm-magazin.de,REJECT
@@ -64122,6 +64134,7 @@ analytics.infomaniak.com,REJECT
 .kpcjwjdvlh.com,REJECT
 .kpjuilkzfi.com,REJECT
 .tr.news.kpmgacademy.fr,REJECT
+.kqbjdvighp.com,REJECT
 .kqiivrxlal.xyz,REJECT
 .partnerapp.kravein.com.au,REJECT
 .krgukepers.org,REJECT
@@ -65796,6 +65809,7 @@ ivy.pchouse.com.cn,REJECT
 .podtiabulb.top,REJECT
 .poemherbal.com,REJECT
 .poemprompt.com,REJECT
+.pogimpfufg.com,REJECT
 .poilloiter.top,REJECT
 .a8clk.point-land.net,REJECT
 .app.pointer.com.br,REJECT
@@ -68693,6 +68707,7 @@ app-ad.variflight.com,REJECT
 .xiaoxiuapp.com,REJECT
 .ximybkpxwu.com,REJECT
 .xiwusn9982.top,REJECT
+.xjefqrxric.com,REJECT
 .xjrwxfdphc.com,REJECT
 .xjwcnvnqdm.com,REJECT
 .xkbydybnle.com,REJECT
@@ -69484,6 +69499,7 @@ plausible.astexplorer.net,REJECT
 .aukarosizox.com,REJECT
 .acv.aun-company.com,REJECT
 .aurdoagnoak.net,REJECT
+.aurtegeejou.xyz,REJECT
 .guppy.ausowned.com.au,REJECT
 .austaihauna.com,REJECT
 .authcaptcha.com,REJECT
@@ -77698,6 +77714,7 @@ ssl.360antivirus.org,REJECT
 .a8.avalon-works.com,REJECT
 .st1.lg.avendrealouer.fr,REJECT
 .avengeghosts.com,REJECT
+.avenueinvoke.com,REJECT
 .aversionmast.com,REJECT
 .avfqvyuqsdph.com,REJECT
 .avglfookdjuj.com,REJECT
@@ -80576,6 +80593,7 @@ ssl.360antivirus.org,REJECT
 .kbugxeslbjc8.com,REJECT
 .e.kc-education.com,REJECT
 .kcllppzsvznu.com,REJECT
+.kdlktswsqhpd.com,REJECT
 .keawmrohgxtl.com,REJECT
 .keegleedaphi.com,REJECT
 .stats.keirwhitaker.com,REJECT
@@ -86189,6 +86207,7 @@ stat.zuimeitianqi.com,REJECT
 .cosmosjackson.com,REJECT
 .cottoncabbage.com,REJECT
 .cotwcpcjcrjfj.xyz,REJECT
+.coucalhidated.com,REJECT
 .applinks.cougarsnearby.com,REJECT
 .couldmisspell.com,REJECT
 .counterstation.de,REJECT
@@ -87149,6 +87168,7 @@ collect.foresightnews.pro,REJECT
 .7345023508.fxm9485766783.com,REJECT
 .fxrwmhbbxfcpb.com,REJECT
 .fxshopeevip99.com,REJECT
+.fydapcrujhguy.xyz,REJECT
 .fydpfmtbqrylu.com,REJECT
 .fyhgvfmryxprn.xyz,REJECT
 .fyibtadothxqj.com,REJECT
@@ -89169,6 +89189,7 @@ plausible.joincommunity.xyz,REJECT
 .pcci.pccinnovation.org,REJECT
 .target.pccomponentes.com,REJECT
 .pckeeper.software,REJECT
+.pddcohvfyhrhk.com,REJECT
 .pdsybkhsdjvog.xyz,REJECT
 .peacefullimit.com,REJECT
 .peachytopless.com,REJECT
@@ -89231,7 +89252,7 @@ plausible.joincommunity.xyz,REJECT
 .pickvideolink.com,REJECT
 .app.pickyourtrail.com,REJECT
 .picsofdream.space,REJECT
-.dv.pictunoctette.com,REJECT
+.pictunoctette.com,REJECT
 .tracking.piercingladies.de,REJECT
 .affiliate.pietro-filipi.com,REJECT
 .pigletsmunsee.top,REJECT
@@ -90181,6 +90202,7 @@ plausible.joincommunity.xyz,REJECT
 .snortedhearth.com,REJECT
 .snoutcapacity.com,REJECT
 .snowdayonline.xyz,REJECT
+.snugwednesday.com,REJECT
 .snurpsermon.space,REJECT
 .soapingbourgs.top,REJECT
 .soapsudkerfed.com,REJECT
@@ -92606,6 +92628,7 @@ plausible.joincommunity.xyz,REJECT
 .box.cryptokingdom.tech,REJECT
 .cryptonewsdom.care,REJECT
 .marketing.crystalcoastnc.org,REJECT
+.cshbglcfcmirnm.xyz,REJECT
 .cskmfxhxhjrskl.com,REJECT
 .cubeuptownpert.com,REJECT
 .cuddlethehyena.com,REJECT
@@ -96886,6 +96909,7 @@ plausible.joincommunity.xyz,REJECT
 .ytxmseqnehwstg.xyz,REJECT
 .yuduoljvxsilvq.com,REJECT
 .yuearanceofam.info,REJECT
+.yueuucoxewemfb.com,REJECT
 .yummiescinders.top,REJECT
 .app-branch.yummybazaar-qa.com,REJECT
 .a8.yuzen-official.com,REJECT
@@ -99807,6 +99831,7 @@ plausible.joincommunity.xyz,REJECT
 .rtoukfareputfe.info,REJECT
 .rtxbdugpeumpmye.xyz,REJECT
 .ru6sapasgs8tror.com,REJECT
+.rugupheessupaik.net,REJECT
 .ruinedpersonnel.com,REJECT
 .ruinedtolerance.com,REJECT
 .kybsbf.ruleoneproteins.com,REJECT
@@ -102855,6 +102880,7 @@ display.360totalsecurity.com,REJECT
 .smetrics.pinkribbonbottle.com,REJECT
 .www3s.pitstopautoparts.com,REJECT
 .pjvartonsbewand.info,REJECT
+.planningdesigned.com,REJECT
 .plantswindscreen.com,REJECT
 .platform-hetcash.com,REJECT
 .fdixsh.platypusshoes.com.au,REJECT
@@ -102889,6 +102915,7 @@ display.360totalsecurity.com,REJECT
 .portalregionstip.com,REJECT
 .track.portalvivamelhor.com,REJECT
 .portlychurchyard.com,REJECT
+.positivelysunday.com,REJECT
 .possessionsolemn.com,REJECT
 .possessivebucket.com,REJECT
 .post-redirecting.com,REJECT
@@ -103927,6 +103954,7 @@ display.360totalsecurity.com,REJECT
 .abusedbabysitters.com,REJECT
 .acceleratedrummer.com,REJECT
 .marketing.acceleratedwealth.com,REJECT
+.acceptablereality.com,REJECT
 .acclienquangiare.shop,REJECT
 .accompanycollapse.com,REJECT
 .accordancespotted.com,REJECT
@@ -112047,7 +112075,6 @@ samsungcloudsolution.net,REJECT
 .antidotefoepersecution.com,REJECT
 .antiquespecialtyimpure.com,REJECT
 .apatheticformingalbeit.com,REJECT
-.app-analytics-services.com,REJECT
 .appealinformationevent.com,REJECT
 .appendixwarmingauthors.com,REJECT
 .appropriateloathefewer.com,REJECT
