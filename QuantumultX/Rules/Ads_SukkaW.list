@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-06T00:09:47.679Z
-# Size: 115468
+# Last Updated: 2024-10-06T12:35:25.458Z
+# Size: 115471
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35746,6 +35746,7 @@ hot.m.shouji.360tpcdn.com,REJECT
 .7e60f1f9.xyz,REJECT
 .7insight.com,REJECT
 .7vnkf.online,REJECT
+.80133082.xyz,REJECT
 .80juqing.com,REJECT
 .80xmedia.com,REJECT
 .814272c4.xyz,REJECT
@@ -41673,6 +41674,7 @@ pushapi.lenovomm.com,REJECT
 .1.lvshi567.com,REJECT
 .lwmheajc.com,REJECT
 .lwojitro.top,REJECT
+.lwurserl.top,REJECT
 .etc.lxhausys.com,REJECT
 .lxvluwda.com,REJECT
 .communications.lydallpm.com,REJECT
@@ -43530,6 +43532,7 @@ geolocation.onetrust.com,REJECT
 .partner.pletemesi.cz,REJECT
 .plex4rtb.com,REJECT
 .plexworks.de,REJECT
+.plfwxtgu.icu,REJECT
 .pltamaxr.com,REJECT
 .plugrush.com,REJECT
 .plvwyoed.com,REJECT
