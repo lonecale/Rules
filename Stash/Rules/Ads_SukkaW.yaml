@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-07T12:39:52.728Z
-  # Size: 114614
+  # Last Updated: 2024-10-07T17:03:26.921Z
+  # Size: 114642
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -11067,6 +11067,7 @@ payload:
   - .smetrics.i-law.com
   - .i2000.xyz
   - .i22lo.com
+  - .i2wq4.icu
   - .i3535.com
   - .i472x.fun
   - .gdl.i9dhjx.ru
@@ -17920,7 +17921,6 @@ payload:
   - .fisari.com
   - .track.fit-bee.fr
   - .affil.fit-pro.cz
-  - .iedc.fitbit.com
   - .as.fitbook.de
   - .data-4892815f14.fitbook.de
   - .data-6463194ae5.fitbook.de
@@ -28045,6 +28045,7 @@ payload:
   - .ads-cdn.fptplay.net
   - .fpvdrzx.xyz
   - .fqirjff.com
+  - .frontier100-toutiao-lf.fqnovel.com
   - .a8.fracora.com
   - .hjbgdc.fracora.com
   - .ebisfracora.fracora.com
@@ -28104,6 +28105,7 @@ payload:
   - .app-link.funfull.com
   - .funneld.com
   - .marketing.funraise.io
+  - .is-log.furunavi.jp
   - .furykms.com
   - .futureup.ru
   - .fuvbbjl.xyz
@@ -33854,6 +33856,7 @@ payload:
   - .udetqwj.com
   - .udoshbt.top
   - .uebawtz7.me
+  - .uegsjnk.com
   - .uessnah.icu
   - .uetlwst.top
   - .uewrutt.top
@@ -35326,6 +35329,7 @@ payload:
   - .a.10tianqi.com
   - .1.11130.com.cn
   - .11152646.xyz
+  - .11778562.xyz
   - .sams.11freunde.de
   - .iqmetrics.11freunde.de
   - .data-664e19af6d.11freunde.de
@@ -38324,6 +38328,7 @@ payload:
   - .trk.dosatron.com
   - .dositsil.net
   - .dosugcz.info
+  - .attr-shift.dotabuff.com
   - .crunchy-tango.dotabuff.com
   - .dotgxcnq.com
   - .stats.dotnetos.org
@@ -38575,6 +38580,7 @@ payload:
   - .metrics.el-mundo.net
   - .smetrics.el-mundo.net
   - .elas666.pics
+  - .elaydark.com
   - .data.elcorreo.com
   - .adbmetrics.elcorreo.com
   - .sadbmetrics.elcorreo.com
@@ -40128,6 +40134,7 @@ payload:
   - .hwfmynim.com
   - .aa.hwigroup.com
   - .ab.hwigroup.com
+  - .hwurseru.top
   - .hwvwxerw.xyz
   - .hwydfevh.com
   - .hxriwsua.com
@@ -47568,6 +47575,7 @@ payload:
   - .adsmoloco.com
   - .adsnative.com
   - .sync.adspend.space
+  - .adsquash.info
   - .adsquirrel.ai
   - .adstarget.net
   - .adstreamer.ru
@@ -58331,7 +58339,6 @@ payload:
   - .marketing.allmy-data.com
   - .allo-media.net
   - .on.allposters.com
-  - .atrack.allposters.com
   - .allsiemens.com
   - .allskillon.com
   - .alltopnewz.com
@@ -59572,6 +59579,7 @@ payload:
   - .images.guidance.choosemylo.com
   - .chouchicky.com
   - .choudairtu.net
+  - .choulsoans.xyz
   - .telemetry.chrobinson.com
   - .chronicads.com
   - .chtoumenja.biz
@@ -62088,6 +62096,7 @@ payload:
   - .fausothaur.com
   - .fauwhoocoa.com
   - .favzzmeziy.com
+  - .faxedyaird.com
   - .bjs.faxingzhan.com
   - .faxqaaawyb.com
   - .fb55957409.com
@@ -63176,6 +63185,7 @@ payload:
   - .collect.igodigital.com
   - .ihdcnwbcmw.com
   - .ihhqwaurke.com
+  - .ihpsthaixd.com
   - .ihqnckvpfx.com
   - .ihtckcitkr.com
   - .ihzuephjxb.com
@@ -66856,6 +66866,7 @@ payload:
   - .survey2you.org
   - .suryaiklan.com
   - .rt.suterahome.com
+  - .suthaumsou.net
   - .targettur.www.svenskaspel.se
   - .metricstur.www.svenskaspel.se
   - .smetrics.spela.svenskaspel.se
@@ -67791,7 +67802,7 @@ payload:
   - .aas.visitsaudi.com
   - .marketing.visitsmcsv.com
   - .visitstats.com
-  - .my.vistaarts.site
+  - .vistaarts.site
   - .track.vistafenol.com
   - .marketing.visualskus.com
   - .lp.vitalka.com.br
@@ -68885,6 +68896,7 @@ payload:
   - .apteka-money.ru
   - .apzgcipacpu.com
   - .aqaggxmhabf.com
+  - .aqncinxrexa.com
   - .aqrawvakvca.com
   - .ikneio.aquantindia.com
   - .c.aquaservice.com
@@ -71855,6 +71867,7 @@ payload:
   - .ipkqfkzsmme.com
   - .ipodreevess.com
   - .ippcodepink.com
+  - .ipqnteseqrf.xyz
   - .ipredictive.com
   - .iprpldsefjq.com
   - .ssc.irfaasawtak.com
@@ -72811,6 +72824,7 @@ payload:
   - .data.info.motomundohn.com
   - .data.comunicaciones.motomundohn.com
   - .ads.motorvarlden.se
+  - .mouttorture.com
   - .moveyourdesk.co
   - .tk.moveyourfit.com
   - .movie-pass.club
@@ -73898,6 +73912,7 @@ payload:
   - .applink.psychonline.com
   - .ptaimpeerte.com
   - .ptautsortoa.com
+  - .ptavutchain.com
   - .ptdinxchgxu.com
   - .pticmootoat.com
   - .ptoafteewhu.com
@@ -74974,6 +74989,7 @@ payload:
   - .care.stlukes-stl.com
   - .images.health.stlukes-stl.com
   - .stoachaigog.com
+  - .stoagnejums.net
   - .stoawugluce.net
   - .cdn.stoic-media.com
   - .stonecalcom.com
@@ -81991,6 +82007,7 @@ payload:
   - .ilona.redtrackfan.club
   - .solutions.redwingshoes.com
   - .hasslefree.redwingshoes.com
+  - .reecasoabaiz.net
   - .reedbusiness.net
   - .referdriving.com
   - .refereenutty.com
@@ -83961,6 +83978,7 @@ payload:
   - .wehaveinourd.org
   - .pl.weinshops.online
   - .cattle.weiss-bregenz.at
+  - .welfaremarsh.com
   - .a.welfasted.online
   - .flea.welikeoliver.com
   - .wellmadefrog.com
@@ -88381,6 +88399,7 @@ payload:
   - .metrics.olgaintimates.com
   - .smetrics.oliverpeoples.com
   - .omciecoa37tw4.com
+  - .omegadblocker.com
   - .omelettebella.com
   - .omgranbulltor.com
   - .omgrdrodobidu.com
@@ -88503,6 +88522,7 @@ payload:
   - .pacijwarnfrtq.com
   - .pacquetmuysca.com
   - .pacquetpusher.com
+  - .pageloadstats.pro
   - .pagtvmcbfjafj.com
   - .paidlemirkily.com
   - .paidonresults.net
@@ -90957,6 +90977,7 @@ payload:
   - .adasiaholdings.com
   - .console.adbility-media.com
   - .servedby.adbility-media.com
+  - .adblockeromega.com
   - .adblockervideo.com
   - .adcl1ckspr0f1t.com
   - .addresseepaper.com
@@ -96355,6 +96376,7 @@ payload:
   - .traffic.acwebconnecting.com
   - .adaptationwrite.com
   - .v.adblockultimate.net
+  - .addefenderplus.info
   - .additionalmedia.com
   - .addresseeboldly.com
   - .marketing.adept-telecom.co.uk
@@ -97389,6 +97411,7 @@ payload:
   - .eoftheappyrinc.info
   - .eownouncillors.info
   - .eoxaxdglxecvguh.xyz
+  - .epffwffubmmdokm.com
   - .link.epichomesavings.com
   - .epmfjjabhfwgkun.com
   - .marketing.epsteinandwhite.com
@@ -103836,6 +103859,7 @@ payload:
   - .easyrecoverychina.com
   - .ogb2.eauthermalejonzac.com
   - .eavesdroplimetree.com
+  - .eclipse-adblocker.pro
   - .tr.info.ecole-de-savignac.com
   - .econsistentlyplea.com
   - .ecustomeropinions.com
@@ -104204,6 +104228,7 @@ payload:
   - .nljjem.honeys-onlineshop.com
   - .hongi7ie8owiie01.site
   - .hongi7ie8owiie02.site
+  - .hongi7ie8owiie03.site
   - .honoursimmoderate.com
   - .hopedpluckcuisine.com
   - .horribledecorated.com
@@ -105930,6 +105955,7 @@ payload:
   - .decencyjessiebloom.com
   - .declinebladdersbed.com
   - .decomposedismantle.com
+  - .deedkernelhomesick.com
   - .deepboxervivacious.com
   - .deeprootedstranded.com
   - .defaultspurtlonely.com
@@ -108649,6 +108675,7 @@ payload:
   - .smetrics.tastingaustralia.com.au
   - .teamairportheedless.com
   - .teapotripencorridor.com
+  - .teemmachinerydiffer.com
   - .sanalytics.teentitanstoptalent.com
   - .novedades.telecomfibercorp.com.ar
   - .lpbhnv.telemundosanantonio.com
@@ -111767,6 +111794,7 @@ payload:
   - .br.probablecausesolutions.com
   - .produceduniversitydire.com
   - .profileoffencewithdraw.com
+  - .prologuerussialavender.com
   - .pronunciationspecimens.com
   - .propositionfadedplague.com
   - .protectedfolkssomebody.com
