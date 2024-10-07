@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-06T12:35:25.458Z
-# Size: 115471
+# Last Updated: 2024-10-07T03:58:04.934Z
+# Size: 115482
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11216,6 +11216,7 @@ yiliao.hupan.com,REJECT
 .mp.imgur.com,REJECT
 .iob.imgur.com,REJECT
 .imith.com,REJECT
+.imndl.icu,REJECT
 .link.imumz.com,REJECT
 .data.inbank.it,REJECT
 .inclk.com,REJECT
@@ -16859,6 +16860,7 @@ fc-feed.cdn.bcebos.com,REJECT
 .xml-v4.clkfst.com,REJECT
 .clkrev.com,REJECT
 .clkwnl.xyz,REJECT
+.clmcam.xyz,REJECT
 .clmcom.com,REJECT
 .clmkwi.xyz,REJECT
 .clmm113.me,REJECT
@@ -17521,6 +17523,7 @@ links.services.disqus.com,REJECT
 .ectyet.top,REJECT
 .ed-sys.net,REJECT
 .ads.edadeal.ru,REJECT
+.edadmy.xyz,REJECT
 .info.edb.gov.sg,REJECT
 .event.edb.gov.sg,REJECT
 .target.edb.gov.sg,REJECT
@@ -19502,6 +19505,7 @@ events.jianshu.io,REJECT
 .kgipui.xyz,REJECT
 .kgqcse.xyz,REJECT
 .kgubus.xyz,REJECT
+.kgymoc.xyz,REJECT
 .ad.khan.co.kr,REJECT
 .adv.khan.co.kr,REJECT
 .uac.khan.co.kr,REJECT
@@ -24489,6 +24493,7 @@ weatherapi.market.xioami.com,REJECT
 .xkrnud.icu,REJECT
 .xl-trk.com,REJECT
 .xlirdr.com,REJECT
+.xlxehr.xyz,REJECT
 .ads.xlxtra.com,REJECT
 .xmatch.com,REJECT
 .zhihu.xmcimg.com,REJECT
@@ -26324,6 +26329,7 @@ thirdparty.biliapi.net,REJECT
 .bmlcuby.com,REJECT
 .csvtt.bmolife.com,REJECT
 .bmptbyb.com,REJECT
+.bmqulua.icu,REJECT
 .bnagilu.com,REJECT
 .bnalzlv.top,REJECT
 .bngmadjd.de,REJECT
@@ -37382,6 +37388,7 @@ galaxy.bjcathay.com,REJECT
 .bvpqrydt.xyz,REJECT
 .bvubasnf.com,REJECT
 .bw95vpjda.ru,REJECT
+.bwurserv.top,REJECT
 .bx-cloud.com,REJECT
 .bxrqdnkb.com,REJECT
 .bxxibvjt.com,REJECT
@@ -38228,6 +38235,7 @@ jobs.date-fns.org,REJECT
 .intranet.dcorp.com.vn,REJECT
 .dcsewjll.com,REJECT
 .stream-log.dditscdn.com,REJECT
+.ddlmsoyo.icu,REJECT
 .cdn.ddmanager.ru,REJECT
 .track.ddmanager.ru,REJECT
 .ddnslive.com,REJECT
@@ -42316,6 +42324,7 @@ mgepodownload.mediatek.com,REJECT
 .mvpqrydt.xyz,REJECT
 .mvwkysam.com,REJECT
 .mwerilxx.top,REJECT
+.mwurserx.top,REJECT
 .mxipwcyo.xyz,REJECT
 .mxp00338.com,REJECT
 .mxzluxet.com,REJECT
@@ -77134,6 +77143,7 @@ ad-analysis.pconline.com.cn,REJECT
 .2bps53igop02.com,REJECT
 .2c3a97984f45.com,REJECT
 .2e8dgn8n0e0l.com,REJECT
+.2efgcdcjr000.fun,REJECT
 .2mf9kkbhab31.com,REJECT
 .2qj7mq3w4uxe.com,REJECT
 .300daytravel.com,REJECT
@@ -77178,6 +77188,7 @@ ssl.360antivirus.org,REJECT
 .666ppp222ppp.com,REJECT
 .666ppp888ppp.com,REJECT
 .6bgaput9ullc.com,REJECT
+.6efgcdcjr000.fun,REJECT
 .6fxtpu64lxyt.com,REJECT
 .6qu5dcmyumtw.com,REJECT
 .6ujk8x9soxhm.com,REJECT

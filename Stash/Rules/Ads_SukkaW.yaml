@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-06T12:35:25.458Z
-  # Size: 115471
+  # Last Updated: 2024-10-07T03:58:04.934Z
+  # Size: 115482
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -11217,6 +11217,7 @@ payload:
   - .mp.imgur.com
   - .iob.imgur.com
   - .imith.com
+  - .imndl.icu
   - .link.imumz.com
   - .data.inbank.it
   - .inclk.com
@@ -16860,6 +16861,7 @@ payload:
   - .xml-v4.clkfst.com
   - .clkrev.com
   - .clkwnl.xyz
+  - .clmcam.xyz
   - .clmcom.com
   - .clmkwi.xyz
   - .clmm113.me
@@ -17522,6 +17524,7 @@ payload:
   - .ectyet.top
   - .ed-sys.net
   - .ads.edadeal.ru
+  - .edadmy.xyz
   - .info.edb.gov.sg
   - .event.edb.gov.sg
   - .target.edb.gov.sg
@@ -19503,6 +19506,7 @@ payload:
   - .kgipui.xyz
   - .kgqcse.xyz
   - .kgubus.xyz
+  - .kgymoc.xyz
   - .ad.khan.co.kr
   - .adv.khan.co.kr
   - .uac.khan.co.kr
@@ -24490,6 +24494,7 @@ payload:
   - .xkrnud.icu
   - .xl-trk.com
   - .xlirdr.com
+  - .xlxehr.xyz
   - .ads.xlxtra.com
   - .xmatch.com
   - .zhihu.xmcimg.com
@@ -26325,6 +26330,7 @@ payload:
   - .bmlcuby.com
   - .csvtt.bmolife.com
   - .bmptbyb.com
+  - .bmqulua.icu
   - .bnagilu.com
   - .bnalzlv.top
   - .bngmadjd.de
@@ -37383,6 +37389,7 @@ payload:
   - .bvpqrydt.xyz
   - .bvubasnf.com
   - .bw95vpjda.ru
+  - .bwurserv.top
   - .bx-cloud.com
   - .bxrqdnkb.com
   - .bxxibvjt.com
@@ -38229,6 +38236,7 @@ payload:
   - .intranet.dcorp.com.vn
   - .dcsewjll.com
   - .stream-log.dditscdn.com
+  - .ddlmsoyo.icu
   - .cdn.ddmanager.ru
   - .track.ddmanager.ru
   - .ddnslive.com
@@ -42317,6 +42325,7 @@ payload:
   - .mvpqrydt.xyz
   - .mvwkysam.com
   - .mwerilxx.top
+  - .mwurserx.top
   - .mxipwcyo.xyz
   - .mxp00338.com
   - .mxzluxet.com
@@ -77135,6 +77144,7 @@ payload:
   - .2bps53igop02.com
   - .2c3a97984f45.com
   - .2e8dgn8n0e0l.com
+  - .2efgcdcjr000.fun
   - .2mf9kkbhab31.com
   - .2qj7mq3w4uxe.com
   - .300daytravel.com
@@ -77179,6 +77189,7 @@ payload:
   - .666ppp222ppp.com
   - .666ppp888ppp.com
   - .6bgaput9ullc.com
+  - .6efgcdcjr000.fun
   - .6fxtpu64lxyt.com
   - .6qu5dcmyumtw.com
   - .6ujk8x9soxhm.com
