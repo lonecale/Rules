@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-07T17:03:26.921Z
-# Size: 114642
+# Last Updated: 2024-10-07T19:20:32.588Z
+# Size: 114643
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4544,6 +4544,7 @@ match.p4p.1688.com
 .gg.7976.top
 .7app.top
 .7d108.cn
+gif.7mmtv.sx
 .7porn.ru
 .7rtv.com
 .tr.7vid.net

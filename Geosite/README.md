@@ -1190,6 +1190,7 @@
 - [u17](rules/u17.txt)
 - [uber](rules/uber.txt)
 - [uberads-ads](rules/uberads-ads.txt)
+- [ubiquiti](rules/ubiquiti.txt)
 - [ubisoft](rules/ubisoft.txt)
 - [ubuntu](rules/ubuntu.txt)
 - [ubuntukylin](rules/ubuntukylin.txt)
