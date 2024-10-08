@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-07T19:20:32.588Z
-# Size: 114643
+# Last Updated: 2024-10-08T11:28:12.937Z
+# Size: 114671
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4962,6 +4962,7 @@ abema-adx.ameba.jp
 .analytics-batch.blitz.gg
 .blitz-analytics-batch-server.blitz.gg
 .smetrics.bliz.com
+.stat.blogg.se
 .stats.blogg.se
 .lxsway.blogg.se
 .newstats.blogg.se
@@ -13184,6 +13185,7 @@ userimg.qunar.com
 .private.roche.com
 .smetrics.roche.com
 .apacenews.roche.com
+.stat.rodeo.net
 .partneri.roklen.cz
 .rokno.com
 .smetrics.rolex.com
@@ -19556,6 +19558,7 @@ events.jianshu.io
 .cv.kuvings.jp
 .kvidcq.com
 .pop.kvideo.xyz
+.kvkcei.xyz
 .kvsvug.xyz
 .kvyyyde.cn
 .open.kwaizt.com
@@ -20700,6 +20703,7 @@ adres.myaora.net
 .elq.nextens.nl
 .secureforms.nextens.nl
 .nexxxt.biz
+.neyoxa.xyz
 .nffkfg.com
 .nfztms.com
 .log.ngaynay.vn
@@ -21080,6 +21084,7 @@ adres.myaora.net
 .ad.owlair.net
 .ownpage.fr
 .owyame.xyz
+.oxkqeu.xyz
 .oxkyaq.xyz
 .oxmvcg.xyz
 .oxoucm.xyz
@@ -21642,6 +21647,7 @@ access-sngapm.qcloud.com
 .qpigoa.xyz
 .qprskl.com
 .qpxohp.com
+.qpyrqg.xyz
 .qpzegye.cn
 .qqhuhu.com
 .qqqwes.com
@@ -21926,6 +21932,7 @@ access-sngapm.qcloud.com
 .riscil.com
 .rivdxb.xyz
 .rixaka.com
+.rixibe.xyz
 .rjhbjv.xyz
 .rkgbqn.icu
 .rkwxfi.xyz
@@ -24186,6 +24193,7 @@ api-scout.vercel.app
 .wsgayq.xyz
 .smetrics.wsib2b.com
 .wsoqwm.xyz
+.wswxsk.xyz
 .wsyfsg.xyz
 .wtp101.com
 .wtraff.com
@@ -24438,6 +24446,7 @@ advertpay-vip-ssl.xunlei.com
 .xvnitu.com
 .xvorpqz.cn
 .xvpcjl.xyz
+.xvzcfh.xyz
 .trck1.xwager.xyz
 .xwbmjb.xyz
 .xwdjnj.xyz
@@ -29403,10 +29412,6 @@ ad.jiemian.com
 .adg-data.kajicam.com
 .kakdgmn.com
 .kalooga.com
-.stats.kaltura.com
-.kalstats.kaltura.com
-.analytics.kaltura.com
-.livestats.kaltura.com
 .kantiwl.com
 .kaprila.com
 .analytics.karakuri.ai
@@ -30900,6 +30905,7 @@ ad.bn.netease.com
 .nptauiw.com
 .npulchj.com
 .nqftyfn.com
+.nqyrywn.icu
 .nr-data.net
 .sheeta.nrj-play.fr
 .metric.nrma.com.au
@@ -32551,6 +32557,7 @@ bigdata.ssp.samsung.com
 .metrics.sephora.com
 .smetrics.sephora.com
 .serch26.biz
+.serleap.com
 .solutions.sertifi.com
 .statman.sesong.info
 .marketing.setaram.com
@@ -33882,6 +33889,7 @@ susapi.dev.surepush.cn
 .ujznabh.com
 .ukdtzkc.com
 .ukitert.top
+.ukkiftx.icu
 .ukrsvit.ukrmir.info
 .ukskxmh.com
 .ukzoweq.com
@@ -35523,6 +35531,7 @@ htracker5.zmzfile.com
 .33across.com
 hot.m.shouji.360tpcdn.com
 .360yield.com
+.36833185.xyz
 .369bgrec.top
 .tracker.374nnahs.com
 .ana.3751chat.com
@@ -36366,7 +36375,6 @@ jsadsdisplay.cn-beijing.log.aliyuncs.com
 .ebis.apo-mjob.com
 .aporasal.net
 .apparest.com
-in.appcenter.ms
 .appclick.net
 .appdriver.cn
 .log.appdriver.jp
@@ -40485,6 +40493,7 @@ cdn.getkoala.com
 .iwouhoft.com
 .iwrkhphl.xyz
 .iwtserve.com
+.iwursero.top
 .iwwdcglj.com
 .iyisayfa.net
 .iymbywma.com
@@ -50101,6 +50110,7 @@ v2.fm.n.duokanbox.com
 .cdn.falkloo.cloud
 .falsefeet.com
 .shjwhv.falsepeti.com
+.stat.familjeliv.se
 .lxsway.familjeliv.se
 .trx3.famousfix.com
 .ab.fanatical.com
@@ -54544,6 +54554,7 @@ iad0ssl.pcauto.com.cn
 .fnoqgg.roninwear.com
 .rookinews.com
 .link.roomaters.com
+.roritchou.net
 .aqoeyb.rosemom.co.kr
 .www.rote8mino.com
 .secure.rote8mino.com
@@ -62657,6 +62668,7 @@ tracker.didiglobal.com
 .goinformer.com
 .metrics.goinggoing.com
 .smetrics.goinggoing.com
+.goingkinch.com
 .goldcaster.xyz
 .acton.goldencomm.com
 .stats.goldsguide.com
@@ -64480,6 +64492,7 @@ adapi.lenovogame.com
 .moviesring.com
 .mp3dance.today
 .mpqgoircwb.com
+.mpuwrudpeo.com
 .mpzwsvueph.com
 .mqldskirbp.com
 .smetrics.mrappliance.ca
@@ -69578,6 +69591,7 @@ applogapi.autohome.com.cn
 .go-dev.callersmart.com
 .track.calljanedoe.com
 .cc.calltracking.ru
+.calm-length.pro
 .calomelsiti.com
 .metrics.calvinklein.com
 .metrics.explore.calvinklein.com
@@ -70977,6 +70991,7 @@ grs.dbankcloud.asia
 .freightopen.com
 .cueohf.frenchboard.com
 .frenchequal.pro
+.freqbedrite.com
 .go.frescofrigo.app
 .fresh-video.com
 .frezahkthnz.com
@@ -77107,6 +77122,7 @@ ssl.360antivirus.org
 .varys.asongofzandc.xyz
 .creativeassets.asosservices.com
 .asozordoafie.com
+.asperncrepes.com
 .aspireetopee.com
 .p1.assetscdn.stream
 .p2.assetscdn.stream
@@ -77293,6 +77309,7 @@ ssl.360antivirus.org
 .smetrics.bank-daiwa.co.jp
 .banktopvn.online
 .track.bannedcelebs.com
+.banner-online.nl
 .banneradsday.com
 .bannerbridge.net
 .bannerchange.net
@@ -80341,6 +80358,7 @@ ssl.360antivirus.org
 .lkoqoxgkntjv.com
 .lmaghokalqji.xyz
 .lnlxhsjjqfjs.com
+.lnuqlyoejdpb.com
 .loadsurprise.com
 .loanmoney-th.com
 .lobberamylom.top
@@ -83519,6 +83537,7 @@ adclick.tencentmusic.com
 .tzrlfzwyicvj.com
 .tzyjotwoocku.com
 .u29qnuav3i6p.com
+.uafkcvpvvelp.com
 .ubadzufyfjcd.com
 .ubiirddtnmja.com
 .go.ubmamg-media.com
@@ -83752,6 +83771,7 @@ adclick.tencentmusic.com
 .banners.videosecrets.com
 .vidientu-247.com
 .vidientu247s.com
+.vidrugnirtop.net
 .vidsbranch.space
 .vidshouse.online
 .vidsocean.online
@@ -85176,6 +85196,7 @@ stat.zuimeitianqi.com
 .brocardgillar.com
 .brodownloads.site
 .brokergesture.com
+.stat.brollopstorget.se
 .lxsway.brollopstorget.se
 .bromidsluluai.com
 .metrics.brooksrunning.com
@@ -86614,6 +86635,7 @@ collect.foresightnews.pro
 .gaming-at-my.best
 .gammaplatform.com
 .ganodusskunks.top
+.gapersinglesa.com
 .lvsats.gardner-white.com
 .gdg.gardnerdenver.com
 .trk.gardnerdenver.com
@@ -88751,6 +88773,7 @@ plausible.joincommunity.xyz
 .logconfig.polarisoffice.com
 .promotion.polarisoffice.com
 .media.polariswealth.net
+.polarlybaizas.com
 .policeonline.club
 .policycounsel.org
 .tr.policyexpert.info
@@ -96460,6 +96483,7 @@ plausible.joincommunity.xyz
 .allpcsoftwares.info
 .allprofitsurvey.top
 .allsports4free.live
+.stat.alltforforaldrar.se
 .lxsway.alltforforaldrar.se
 .alludedaridboob.com
 .allureencourage.com
@@ -97279,6 +97303,7 @@ plausible.joincommunity.xyz
 .dosagebreakfast.com
 .smetrics.doujinshi-print.com
 .downtransmitter.com
+.doyenssudsier.click
 .dpseympatijgpaw.com
 .dqrpajecblodtqd.com
 .drabimprovement.com
@@ -100051,6 +100076,7 @@ plausible.joincommunity.xyz
 .vpnsafebrowsing.com
 .vrcjleonnurifjy.xyz
 .vrivslffndepxqd.xyz
+.vroomedbedroll.shop
 .vrquqhnikhcnixn.com
 .vsgfjfsmcewnuhx.com
 .vttbtsamsbbcpgy.com
@@ -102405,6 +102431,7 @@ display.360totalsecurity.com
 .saltsleaseholder.com
 .ros3d4dbs3px.salud-masculina.info
 .yrjpgjv35y9x.salud-masculina.info
+.b.ranking.apis.sankei-digital.co.jp
 .saulttrailwaysi.info
 .sawanincreasein.info
 .adebis.sbishinseibank.co.jp
@@ -110207,6 +110234,7 @@ samsungcloudsolution.net
 .arithmeticifrancorous.com
 .arkfreakyinsufficient.com
 .arkunexpectedtrousers.com
+.aromaticunderstanding.pro
 .arrangeaffectedtables.com
 .arrearstreatyexamples.com
 .articlegarlandferment.com
