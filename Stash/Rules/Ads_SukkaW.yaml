@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-09T12:38:39.575Z
-  # Size: 114704
+  # Last Updated: 2024-10-09T12:58:32.450Z
+  # Size: 114750
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -502,6 +502,7 @@ payload:
   - .mto.cgv.vn
   - .advserver.cgv.vn
   - .x-storage-a1.cir.io
+  - .affiliatepluginintegration.cj.com
   - .native.cli.bz
   - .log-api.cli.im
   - .clx.ru
@@ -13635,6 +13636,7 @@ payload:
   - .application.taleo.com
   - .smetrics.taltz.com
   - .taobc.com
+  - .tapad.com
   - .nrc.tapas.net
   - .tapdb.com
   - .tapdb.net
@@ -13854,6 +13856,7 @@ payload:
   - .tracer.jp
   - .link.tradle.io
   - .test-link.tradle.io
+  - .trafic.ro
   - .trafix.ro
   - .trafka.ru
   - .data-043610b415.trauer.de
@@ -14302,6 +14305,7 @@ payload:
   - .vtv24.pro
   - .vtvay.com
   - .study.vu.edu.au
+  - .sponsors.vuejs.org
   - .app.vurse.com
   - .vuryua.ru
   - .vuuwd.com
@@ -15228,6 +15232,7 @@ payload:
   - .hit.acstat.com
   - .code.acstat.com
   - .mktg.act-on.com
+  - .success.act-on.com
   - .marketing.act-on.com
   - .smetrics.active.com
   - .actrkn.com
@@ -18926,6 +18931,7 @@ payload:
   - .inlinks.de
   - .z.inlist.com
   - .smetrics.inlyta.com
+  - .inmobi.com
   - .inmobi.net
   - .innity.com
   - .innity.net
@@ -19821,6 +19827,9 @@ payload:
   - .logbor.com
   - .content.logile.com
   - .ssc.logotv.com
+  - .s.logsss.com
+  - .ma.logsss.com
+  - .analytics.logsss.com
   - .data-d858e7585b.lokal26.de
   - .data-e47ac57521.lokal26.de
   - .loktrk.com
@@ -23060,6 +23069,7 @@ payload:
   - .tip-ads.de
   - .tippcom01.tipp24.com
   - .stats.tipser.com
+  - .tiqcdn.com
   - .cbudbs.tirendo.de
   - .sejruq.tirendo.it
   - .sta.tirexo.ink
@@ -23674,6 +23684,8 @@ payload:
   - .uuzxaz.vidaxl.com
   - .ssc.vidcon.com
   - .vidcpm.com
+  - .trk.vidible.tv
+  - .ads-trk.vidible.tv
   - .b.vidmob.com
   - .adblock.vidomo.xyz
   - .vidout.net
@@ -26086,6 +26098,7 @@ payload:
   - .zesgky.belambra.fr
   - .eulerian.belambra.fr
   - .ui.belboon.com
+  - .partner.service.belboon.com
   - .cizzvi.beldona.com
   - .analytics.belgacom.be
   - .belicimo.pw
@@ -26180,6 +26193,7 @@ payload:
   - .api-analytics.prod.birdapp.com
   - .xwpoxv.birdies.com
   - .degnsn.birebin.com
+  - .biroads.com
   - .data-c061012ba4.bisafans.de
   - .biserka.xyz
   - .metrics.bissell.com
@@ -26896,6 +26910,7 @@ payload:
   - .cpcvabi.com
   - .cpddgcr.xyz
   - .test-links.cpgdata.com
+  - .cpmstar.com
   - .cpmtree.com
   - .tr.news.cporadio.tv
   - .cpqgyga.com
@@ -28668,6 +28683,7 @@ payload:
   - .hi.hipcamp.com
   - .cploms.hipicon.com
   - .analytics.shop.hisense.com
+  - .histats.com
   - .analytics.histmag.org
   - .m.history.com
   - .links.e.history.com
@@ -29545,6 +29561,8 @@ payload:
   - .klangoo.com
   - .xml-v4.klapads.com
   - .cdn.klasseo.com
+  - .telemetrics.klaviyo.com
+  - .static-tracking.klaviyo.com
   - .klickly.com
   - .statistics.klicktel.de
   - .smetrics.klikklan.no
@@ -30150,6 +30168,7 @@ payload:
   - .zvbqya.marideal.mu
   - .marinsm.com
   - .marketer.lv
+  - .marketo.com
   - .marketo.net
   - .marktest.pt
   - .marsads.com
@@ -31287,6 +31306,7 @@ payload:
   - .endljp.pariteni.bg
   - .parkurl.com
   - .web.mail.parmalat.it
+  - .parsely.com
   - .parumal.com
   - .att.trk.paryskie.pl
   - .pasoherb.gq
@@ -33319,6 +33339,7 @@ payload:
   - .smetrics.tdworld.com
   - .teachac.com
   - .app.teachfx.com
+  - .marketing.tealium.com
   - .marketing.teaminx.com
   - .stat-ssl.teamroom.jp
   - .fowl.teamyap.app
@@ -33379,6 +33400,7 @@ payload:
   - .answers.teradata.se
   - .terapou.com
   - .terbit2.com
+  - .cdn.tercept.com
   - .terethat.ru
   - .marketing.ternian.com
   - .mine.terorie.com
@@ -35124,6 +35146,7 @@ payload:
   - .npvbjv.yourroom.ru
   - .see.yousoon.com
   - .s2.youtube.com
+  - .ads.youtube.com
   - .fcmatch.youtube.com
   - .yovoads.com
   - .yowpalt.top
@@ -38747,6 +38770,7 @@ payload:
   - .join.evercoin.com
   - .everestop.io
   - .go.everfave.com
+  - .evergage.com
   - .adbsmetrics.everland.com
   - .mobile.everytap.com
   - .ad.everytime.kr
@@ -38774,6 +38798,7 @@ payload:
   - .exelator.com
   - .eximbank.xyz
   - .exoads.click
+  - .exoclick.com
   - .exomonyf.com
   - .abjtuq.exoticca.com
   - .tms.experian.com
@@ -41353,6 +41378,7 @@ payload:
   - .liveclix.net
   - .clkcv.livede55.com
   - .a8clk.ap.livede55.com
+  - .counter2.blog.livedoor.com
   - .smetrics.liveitup.com
   - .get.livekick.com
   - .get-test.livekick.com
@@ -44004,6 +44030,7 @@ payload:
   - .retagapp.com
   - .retrayan.com
   - .retryngs.com
+  - .revcatch.com
   - .explore.revenera.com
   - .elqtracking.revenera.com
   - .marketing.revgroup.com
@@ -46485,7 +46512,8 @@ payload:
   - .wfuwlkgm.com
   - .wgidskie.top
   - .axp.wgnradio.com
-  - .wgplayer.com
+  - .wpb.wgplayer.com
+  - .universal.wgplayer.com
   - .whachaun.net
   - .whadupsi.net
   - .whagrolt.com
@@ -46590,6 +46618,9 @@ payload:
   - .wirsilsa.net
   - .blsoof.wirwinzer.de
   - .wisealty.com
+  - .loader.wisepops.com
+  - .activity.wisepops.com
+  - .tracking.wisepops.com
   - .wishesen.com
   - .kingfisher.wishloom.com
   - .wishloop.com
@@ -48955,6 +48986,8 @@ payload:
   - .a8cv.www.chara-ani.com
   - .frdoki.charcoal.work
   - .bcob.charlotte.edu
+  - .chartbeat.com
+  - .chartbeat.net
   - .trk.living.chartwell.com
   - .info.chat-desk.com
   - .analytics.chattarize.de
@@ -50465,6 +50498,7 @@ payload:
   - .ftpshopvn.com
   - .a8clk.fujisan.co.jp
   - .fulbe-whs.com
+  - .fullstory.com
   - .track.fun4mobcy.com
   - .fungus.online
   - .funklicks.com
@@ -53826,6 +53860,7 @@ payload:
   - .perk0mean.com
   - .perkyjade.com
   - .permutive.app
+  - .permutive.com
   - .persona3.tech
   - .personyze.com
   - .pertfinds.com
@@ -54263,6 +54298,7 @@ payload:
   - .quailnude.com
   - .quaintcan.com
   - .a.quangushi.com
+  - .aboutads.quantcast.com
   - .quantumdex.io
   - .quantumws.net
   - .quatanthu.fun
@@ -55087,6 +55123,7 @@ payload:
   - .telemetry.smartframe.io
   - .go.smartjobr.com
   - .smartlify.com
+  - .smartlook.com
   - .pixel.smartmedia.tj
   - .stats.smartmobil.de
   - .smartocto.com
@@ -65611,6 +65648,7 @@ payload:
   - .pushatomic.com
   - .pushbizapi.com
   - .pushdelone.com
+  - .clientcdn.pushengage.com
   - .pushinpage.com
   - .pushlapush.com
   - .tracker.pushmeback.com
@@ -67726,6 +67764,7 @@ payload:
   - .vefxjjkrhf.com
   - .vegasreals.com
   - .velvetnova.com
+  - .vendigamus.com
   - .venetrigni.com
   - .veninslata.com
   - .t.ventralife.com
@@ -69498,6 +69537,7 @@ payload:
   - .brfzpaffgni.com
   - .frdoki.bridalgown.work
   - .lu9xve2c97l898gjjxv4.bridesblush.com
+  - .bridgetrack.com
   - .brieflizard.com
   - .brightshare.com
   - .go.brightspace.com
@@ -74544,6 +74584,7 @@ payload:
   - .securepaths.com
   - .lb.secureweb24.net
   - .communications.securityins.net
+  - .sedoparking.com
   - .sedotracker.com
   - .seekmymatch.com
   - .seeluphill.shop
@@ -82579,6 +82620,7 @@ payload:
   - .tracking.simpleaccess.com
   - .ad.simpledesign.ltd
   - .lynx.simpleparish.com
+  - .simpletraffic.co
   - .lu9xve2c97l898gjjxv4.simplyurbans.com
   - .sing-tracker.com
   - .prism.singapouring.com
@@ -84519,6 +84561,7 @@ payload:
   - .branch.connect.actionnetwork.com
   - .activated.digital
   - .smetrics.activenetwork.com
+  - .actonsoftware.com
   - .tr.actu-companeo.com
   - .at-cddc.actu-juridique.fr
   - .actuallysheep.com
@@ -88049,6 +88092,7 @@ payload:
   - .y752.milfordmirror.com
   - .actie.milieudefensie.nl
   - .militaryverse.com
+  - .milkygoodness.xyz
   - .beer2s.millerbrewing.com
   - .mil.millsproducts.com
   - .mimicdisperse.com
@@ -93844,6 +93888,7 @@ payload:
   - .meokiemtien.online
   - .seniorliving.merionevanston.com
   - .mff.messefrankfurt.com
+  - .metaffiliation.com
   - .methodyprovand.com
   - .methoxyunpaled.com
   - .get.metileanoffer.site
@@ -94078,6 +94123,7 @@ payload:
   - .negotiaterealm.com
   - .neozoicriffled.com
   - .info.nepsisadvisors.com
+  - .img.netaffiliation.com
   - .netherinertia.life
   - .www.network-handle.com
   - .network-media.info
