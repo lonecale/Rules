@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-09T01:25:48.392Z
-# Size: 114700
+# Last Updated: 2024-10-09T12:38:39.575Z
+# Size: 114704
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4382,6 +4382,7 @@ log.ys7.com
 .tracking.playzing.g6.zing.vn
 .collector5.zipy.ai
 .dm.zjut.cc
+.efg.zle.com
 .abcd.zle.com
 .www.zng.com
 .zoda.ru
@@ -19175,6 +19176,7 @@ events.jianshu.io
 .tk.jim-joe.fr
 .jinair.sc.jinair.com
 .jinair.nsc.jinair.com
+.jingjs.top
 .jinxpn.xyz
 .jinzige.cn
 .znlgke.jiobit.com
@@ -24208,6 +24210,7 @@ api-scout.vercel.app
 .wtraff.com
 .wtstats.ro
 .wttuuyd.cn
+.wuiqiq.xyz
 .wuisaq.top
 .wuluju.uno
 .wurqaz.com
@@ -29761,6 +29764,7 @@ ad-stat.ksosoft.com
 .leadium.com
 .tracking.leadlink.de
 .app.leadsrx.com
+.leagsmk.icu
 .webapps.leasing.com
 .ins.leavitt.com
 .images.insurance.leavitt.com

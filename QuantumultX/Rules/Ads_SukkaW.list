@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-09T01:25:48.392Z
-# Size: 114700
+# Last Updated: 2024-10-09T12:38:39.575Z
+# Size: 114704
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4382,6 +4382,7 @@ log.ys7.com,REJECT
 .tracking.playzing.g6.zing.vn,REJECT
 .collector5.zipy.ai,REJECT
 .dm.zjut.cc,REJECT
+.efg.zle.com,REJECT
 .abcd.zle.com,REJECT
 .www.zng.com,REJECT
 .zoda.ru,REJECT
@@ -19175,6 +19176,7 @@ events.jianshu.io,REJECT
 .tk.jim-joe.fr,REJECT
 .jinair.sc.jinair.com,REJECT
 .jinair.nsc.jinair.com,REJECT
+.jingjs.top,REJECT
 .jinxpn.xyz,REJECT
 .jinzige.cn,REJECT
 .znlgke.jiobit.com,REJECT
@@ -24208,6 +24210,7 @@ api-scout.vercel.app,REJECT
 .wtraff.com,REJECT
 .wtstats.ro,REJECT
 .wttuuyd.cn,REJECT
+.wuiqiq.xyz,REJECT
 .wuisaq.top,REJECT
 .wuluju.uno,REJECT
 .wurqaz.com,REJECT
@@ -29761,6 +29764,7 @@ ad-stat.ksosoft.com,REJECT
 .leadium.com,REJECT
 .tracking.leadlink.de,REJECT
 .app.leadsrx.com,REJECT
+.leagsmk.icu,REJECT
 .webapps.leasing.com,REJECT
 .ins.leavitt.com,REJECT
 .images.insurance.leavitt.com,REJECT
