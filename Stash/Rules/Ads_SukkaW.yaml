@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-09T12:58:32.450Z
-  # Size: 114750
+  # Last Updated: 2024-10-10T06:21:44.469Z
+  # Size: 114777
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -8321,6 +8321,7 @@ payload:
   - .0k7wod.cn
   - .0op8kh.cn
   - .0oqt9i.cn
+  - .0pdsa.icu
   - .0r3tyg.cn
   - .0tq6ub.cn
   - .0uvt8b.cn
@@ -18503,6 +18504,7 @@ payload:
   - .trk.haskel.com
   - .hatzhq.net
   - .marketing.haughn.com
+  - .hauqks.top
   - .hauqou.top
   - .data-048d215ebe.haustec.de
   - .data-b4df3518e0.haustec.de
@@ -18830,6 +18832,7 @@ payload:
   - .ifrwam.com
   - .igbfwa.com
   - .igexin.com
+  - .iggbky.xyz
   - .igkgag.xyz
   - .ignals.com
   - .igoda.shop
@@ -20264,6 +20267,7 @@ payload:
   - .miveci.uno
   - .miwfkm.xyz
   - .api.miwifi.com
+  - .miwpkk.xyz
   - .link.mixbit.com
   - .mixi.media
   - .mymix.mixtel.com
@@ -20834,6 +20838,7 @@ payload:
   - .rtb.nowsrv.com
   - .nowtrk.com
   - .npbtnl.xyz
+  - .npdbxf.xyz
   - .nplahh.xyz
   - .nprove.com
   - .marketing.npuins.com
@@ -20901,6 +20906,7 @@ payload:
   - .oafhif.icu
   - .smetrics.oakley.com
   - .oaqrui.xyz
+  - .oauqyw.xyz
   - .oawvsm.xyz
   - .go.obfity.net
   - .obstre.com
@@ -23354,6 +23360,7 @@ payload:
   - .udkcrj.com
   - .udkpcc.xyz
   - .udolgy.xyz
+  - .udswai.xyz
   - .udxhzqg.cn
   - .udzpel.com
   - .ueumdkc.cn
@@ -28211,6 +28218,7 @@ payload:
   - .gazanew.com
   - .a8cv.gb-chat.com
   - .gblxtlo.xyz
+  - .gbqgwes.icu
   - .gcyzgld.com
   - .gdlxtjk.com
   - .data-47ee1b0882.ge-kinos.de
@@ -29365,6 +29373,7 @@ payload:
   - .jsdelvr.com
   - .jsecoin.com
   - .jsftzha.com
+  - .jsgapai.icu
   - .huabfv.jshoe.co.kr
   - .jsmcrpu.com
   - .jsnncgz.com
@@ -35619,6 +35628,7 @@ payload:
   - .60571086.xyz
   - .planarian.614deals.com
   - .6471e7f7.xyz
+  - .65035033.xyz
   - .656f1ba3.xyz
   - .shared.65twenty.com
   - .65wenv5f.xyz
@@ -49458,6 +49468,8 @@ payload:
   - .daslkdlqk.top
   - .databrain.com
   - .datacygnal.io
+  - .agent.datadoghq.com
+  - .agent.ap1.datadoghq.com
   - .iam-rum-intake.datadoghq.com
   - .filter.datadrives.ai
   - .xml-v4.datadrives.ai
@@ -59289,6 +59301,7 @@ payload:
   - .broadstreet.ai
   - .brokerbabe.com
   - .explore.broncos.com.au
+  - .brottpyric.com
   - .landsnail.brownfield.dev
   - .broworker7.com
   - .browsiprod.com
@@ -69184,6 +69197,7 @@ payload:
   - .bagletantle.top
   - .baidustatic.com
   - .baiduthi02.work
+  - .baipahanoop.net
   - .kmjbad.bakemeawish.com
   - .cargdk.bakerross.co.uk
   - .balconypeer.com
@@ -70639,6 +70653,7 @@ payload:
   - .qo.enamelsdune.com
   - .encencestrk.com
   - .analytics.bi.encuentra24.com
+  - .endlessgoes.com
   - .endymehnth.info
   - .tr.enedis-infos.fr
   - .hornet.energizer.co.za
@@ -73292,6 +73307,7 @@ payload:
   - .analytics.oceanengine.com
   - .oceanvids.space
   - .ocflkcgwjem.com
+  - .ochoovoajaw.xyz
   - .joy.ochronus.online
   - .psfcnf.ochsnersport.ch
   - .sadbmetrics.ocioxlacara.com
@@ -76699,6 +76715,7 @@ payload:
   - .2mf9kkbhab31.com
   - .2qj7mq3w4uxe.com
   - .300daytravel.com
+  - .333bbb777bbb.com
   - .341k4gu76ywe.top
   - ssl.360antivirus.org
   - .360installer.com
@@ -79397,6 +79414,7 @@ payload:
   - .gorgeousedge.com
   - .marketing.gorillagroup.com
   - .gorillasneer.com
+  - .goschenelect.com
   - .gossipinvest.com
   - .goufldsbktds.com
   - .goutylumpier.top
@@ -80579,6 +80597,7 @@ payload:
   - .marapcana.online
   - .mareswimming.com
   - .marfeelcache.com
+  - .marginshache.com
   - .marianneflog.com
   - .marketing.marineagency.com
   - .discover.maringeneral.org
@@ -81884,6 +81903,7 @@ payload:
   - .pteghoglapir.com
   - .pthzqqvrjyou.com
   - .ptoahaistais.com
+  - .ptoavibsaron.net
   - .ptoftaupsift.com
   - .ptudoalistoy.net
   - .ptvfranfbdaq.xyz
@@ -83946,6 +83966,7 @@ payload:
   - .ssc.voaindonesia.com
   - .ssc.voaportugues.com
   - .ssc.voatiengviet.com
+  - .voguesmaison.com
   - .voicepeaches.com
   - .app.response.volarisgroup.com
   - .partner.volne-reality.cz
@@ -84842,6 +84863,7 @@ payload:
   - .pl.astro-akatemia.fi
   - .asyetaprovinc.org
   - .atacticserena.top
+  - .ataiyalstrays.com
   - .marketing.atcautomation.com
   - .cv.atelier-shark.com
   - .aterhouseoyop.com
@@ -87894,6 +87916,7 @@ payload:
   - .maaphdiwuoetl.com
   - .app1.maatwerkonline.nl
   - .mabelasateens.com
+  - .mabolocorrive.com
   - .sdata.macconnection.com
   - .macherazizzle.top
   - .smetrics.machinedesign.com
@@ -91461,6 +91484,7 @@ payload:
   - .news.azcapitoltimes.com
   - .azeriondigital.com
   - .sdc.azt-automotive.com
+  - .azygotesonless.com
   - .b0oie4xjeb4ite.com
   - .tr.communication.b2b-actualites.com
   - .b3stcond1tions.com
@@ -92993,6 +93017,7 @@ payload:
   - .habovethecity.info
   - .habutaeirisate.com
   - .habutaeunroost.com
+  - .hackeestrict.click
   - .hagweedtoytown.com
   - .hailstonenerve.com
   - .haitacshopgame.com
@@ -94856,6 +94881,7 @@ payload:
   - .retaliatepoint.com
   - .retgspondingco.com
   - .rethinkwrinkle.com
+  - .retingexylogen.com
   - .retintsmillion.com
   - .retreatregular.com
   - .retvjdkolpdals.com
@@ -101050,6 +101076,7 @@ payload:
   - .reverb.digitalviscosity.com
   - .marketing.digitalwarehouse.com
   - .dignifiedclipbum.com
+  - .diluterocciput.click
   - .info.dimensionfunding.com
   - .dimessing-parker.com
   - .dippersanankes.click
