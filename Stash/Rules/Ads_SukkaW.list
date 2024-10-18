@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-18T04:12:39.636Z
-# Size: 115332
+# Last Updated: 2024-10-18T09:10:13.447Z
+# Size: 115333
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -101783,6 +101783,7 @@ static.vuevideo.net
 .mediasolutions.netinsight.net
 .acv.nft-hikari.net
 .log.pdfreaders.net
+.client.perimeterx.net
 .a8clk.point-land.net
 .ads.pornharlot.net
 .njnlih.realitatea.net
