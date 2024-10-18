@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-18T09:10:13.447Z
-  # Size: 115333
+  # Last Updated: 2024-10-18T16:38:25.478Z
+  # Size: 115375
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -4695,6 +4695,7 @@ payload:
   - .clicktimes.bid
   - .djfhwosjck.bid
   - .fge9vbrzwt.bid
+  - .pushadvert.bid
   - .static-cnt.bid
   - .vcfs6ip5h6.bid
   - .avualrhg9p0.bid
@@ -7725,6 +7726,7 @@ payload:
   - .tracot.com
   - .trafit.com
   - .tratbc.com
+  - .trcktr.com
   - .trecut.com
   - .trk023.com
   - .trkjmp.com
@@ -9688,6 +9690,7 @@ payload:
   - .orqaxjj.com
   - .osfrjut.com
   - .osoirux.com
+  - .otoadom.com
   - .otvlehf.com
   - .outster.com
   - .owldata.com
@@ -11538,6 +11541,7 @@ payload:
   - .dfgbalon.com
   - .dfsdkkka.com
   - .dftjcofe.com
+  - .dfwzepkz.com
   - .dgamapxs.com
   - .dgcgugid.com
   - .dgojzjdb.com
@@ -13798,6 +13802,7 @@ payload:
   - .userwave.com
   - .ushoofop.com
   - .usounoul.com
+  - .usvitgco.com
   - .uthounie.com
   - .uu3192uu.com
   - .uu8811uu.com
@@ -16900,6 +16905,7 @@ payload:
   - .thearoids.com
   - .thecodeil.com
   - .theeptoah.com
+  - .theetheks.com
   - .theod-omq.com
   - .theod-qsr.com
   - .theonecdn.com
@@ -18012,6 +18018,7 @@ payload:
   - .aklorswikk.com
   - .aktwusgwep.com
   - .akvpzgytzv.com
+  - .alackzokor.com
   - .alanibelen.com
   - .alecclause.com
   - .alespeonor.com
@@ -18498,6 +18505,7 @@ payload:
   - .cibleclick.com
   - .cicdserver.com
   - .cijianggun.com
+  - .cimtaiphos.com
   - .ciqzagzwao.com
   - .citizenhid.com
   - .cityadspix.com
@@ -19224,6 +19232,7 @@ payload:
   - .gumcongest.com
   - .gutsnights.com
   - .guvmcalwio.com
+  - .guxidrookr.com
   - .guybaafvpv.com
   - .gvdetxlwcm.com
   - .gvwdwrtzrs.com
@@ -20785,6 +20794,7 @@ payload:
   - .stoaphalti.com
   - .stonkstime.com
   - .stooduvumt.com
+  - .stoopfalse.com
   - .stoorgouxy.com
   - .stopformal.com
   - .storage-ad.com
@@ -21983,6 +21993,7 @@ payload:
   - .ckodsxyjdql.com
   - .clash-media.com
   - .cleveritics.com
+  - .cleverreach.com
   - .clickadilla.com
   - .clickalyzer.com
   - .clickintext.com
@@ -23447,6 +23458,7 @@ payload:
   - .passivepolo.com
   - .passtechusa.com
   - .pastcabbage.com
+  - .patyholdups.com
   - .paularrears.com
   - .paulastroid.com
   - .pauptoolari.com
@@ -25379,6 +25391,7 @@ payload:
   - .cntrafficpro.com
   - .coationexult.com
   - .coatsanguine.com
+  - .cobnutzelant.com
   - .coendouspare.com
   - .cogentwarden.com
   - .coherebehalf.com
@@ -27066,6 +27079,7 @@ payload:
   - .pwbffdsszgkv.com
   - .pwdxawuedjjj.com
   - .pwrgrowthapi.com
+  - .pyewdnerftym.com
   - .pyxiscablese.com
   - .pzwigrnuimeh.com
   - .q6idnawboy7g.com
@@ -27074,6 +27088,7 @@ payload:
   - .qalscihrolwu.com
   - .qavgacsmegav.com
   - .qcbfiytngupv.com
+  - .qceatqoqwpza.com
   - .qdlbdpsctalt.com
   - .qdogpcfgejgc.com
   - .qdvducltjswp.com
@@ -29891,6 +29906,7 @@ payload:
   - .nkrvqmvlyryzn.com
   - .nmrjnqiwocfyi.com
   - .nmxcadosdrcbd.com
+  - .nobledtenuous.com
   - .nocturnalloom.com
   - .nongrayrestis.com
   - .nopoloferewer.com
@@ -32013,6 +32029,7 @@ payload:
   - .gnashesfanfare.com
   - .gnatterjingall.com
   - .gnfavfqifukyyl.com
+  - .gobbingtheresa.com
   - .gobetweengroan.com
   - .golden-gateway.com
   - .goldfishgrowth.com
@@ -32439,6 +32456,7 @@ payload:
   - .metrica-yandex.com
   - .meyximegrgypnv.com
   - .mgdtnwnjwewlph.com
+  - .mhczintehtfjzp.com
   - .miaouedcrevass.com
   - .mickiesetheric.com
   - .midwifelangurs.com
@@ -32633,6 +32651,7 @@ payload:
   - .pangiingsinspi.com
   - .panickycurtain.com
   - .panickypancake.com
+  - .panoplywalkist.com
   - .panoramicplane.com
   - .paoukgnssmkeys.com
   - .paragraphopera.com
@@ -32926,6 +32945,7 @@ payload:
   - .riverstressful.com
   - .rivetrearrange.com
   - .rjiwweegcearer.com
+  - .rjlkibvwgxiduq.com
   - .rkajleihgyidsu.com
   - .rmgfulosqmlcly.com
   - .roabmyrevngqqk.com
@@ -39481,6 +39501,7 @@ payload:
   - .assertedelevateratio.com
   - .assistancelawnthesis.com
   - .astronomycrawlingcol.com
+  - .ate60vs7zcjhsjo5qgv8.com
   - .atonementfosterchild.com
   - .attributedharnesssag.com
   - .attritioncombustible.com
@@ -41576,6 +41597,7 @@ payload:
   - .exhibitedpermanentstoop.com
   - .eyeshadowclayindulgence.com
   - .failurehamburgerillicit.com
+  - .fastidiousilliteratehag.com
   - .femalesunderpantstrapes.com
   - .fertilizerpokerelations.com
   - .ff-memberrshipvn-garena.com
@@ -41874,6 +41896,7 @@ payload:
   - .unusualbrainlessshotgun.com
   - .uptightdecreaseclinical.com
   - .vaccineconvictedseafood.com
+  - .valuerstarringarmistice.com
   - .vandalismundermineshock.com
   - .varietyofdisplayformats.com
   - .varyingcanteenartillery.com
@@ -43537,6 +43560,7 @@ payload:
   - .insure1266.fun
   - .launch1266.fun
   - .momochanle.fun
+  - .office1266.fun
   - .resort1266.fun
   - .revise1266.fun
   - .revoke1266.fun
@@ -43631,6 +43655,7 @@ payload:
   - .sailorjav128.fun
   - .sandwich3452.fun
   - .scrapejav128.fun
+  - .sdbuuzhjzznc.fun
   - .secondjav128.fun
   - .shadowjav182.fun
   - .sketchjav182.fun
@@ -44180,6 +44205,7 @@ payload:
   - .hdbankfinance.icu
   - .responservbzh.icu
   - .samage-bility.icu
+  - .deview-moryant.icu
   - .comilar-efferiff.icu
   - .readly-renterval.icu
   - .tragency-clesburg.icu
@@ -46728,6 +46754,7 @@ payload:
   - .hdywrwnvf-h.one
   - .redirection.one
   - .vieclamfptt.one
+  - .vzeakntvvkc.one
   - .ae-edqfrmstp.one
   - .wzcuinglezyz.one
   - .steamunlocked.one
@@ -50273,6 +50300,7 @@ payload:
   - .zylizz.xyz
   - .zyrnbh.xyz
   - .zztxfj.xyz
+  - .12aksss.xyz
   - .1iohncj.xyz
   - .3601880.xyz
   - .3615407.xyz
@@ -52227,6 +52255,7 @@ payload:
   - .ygeosqsomusu.xyz
   - .yijaovuvbndx.xyz
   - .zeemaustoops.xyz
+  - .zoogroocevee.xyz
   - .amesgraduatel.xyz
   - .bflgokbupydgr.xyz
   - .bipgialxcfvad.xyz
@@ -54032,6 +54061,7 @@ payload:
   - .pdheuryopd.loan
   - .candyai.love
   - .pptnuhffs.love
+  - .iv-akuifxp.love
   - .x-zjxfhysb.love
   - .adjmntesdsoi.love
   - .shopee.luxe
@@ -54682,6 +54712,7 @@ payload:
   - .buildnaq91.site
   - .cbdedibles.site
   - .datingkoen.site
+  - .fgk-jheepn.site
   - .glasssmash.site
   - .igwatrsthg.site
   - .instadrama.site
@@ -54918,6 +54949,7 @@ payload:
   - .personaly.click
   - .push-news.click
   - .pushckick.click
+  - .tazkiaonu.click
   - .ulekvetch.click
   - .woneguess.click
   - .wow-click.click
@@ -55111,6 +55143,7 @@ payload:
   - .redenyswallet.click
   - .redfootchiros.click
   - .regis2tarsinc.click
+  - .rhumbslauders.click
   - .seichesditali.click
   - .shopbloxfruit.click
   - .shoppyoccults.click
@@ -55520,6 +55553,7 @@ payload:
   - .vietlott.world
   - .greedseed.world
   - .refpasrasw.world
+  - .tagd-otmhf.world
   - .zcck60eqyw.world
   - .i98jio988ui.world
   - .vaynganhang.world
@@ -55754,6 +55788,7 @@ payload:
   - .chopflexhit.online
   - .chovaynhanh.online
   - .contentango.online
+  - .eunpprzdlkf.online
   - .hospitalsky.online
   - .ladyvietnam.online
   - .letterslamp.online
@@ -58190,6 +58225,7 @@ payload:
   - .a1.99966.cn
   - .apilog-web.acfun.cn
   - fota4.adups.cn
+  - .collector.azure.cn
   - .a1.bajiu.cn
   - .cpro.bdrmb.cn
   - .ad.cdnjm.cn
@@ -75912,6 +75948,7 @@ payload:
   - .mads.amazon.com
   - .mads-eu.amazon.com
   - .mads-fe.amazon.com
+  - .amazon-adsystem.amazon.com
   - .device-metrics-us.amazon.com
   - device-metrics-us-2.amazon.com
   - .banners.amigos.com
@@ -87820,6 +87857,7 @@ payload:
   - .vhpabx.herffjones.com
   - .teijgy.herveleger.com
   - .bi.heyloyalty.com
+  - .ads.heytapmobi.com
   - .newy.hifiliving.com
   - .web.hikari-ocn.com
   - .a8clk.hikarinobe.com
@@ -91642,6 +91680,7 @@ payload:
   - .resources.hermanmiller.com
   - .smetrics.heromotocorp.com
   - .jhbami.hervecuisine.com
+  - .ads.heytapmobile.com
   - .omes-sec.heytapmobile.com
   - .httpdns-push.heytapmobile.com
   - .dragate-in-dc.heytapmobile.com
@@ -94259,6 +94298,7 @@ payload:
   - .marketing.callmeonmycell.com
   - .marketing.campbellwealth.com
   - .ea.camping-and-co.com
+  - .creative.camsplanetlive.com
   - .cueohf.canadian-forum.com
   - .activate.capitalgazette.com
   - .gtm.careercontessa.com
@@ -106759,6 +106799,7 @@ payload:
   - .data.email.yousee.dk
   - .web.mapp.skousen.dk
   - .data.email.telmore.dk
+  - .nrpukcsgboqr0gz2o8.www.bolighub.dk
   - .data.events.pokerstars.dk
   - .web.info.varelotteriet.dk
   - .js.evtr.nordiskemedier.dk
@@ -113100,7 +113141,6 @@ payload:
   - .tr.satisfaction.groupe-pv-cp.com
   - .images.info.grupovaughan.com
   - .track.hg.healthgrades.com
-  - .adx-in.ads.heytapmobile.com
   - .links.e.historyvault.com
   - .ablink.engage.insighttimer.com
   - .ablink.notification.insighttimer.com
@@ -114141,6 +114181,7 @@ payload:
   - .app.connect.wgby.org
   - .1019175970.rsc.cdn77.org
   - .1080872514.rsc.cdn77.org
+  - .1102085370.rsc.cdn77.org
   - .1176731452.rsc.cdn77.org
   - .1187531871.rsc.cdn77.org
   - .1208344341.rsc.cdn77.org
@@ -115116,6 +115157,7 @@ payload:
   - t3.a.market.xiaomi.com
   - t4.a.market.xiaomi.com
   - t5.a.market.xiaomi.com
+  - xadx.file.market.xiaomi.com
   - image.cdn.mvideo.xiaomi.com
   - url8807.global.passport.xiaomi.com
   - .api.miui.security.xiaomi.com
