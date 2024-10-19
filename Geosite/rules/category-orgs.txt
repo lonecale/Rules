@@ -1,3 +1,4 @@
+full:csis-prod.s3.amazonaws.com
 full:a.ppy.sh
 full:assets.ppy.sh
 full:c.ppy.sh
@@ -7,7 +8,6 @@ full:lazer.ppy.sh
 full:notify.ppy.sh
 full:sentry.ppy.sh
 full:spectator.ppy.sh
-full:csis-prod.s3.amazonaws.com
 aomedia.org
 atypi.org
 change.org
@@ -21,7 +21,6 @@ un.org
 w3.org
 who.int
 wto.org
-ppy.sh
 archive-it.org
 archive.org
 archive.ph
@@ -33,7 +32,6 @@ ccstatic.org
 creativecommons.org
 creativecommons.engineering
 licensebuttons.net
-csis.org
 emojipedia.org
 worldemojiawards.com
 worldemojiday.com
@@ -44,9 +42,7 @@ f-droid.org
 fdroid.org
 nist.gov
 time.gov
-paskoocheh.com
-rolfoundation.org
-rolsociety.org
+csis.org
 ieee.org
 ieee.tv
 tryengineering.org
@@ -110,3 +106,7 @@ osm.org
 osmfoundation.org
 stateofthemap.com
 stateofthemap.org
+paskoocheh.com
+ppy.sh
+rolfoundation.org
+rolsociety.org
