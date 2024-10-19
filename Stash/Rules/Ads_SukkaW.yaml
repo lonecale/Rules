@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-19T12:36:27.897Z
-  # Size: 111361
+  # Last Updated: 2024-10-19T16:26:46.461Z
+  # Size: 111364
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -15335,6 +15335,7 @@ payload:
   - .pilespaua.com
   - .ping-fast.com
   - .pingmeter.com
+  - .pinklabel.com
   - .piwhbfgyj.com
   - .pixelhere.com
   - .pixfuture.com
@@ -21114,6 +21115,7 @@ payload:
   - .inflictrind.com
   - .informereng.com
   - .ingigalitha.com
+  - .inheritknow.com
   - .inhonedgean.com
   - .injectlocum.com
   - .injuredjazz.com
@@ -23747,6 +23749,7 @@ payload:
   - .firecatfilms.com
   - .fireworkcamp.com
   - .fireworksane.com
+  - .firrycandour.com
   - .firsttexture.com
   - .fittitfucose.com
   - .fixedlygrown.com
@@ -28526,6 +28529,7 @@ payload:
   - .avoadsservices.com
   - .avtbdnwqnwoasm.com
   - .aweprotostatic.com
+  - .awkwardpurfles.com
   - .awokeconscious.com
   - .awrnkojhomxvqi.com
   - .axiomaticalley.com
@@ -40332,6 +40336,7 @@ payload:
   - .m-fmfadcfm.icu
   - .yxuytpfe-t.icu
   - .kubicserves.icu
+  - .kvum-bpelzw.icu
   - .yourprivacy.icu
   - .iystrbftlwif.icu
   - .bional-dested.icu
@@ -51519,6 +51524,7 @@ payload:
   - .go2.global
   - .w-gbttkri.global
   - .pqvzlltzxbs.global
+  - .elgnnpl-ukgs.global
   - .adservice.google
   - .adtrafficquality.google
   - .nur.gratis
@@ -81442,7 +81448,6 @@ payload:
   - .api.pingstart.com
   - .track.pingstart.com
   - .marketing.pinkerton.com
-  - .traffic.pinklabel.com
   - .suxqvc.pinksisly.com
   - .log.pinterest.com
   - .trk.pinterest.com
@@ -87456,7 +87461,6 @@ payload:
   - .mail.finwellgroup.com
   - .fiwinet.firmenwissen.com
   - .data-34565915dd.firmenwissen.com
-  - .wo.firrycandour.com
   - .kx4.firstsexfilm.com
   - .goto.firsttechfed.com
   - .www2.firsttechfed.com
@@ -90198,7 +90202,6 @@ payload:
   - .marketreports.autovistagroup.com
   - .eurotaxsrbija-si.autovistagroup.com
   - .autovistaintelligence.autovistagroup.com
-  - .sr.awkwardpurfles.com
   - .news.azcapitoltimes.com
   - .sdc.azt-automotive.com
   - .pnq.babcoxmediainc.com

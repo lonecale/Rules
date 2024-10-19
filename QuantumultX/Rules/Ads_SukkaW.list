@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-19T12:36:27.897Z
-# Size: 111361
+# Last Updated: 2024-10-19T16:26:46.461Z
+# Size: 111364
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15334,6 +15334,7 @@ lgtvsdp.com,REJECT
 .pilespaua.com,REJECT
 .ping-fast.com,REJECT
 .pingmeter.com,REJECT
+.pinklabel.com,REJECT
 .piwhbfgyj.com,REJECT
 .pixelhere.com,REJECT
 .pixfuture.com,REJECT
@@ -21113,6 +21114,7 @@ samsungqbe.com,REJECT
 .inflictrind.com,REJECT
 .informereng.com,REJECT
 .ingigalitha.com,REJECT
+.inheritknow.com,REJECT
 .inhonedgean.com,REJECT
 .injectlocum.com,REJECT
 .injuredjazz.com,REJECT
@@ -23746,6 +23748,7 @@ samsungqbe.com,REJECT
 .firecatfilms.com,REJECT
 .fireworkcamp.com,REJECT
 .fireworksane.com,REJECT
+.firrycandour.com,REJECT
 .firsttexture.com,REJECT
 .fittitfucose.com,REJECT
 .fixedlygrown.com,REJECT
@@ -28525,6 +28528,7 @@ samsungqbe.com,REJECT
 .avoadsservices.com,REJECT
 .avtbdnwqnwoasm.com,REJECT
 .aweprotostatic.com,REJECT
+.awkwardpurfles.com,REJECT
 .awokeconscious.com,REJECT
 .awrnkojhomxvqi.com,REJECT
 .axiomaticalley.com,REJECT
@@ -40331,6 +40335,7 @@ samsungcloudsolution.com,REJECT
 .m-fmfadcfm.icu,REJECT
 .yxuytpfe-t.icu,REJECT
 .kubicserves.icu,REJECT
+.kvum-bpelzw.icu,REJECT
 .yourprivacy.icu,REJECT
 .iystrbftlwif.icu,REJECT
 .bional-dested.icu,REJECT
@@ -51518,6 +51523,7 @@ nmbr.info,REJECT
 .go2.global,REJECT
 .w-gbttkri.global,REJECT
 .pqvzlltzxbs.global,REJECT
+.elgnnpl-ukgs.global,REJECT
 .adservice.google,REJECT
 .adtrafficquality.google,REJECT
 .nur.gratis,REJECT
@@ -81441,7 +81447,6 @@ choice.microsoft.com,REJECT
 .api.pingstart.com,REJECT
 .track.pingstart.com,REJECT
 .marketing.pinkerton.com,REJECT
-.traffic.pinklabel.com,REJECT
 .suxqvc.pinksisly.com,REJECT
 .log.pinterest.com,REJECT
 .trk.pinterest.com,REJECT
@@ -87455,7 +87460,6 @@ material.istreamsche.com,REJECT
 .mail.finwellgroup.com,REJECT
 .fiwinet.firmenwissen.com,REJECT
 .data-34565915dd.firmenwissen.com,REJECT
-.wo.firrycandour.com,REJECT
 .kx4.firstsexfilm.com,REJECT
 .goto.firsttechfed.com,REJECT
 .www2.firsttechfed.com,REJECT
@@ -90197,7 +90201,6 @@ stat.zuimeitianqi.com,REJECT
 .marketreports.autovistagroup.com,REJECT
 .eurotaxsrbija-si.autovistagroup.com,REJECT
 .autovistaintelligence.autovistagroup.com,REJECT
-.sr.awkwardpurfles.com,REJECT
 .news.azcapitoltimes.com,REJECT
 .sdc.azt-automotive.com,REJECT
 .pnq.babcoxmediainc.com,REJECT
