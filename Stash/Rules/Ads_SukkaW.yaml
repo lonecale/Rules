@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-20T12:37:09.576Z
-  # Size: 111379
+  # Last Updated: 2024-10-20T17:02:38.793Z
+  # Size: 111525
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -546,8 +546,8 @@ payload:
   - .8xtm6i.cn
   - .adasdz.cn
   - .adcome.cn
+  - .adintl.cn
   - .adpush.cn
-  - .adsage.cn
   - .adview.cn
   - .advmob.cn
   - .aknusp.cn
@@ -1024,6 +1024,7 @@ payload:
   - .iconworkshop.cn
   - .acgshenshicha.cn
   - .chinagcdxyjng.cn
+  - .mobileservice.cn
   - .shangwenchao4.cn
   - .chushoushijian.cn
   - .haohuisheng555.cn
@@ -2446,6 +2447,7 @@ payload:
   - .kissmetrics.io
   - .mynextphone.io
   - .n-analytics.io
+  - .openinstall.io
   - .sf-insights.io
   - .sparechange.io
   - .tracdelight.io
@@ -5887,6 +5889,7 @@ payload:
   - .uektb.com
   - .ulaen.com
   - .umbel.com
+  - .umsns.com
   - .unzpc.com
   - .upcpi.com
   - .usurv.com
@@ -6584,6 +6587,7 @@ payload:
   - .dtssrv.com
   - .duomai.com
   - .durith.com
+  - .dutils.com
   - .dvypar.com
   - .dynpaa.com
   - .dynspt.com
@@ -7107,6 +7111,7 @@ payload:
   - .moradu.com
   - .morict.com
   - .mors22.com
+  - .mosspf.com
   - .movcpm.com
   - .mpay69.com
   - .mrelko.com
@@ -7964,6 +7969,7 @@ payload:
   - .33lotte.com
   - .3dstats.com
   - .3lucosy.com
+  - .51taifu.com
   - .55lotte.com
   - .6669667.com
   - .66lotte.com
@@ -8122,6 +8128,7 @@ payload:
   - .adsvert.com
   - .adsvids.com
   - .adtaily.com
+  - .adtaipo.com
   - .adtival.com
   - .adtoadd.com
   - .adtonus.com
@@ -8129,6 +8136,7 @@ payload:
   - .adtriba.com
   - .adtrk18.com
   - .adtrk21.com
+  - .adukwai.com
   - .adunity.com
   - .advhits.com
   - .advrush.com
@@ -8737,6 +8745,7 @@ payload:
   - .fuel451.com
   - .fujigar.com
   - .funneld.com
+  - .funnull.com
   - .furykms.com
   - .fuxcmbo.com
   - .fvckeip.com
@@ -9326,6 +9335,7 @@ payload:
   - .monetag.com
   - .monitis.com
   - .mookie1.com
+  - .motowoo.com
   - .motrixi.com
   - .mountrs.com
   - .mouse3k.com
@@ -10150,6 +10160,7 @@ payload:
   - .ubembed.com
   - .uberads.com
   - .ubercpm.com
+  - .ubixioe.com
   - .udetqwj.com
   - .uegsjnk.com
   - .ufinkln.com
@@ -10615,6 +10626,7 @@ payload:
   - .adbinead.com
   - .adbuddiz.com
   - .adbutler.com
+  - .adcanvas.com
   - .adchemix.com
   - .adchoice.com
   - .adclerks.com
@@ -11555,6 +11567,7 @@ payload:
   - .grurawho.com
   - .grvmedia.com
   - .guandads.com
+  - .guizhhaa.com
   - .gupqacqf.com
   - .gurynyce.com
   - .guysfair.com
@@ -11837,6 +11850,7 @@ payload:
   - .kougloar.com
   - .kpebuazc.com
   - .krqjfirm.com
+  - .kuaiyiad.com
   - .kuaizhan.com
   - .kueezrtb.com
   - .kukrosti.com
@@ -12082,6 +12096,7 @@ payload:
   - .mybmrtrg.com
   - .myiphost.com
   - .mypopads.com
+  - .mytanwan.com
   - .mythings.com
   - .mytictac.com
   - .mzol7lbm.com
@@ -12398,6 +12413,7 @@ payload:
   - .pokreess.com
   - .polpepsn.com
   - .polredsy.com
+  - .polyfill.com
   - .pomptame.com
   - .poolgmsd.com
   - .poosoahe.com
@@ -12550,6 +12566,7 @@ payload:
   - .qichexin.com
   - .qinvaris.com
   - .qjllvrcp.com
+  - .qjparxwc.com
   - .qnlsbtrk.com
   - .qnqzbfgg.com
   - .qooanabj.com
@@ -13624,6 +13641,7 @@ payload:
   - .addynamix.com
   - .adelement.com
   - .adforcast.com
+  - .adfunlink.com
   - .adhealers.com
   - .adhitzads.com
   - .adinsight.com
@@ -13664,6 +13682,7 @@ payload:
   - .adsvolume.com
   - .adtechium.com
   - .adthletic.com
+  - .adtianmai.com
   - .adtrieval.com
   - .adultsadv.com
   - .adup-tech.com
@@ -13968,11 +13987,13 @@ payload:
   - .bravebone.com
   - .brdecolar.com
   - .brealtime.com
+  - .brecaqogx.com
   - .bred4tula.com
   - .brenn-wck.com
   - .brewsuper.com
   - .bricks-co.com
   - .bridedeed.com
+  - .bridgeoos.com
   - .briefstem.com
   - .brighttoe.com
   - .broaddoor.com
@@ -14159,6 +14180,7 @@ payload:
   - .cyan92010.com
   - .cyeqeewyr.com
   - .cykcxgsvg.com
+  - .czrsmswlt.com
   - .d08l9a634.com
   - .d5chnap6b.com
   - .dacounter.com
@@ -14362,6 +14384,7 @@ payload:
   - .fancydune.com
   - .fancywhim.com
   - .fandelcot.com
+  - .fanglinad.com
   - .fapstered.com
   - .farethief.com
   - .farsnails.com
@@ -14840,6 +14863,7 @@ payload:
   - .ktmayxvea.com
   - .ktpcsqnij.com
   - .ku42hjr2e.com
+  - .kuguopush.com
   - .kurlipush.com
   - .kuvoansub.com
   - .kvtgl4who.com
@@ -16727,6 +16751,7 @@ payload:
   - .a6dc99d1a8.com
   - .a700fb9c8d.com
   - .a717b6d31e.com
+  - .a85d43cd02.com
   - .a899228ebf.com
   - .a8d48a7d6e.com
   - .a9ae7df45f.com
@@ -18018,6 +18043,7 @@ payload:
   - .hesudsuzoa.com
   - .hethongbhx.com
   - .hewawkward.com
+  - .heycryptic.com
   - .hfhppxseee.com
   - .hgub2polye.com
   - .hhbypdoecp.com
@@ -18737,6 +18763,7 @@ payload:
   - .opsozouphy.com
   - .optraising.com
   - .oqnabsatfn.com
+  - .oqqwrjanxy.com
   - .orbsdiacle.com
   - .ordzimwtaa.com
   - .origintube.com
@@ -22531,6 +22558,7 @@ payload:
   - .uviajpcewsv.com
   - .uvoovoachee.com
   - .uwaxoyfklhm.com
+  - .uynhupsmini.com
   - .uztiljvaewg.com
   - .v2mlemerald.com
   - .vadokfkulzr.com
@@ -24749,6 +24777,7 @@ payload:
   - .phvhnxebmrzf.com
   - .picarasgalax.com
   - .pickedincome.com
+  - .pidcowwnwwwx.com
   - .pierisrapgae.com
   - .pilaryhurrah.com
   - .pilpulbagmen.com
@@ -28613,6 +28642,7 @@ payload:
   - .blockchain-ads.com
   - .blogmeetsbrand.com
   - .blubberspoiled.com
+  - .bmjfsozmscdlgt.com
   - .bo2ffe45ss4gie.com
   - .bondagecoexist.com
   - .bookbannershop.com
@@ -28925,6 +28955,7 @@ payload:
   - .dronediscussed.com
   - .druggedforearm.com
   - .dtedpypskgbdap.com
+  - .dtkgorqjwflvhl.com
   - .dtkmflxaqwobno.com
   - .dtnacqswcieufy.com
   - .dtylhedgelnham.com
@@ -29330,6 +29361,7 @@ payload:
   - .jygotubvpyguak.com
   - .jyhxhsdgxbvcnj.com
   - .kaiu-marketing.com
+  - .kariqjoxppwhcz.com
   - .kaurieseluxate.com
   - .kavajwwdeultfm.com
   - .kednglalimchmh.com
@@ -30170,6 +30202,7 @@ payload:
   - .tindung-online.com
   - .tintersloggish.com
   - .tinthuongtrian.com
+  - .tipjamdavwygxm.com
   - .tipsembankment.com
   - .tkqjiukbtjboub.com
   - .toenailtrishaw.com
@@ -32299,6 +32332,7 @@ payload:
   - .entirelyhonorary.com
   - .erofherlittleboy.com
   - .errorpalpatesake.com
+  - .ervantasrelaterc.com
   - .essentialblunder.com
   - .establishambient.com
   - .etherealpinnacle.com
@@ -34746,6 +34780,7 @@ payload:
   - .openslowlypoignant.com
   - .opticalwornshampoo.com
   - .ordinalexclusively.com
+  - .orhavingartisticta.com
   - .outbalanceleverage.com
   - .outdilateinterrupt.com
   - .outsetnormalwaited.com
@@ -36130,6 +36165,7 @@ payload:
   - .godmotherelectricity.com
   - .goodluckblockingthis.com
   - .goodnightbarterleech.com
+  - .googlesyndication-cn.com
   - .gorilladescendbounds.com
   - .grantinsanemerriment.com
   - .greececountryfurious.com
@@ -36554,6 +36590,7 @@ payload:
   - .acknowledgecalculated.com
   - .activelysmileintimate.com
   - .adaptationbodilypairs.com
+  - .addictionmulegoodness.com
   - .addressanythingbridge.com
   - .adjectivedollaralmost.com
   - .admin-vayvonvietthanh.com
@@ -39670,6 +39707,7 @@ payload:
   - .avroad3431.fun
   - .avsink3431.fun
   - .avview3431.fun
+  - .betray1266.fun
   - .cinema1266.fun
   - .cvdfvdfv90.fun
   - .egesdashb8.fun
@@ -39802,6 +39840,7 @@ payload:
   - .vipmmomo2456.fun
   - .allloveydovey.fun
   - .timefeathered.fun
+  - .borrowjavgg124.fun
   - .concentration2.fun
   - .confrontation2.fun
   - .consciousness2.fun
@@ -39809,6 +39848,7 @@ payload:
   - .demonstration2.fun
   - .embarrassment2.fun
   - .fundatingquest.fun
+  - .guitarjavgg124.fun
   - .inappropriate2.fun
   - .qualification2.fun
   - .revolutionary2.fun
@@ -40507,6 +40547,7 @@ payload:
   - .gbuzz.net
   - .gefun.net
   - .getgx.net
+  - .getui.net
   - .glssp.net
   - .gmads.net
   - .go2oh.net
@@ -40518,6 +40559,7 @@ payload:
   - .ilius.net
   - .imcht.net
   - .imcod.net
+  - .imtmp.net
   - .intgr.net
   - .iocnt.net
   - .iprom.net
@@ -44584,6 +44626,7 @@ payload:
   - .jyozavoyyyjbj.top
   - .jyozavoyyymly.top
   - .jyozavoyyyqll.top
+  - .jyvkwqjoombkz.top
   - .jzqbyykbrrbkq.top
   - .kabakamarbles.top
   - .kelownajapers.top
@@ -45191,6 +45234,7 @@ payload:
   - .3haiaz.xyz
   - .485728.xyz
   - .4e04f7.xyz
+  - .4iazoa.xyz
   - .55cc9d.xyz
   - .591520.xyz
   - .5ceea3.xyz
@@ -49818,6 +49862,7 @@ payload:
   - .jkls.life
   - .srch.life
   - .viyo.life
+  - .hrwbr.life
   - .synkd.life
   - .vn-cn.life
   - .vn-cr.life
@@ -50189,6 +50234,7 @@ payload:
   - .momo247.shop
   - .my-easy.shop
   - .mylotte.shop
+  - .octoads.shop
   - .pmnct63.shop
   - .sendotv.shop
   - .sendovn.shop
@@ -50560,6 +50606,7 @@ payload:
   - .gumon.site
   - .humro.site
   - .imgot.site
+  - .indor.site
   - .it8vh.site
   - .jetti.site
   - .jjcwq.site
@@ -50598,6 +50645,7 @@ payload:
   - .ssooss.site
   - .takidd.site
   - .22pornz.site
+  - .56ovido.site
   - .adsfarm.site
   - .adshost.site
   - .alitems.site
@@ -50915,6 +50963,7 @@ payload:
   - .hymnramoon.click
   - .jhsnshueyt.click
   - .kegtopless.click
+  - .mildsewery.click
   - .odintsures.click
   - .ornatomial.click
   - .panger-top.click
@@ -51309,6 +51358,7 @@ payload:
   - .bmzgcv-eo.rocks
   - .g-xtqrgag.rocks
   - .monerominer.rocks
+  - .oz-yypkhuwo.rocks
   - .cgbupajpzo-t.rocks
   - .bettercollective.rocks
   - .cdn7.space
@@ -54055,6 +54105,8 @@ payload:
   - .atom-log.3.cn
   - .shrek.6.cn
   - .union.6.cn
+  - hc-ssp.sm.cn
+  - huichuan.sm.cn
   - .t.uc.cn
   - .track.uc.cn
   - .adslot.uc.cn
@@ -54085,6 +54137,7 @@ payload:
   - .feih.com.cn
   - .yoyi.com.cn
   - .yrszy.com.cn
+  - .allyes.com.cn
   - .cctvgb.com.cn
   - .wooboo.com.cn
   - .ipinyou.com.cn
@@ -54113,6 +54166,7 @@ payload:
   - .dm.pw0.cn
   - .ta.trs.cn
   - minfo.wps.cn
+  - mostat.wps.cn
   - .yktj.yzz.cn
   - .d1.3158.cn
   - .3.5646.cn
@@ -54163,6 +54217,7 @@ payload:
   - .miniye.xjts.cn
   - .u.xogu.cn
   - .xue.zbyw.cn
+  - render-web.11222.cn
   - ad.12306.cn
   - .ent1.12584.cn
   - .m5.66077.cn
@@ -54173,6 +54228,7 @@ payload:
   - .apilog-web.acfun.cn
   - fota4.adups.cn
   - .collector.azure.cn
+  - .union.baidu.cn
   - .a1.bajiu.cn
   - .cpro.bdrmb.cn
   - .ad.cdnjm.cn
@@ -54180,6 +54236,7 @@ payload:
   - .log.china.cn
   - .clkstat.china.cn
   - .global.cisie.cn
+  - ad.cyapi.cn
   - .c1.czcol.cn
   - .dm1.ddwk8.cn
   - .a.dlads.cn
@@ -54222,6 +54279,7 @@ payload:
   - .daima.ssata.cn
   - .v1.taksh.cn
   - g.tbcdn.cn
+  - iflow.uczzd.cn
   - .v.vl404.cn
   - game.weibo.cn
   - .lm1.wkpcw.cn
@@ -54254,6 +54312,7 @@ payload:
   - .erg.ihclam.cn
   - .hnl.ijgocb.cn
   - .display.itmemo.cn
+  - adserviceretry.kglink.cn
   - .g.lznews.cn
   - .elq.mouser.cn
   - .c.pcswtw.cn
@@ -54331,6 +54390,10 @@ payload:
   - d7.sinaimg.cn
   - d8.sinaimg.cn
   - .shilla.skrfgrl.cn
+  - ad-r.soulapp.cn
+  - soul-ad.soulapp.cn
+  - ad-h5-cdn.soulapp.cn
+  - ad-h5-station-cdn.soulapp.cn
   - .mscs.svaeuzh.cn
   - .gg.taoseyy.cn
   - .data.waptime.cn
@@ -54348,6 +54411,7 @@ payload:
   - .abcdcfasda.gushiwen.cn
   - .moon.ibytecdn.cn
   - .link.infineon.cn
+  - e.jparking.cn
   - .css.juqingba.cn
   - .wuliao.juqingba.cn
   - .1.kuaidiwo.cn
@@ -61238,6 +61302,7 @@ payload:
   - .ngegas.files.im
   - .i.shelf.im
   - ad.yixin.im
+  - adx.yixin.im
   - .mtp.spaces.im
   - .stats.frantic.im
   - .analytics.praetor.im
@@ -68404,10 +68469,14 @@ payload:
   - .gia.jd.com
   - jzt.jd.com
   - .log.jd.com
+  - im-x.jd.com
   - jrad.jd.com
+  - xlog.jd.com
   - c-nfa.jd.com
+  - dsp-x.jd.com
   - img-x.jd.com
   - .union.jd.com
+  - janapi.jd.com
   - .ads-union.jd.com
   - .adbsmetrics.kt.com
   - .go.kx.com
@@ -68422,6 +68491,7 @@ payload:
   - .smetrics.lm.com
   - .tmsgi.lv.com
   - .ad.mi.com
+  - .union.mi.com
   - .stats.mt.com
   - .sstats.mt.com
   - .r.my.com
@@ -68446,9 +68516,11 @@ payload:
   - .gdt.qq.com
   - .qzs.qq.com
   - .rqd.qq.com
+  - .wxs.qq.com
   - .push.qq.com
   - tajs.qq.com
   - tcss.qq.com
+  - tpns.qq.com
   - .adnet.qq.com
   - adver.qq.com
   - .aegis.qq.com
@@ -68467,9 +68539,11 @@ payload:
   - adsview.qq.com
   - .pingtas.qq.com
   - adsclick.qq.com
+  - adsgroup.qq.com
   - adshmmsg.qq.com
   - adsview2.qq.com
   - pingtcss.qq.com
+  - rmonitor.qq.com
   - adslvfile.qq.com
   - adslvseed.qq.com
   - .beaconcdn.qq.com
@@ -68517,6 +68591,8 @@ payload:
   - .resources.xo.com
   - .t.y8.com
   - .gt.yy.com
+  - dsp-ad.yy.com
+  - splash.yy.com
   - g.163.com
   - .nex.163.com
   - crash.163.com
@@ -68666,6 +68742,7 @@ payload:
   - .aa.cbs.com
   - .saa.cbs.com
   - .track.cbs.com
+  - adv.ccb.com
   - .analytics.ceu.com
   - .smetrics.cit.com
   - .analytics.cmn.com
@@ -68886,6 +68963,7 @@ payload:
   - .udc.msn.com
   - .ads1.msn.com
   - ads2.msn.com
+  - .data.msn.com
   - .flex.msn.com
   - .srtb.msn.com
   - popup.msn.com
@@ -69152,10 +69230,13 @@ payload:
   - .link.1112.com
   - .1.15lu.com
   - .d1.1ppt.com
+  - cdn.1rtb.com
   - .a8cv.1sbc.com
   - .cdn.1vag.com
+  - ad.21cn.com
   - .market.21cn.com
   - .adshows.21cn.com
+  - admarket.21cn.com
   - .ssp.21ic.com
   - .fxjs.2541.com
   - .js.263y.com
@@ -69233,6 +69314,8 @@ payload:
   - optimus-ads.amap.com
   - .dualstack-logs.amap.com
   - .dualstack-cgicol.amap.com
+  - amap-aos-info-nogw.amap.com
+  - free-aos-cdn-image.amap.com
   - .analytics.amig.com
   - .sanalytics.amig.com
   - .metrics.angi.com
@@ -69821,6 +69904,7 @@ payload:
   - .metric.shop.com
   - .smetric.shop.com
   - .s.sick.com
+  - ads.sina.com
   - .twjobq.sixt.com
   - .analytics.sixt.com
   - .sslanalytics.sixt.com
@@ -70011,6 +70095,7 @@ payload:
   - .axp.wtrf.com
   - .ywrcqa.wtsp.com
   - .cdn-ad.wtzw.com
+  - cdn-new-ad.wtzw.com
   - .axp.wwlp.com
   - .axp.wytv.com
   - .creatives.x2lt.com
@@ -70077,6 +70162,7 @@ payload:
   - .adm.6park.com
   - .user-analysis.7moor.com
   - .m1.81312.com
+  - ads.95516.com
   - .ywrcqa.9news.com
   - .repdata.9news.com
   - .trk.a-dsp.com
@@ -70313,7 +70399,10 @@ payload:
   - .tuisong.baidu.com
   - .wkclick.baidu.com
   - .wangmeng.baidu.com
+  - click-bes.baidu.com
+  - nadvideo2.baidu.com
   - videopush.baidu.com
+  - feed-image.baidu.com
   - .unionimage.baidu.com
   - mobads-logs.baidu.com
   - .obzukb.banak.com
@@ -70715,6 +70804,7 @@ payload:
   - .globo-ab.globo.com
   - .horizon-track.globo.com
   - .marketing.gmcvb.com
+  - web-track.go2yd.com
   - .origin-smetrics.go365.com
   - .ad.gogox.com
   - .digitalmarketing.gogsg.com
@@ -70958,6 +71048,7 @@ payload:
   - .iwe.ktvgv.com
   - .track.kueez.com
   - .gg.kugou.com
+  - adservice.kugou.com
   - mobilelog.kugou.com
   - kgmobilestat.kugou.com
   - adserviceretry.kugou.com
@@ -71028,6 +71119,7 @@ payload:
   - .activate.mcall.com
   - .info.mdsol.com
   - .events.medio.com
+  - tongji.meizu.com
   - .tongji-res.meizu.com
   - .mm.melia.com
   - .xmohlh.melia.com
@@ -71499,14 +71591,13 @@ payload:
   - .insight.ucweb.com
   - .px-intl.ucweb.com
   - .gjapplog.ucweb.com
+  - iflow.uczzd.com
   - .gtm.udemy.com
   - .page-events-ustats.udemy.com
   - .sp.udimg.com
   - .click.udimg.com
   - .hgxktt.ugaoo.com
   - .fjuccm.uktsc.com
-  - .log.umsns.com
-  - stats.umsns.com
   - .tk.undiz.com
   - .hvuihu.undiz.com
   - .igjytl.unice.com
@@ -71689,6 +71780,7 @@ payload:
   - actives.youku.com
   - mobilemsg.youku.com
   - .ykad-data.youku.com
+  - apiv4-iyes.youku.com
   - guanggaoad.youku.com
   - passport-log.youku.com
   - .adx-open-service.youku.com
@@ -71869,6 +71961,7 @@ payload:
   - .tce.alicdn.com
   - amos.alicdn.com
   - .atanx.alicdn.com
+  - ossgw.alicdn.com
   - atanx2.alicdn.com
   - gtms01.alicdn.com
   - gtms02.alicdn.com
@@ -71927,7 +72020,6 @@ payload:
   - .rtb.appbid.com
   - .link.appewa.com
   - .mktgpage.appier.com
-  - .api.appsee.com
   - .marketing.apptus.com
   - .promo.aprima.com
   - .istatistik.arabam.com
@@ -72477,6 +72569,7 @@ payload:
   - .www.gbl007.com
   - .reg.gdconf.com
   - .trk.gdconf.com
+  - qzs.gdtimg.com
   - union.gdtimg.com
   - .adsmind.gdtimg.com
   - .kingfisher.gedaly.com
@@ -72900,6 +72993,7 @@ payload:
   - .cdn.mafyak.com
   - .log.make50.com
   - .smetrics.mandai.com
+  - ad.maoyan.com
   - .events.mapbox.com
   - .success.mapcom.com
   - .go.mapstr.com
@@ -73548,6 +73642,7 @@ payload:
   - .log-hl.snssdk.com
   - .pangolin.snssdk.com
   - .analytics.snssdk.com
+  - frontier-aweme-hl.snssdk.com
   - .iuryhk.soccer.com
   - .track.social.com
   - .xunrvj.socooc.com
@@ -74229,7 +74324,6 @@ payload:
   - .smallbusiness.adpinfo.com
   - .communications.adpinfo.com
   - .play.adtonos.com
-  - .p1-lm.adukwai.com
   - .images.aepinfo.com
   - .adobeanalytic.aerotek.com
   - .adobeanalytics.aerotek.com
@@ -75303,6 +75397,7 @@ payload:
   - .dehua.ixinfan.com
   - .log.iyunmai.com
   - .olqsty.izipizi.com
+  - adapi.izuiyou.com
   - .ebiscname.j-esthe.com
   - .oms.jack969.com
   - .smetrics.jackson.com
@@ -75390,6 +75485,8 @@ payload:
   - .marketing.kpfilms.com
   - .foodpackaging.kpfilms.com
   - ad-stat.ksosoft.com
+  - adx-static.ksosoft.com
+  - dw-collect.ksosoft.com
   - .collector.kstptv5.com
   - .t.ksuowls.com
   - .app.ksuowls.com
@@ -75972,6 +76069,7 @@ payload:
   - .sshhfy.ray-ban.com
   - .smetrics.ray-ban.com
   - .www.rdeswa1.com
+  - adxapi.readgps.com
   - .pbcs.realtor.com
   - .metrics.realtor.com
   - .smetrics.realtor.com
@@ -77645,6 +77743,7 @@ payload:
   - adm.funshion.com
   - .pub.funshion.com
   - conf.funshion.com
+  - stat.funshion.com
   - .ad.fx168api.com
   - .engine.fxempire.com
   - .track.fxstreet.com
@@ -77755,6 +77854,7 @@ payload:
   - .aajfoz.halfclub.com
   - .marketing.halldale.com
   - .sanalytics.hallmark.com
+  - adx.halomobi.com
   - .cwolgn.hamocell.com
   - .ocmxbu.hanatour.com
   - .jxeumx.hanaunni.com
@@ -80891,7 +80991,6 @@ payload:
   - .download.kuailefun.com
   - .info.kubotausa.com
   - .elqtrack.kubotausa.com
-  - www.kuguopush.com
   - .goat.kunalslab.com
   - .info.kuttatech.com
   - .sokkxz.kylieskin.com
@@ -84633,6 +84732,7 @@ payload:
   - .branch.shoprunner.com
   - .logs-api.shoprunner.com
   - .marketing.shoresmith.com
+  - ads-shopping.shouqianba.com
   - .m.showaddict.com
   - .www.shrfbdg004.com
   - .secure.shrfbdg004.com
@@ -86963,6 +87063,7 @@ payload:
   - .tnt.yemeksepeti.com
   - .simg.yemeksepeti.com
   - .analytics.yext-static.com
+  - oppo.yidianzixun.com
   - .static-ssp.yidianzixun.com
   - .meta-events.yogajournal.com
   - .log.yougameover.com
@@ -88392,6 +88493,7 @@ payload:
   - .marketing.temptimecorp.com
   - .ad.tencentmusic.com
   - adcdn.tencentmusic.com
+  - adcdn6.tencentmusic.com
   - adexpo.tencentmusic.com
   - adclick.tencentmusic.com
   - .adstats.tencentmusic.com
@@ -95656,6 +95758,7 @@ payload:
   - .informers.ukr.net
   - .img.0279.net
   - .cueohf.1fr1.net
+  - sdk.1rtb.net
   - .dgkpzy.2ch2.net
   - .cnt.3dmy.net
   - .dl.4buy.net
@@ -95874,6 +95977,7 @@ payload:
   - .l.ti-da.net
   - .track.tomwx.net
   - .top.topua.net
+  - iflow.uczzd.net
   - .swift.unovy.net
   - .dichvucong.vgovn.net
   - .aaa.vidox.net
@@ -102384,6 +102488,8 @@ payload:
   - .applog.ucdns.uc.cn
   - .stat.m.360.cn
   - ad.dev.360.cn
+  - ad.iot.360.cn
+  - ad.jia.360.cn
   - .sdk.look.360.cn
   - .papi.look.360.cn
   - show.look.360.cn
@@ -102400,6 +102506,7 @@ payload:
   - .trackinginternal.ti.com.cn
   - .zdw.w8.com.cn
   - .1.bh5.com.cn
+  - switch.cup.com.cn
   - c.msn.com.cn
   - .tracking.tdk.com.cn
   - .1.v-x.com.cn
@@ -102424,7 +102531,10 @@ payload:
   - d8.sina.com.cn
   - d9.sina.com.cn
   - rm.sina.com.cn
+  - ad2.sina.com.cn
+  - ad3.sina.com.cn
   - ad4.sina.com.cn
+  - ad5.sina.com.cn
   - d00.sina.com.cn
   - .p4p.sina.com.cn
   - pfp.sina.com.cn
@@ -102480,10 +102590,11 @@ payload:
   - .eap.enorth.com.cn
   - .t.hypers.com.cn
   - .smetrics.kioxia.com.cn
+  - .stat.nearme.com.cn
   - imgad0.pcauto.com.cn
   - iad0ssl.pcauto.com.cn
   - .z1.pclady.com.cn
-  - ad.winrar.com.cn
+  - .ad.winrar.com.cn
   - .t1.xuefen.com.cn
   - .discover.absciex.com.cn
   - .stat.caijing.com.cn
@@ -102508,6 +102619,7 @@ payload:
   - .metrics.citibank.com.cn
   - .jquery.envi-met.com.cn
   - .go.hangzhou.com.cn
+  - adx.hubcloud.com.cn
   - .smetrics.illumina.com.cn
   - .elq.keysight.com.cn
   - .smetrics.keysight.com.cn
@@ -106529,7 +106641,6 @@ payload:
   - a.hl.mi.com
   - c.id.mi.com
   - api.jr.mi.com
-  - a.union.mi.com
   - .etui.fs.ml.com
   - .www.glf.mt.com
   - .images.online.mt.com
@@ -106554,6 +106665,10 @@ payload:
   - .tdid.m.qq.com
   - tmfsdk.m.qq.com
   - .stat.y.qq.com
+  - tmead.y.qq.com
+  - tmeadbak.y.qq.com
+  - tmeadcomm.y.qq.com
+  - tmeadquic.y.qq.com
   - mazu.3g.qq.com
   - pmir.3g.qq.com
   - masdk.3g.qq.com
@@ -106568,6 +106683,7 @@ payload:
   - ad.qun.qq.com
   - .log.tbs.qq.com
   - .cfg.imtt.qq.com
+  - wup.imtt.qq.com
   - adfilter.imtt.qq.com
   - .mqqad.html5.qq.com
   - .uplog.inews.qq.com
@@ -106575,6 +106691,10 @@ payload:
   - report.qqweb.qq.com
   - .statistic.qzone.qq.com
   - .rcgi.video.qq.com
+  - trace.video.qq.com
+  - wxsmsdy.video.qq.com
+  - sdkconfig.video.qq.com
+  - huatuocode.huatuo.qq.com
   - .ad.weixin.qq.com
   - .log1.wtlogin.qq.com
   - .zahvzj.fxpro.ru.com
@@ -106586,6 +106706,7 @@ payload:
   - .smetrix.avon.uk.com
   - .marketing.teamspirit.uk.com
   - .app.go.xo.com
+  - iad.g.163.com
   - n.3g.163.com
   - .ac.dun.163.com
   - .fp-upload.dun.163.com
@@ -106699,7 +106820,6 @@ payload:
   - rmads.eu.msn.com
   - .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
   - .a.ads2.msn.com
-  - .vortex.data.msn.com
   - .live.rads.msn.com
   - .analytics.msnbc.msn.com
   - catalog.video.msn.com
@@ -106771,6 +106891,7 @@ payload:
   - match.p4p.1688.com
   - .tr.newsletter.1oag.com
   - .images.warranty.2-10.com
+  - ad.k.21cn.com
   - .a8clk.wedding.294p.com
   - .links.e.aetv.com
   - .links.em.aetv.com
@@ -106858,6 +106979,17 @@ payload:
   - .tr.talentconnect.lvmh.com
   - .tr.openinnovation.lvmh.com
   - .trackbar.navigator-lxa.mail.com
+  - mob.bz.mgtv.com
+  - vip.bz.mgtv.com
+  - dflow.bz.mgtv.com
+  - floor.bz.mgtv.com
+  - layer.bz.mgtv.com
+  - rprain.bz.mgtv.com
+  - credits.bz.mgtv.com
+  - credits2.bz.mgtv.com
+  - credits3.bz.mgtv.com
+  - encounter.bz.mgtv.com
+  - rc-topic-api.bz.mgtv.com
   - .images.engage.mims.com
   - rom.pt.miui.com
   - .tracking.rus.miui.com
@@ -107058,6 +107190,7 @@ payload:
   - log.web.kugou.com
   - log.stat.kugou.com
   - ads.bssdl.kugou.com
+  - splashimgretrybssdl.cloud.kugou.com
   - ads.service.kugou.com
   - adsfile.bssdlbig.kugou.com
   - .p.pulse.lexus.com
@@ -107168,6 +107301,7 @@ payload:
   - .log.ycapp.yiche.com
   - dl.g.youku.com
   - sdk.m.youku.com
+  - amdc.m.youku.com
   - push.m.youku.com
   - dev-push.m.youku.com
   - hudong.pl.youku.com
@@ -107220,6 +107354,8 @@ payload:
   - .qwe0231141.bj.bcebos.com
   - .ys2000.cdn.bcebos.com
   - fc-feed.cdn.bcebos.com
+  - miniapp-ad.cdn.bcebos.com
+  - mobads-pre-config.cdn.bcebos.com
   - .app.newsletter.bisnow.com
   - .app.now.bomgar.com
   - .images.response.bremer.com
@@ -107339,6 +107475,7 @@ payload:
   - .data.stagemailing.mcafee.com
   - .ssl.o.mdedge.com
   - .images.news.meraas.com
+  - mi-stat.gslb.mi-idc.com
   - .resolver.gslb.mi-idc.com
   - .go.fem.mingle.com
   - .go.jsh.mingle.com
@@ -107441,6 +107578,8 @@ payload:
   - agoodm.m.taobao.com
   - .accscdn.m.taobao.com
   - adashbc.m.taobao.com
+  - .c-adash.m.taobao.com
+  - .m-adash.m.taobao.com
   - .amdcopen.m.taobao.com
   - .adashx4yt.m.taobao.com
   - .tunion-api.m.taobao.com
@@ -107450,6 +107589,7 @@ payload:
   - .adash-c.ut.taobao.com
   - .adashbc.ut.taobao.com
   - .adashxgc.ut.taobao.com
+  - .h-adashx.ut.taobao.com
   - .adashx4ae.ut.taobao.com
   - ff.win.taobao.com
   - api.wapa.taobao.com
@@ -107460,6 +107600,7 @@ payload:
   - fav.simba.taobao.com
   - srd.simba.taobao.com
   - .tns.simba.taobao.com
+  - stat.simba.taobao.com
   - redirect.simba.taobao.com
   - pindao.huoban.taobao.com
   - api.waptest.taobao.com
@@ -107557,6 +107698,8 @@ payload:
   - .launcher.us.yeshen.com
   - .app.skideal-prod.ynadev.com
   - log.yex.youdao.com
+  - clkservice2.dict.youdao.com
+  - clkservice.mail.youdao.com
   - impservice.dictapp.youdao.com
   - .tx-ad.a.yximgs.com
   - .ali-ad.a.yximgs.com
@@ -108037,6 +108180,7 @@ payload:
   - .mobantong.oss-cn-hangzhou.aliyuncs.com
   - .dongtukj.oss-cn-hongkong.aliyuncs.com
   - .aixuntupian.oss-cn-hongkong.aliyuncs.com
+  - cdn-ads.oss-cn-shanghai.aliyuncs.com
   - .free-cdn.oss-cn-shanghai.aliyuncs.com
   - .first-hufu.oss-cn-shanghai.aliyuncs.com
   - .sz88.oss-cn-shenzhen.aliyuncs.com
@@ -109911,7 +110055,9 @@ payload:
   - iadmusicmatvideo.music.126.net
   - iadmat.nosdn.127.net
   - .yt-adp.nosdn.127.net
+  - haitaoad.nosdn.127.net
   - .pg-ad-b1.nosdn.127.net
+  - iadmatapk.nosdn.127.net
   - .analyticsnarc.ro.ing.net
   - .tr.nl.2wls.net
   - .telemetry.appex.bing.net
@@ -110093,6 +110239,7 @@ payload:
   - .rferl.c.goolara.net
   - .trck.inside.juniper.net
   - .tr.mp.manageo.net
+  - al-log.d.meituan.net
   - .cv.www.rokuzan.net
   - .ana.chat.shalove.net
   - .sg.log.ulivetv.net
@@ -110995,7 +111142,6 @@ payload:
   - .email-am.stage.ca.jll.com
   - .events.prd.api.max.com
   - .telegraph.prd.api.max.com
-  - .browser.events.data.msn.com
   - .smetrics.productcentral-stg.products.pwc.com
   - .mail.go.fr.scc.com
   - .smtps.go.fr.scc.com
