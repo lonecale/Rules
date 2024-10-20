@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-19T16:26:46.461Z
-# Size: 111364
+# Last Updated: 2024-10-20T12:37:09.576Z
+# Size: 111379
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10573,6 +10573,7 @@ lgtvsdp.com,REJECT
 .996js123.com,REJECT
 .99886aaa.com,REJECT
 .999lotte.com,REJECT
+.99jinpin.com,REJECT
 .9content.com,REJECT
 .9japride.com,REJECT
 .a-static.com,REJECT
@@ -18741,6 +18742,7 @@ lgtvsdp.com,REJECT
 .orionember.com,REJECT
 .orlotalers.com,REJECT
 .ositracker.com,REJECT
+.osrxzucira.com,REJECT
 .osskugvirs.com,REJECT
 .osspinsira.com,REJECT
 .osspwamuhn.com,REJECT
@@ -39900,6 +39902,7 @@ samsungcloudsolution.com,REJECT
 .mm1qj.icu,REJECT
 .mymap.icu,REJECT
 .n5n5s.icu,REJECT
+.ouplc.icu,REJECT
 .p45m0.icu,REJECT
 .q1gel.icu,REJECT
 .rk6h3.icu,REJECT
@@ -39908,6 +39911,7 @@ samsungcloudsolution.com,REJECT
 .smarf.icu,REJECT
 .sslir.icu,REJECT
 .stq89.icu,REJECT
+.sv2fo.icu,REJECT
 .tgb1l.icu,REJECT
 .tjfbh.icu,REJECT
 .twj6s.icu,REJECT
@@ -40183,6 +40187,7 @@ samsungcloudsolution.com,REJECT
 .mtwuxss.icu,REJECT
 .muwqiga.icu,REJECT
 .mwqetvn.icu,REJECT
+.ndysxhs.icu,REJECT
 .nmmemzi.icu,REJECT
 .nouusup.icu,REJECT
 .nqyrywn.icu,REJECT
@@ -44027,6 +44032,7 @@ samsungcloudsolution.net,REJECT
 .onalzlk.top,REJECT
 .ortlisk.top,REJECT
 .osyliek.top,REJECT
+.ouresdk.top,REJECT
 .oweriok.top,REJECT
 .oyretuk.top,REJECT
 .oyuwkbk.top,REJECT
@@ -44084,6 +44090,7 @@ samsungcloudsolution.net,REJECT
 .unalzlt.top,REJECT
 .urtlist.top,REJECT
 .usyliet.top,REJECT
+.uuresdt.top,REJECT
 .uweriot.top,REJECT
 .uyislot.top,REJECT
 .uyretut.top,REJECT
@@ -44452,6 +44459,7 @@ samsungcloudsolution.net,REJECT
 .justestmurph.top,REJECT
 .kaulaijeepul.top,REJECT
 .kenkenlimted.top,REJECT
+.lalabaos1020.top,REJECT
 .loppersixtes.top,REJECT
 .lordandogger.top,REJECT
 .methodslacca.top,REJECT
@@ -45234,6 +45242,7 @@ samsungcloudsolution.net,REJECT
 .arojgi.xyz,REJECT
 .aryici.xyz,REJECT
 .atmdew.xyz,REJECT
+.atorks.xyz,REJECT
 .ausfyk.xyz,REJECT
 .awuvcq.xyz,REJECT
 .awyuge.xyz,REJECT
@@ -45527,6 +45536,7 @@ samsungcloudsolution.net,REJECT
 .hvlitr.xyz,REJECT
 .hwnojj.xyz,REJECT
 .hzrnbl.xyz,REJECT
+.iairuo.xyz,REJECT
 .ibkoiw.xyz,REJECT
 .ibqmey.xyz,REJECT
 .icqeou.xyz,REJECT
@@ -45592,6 +45602,7 @@ samsungcloudsolution.net,REJECT
 .jyfdbj.xyz,REJECT
 .jyjrbz.xyz,REJECT
 .jypvzd.xyz,REJECT
+.jyxzrb.xyz,REJECT
 .kaizzz.xyz,REJECT
 .kak17p.xyz,REJECT
 .karoon.xyz,REJECT
@@ -45694,6 +45705,7 @@ samsungcloudsolution.net,REJECT
 .mdezco.xyz,REJECT
 .mdiygc.xyz,REJECT
 .mdmuky.xyz,REJECT
+.mdqikg.xyz,REJECT
 .medriz.xyz,REJECT
 .mepuyu.xyz,REJECT
 .merywf.xyz,REJECT
@@ -45962,6 +45974,7 @@ samsungcloudsolution.net,REJECT
 .swsegi.xyz,REJECT
 .swwdke.xyz,REJECT
 .sykzow.xyz,REJECT
+.syshwc.xyz,REJECT
 .tagmai.xyz,REJECT
 .tagrua.xyz,REJECT
 .tahznx.xyz,REJECT
@@ -46669,6 +46682,7 @@ samsungcloudsolution.net,REJECT
 .6471e7f7.xyz,REJECT
 .65035033.xyz,REJECT
 .656f1ba3.xyz,REJECT
+.65894140.xyz,REJECT
 .65wenv5f.xyz,REJECT
 .691f42ad.xyz,REJECT
 .6gi0edui.xyz,REJECT
@@ -72409,6 +72423,7 @@ sapi.edgedb.com,REJECT
 .1.feihua.com,REJECT
 .cash.femjoy.com,REJECT
 .links.fennel.com,REJECT
+.hub.fghtem.com,REJECT
 .go.fhlbny.com,REJECT
 .join.fhlbny.com,REJECT
 .learn.fhlbny.com,REJECT
@@ -98025,8 +98040,8 @@ plausible.astexplorer.net,REJECT
 .metrics.goalfinancial.net,REJECT
 .data-7f59e1721b.huettentouren.net,REJECT
 .ads.idiscountmall.net,REJECT
-.no88kks.infinityscans.net,REJECT
 .ok88okg.infinityscans.net,REJECT
+.yes88kks.infinityscans.net,REJECT
 .traccoon.intellectsoft.net,REJECT
 .bfypuy.istanbulhomes.net,REJECT
 .js.kabutocho-dsp.net,REJECT
