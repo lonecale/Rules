@@ -1,5 +1,5 @@
 # mihomo 配置
-# 日期：2024-05-21 00:38:30
+# 日期：2024-06-26 15:31:03
 # 配置作者：https://t.me/iKeLee
 # 适用版本：所有使用 mihomo 核心的程序
 port: 7890
@@ -7,223 +7,137 @@ socks-port: 7891
 mixed-port: 7892
 redir-port: 7893
 tproxy-port: 7894
-# mixed-port: 7890
-# tproxy-port: 7891
 
 unified-delay: true
-# 统一延迟 更换延迟计算方式，去除握手等额外延迟
-
 geodata-mode: false
-# 更改geoip使用文件,mmdb或者dat,可选 true/false,true为dat,此项有默认值 false
-geodata-loader: memconservative
-# GEO文件加载模式
-# standard：标准加载器，memconservative：专为内存受限(小内存)设备优化的加载器(默认值)
+geodata-loader: standard
 geo-auto-update: true
-# 自动更新 GEO
 geo-update-interval: 24
-# GEO 更新间隔,单位小时
 tcp-concurrent: true
-# TCP并发
 find-process-mode: strict
-# 控制是否让 Clash 去匹配进程
-# always 开启，强制匹配所有进程 strict 默认，由 Clash 判断是否开启 off 不匹配进程，推荐在路由器上使用此模式
 global-client-fingerprint: chrome
-# 全局 TLS 指纹，优先低于 proxy 内的 client-fingerprint。
-# 目前支持开启 TLS 传输的 TCP/grpc/WS/HTTP , 支持协议有 VLESS,Vmess 和 trojan.
-# 可选："chrome", "firefox", "safari", "iOS", "android", "edge", "360"," qq", "random"
-# 若选择 "random", 则按 Cloudflare Radar 数据按概率生成一个现代浏览器指纹。
 
 allow-lan: true
-# 允许其他设备经过 Clash 的代理端口访问互联网
 mode: rule
-# 运行模式：rule 规则匹配 global 全局代理 (需要在 GLOBAL 策略组选择代理/策略) direct 全局直连
 log-level: info
-# 日志级别
-# silent 静默，不输出
-# error 仅输出发生错误至无法使用的日志
-# warning 输出发生错误但不影响运行的日志，以及 error 级别内容
-# info 输出一般运行的内容，以及 error 和 warning 级别的日志
-# debug 尽可能的输出运行中所有的信息
-ipv6: false
-# 是否允许内核接受 IPv6 流量
+ipv6: true
 udp: true
-keep-alive-interval: 1800
-#控制 Clash 发出 TCP Keep Alive 包的间隔，减少移动设备耗电问题的临时措施。
 
 external-controller: 0.0.0.0:9090
-# 外部控制器，可以使用 RESTful API 来控制你的 Clash 内核
-secret: ""
-# API 的访问密钥
 # external-ui: ui
-# 自定义外部用户界面名字
 # external-ui-url: 'https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip'
-#自定义外部用户界面下载地址
 
 geox-url:
-#自定 GEO 下载地址
-  geoip: 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat'
-  geosite: 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat'
+  # geoip: 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat'
+  # geosite: 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat'
   mmdb: 'https://gitlab.com/Masaiki/GeoIP2-CN/-/raw/release/Country.mmdb'
-  asn: 'https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb'
+  asn: 'https://gitlab.com/Loon0x00/loon_data/-/raw/main/geo/GeoLite2-ASN.mmdb'
 
 profile:
-#缓存
   store-selected: true
-  # 储存 API 对策略组的选择，以供下次启动时使用
-  store-fake-ip: false
-  # 储存 fakeip 映射表，域名再次发生连接时，使用原有映射地址
+  store-fake-ip: true
 
 sniffer:
-# 域名嗅探
   enable: true
-  # 是否启用sniffer
-  force-dns-mapping: false
-  # 对 redir-host 类型识别的流量进行强制嗅探
+  force-dns-mapping: true
   parse-pure-ip: true
-  # 对所有未获取到域名的流量进行强制嗅探
+  override-destination: true
   sniff:
-  #嗅探协议
     HTTP:
       ports: [80, 8080-8880]
       override-destination: true
-      # 是否使用嗅探结果作为实际访问，默认为 true
     TLS:
       ports: [443, 8443]
     QUIC:
       ports: [443, 8443]
   force-domain:
-  # 需要强制嗅探的域名（默认情况下只对IP进行嗅探）
-    - "+.v2ex.com"
+    - +.v2ex.com
+
   skip-domain:
-  # 需要跳过嗅探的域名。主要解决部分站点sni字段非域名，导致嗅探结果异常的问题，如米家设备
-    - "Mijia Cloud"
+    - Mijia Cloud
 
 tun:
-  enable: false
-  # 是否启用 tun 模式来路由全局流量。
-  stack: mixed
-  # tun 模式堆栈,如无使用问题,建议使用 mixed栈,默认 gvisor
-  # 可用值： system/gvisor/mixed
+  enable: true
+  stack: system
   dns-hijack:
-  # dns 劫持,一般设置为 any:53 即可, 即劫持所有 53 端口的 udp 流量
     - any:53
-    # - tcp://any:53
   auto-route: true
-  # 自动设置全局路由,可以自动将全局流量路由进入 tun 网卡。
   auto-detect-interface: true
-  # 自动选择流量出口接口,多出口网卡同时连接的设备建议手动指定出口网卡
-  device: utun0
-  # 指定 tun 网卡名称,MacOS 设备只能使用 utun 开头的网卡名
-  mtu: 1500
-  # 最大传输单元, 可用值为 1-65534, 会影响极限状态下的速率,一般用户默认即可
 
 dns:
   enable: true
-  # 是否启用，如为 false，则使用系统 DNS 解析
-  # prefer-h3: true
-  # 优先使用 DOH 的 http/3
   listen: 0.0.0.0:1053
-  # DNS 服务监听
   ipv6: true
-  # 是否解析 IPV6, 如为 false, 则回应 AAAA 的空解析
   enhanced-mode: fake-ip
-  # mihomo 的 DNS 处理模式 fake-ip / redir-host
   fake-ip-range: 28.0.0.1/8
-  # fakeip 下的 IP 段设置，tun 网卡的默认 IP 也使用此值作为参考
   fake-ip-filter:
-  # fakeip 过滤，以下地址不会下发 fakeip 映射用于连接
     - "*"
-    - "+.lan"
-    - "+.local"
-    - "+.msftncsi.com"
-    - "+.msftconnecttest.com"
+    - +.lan
   default-nameserver:
-  # 默认 DNS, 用于解析 DNS 服务器 的域名,必须为 IP, 可为加密 DNS
     - 223.5.5.5
-  nameserver-policy:
-  # 指定域名查询的解析服务器，可使用 geosite, 优先于 nameserver/fallback 查询
-    "geosite:cn,private":
-      - https://dns.alidns.com/dns-query#h3=true
-      - https://doh.pub/dns-query
-    # "geosite:geolocation-!cn":
-      # - "https://dns.cloudflare.com/dns-query#dns"
-      # - "https://dns.google/dns-query#dns"
-  proxy-server-nameserver:
-  # 代理节点域名解析服务器，仅用于解析代理节点的域名
-    - https://doh.pub/dns-query
+    - 223.6.6.6
   nameserver:
-  # 默认的域名解析服务器，如不配置 fallback/proxy-server-nameserver , 则所有域名都由 nameserver 解析
-    - https://doh.apad.pro/dns-query
-    - https://dns.cooluc.com/dns-query
-  # fallback:
-  # 后备域名解析服务器筛选，满足条件的将使用 fallback结果或只使用 fallback解析 
-  # redir-host 建议启用，fake-ip 不建议
-    # - "https://dns.cloudflare.com/dns-query#dns"
-    # - "https://dns.google/dns-query#dns"
-    # - "https://doh.sb/dns-query#dns"
-    # - "https://doh.opendns.com/dns-query#dns"
+    - https://223.5.5.5/dns-query#h3=true
+    - https://223.6.6.6/dns-query#h3=true
 
 # 锚点 - 节点订阅的参数 [每小时更新一次订阅节点，每 6 秒一次健康检查]
-NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, url: 'http://www.msftconnecttest.com/connecttest.txt', interval: 6}}
+NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, url: 'http://detectportal.firefox.com/success.txt', interval: 6}}
 
 # 锚点 - 节点订阅
 proxy-providers: 
   机场名称1:
     url: '机场1的订阅URL'
     <<: *NodeParam
-    path: './proxy_provider/机场名称1.yaml'
+    path: './proxy_providers/机场名称1.yaml'
     override:
       additional-prefix: "[机场名称1] " # 为订阅节点添加机场名称前缀
   机场名称2:
     url: '机场2的订阅URL'
     <<: *NodeParam
-    path: './proxy_provider/机场名称2.yaml'
+    path: './proxy_providers/机场名称2.yaml'
     override:
       additional-prefix: "[机场名称2] " # 为订阅节点添加机场名称前缀
 
 # 锚点 - 节点筛选组
-FilterHK: &FilterHK '^(?=.*((?i)🇭🇰|香港|(\b(HK|Hong)\b)))(?!.*((?i)标准|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
-FilterTW: &FilterTW '^(?=.*((?i)🇹🇼|台湾|(\b(TW|Tai|Taiwan)\b)))(?!.*((?i)标准|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
-FilterJP: &FilterJP '^(?=.*((?i)🇯🇵|日本|川日|东京|大阪|泉日|埼玉|(\b(JP|Japan)\b)))(?!.*((?i)标准|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
+FilterHK: &FilterHK '^(?=.*((?i)🇭🇰|香港|(\b(HK|Hong)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
+FilterTW: &FilterTW '^(?=.*((?i)🇹🇼|台湾|(\b(TW|Tai|Taiwan)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
+FilterJP: &FilterJP '^(?=.*((?i)🇯🇵|日本|川日|东京|大阪|泉日|埼玉|(\b(JP|Japan)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
 FilterKR: &FilterKR '^(?=.*((?i)🇰🇷|韩国|韓|首尔|(\b(KR|Korea)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
-FilterSG: &FilterSG '^(?=.*((?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)))(?!.*((?i)标准|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
-FilterUS: &FilterUS '^(?=.*((?i)🇺🇸|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|(\b(US|United States)\b)))(?!.*((?i)标准|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
+FilterSG: &FilterSG '^(?=.*((?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
+FilterUS: &FilterUS '^(?=.*((?i)🇺🇸|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|(\b(US|United States)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
 FilterUK: &FilterUK '^(?=.*((?i)🇬🇧|英国|伦敦|(\b(UK|United Kingdom)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
 FilterFR: &FilterFR '^(?=.*((?i)🇫🇷|法国|(\b(FR|France)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
 FilterDE: &FilterDE '^(?=.*((?i)🇩🇪|德国|(\b(DE|Germany)\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
-FilterEX: &FilterEX '^(?!.*((?i)港|台|日|韩|坡|美|英|法|德|HK|US|TW|JP|KR|KOR|SG|Hong Kong|Tai|Japan|Korea|Singapore|States|UK|United Kingdom|FR|France|DE|Germany|Expire|Traffic|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
 FilterGame: &FilterGame '^(?=.*((?i)游戏|🎮|(\b(GAME)\b)))(?!.*((?i)回国|校园)).*$'
 FilterAll: &FilterAll '^(?=.*(.))(?!.*((?i)群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|到期|机场|下次|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|(\b(USE|USED|TOTAL|EXPIRE|EMAIL|Panel|Channel|Author)\b|(\d{4}-\d{2}-\d{2}|\d+G)))).*$'
 
 # 策略组参数锚点
 # 锚点 - 时延优选参数 [每 6 秒一次惰性健康检查，容差 20ms，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-UrlTest: &UrlTest {type: url-test, interval: 6, tolerance: 20, lazy: true, url: 'http://www.msftconnecttest.com/connecttest.txt', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all: true}
+UrlTest: &UrlTest {type: url-test, interval: 6, tolerance: 20, lazy: true, url: 'http://detectportal.firefox.com/success.txt', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 故障转移参数 [每 6 秒一次惰性健康检查，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-FallBack: &FallBack {type: fallback, interval: 6, lazy: true, url: 'http://www.msftconnecttest.com/connecttest.txt', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all: true}
+FallBack: &FallBack {type: fallback, interval: 6, lazy: true, url: 'http://detectportal.firefox.com/success.txt', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 负载均衡参数 [每 6 秒一次惰性健康检查，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-LoadBalance: &LoadBalance {type: load-balance, interval: 6, lazy: true, url: 'http://www.msftconnecttest.com/connecttest.txt', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all: true}
+LoadBalance: &LoadBalance {type: load-balance, interval: 6, lazy: true, url: 'http://detectportal.firefox.com/success.txt', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 规则参数 [每小时更新一次订阅规则，更新规则时使用直连策略]
-RuleSet: &RuleSet {type: http, behavior: classical, interval: 3600, format: yaml, proxy: DIRECT}
+RuleProviders: &RuleProviders {type: http, behavior: classical, interval: 3600, format: yaml, proxy: DIRECT}
 
 # 策略组
 proxy-groups: 
-  - {name: dns, type: select, proxies: [全球选择, 🎛香港负载均衡策略组,香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: 游戏选择, type: select, include-all: true, filter: *FilterGame, proxies: [DIRECT, 全球选择, 特殊节点]}
-  - {name: 全球选择, type: select, include-all: true, filter: *FilterAll}
-  - {name: 境外下载, type: select, include-all: true, filter: *FilterAll, proxies: [DIRECT]}
-  - {name: AI, type: select, include-all: true, filter: *FilterAll}
-  - {name: TikTok, type: select, include-all: true, filter: *FilterAll}
-  - {name: Telegram, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: App Store, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: Apple ID, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: TestFlight, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: 1Password, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: Microsoft, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: Netflix, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: Emby, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点]}
-  - {name: 兜底策略, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, 特殊节点, DIRECT]}
+  - {name: 游戏选择, type: select, include-all-providers: true, filter: *FilterGame, proxies: [DIRECT, 全球选择]}
+  - {name: 全球选择, type: select, include-all-providers: true, filter: *FilterAll}
+  - {name: 境外下载, type: select, include-all-providers: true, filter: *FilterAll, proxies: [DIRECT]}
+  - {name: AI, type: select, include-all-providers: true, filter: *FilterAll}
+  - {name: TikTok, type: select, include-all-providers: true, filter: *FilterAll}
+  - {name: Telegram, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: App Store, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: Apple ID, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: TestFlight, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: 1Password, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: Microsoft, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: Netflix, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: Emby, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略]}
+  - {name: 兜底策略, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新国策略, 美国策略, 英国策略, 法国策略, 德国策略, DIRECT]}
 
-  - {name: 特殊节点, type: select, include-all: true, filter: *FilterEX}
   - {name: 香港策略, type: select, proxies: [⏱香港时延优选策略组, 🚥香港故障转移策略组, 🎛香港负载均衡策略组]}
   - {name: 台湾策略, type: select, proxies: [⏱台湾时延优选策略组, 🚥台湾故障转移策略组, 🎛台湾负载均衡策略组]}
   - {name: 日本策略, type: select, proxies: [⏱日本时延优选策略组, 🚥日本故障转移策略组, 🎛日本负载均衡策略组]}
@@ -270,114 +184,114 @@ proxy-groups:
 # 订阅规则
 rule-providers:
   Lan:
-    <<: *RuleSet
-    path: './RuleSet/Lan.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Lan/Lan.yaml'
+    <<: *RuleProviders
+    path: './rules/Lan.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml'
 
   Direct:
-    <<: *RuleSet
-    path: './RuleSet/Direct.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Direct.yaml'
+    <<: *RuleProviders
+    path: './rules/Direct.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/Direct.yaml'
 
   Proxy:
-    <<: *RuleSet
-    path: './RuleSet/Proxy.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Proxy.yaml'
+    <<: *RuleProviders
+    path: './rules/Proxy.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/Proxy.yaml'
 
   ChinaDownloadCDN:
-    <<: *RuleSet
-    path: './RuleSet/ChinaDownloadCDN.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ChinaDownloadCDN.yaml'
+    <<: *RuleProviders
+    path: './rules/ChinaDownloadCDN.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/ChinaDownloadCDN.yaml'
 
   InternationalDownloadCDN:
-    <<: *RuleSet
-    path: './RuleSet/InternationalDownloadCDN.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/InternationalDownloadCDN.yaml'
+    <<: *RuleProviders
+    path: './rules/InternationalDownloadCDN.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/InternationalDownloadCDN.yaml'
 
   AI:
-    <<: *RuleSet
-    path: './RuleSet/AI.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AI.yaml'
+    <<: *RuleProviders
+    path: './rules/AI.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/AI.yaml'
 
   TikTok:
-    <<: *RuleSet
-    path: './RuleSet/TikTok.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/TikTok.yaml'
+    <<: *RuleProviders
+    path: './rules/TikTok.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/TikTok.yaml'
 
   Game:
-    <<: *RuleSet
-    path: './RuleSet/Game.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Game.yaml'
+    <<: *RuleProviders
+    path: './rules/Game.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/Game.yaml'
 
   1Password:
-    <<: *RuleSet
-    path: './RuleSet/1PasswordUS.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/1PasswordUS.yaml'
+    <<: *RuleProviders
+    path: './rules/1PasswordUS.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/1PasswordUS.yaml'
 
   Steam:
-    <<: *RuleSet
-    path: './RuleSet/Steam.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Steam/Steam.yaml'
+    <<: *RuleProviders
+    path: './rules/Steam.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml'
 
   Netflix:
-    <<: *RuleSet
-    path: './RuleSet/Netflix.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Netflix/Netflix.yaml'
+    <<: *RuleProviders
+    path: './rules/Netflix.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml'
 
   Emby:
-    <<: *RuleSet
-    path: './RuleSet/Emby.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/EmbyServer.yaml'
+    <<: *RuleProviders
+    path: './rules/Emby.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/EmbyServer.yaml'
 
   iCloudChina:
-    <<: *RuleSet
-    path: './RuleSet/iCloudChina.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/iCloudChina.yaml'
+    <<: *RuleProviders
+    path: './rules/iCloudChina.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/iCloudChina.yaml'
 
   ApplePushNotificationService:
-    <<: *RuleSet
-    path: './RuleSet/ApplePushNotificationService.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ApplePushNotificationService.yaml'
+    <<: *RuleProviders
+    path: './rules/ApplePushNotificationService.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/ApplePushNotificationService.yaml'
 
   AppleSoftwareUpdates:
-    <<: *RuleSet
-    path: './RuleSet/AppleSoftwareUpdates.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppleSoftwareUpdates.yaml'
+    <<: *RuleProviders
+    path: './rules/AppleSoftwareUpdates.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/AppleSoftwareUpdates.yaml'
 
   AppleID:
-    <<: *RuleSet
-    path: './RuleSet/AppleID.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppleID.yaml'
+    <<: *RuleProviders
+    path: './rules/AppleID.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/AppleID.yaml'
 
   AppStore:
-    <<: *RuleSet
-    path: './RuleSet/AppStore.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppStore.yaml'
+    <<: *RuleProviders
+    path: './rules/AppStore.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/AppStore.yaml'
 
   TestFlight:
-    <<: *RuleSet
-    path: './RuleSet/TestFlight.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/TestFlight/TestFlight.yaml'
+    <<: *RuleProviders
+    path: './rules/TestFlight.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TestFlight/TestFlight.yaml'
 
   Microsoft:
-    <<: *RuleSet
-    path: './RuleSet/Microsoft.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Microsoft/Microsoft.yaml'
+    <<: *RuleProviders
+    path: './rules/Microsoft.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml'
 
   Google:
-    <<: *RuleSet
-    path: './RuleSet/Google.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Google/Google.yaml'
+    <<: *RuleProviders
+    path: './rules/Google.yaml'
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml'
 
   Telegram:
-    <<: *RuleSet
-    path: './RuleSet/Telegram.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Telegram.yaml'
+    <<: *RuleProviders
+    path: './rules/Telegram.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/Telegram.yaml'
 
   ESET_China:
-    <<: *RuleSet
-    path: './RuleSet/ESET_China.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ESET_China.yaml'
+    <<: *RuleProviders
+    path: './rules/ESET_China.yaml'
+    url: 'https://kelee.one/Tool/Clash/Rule/ESET_China.yaml'
 
 # 规则指向
 rules:
