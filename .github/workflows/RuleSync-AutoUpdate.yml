@@ -375,8 +375,8 @@ jobs:
       run: |
         rm -rf Tool-repo/Loon/Plugin/lodepuly/*
         rm -rf Tool-repo/Loon/Script/lodepuly/*
-        # mkdir -p Tool-repo/Loon/Plugin/lodepuly
-        # mkdir -p Tool-repo/Loon/Script/lodepuly
+        mkdir -p Tool-repo/Loon/Plugin/lodepuly
+        mkdir -p Tool-repo/Loon/Script/lodepuly
         # git clone https://gitlab.com/lodepuly/vpn_tool.git lodepuly_Tmp
         # cp -r lodepuly_Tmp/Tool/Loon/Plugin/* Tool-repo/Loon/Plugin/lodepuly
         # cp -r lodepuly_Tmp/Resource/Script/* Tool-repo/Loon/Script/lodepuly/
