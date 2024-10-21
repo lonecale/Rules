@@ -375,25 +375,25 @@ jobs:
       run: |
         rm -rf Tool-repo/Loon/Plugin/lodepuly/*
         rm -rf Tool-repo/Loon/Script/lodepuly/*
-        mkdir -p Tool-repo/Loon/Plugin/lodepuly
-        mkdir -p Tool-repo/Loon/Script/lodepuly
-        git clone https://gitlab.com/lodepuly/vpn_tool.git lodepuly_Tmp
-        cp -r lodepuly_Tmp/Tool/Loon/Plugin/* Tool-repo/Loon/Plugin/lodepuly
-        cp -r lodepuly_Tmp/Resource/Script/* Tool-repo/Loon/Script/lodepuly/
-        rm -rf lodepuly_Tmp   
+        # mkdir -p Tool-repo/Loon/Plugin/lodepuly
+        # mkdir -p Tool-repo/Loon/Script/lodepuly
+        # git clone https://gitlab.com/lodepuly/vpn_tool.git lodepuly_Tmp
+        # cp -r lodepuly_Tmp/Tool/Loon/Plugin/* Tool-repo/Loon/Plugin/lodepuly
+        # cp -r lodepuly_Tmp/Resource/Script/* Tool-repo/Loon/Script/lodepuly/
+        # rm -rf lodepuly_Tmp   
 
       # 修改脚本链接
-    - name: Edit Loon/Plugin
-      run: |
-        cd Tool-repo/Loon/Plugin/lodepuly
-        for file in *.plugin; do
-          if [ "$file" ] ; then
-            # 修改脚本链接
-            sed -i 's/gitlab\.com\/lodepuly\/vpn_tool\/-\/raw\/master\/Resource\/Script/raw.githubusercontent\.com\/lonecale\/Rules\/main\/Loon\/Script\/lodepuly/g' "$file"
-          else
-            echo "$file not found."
-          fi
-        done
+    # - name: Edit Loon/Plugin
+      # run: |
+        # cd Tool-repo/Loon/Plugin/lodepuly
+        # for file in *.plugin; do
+          # if [ "$file" ] ; then
+            # # 修改脚本链接
+            # sed -i 's/gitlab\.com\/lodepuly\/vpn_tool\/-\/raw\/master\/Resource\/Script/raw.githubusercontent\.com\/lonecale\/Rules\/main\/Loon\/Script\/lodepuly/g' "$file"
+          # else
+            # echo "$file not found."
+          # fi
+        # done
 
 ###### Shadowrocket
       # 适配规则
