@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-21T12:39:46.968Z
-# Size: 111386
+# Last Updated: 2024-10-21T16:28:53.772Z
+# Size: 111412
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6996,6 +6996,7 @@ adcloud.jp,REJECT
 .leadzu.com,REJECT
 .lenmit.com,REJECT
 .lenzmx.com,REJECT
+.leojmp.com,REJECT
 .lexity.com,REJECT
 .linkev.com,REJECT
 .ljsiir.com,REJECT
@@ -9601,6 +9602,7 @@ lgtvsdp.com,REJECT
 .poweyus.com,REJECT
 .powjoui.com,REJECT
 .poyusww.com,REJECT
+.ppimdog.com,REJECT
 .ppjdfki.com,REJECT
 .ppjqgbz.com,REJECT
 .pplgwic.com,REJECT
@@ -12923,6 +12925,7 @@ lgtvsdp.com,REJECT
 .sthoutte.com,REJECT
 .stilaikr.com,REJECT
 .stlpyypg.com,REJECT
+.stoicpre.com,REJECT
 .stoobsut.com,REJECT
 .stookoth.com,REJECT
 .stoolree.com,REJECT
@@ -14611,6 +14614,7 @@ lgtvsdp.com,REJECT
 .hespe-bmq.com,REJECT
 .hestutche.com,REJECT
 .hfiwcuodr.com,REJECT
+.hgtokjbpw.com,REJECT
 .hikestale.com,REJECT
 .hillsarab.com,REJECT
 .hilltopgo.com,REJECT
@@ -16510,6 +16514,7 @@ lgtvsdp.com,REJECT
 .34710af267.com,REJECT
 .34d5566a50.com,REJECT
 .350c2478fb.com,REJECT
+.3575e2d4e6.com,REJECT
 .357dbd24e2.com,REJECT
 .360adshost.com,REJECT
 .360playvid.com,REJECT
@@ -17092,6 +17097,7 @@ lgtvsdp.com,REJECT
 .be30660063.com,REJECT
 .bea988787c.com,REJECT
 .beachlinkz.com,REJECT
+.bealafulup.com,REJECT
 .beardyapii.com,REJECT
 .beavertron.com,REJECT
 .bebreloomr.com,REJECT
@@ -17940,6 +17946,7 @@ lgtvsdp.com,REJECT
 .glumdrawer.com,REJECT
 .glvhvesvnp.com,REJECT
 .gme-trking.com,REJECT
+.gmehcotihh.com,REJECT
 .gmxvmvptfm.com,REJECT
 .gnditiklas.com,REJECT
 .gnqtageoyy.com,REJECT
@@ -21265,6 +21272,7 @@ samsungqbe.com,REJECT
 .kjkulnpfdhn.com,REJECT
 .kkualfvtaot.com,REJECT
 .klicktausch.com,REJECT
+.klmainprost.com,REJECT
 .km-digibank.com,REJECT
 .kmscozmruwb.com,REJECT
 .knittedplus.com,REJECT
@@ -21272,6 +21280,7 @@ samsungqbe.com,REJECT
 .knottyswing.com,REJECT
 .kooappslogs.com,REJECT
 .kouceeptait.com,REJECT
+.kousjcignye.com,REJECT
 .kronosspell.com,REJECT
 .kshzlyvbaaa.com,REJECT
 .ksyrium0014.com,REJECT
@@ -24063,6 +24072,7 @@ samsungqbe.com,REJECT
 .hunyakupgive.com,REJECT
 .hurlaxiscame.com,REJECT
 .hurriedpiano.com,REJECT
+.hwefgxnhwtqg.com,REJECT
 .hwksgsofsgau.com,REJECT
 .hwmtmlsognbx.com,REJECT
 .hxbtqwquroke.com,REJECT
@@ -28141,6 +28151,7 @@ samsungqbe.com,REJECT
 .ungroudonchan.com,REJECT
 .unhappyswitch.com,REJECT
 .unhatedprotei.com,REJECT
+.unicontainers.com,REJECT
 .unifyaddition.com,REJECT
 .uniquecaptcha.com,REJECT
 .unitersgrazie.com,REJECT
@@ -34404,6 +34415,7 @@ samsungqbe.com,REJECT
 .commodityallengage.com,REJECT
 .compareproprietary.com,REJECT
 .compassionatecheek.com,REJECT
+.compatriotelephant.com,REJECT
 .competencesickcake.com,REJECT
 .complainttattooshy.com,REJECT
 .compositeprotector.com,REJECT
@@ -36893,6 +36905,7 @@ samsungcloudsolution.com,REJECT
 .interrogationpeepchat.com,REJECT
 .intimidatekerneljames.com,REJECT
 .inventionallocatewall.com,REJECT
+.involvementvindictive.com,REJECT
 .irrationalsternstormy.com,REJECT
 .jewelbeeperinflection.com,REJECT
 .jonaswhiskeyheartbeat.com,REJECT
@@ -38673,6 +38686,7 @@ samsungcloudsolution.com,REJECT
 .giaodichphieurutienmposvn.com,REJECT
 .glitteringinsertsupervise.com,REJECT
 .gluttonstayaccomplishment.com,REJECT
+.gracefullouisatemperature.com,REJECT
 .grubpremonitionultimately.com,REJECT
 .han-muc-khcn-uu-tien-vna1.com,REJECT
 .handkerchiefstapleconsole.com,REJECT
@@ -39507,6 +39521,7 @@ samsungcloudsolution.com,REJECT
 .disembroildisembroilassuredwitchcraft.com,REJECT
 .inoculateconsessionconsessioneuropean.com,REJECT
 .allfb8dremsiw09oiabhboolsebt29jhe3setn.com,REJECT
+.blinkedlanentablelanentableunavailable.com,REJECT
 .quet-the-truc-tuyen-mposvn-paymentcard.com,REJECT
 .stirringdebrisirriplaceableirriplaceable.com,REJECT
 .festivalflabbergasteddeliquencydeliquency.com,REJECT
@@ -39961,6 +39976,7 @@ samsungcloudsolution.com,REJECT
 .mm1qj.icu,REJECT
 .mymap.icu,REJECT
 .n5n5s.icu,REJECT
+.on5ga.icu,REJECT
 .ouplc.icu,REJECT
 .p45m0.icu,REJECT
 .q1gel.icu,REJECT
@@ -40402,6 +40418,7 @@ samsungcloudsolution.com,REJECT
 .jztwidpixa.icu,REJECT
 .m-fmfadcfm.icu,REJECT
 .yxuytpfe-t.icu,REJECT
+.kbjn-sibltg.icu,REJECT
 .kubicserves.icu,REJECT
 .kvum-bpelzw.icu,REJECT
 .yourprivacy.icu,REJECT
@@ -42612,6 +42629,7 @@ samsungcloudsolution.com,REJECT
 .fuksaighetchy.net,REJECT
 .getconversion.net,REJECT
 .globaladmedia.net,REJECT
+.hauraiwaurulu.net,REJECT
 .invest-system.net,REJECT
 .khohangdocvip.net,REJECT
 .knowledgevine.net,REJECT
@@ -43527,6 +43545,7 @@ samsungcloudsolution.net,REJECT
 .aware-living.pro,REJECT
 .bitterborder.pro,REJECT
 .bland-factor.pro,REJECT
+.boilingtrust.pro,REJECT
 .bouncy-wheel.pro,REJECT
 .clear-speech.pro,REJECT
 .critariatele.pro,REJECT
@@ -43606,6 +43625,7 @@ samsungcloudsolution.net,REJECT
 .pristine-dark.pro,REJECT
 .qualifiedhead.pro,REJECT
 .shallowbottle.pro,REJECT
+.silvergarbage.pro,REJECT
 .similarlength.pro,REJECT
 .ts134lnki1zd5.pro,REJECT
 .unrulymorning.pro,REJECT
@@ -44089,6 +44109,7 @@ samsungcloudsolution.net,REJECT
 .montpdp.top,REJECT
 .montwam.top,REJECT
 .mrtlisx.top,REJECT
+.muresdx.top,REJECT
 .mweriox.top,REJECT
 .myretux.top,REJECT
 .nextpsh.top,REJECT
@@ -44853,6 +44874,8 @@ samsungcloudsolution.net,REJECT
 .zarame.uno,REJECT
 .ziwane.uno,REJECT
 .zugeme.uno,REJECT
+.hilakol.uno,REJECT
+.gudohuxy.uno,REJECT
 .sharesceral.uno,REJECT
 .branchyherbs.uno,REJECT
 .caraneoutraze.uno,REJECT
@@ -47738,6 +47761,7 @@ samsungcloudsolution.net,REJECT
 .letqejcjo.xyz,REJECT
 .letstry69.xyz,REJECT
 .lkmedcjyh.xyz,REJECT
+.lljultmdl.xyz,REJECT
 .lnkfrsgrt.xyz,REJECT
 .loaducaup.xyz,REJECT
 .luckypapa.xyz,REJECT
@@ -48453,6 +48477,7 @@ samsungcloudsolution.net,REJECT
 .tbmwkwbdcryfhb.xyz,REJECT
 .tcwhycdinjtgar.xyz,REJECT
 .thechronicles2.xyz,REJECT
+.theeraufudromp.xyz,REJECT
 .topperformance.xyz,REJECT
 .tyhwheveeshngi.xyz,REJECT
 .ucbedayxxqpyuo.xyz,REJECT
@@ -51560,6 +51585,7 @@ nmbr.info,REJECT
 .vtipshop.today,REJECT
 .getintopc.today,REJECT
 .happydate.today,REJECT
+.srbtztegq.today,REJECT
 .smishydagcl.today,REJECT
 .x-jmezfjpjt.today,REJECT
 .nhantienquocte.today,REJECT
@@ -51640,6 +51666,7 @@ nmbr.info,REJECT
 .hinm.online,REJECT
 .idns.online,REJECT
 .iuc1.online,REJECT
+.lf8q.online,REJECT
 .prxy.online,REJECT
 .winr.online,REJECT
 .zvay.online,REJECT
@@ -65841,6 +65868,7 @@ x.o2.pl,REJECT
 .tracking.bonava.ru,REJECT
 .t.cotsta.ru,REJECT
 .getcode.cotsta.ru,REJECT
+.matomo.datago.ru,REJECT
 .ads.dfiles.ru,REJECT
 .ypcdbw.drive2.ru,REJECT
 .prkhda.ezakaz.ru,REJECT
@@ -67152,6 +67180,7 @@ gif.7mmtv.sx,REJECT
 .metric.nimo.tv,REJECT
 .statwup.nimo.tv,REJECT
 .udbdf-v2.nimo.tv,REJECT
+.stat.okko.tv,REJECT
 .analytics.plex.tv,REJECT
 .mobile.reki.tv,REJECT
 .stageapplink.reki.tv,REJECT
@@ -72812,7 +72841,6 @@ v9-dc-ad.ixigua.com,REJECT
 .tracking3.lenovo.com,REJECT
 .forms-emea.lenovo.com,REJECT
 .sp.lenspk.com,REJECT
-.creative.leojmp.com,REJECT
 .athtku.lerros.com,REJECT
 .fmqidg.letras.com,REJECT
 .trck.levata.com,REJECT
@@ -73996,6 +74024,7 @@ xitong.xiaomi.com,REJECT
 huodong.xiaomi.com,REJECT
 .pandora.xiaomi.com,REJECT
 shenghuo.xiaomi.com,REJECT
+.installer.xiaomi.com,REJECT
 .marketing.xicato.com,REJECT
 .yi.ximizi.com,REJECT
 .ads.xlxtra.com,REJECT
@@ -82495,7 +82524,6 @@ push.wandoujia.com,REJECT
 .www.33-trk-srv.com,REJECT
 .ab823c0616.3397afa9b2.com,REJECT
 .cwobhn.34heritage.com,REJECT
-.8992bfef5b.3575e2d4e6.com,REJECT
 .40a99e866a.3672754efc.com,REJECT
 .42337624e3.36c33c925f.com,REJECT
 .91ceadfe3f.3854704790.com,REJECT
@@ -99135,7 +99163,6 @@ ssl.360antivirus.org,REJECT
 .stats.paysagistes.pro,REJECT
 .t.smartverify.pro,REJECT
 .go.tracksearch.pro,REJECT
-.www.boilingtrust.pro,REJECT
 .tr.buenasofertas.pro,REJECT
 collect.foresightnews.pro,REJECT
 .tr.fidalformation.pro,REJECT
@@ -107512,7 +107539,6 @@ video.market.xiaomi.com,REJECT
 wtradv.market.xiaomi.com,REJECT
 .register.xmpush.xiaomi.com,REJECT
 shoes.app-xae.xiaomi.com,REJECT
-api.installer.xiaomi.com,REJECT
 weatherapi.market.xioami.com,REJECT
 ct.niu.xunlei.com,REJECT
 mou.niu.xunlei.com,REJECT

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-21T12:39:46.968Z
-# Size: 111386
+# Last Updated: 2024-10-21T16:28:53.772Z
+# Size: 111412
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6996,6 +6996,7 @@ DOMAIN-SUFFIX,leadin.com
 DOMAIN-SUFFIX,leadzu.com
 DOMAIN-SUFFIX,lenmit.com
 DOMAIN-SUFFIX,lenzmx.com
+DOMAIN-SUFFIX,leojmp.com
 DOMAIN-SUFFIX,lexity.com
 DOMAIN-SUFFIX,linkev.com
 DOMAIN-SUFFIX,ljsiir.com
@@ -9601,6 +9602,7 @@ DOMAIN-SUFFIX,powenin.com
 DOMAIN-SUFFIX,poweyus.com
 DOMAIN-SUFFIX,powjoui.com
 DOMAIN-SUFFIX,poyusww.com
+DOMAIN-SUFFIX,ppimdog.com
 DOMAIN-SUFFIX,ppjdfki.com
 DOMAIN-SUFFIX,ppjqgbz.com
 DOMAIN-SUFFIX,pplgwic.com
@@ -12923,6 +12925,7 @@ DOMAIN-SUFFIX,steessay.com
 DOMAIN-SUFFIX,sthoutte.com
 DOMAIN-SUFFIX,stilaikr.com
 DOMAIN-SUFFIX,stlpyypg.com
+DOMAIN-SUFFIX,stoicpre.com
 DOMAIN-SUFFIX,stoobsut.com
 DOMAIN-SUFFIX,stookoth.com
 DOMAIN-SUFFIX,stoolree.com
@@ -14611,6 +14614,7 @@ DOMAIN-SUFFIX,herma-tor.com
 DOMAIN-SUFFIX,hespe-bmq.com
 DOMAIN-SUFFIX,hestutche.com
 DOMAIN-SUFFIX,hfiwcuodr.com
+DOMAIN-SUFFIX,hgtokjbpw.com
 DOMAIN-SUFFIX,hikestale.com
 DOMAIN-SUFFIX,hillsarab.com
 DOMAIN-SUFFIX,hilltopgo.com
@@ -16510,6 +16514,7 @@ DOMAIN-SUFFIX,3467b7d02e.com
 DOMAIN-SUFFIX,34710af267.com
 DOMAIN-SUFFIX,34d5566a50.com
 DOMAIN-SUFFIX,350c2478fb.com
+DOMAIN-SUFFIX,3575e2d4e6.com
 DOMAIN-SUFFIX,357dbd24e2.com
 DOMAIN-SUFFIX,360adshost.com
 DOMAIN-SUFFIX,360playvid.com
@@ -17092,6 +17097,7 @@ DOMAIN-SUFFIX,bdf7a07377.com
 DOMAIN-SUFFIX,be30660063.com
 DOMAIN-SUFFIX,bea988787c.com
 DOMAIN-SUFFIX,beachlinkz.com
+DOMAIN-SUFFIX,bealafulup.com
 DOMAIN-SUFFIX,beardyapii.com
 DOMAIN-SUFFIX,beavertron.com
 DOMAIN-SUFFIX,bebreloomr.com
@@ -17940,6 +17946,7 @@ DOMAIN-SUFFIX,gluedpixel.com
 DOMAIN-SUFFIX,glumdrawer.com
 DOMAIN-SUFFIX,glvhvesvnp.com
 DOMAIN-SUFFIX,gme-trking.com
+DOMAIN-SUFFIX,gmehcotihh.com
 DOMAIN-SUFFIX,gmxvmvptfm.com
 DOMAIN-SUFFIX,gnditiklas.com
 DOMAIN-SUFFIX,gnqtageoyy.com
@@ -21265,6 +21272,7 @@ DOMAIN-SUFFIX,kjeopjksbcy.com
 DOMAIN-SUFFIX,kjkulnpfdhn.com
 DOMAIN-SUFFIX,kkualfvtaot.com
 DOMAIN-SUFFIX,klicktausch.com
+DOMAIN-SUFFIX,klmainprost.com
 DOMAIN-SUFFIX,km-digibank.com
 DOMAIN-SUFFIX,kmscozmruwb.com
 DOMAIN-SUFFIX,knittedplus.com
@@ -21272,6 +21280,7 @@ DOMAIN-SUFFIX,knlrfijhvch.com
 DOMAIN-SUFFIX,knottyswing.com
 DOMAIN-SUFFIX,kooappslogs.com
 DOMAIN-SUFFIX,kouceeptait.com
+DOMAIN-SUFFIX,kousjcignye.com
 DOMAIN-SUFFIX,kronosspell.com
 DOMAIN-SUFFIX,kshzlyvbaaa.com
 DOMAIN-SUFFIX,ksyrium0014.com
@@ -24063,6 +24072,7 @@ DOMAIN-SUFFIX,humdrumtouch.com
 DOMAIN-SUFFIX,hunyakupgive.com
 DOMAIN-SUFFIX,hurlaxiscame.com
 DOMAIN-SUFFIX,hurriedpiano.com
+DOMAIN-SUFFIX,hwefgxnhwtqg.com
 DOMAIN-SUFFIX,hwksgsofsgau.com
 DOMAIN-SUFFIX,hwmtmlsognbx.com
 DOMAIN-SUFFIX,hxbtqwquroke.com
@@ -28141,6 +28151,7 @@ DOMAIN-SUFFIX,ungillhenbane.com
 DOMAIN-SUFFIX,ungroudonchan.com
 DOMAIN-SUFFIX,unhappyswitch.com
 DOMAIN-SUFFIX,unhatedprotei.com
+DOMAIN-SUFFIX,unicontainers.com
 DOMAIN-SUFFIX,unifyaddition.com
 DOMAIN-SUFFIX,uniquecaptcha.com
 DOMAIN-SUFFIX,unitersgrazie.com
@@ -34404,6 +34415,7 @@ DOMAIN-SUFFIX,comedianthirteenth.com
 DOMAIN-SUFFIX,commodityallengage.com
 DOMAIN-SUFFIX,compareproprietary.com
 DOMAIN-SUFFIX,compassionatecheek.com
+DOMAIN-SUFFIX,compatriotelephant.com
 DOMAIN-SUFFIX,competencesickcake.com
 DOMAIN-SUFFIX,complainttattooshy.com
 DOMAIN-SUFFIX,compositeprotector.com
@@ -36893,6 +36905,7 @@ DOMAIN-SUFFIX,interfacemotleyharden.com
 DOMAIN-SUFFIX,interrogationpeepchat.com
 DOMAIN-SUFFIX,intimidatekerneljames.com
 DOMAIN-SUFFIX,inventionallocatewall.com
+DOMAIN-SUFFIX,involvementvindictive.com
 DOMAIN-SUFFIX,irrationalsternstormy.com
 DOMAIN-SUFFIX,jewelbeeperinflection.com
 DOMAIN-SUFFIX,jonaswhiskeyheartbeat.com
@@ -38673,6 +38686,7 @@ DOMAIN-SUFFIX,giaodich-quetthetindungvn.com
 DOMAIN-SUFFIX,giaodichphieurutienmposvn.com
 DOMAIN-SUFFIX,glitteringinsertsupervise.com
 DOMAIN-SUFFIX,gluttonstayaccomplishment.com
+DOMAIN-SUFFIX,gracefullouisatemperature.com
 DOMAIN-SUFFIX,grubpremonitionultimately.com
 DOMAIN-SUFFIX,han-muc-khcn-uu-tien-vna1.com
 DOMAIN-SUFFIX,handkerchiefstapleconsole.com
@@ -39507,6 +39521,7 @@ DOMAIN-SUFFIX,craveidentificationanoitmentanoitment.com
 DOMAIN-SUFFIX,disembroildisembroilassuredwitchcraft.com
 DOMAIN-SUFFIX,inoculateconsessionconsessioneuropean.com
 DOMAIN-SUFFIX,allfb8dremsiw09oiabhboolsebt29jhe3setn.com
+DOMAIN-SUFFIX,blinkedlanentablelanentableunavailable.com
 DOMAIN-SUFFIX,quet-the-truc-tuyen-mposvn-paymentcard.com
 DOMAIN-SUFFIX,stirringdebrisirriplaceableirriplaceable.com
 DOMAIN-SUFFIX,festivalflabbergasteddeliquencydeliquency.com
@@ -39961,6 +39976,7 @@ DOMAIN-SUFFIX,mdhv3.icu
 DOMAIN-SUFFIX,mm1qj.icu
 DOMAIN-SUFFIX,mymap.icu
 DOMAIN-SUFFIX,n5n5s.icu
+DOMAIN-SUFFIX,on5ga.icu
 DOMAIN-SUFFIX,ouplc.icu
 DOMAIN-SUFFIX,p45m0.icu
 DOMAIN-SUFFIX,q1gel.icu
@@ -40402,6 +40418,7 @@ DOMAIN-SUFFIX,qa-vatote.icu
 DOMAIN-SUFFIX,jztwidpixa.icu
 DOMAIN-SUFFIX,m-fmfadcfm.icu
 DOMAIN-SUFFIX,yxuytpfe-t.icu
+DOMAIN-SUFFIX,kbjn-sibltg.icu
 DOMAIN-SUFFIX,kubicserves.icu
 DOMAIN-SUFFIX,kvum-bpelzw.icu
 DOMAIN-SUFFIX,yourprivacy.icu
@@ -42612,6 +42629,7 @@ DOMAIN-SUFFIX,free-counters.net
 DOMAIN-SUFFIX,fuksaighetchy.net
 DOMAIN-SUFFIX,getconversion.net
 DOMAIN-SUFFIX,globaladmedia.net
+DOMAIN-SUFFIX,hauraiwaurulu.net
 DOMAIN-SUFFIX,invest-system.net
 DOMAIN-SUFFIX,khohangdocvip.net
 DOMAIN-SUFFIX,knowledgevine.net
@@ -43527,6 +43545,7 @@ DOMAIN-SUFFIX,apprefaculty.pro
 DOMAIN-SUFFIX,aware-living.pro
 DOMAIN-SUFFIX,bitterborder.pro
 DOMAIN-SUFFIX,bland-factor.pro
+DOMAIN-SUFFIX,boilingtrust.pro
 DOMAIN-SUFFIX,bouncy-wheel.pro
 DOMAIN-SUFFIX,clear-speech.pro
 DOMAIN-SUFFIX,critariatele.pro
@@ -43606,6 +43625,7 @@ DOMAIN-SUFFIX,precious-type.pro
 DOMAIN-SUFFIX,pristine-dark.pro
 DOMAIN-SUFFIX,qualifiedhead.pro
 DOMAIN-SUFFIX,shallowbottle.pro
+DOMAIN-SUFFIX,silvergarbage.pro
 DOMAIN-SUFFIX,similarlength.pro
 DOMAIN-SUFFIX,ts134lnki1zd5.pro
 DOMAIN-SUFFIX,unrulymorning.pro
@@ -44089,6 +44109,7 @@ DOMAIN-SUFFIX,montkpl.top
 DOMAIN-SUFFIX,montpdp.top
 DOMAIN-SUFFIX,montwam.top
 DOMAIN-SUFFIX,mrtlisx.top
+DOMAIN-SUFFIX,muresdx.top
 DOMAIN-SUFFIX,mweriox.top
 DOMAIN-SUFFIX,myretux.top
 DOMAIN-SUFFIX,nextpsh.top
@@ -44853,6 +44874,8 @@ DOMAIN-SUFFIX,yiqetu.uno
 DOMAIN-SUFFIX,zarame.uno
 DOMAIN-SUFFIX,ziwane.uno
 DOMAIN-SUFFIX,zugeme.uno
+DOMAIN-SUFFIX,hilakol.uno
+DOMAIN-SUFFIX,gudohuxy.uno
 DOMAIN-SUFFIX,sharesceral.uno
 DOMAIN-SUFFIX,branchyherbs.uno
 DOMAIN-SUFFIX,caraneoutraze.uno
@@ -47738,6 +47761,7 @@ DOMAIN-SUFFIX,legxrhrrb.xyz
 DOMAIN-SUFFIX,letqejcjo.xyz
 DOMAIN-SUFFIX,letstry69.xyz
 DOMAIN-SUFFIX,lkmedcjyh.xyz
+DOMAIN-SUFFIX,lljultmdl.xyz
 DOMAIN-SUFFIX,lnkfrsgrt.xyz
 DOMAIN-SUFFIX,loaducaup.xyz
 DOMAIN-SUFFIX,luckypapa.xyz
@@ -48453,6 +48477,7 @@ DOMAIN-SUFFIX,syiwgwsqwngrdw.xyz
 DOMAIN-SUFFIX,tbmwkwbdcryfhb.xyz
 DOMAIN-SUFFIX,tcwhycdinjtgar.xyz
 DOMAIN-SUFFIX,thechronicles2.xyz
+DOMAIN-SUFFIX,theeraufudromp.xyz
 DOMAIN-SUFFIX,topperformance.xyz
 DOMAIN-SUFFIX,tyhwheveeshngi.xyz
 DOMAIN-SUFFIX,ucbedayxxqpyuo.xyz
@@ -51560,6 +51585,7 @@ DOMAIN-SUFFIX,mp3dance.today
 DOMAIN-SUFFIX,vtipshop.today
 DOMAIN-SUFFIX,getintopc.today
 DOMAIN-SUFFIX,happydate.today
+DOMAIN-SUFFIX,srbtztegq.today
 DOMAIN-SUFFIX,smishydagcl.today
 DOMAIN-SUFFIX,x-jmezfjpjt.today
 DOMAIN-SUFFIX,nhantienquocte.today
@@ -51640,6 +51666,7 @@ DOMAIN-SUFFIX,hibj.online
 DOMAIN-SUFFIX,hinm.online
 DOMAIN-SUFFIX,idns.online
 DOMAIN-SUFFIX,iuc1.online
+DOMAIN-SUFFIX,lf8q.online
 DOMAIN-SUFFIX,prxy.online
 DOMAIN-SUFFIX,winr.online
 DOMAIN-SUFFIX,zvay.online
@@ -65841,6 +65868,7 @@ DOMAIN-SUFFIX,ftwaum.babadu.ru
 DOMAIN-SUFFIX,tracking.bonava.ru
 DOMAIN-SUFFIX,t.cotsta.ru
 DOMAIN-SUFFIX,getcode.cotsta.ru
+DOMAIN-SUFFIX,matomo.datago.ru
 DOMAIN-SUFFIX,ads.dfiles.ru
 DOMAIN-SUFFIX,ypcdbw.drive2.ru
 DOMAIN-SUFFIX,prkhda.ezakaz.ru
@@ -67152,6 +67180,7 @@ DOMAIN-SUFFIX,ylog.nimo.tv
 DOMAIN-SUFFIX,metric.nimo.tv
 DOMAIN-SUFFIX,statwup.nimo.tv
 DOMAIN-SUFFIX,udbdf-v2.nimo.tv
+DOMAIN-SUFFIX,stat.okko.tv
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,mobile.reki.tv
 DOMAIN-SUFFIX,stageapplink.reki.tv
@@ -72812,7 +72841,6 @@ DOMAIN-SUFFIX,tracking.lenovo.com
 DOMAIN-SUFFIX,tracking3.lenovo.com
 DOMAIN-SUFFIX,forms-emea.lenovo.com
 DOMAIN-SUFFIX,sp.lenspk.com
-DOMAIN-SUFFIX,creative.leojmp.com
 DOMAIN-SUFFIX,athtku.lerros.com
 DOMAIN-SUFFIX,fmqidg.letras.com
 DOMAIN-SUFFIX,trck.levata.com
@@ -73996,6 +74024,7 @@ DOMAIN,xitong.xiaomi.com
 DOMAIN,huodong.xiaomi.com
 DOMAIN-SUFFIX,pandora.xiaomi.com
 DOMAIN,shenghuo.xiaomi.com
+DOMAIN-SUFFIX,installer.xiaomi.com
 DOMAIN-SUFFIX,marketing.xicato.com
 DOMAIN-SUFFIX,yi.ximizi.com
 DOMAIN-SUFFIX,ads.xlxtra.com
@@ -82495,7 +82524,6 @@ DOMAIN-SUFFIX,f6d49ce515.32abd54344.com
 DOMAIN-SUFFIX,www.33-trk-srv.com
 DOMAIN-SUFFIX,ab823c0616.3397afa9b2.com
 DOMAIN-SUFFIX,cwobhn.34heritage.com
-DOMAIN-SUFFIX,8992bfef5b.3575e2d4e6.com
 DOMAIN-SUFFIX,40a99e866a.3672754efc.com
 DOMAIN-SUFFIX,42337624e3.36c33c925f.com
 DOMAIN-SUFFIX,91ceadfe3f.3854704790.com
@@ -99135,7 +99163,6 @@ DOMAIN-SUFFIX,track.meltfatfast.pro
 DOMAIN-SUFFIX,stats.paysagistes.pro
 DOMAIN-SUFFIX,t.smartverify.pro
 DOMAIN-SUFFIX,go.tracksearch.pro
-DOMAIN-SUFFIX,www.boilingtrust.pro
 DOMAIN-SUFFIX,tr.buenasofertas.pro
 DOMAIN,collect.foresightnews.pro
 DOMAIN-SUFFIX,tr.fidalformation.pro
@@ -107512,7 +107539,6 @@ DOMAIN,video.market.xiaomi.com
 DOMAIN,wtradv.market.xiaomi.com
 DOMAIN-SUFFIX,register.xmpush.xiaomi.com
 DOMAIN,shoes.app-xae.xiaomi.com
-DOMAIN,api.installer.xiaomi.com
 DOMAIN,weatherapi.market.xioami.com
 DOMAIN,ct.niu.xunlei.com
 DOMAIN,mou.niu.xunlei.com
@@ -111416,8 +111442,8 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-15T10:37:07.536Z
-# Size: 72
+# Last Updated: 2024-10-21T14:26:18.035Z
+# Size: 127
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -111432,16 +111458,46 @@ DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN,dns.weibo.cn
 DOMAIN-SUFFIX,net.mydays.de
+DOMAIN,dns.jd.com
+DOMAIN,httpdns.baidu.com
+DOMAIN,httpsdns.baidu.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.meituan.com
+DOMAIN,httpdnsvip.meituan.com
+DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN,httpdns-api.aliyuncs.com
+DOMAIN,httpdns.baidubce.com
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
+DOMAIN,httpdns.bilivideo.com
 DOMAIN,stun.smartgslb.com
+DOMAIN,httpdns.yunxindns.com
+DOMAIN,hd.xiaojukeji.com
+DOMAIN,httpdns-push.heytapmobile.com
+DOMAIN,httpdns-ocloud.heytapmobile.com
+DOMAIN,httpdns-euex-push.heytapmobile.com
+DOMAIN,httpdns.volcengineapi.com
 DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN,dns.weixin.qq.com
+DOMAIN,httpdns-v6.gslb.yy.com
+DOMAIN,union-httpdns.gslb.yy.com
+DOMAIN,yyapp-httpdns.gslb.yy.com
+DOMAIN-SUFFIX,httpdns.c.163.com
+DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,classify-client.services.mozilla.com
+DOMAIN-SUFFIX,httpdns.n.netease.com
+DOMAIN,httpdns-sdk.n.netease.com
+DOMAIN,httpdns.push.heytapmobi.com
+DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud
@@ -111496,4 +111552,29 @@ DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net
 DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
+IP-CIDR,39.97.128.148/32,no-resolve
+IP-CIDR,39.97.130.51/32,no-resolve
+IP-CIDR,42.81.232.18/32,no-resolve
+IP-CIDR,42.187.182.106/32,no-resolve
+IP-CIDR,42.187.182.123/32,no-resolve
+IP-CIDR,42.187.184.154/32,no-resolve
+IP-CIDR,59.111.239.61/32,no-resolve
+IP-CIDR,59.111.239.62/32,no-resolve
+IP-CIDR,101.124.19.122/32,no-resolve
+IP-CIDR,103.37.152.97/32,no-resolve
+IP-CIDR,103.224.222.208/32,no-resolve
+IP-CIDR,115.236.121.51/32,no-resolve
+IP-CIDR,115.236.121.195/32,no-resolve
+IP-CIDR,118.89.204.0/23,no-resolve
+IP-CIDR,119.29.29.98/31,no-resolve
+IP-CIDR,123.151.54.50/32,no-resolve
+IP-CIDR,182.254.116.117/32,no-resolve
+IP-CIDR,182.254.118.119/32,no-resolve
+IP-CIDR,186.76.76.200/32,no-resolve
+IP-CIDR,203.107.1.0/24,no-resolve
+IP-CIDR,203.119.204.66/32,no-resolve
+IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
+IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
+IP-CIDR6,240e:928:1400:10::25/128,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 ################## EOF ##################
