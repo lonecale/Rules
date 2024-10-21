@@ -1,4 +1,4 @@
-# 2024-08-27 22:35
+# 最后更新时间: 2024-10-21 21:01
 name: Fork & Edit
 
 on:
@@ -165,7 +165,6 @@ jobs:
     - name: Copy custom rules
       run: |
         if [ -f "Tool-repo/Surge/Rules/Reject.list" ] ; then
-          cat Tool-repo/Surge/Rules/Ads_RuCu6.list >> Tool-repo/Surge/Rules/Reject.list
           cat Tool-repo/Surge/Rules/Ads_limbopro.list >> Tool-repo/Surge/Rules/Reject.list
           cat Tool-repo/Surge/Rules/Ads_ConnersHua.list >> Tool-repo/Surge/Rules/Reject.list
           cat Tool-repo/Surge/Rules/Hijacking_ConnersHua.list >> Tool-repo/Surge/Rules/Reject.list
@@ -390,7 +389,7 @@ jobs:
         for file in *.plugin; do
           if [ "$file" ] ; then
             # 修改脚本链接
-            sed -i 's/gitlab\.com\/lodepuly\/vpn_tool\/-\/raw\/master\/Resource\/Script/raw.githubusercontent\.com\/Repcz\/Tool\/X\/Loon\/Script\/lodepuly/g' "$file"
+            sed -i 's/gitlab\.com\/lodepuly\/vpn_tool\/-\/raw\/master\/Resource\/Script/raw.githubusercontent\.com\/lonecale\/Rules\/main\/Loon\/Script\/lodepuly/g' "$file"
           else
             echo "$file not found."
           fi
