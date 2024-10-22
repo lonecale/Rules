@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-22T12:39:11.774Z
-# Size: 109413
+# Last Updated: 2024-10-22T17:24:38.783Z
+# Size: 109450
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -717,6 +717,7 @@
 .dsceopm.cn,REJECT
 .dssdfsf.cn,REJECT
 .dswcrlf.cn,REJECT
+.duomeng.cn,REJECT
 .dvclhmt.cn,REJECT
 .dwbfqmz.cn,REJECT
 .dwtkuzo.cn,REJECT
@@ -4920,6 +4921,7 @@ adcloud.jp,REJECT
 .a4g.com,REJECT
 .ad7.com,REJECT
 .b2c.com,REJECT
+.mob.com,REJECT
 .oix.com,REJECT
 .pp8.com,REJECT
 .ru4.com,REJECT
@@ -9839,6 +9841,7 @@ lgtvsdp.com,REJECT
 .sgfsdvc.com,REJECT
 .sgftrrs.com,REJECT
 .sgihava.com,REJECT
+.sgmntfy.com,REJECT
 .sgrawwa.com,REJECT
 .sgstats.com,REJECT
 .sh2tiki.com,REJECT
@@ -14653,6 +14656,7 @@ lgtvsdp.com,REJECT
 .kavaycash.com,REJECT
 .kaxjtkvgo.com,REJECT
 .kbadkxocv.com,REJECT
+.kcggmyeag.com,REJECT
 .kdczhmain.com,REJECT
 .kdmunzpmw.com,REJECT
 .keen-slip.com,REJECT
@@ -26655,6 +26659,7 @@ samsungqbe.com,REJECT
 .text-link-ads.com,REJECT
 .tgboghbslgrkg.com,REJECT
 .theactualnewz.com,REJECT
+.thebitmeister.com,REJECT
 .thecatmachine.com,REJECT
 .thefreshposts.com,REJECT
 .thegoodcaster.com,REJECT
@@ -28774,6 +28779,7 @@ samsungqbe.com,REJECT
 .wemakebestnews.com,REJECT
 .wendelstein-1b.com,REJECT
 .westreflection.com,REJECT
+.whatisaweekend.com,REJECT
 .whencewaxworks.com,REJECT
 .whiprayoutkill.com,REJECT
 .whisperinflate.com,REJECT
@@ -40707,6 +40713,7 @@ samsungcloudsolution.com,REJECT
 .hubaffiliations.net,REJECT
 .joomisomushisuw.net,REJECT
 .kiemtiendinhcao.net,REJECT
+.koomowailiwuzou.net,REJECT
 .lifeimpressions.net,REJECT
 .mediaonenetwork.net,REJECT
 .new-vietcombank.net,REJECT
@@ -42221,6 +42228,7 @@ samsungcloudsolution.net,REJECT
 .hgidskiu.top,REJECT
 .hnifdlau.top,REJECT
 .hook2up6.top,REJECT
+.houvxliu.top,REJECT
 .hrutvncu.top,REJECT
 .hwerilxu.top,REJECT
 .hwurseru.top,REJECT
@@ -43964,6 +43972,7 @@ samsungcloudsolution.net,REJECT
 .qhodog.xyz,REJECT
 .qhscsu.xyz,REJECT
 .qiaoxz.xyz,REJECT
+.qjoges.xyz,REJECT
 .qjwvwu.xyz,REJECT
 .qkikkg.xyz,REJECT
 .qkscga.xyz,REJECT
@@ -48721,6 +48730,7 @@ nmbr.info,REJECT
 .f6176563.site,REJECT
 .freefrog.site,REJECT
 .hilerant.site,REJECT
+.news-cdn.site,REJECT
 .rkgnmwre.site,REJECT
 .scl6gc5l.site,REJECT
 .screenov.site,REJECT
@@ -52315,6 +52325,7 @@ ad.cyapi.cn,REJECT
 g.tbcdn.cn,REJECT
 iflow.uczzd.cn,REJECT
 .v.vl404.cn,REJECT
+dns.weibo.cn,REJECT
 game.weibo.cn,REJECT
 .lm1.wkpcw.cn,REJECT
 .ce.wlaoc.cn,REJECT
@@ -66379,6 +66390,7 @@ adshow.58.com,REJECT
 .ibd-as-api.iq.com,REJECT
 .o.j2.com,REJECT
 .os.j2.com,REJECT
+dns.jd.com,REJECT
 .gia.jd.com,REJECT
 jzt.jd.com,REJECT
 .log.jd.com,REJECT
@@ -66456,7 +66468,7 @@ adsgroup.qq.com,REJECT
 adshmmsg.qq.com,REJECT
 adsview2.qq.com,REJECT
 pingtcss.qq.com,REJECT
-rmonitor.qq.com,REJECT
+.rmonitor.qq.com,REJECT
 adslvfile.qq.com,REJECT
 adslvseed.qq.com,REJECT
 .beaconcdn.qq.com,REJECT
@@ -66856,8 +66868,6 @@ adv.ccb.com,REJECT
 .bpeml.mlb.com,REJECT
 .fmvwlk.mms.com,REJECT
 .yiiwaq.mms.com,REJECT
-.data.mob.com,REJECT
-.log-verify.mob.com,REJECT
 .x822.mrt.com,REJECT
 .smetrics.msg.com,REJECT
 .c.msn.com,REJECT
@@ -67510,6 +67520,7 @@ shence.hupu.com,REJECT
 .l.imax.com,REJECT
 .ads.imbc.com,REJECT
 .adsmrapi.imbc.com,REJECT
+.metrics.imdb.com,REJECT
 .smetrics.imvu.com,REJECT
 .branch.indi.com,REJECT
 .marketing.inex.com,REJECT
@@ -68306,12 +68317,14 @@ fclick.baidu.com,REJECT
 .caclick.baidu.com,REJECT
 .duclick.baidu.com,REJECT
 .guanjia.baidu.com,REJECT
+httpdns.baidu.com,REJECT
 .imgstat.baidu.com,REJECT
 .nsclick.baidu.com,REJECT
 .tracker.baidu.com,REJECT
 .tuijian.baidu.com,REJECT
 .tuisong.baidu.com,REJECT
 .wkclick.baidu.com,REJECT
+httpsdns.baidu.com,REJECT
 .wangmeng.baidu.com,REJECT
 click-bes.baidu.com,REJECT
 nadvideo2.baidu.com,REJECT
@@ -69873,6 +69886,7 @@ gtms02.alicdn.com,REJECT
 gtms03.alicdn.com,REJECT
 gtms04.alicdn.com,REJECT
 .alimama.alicdn.com,REJECT
+httpdns.alicdn.com,REJECT
 .dorangesource.alicdn.com,REJECT
 .nbsdk-baichuan.alicdn.com,REJECT
 .amdc.alipay.com,REJECT
@@ -71002,6 +71016,7 @@ applog.mobike.com,REJECT
 .zozwyc.moscot.com,REJECT
 .click.moselo.com,REJECT
 .click-testing.moselo.com,REJECT
+.adx.mossru.com,REJECT
 .app.motiwy.com,REJECT
 .m1tm.motor1.com,REJECT
 .data-88ba07a559.motor1.com,REJECT
@@ -73550,6 +73565,8 @@ delivery.maihehd.com,REJECT
 .track.meirako.com,REJECT
 wmlog.meituan.com,REJECT
 .report.meituan.com,REJECT
+httpdns.meituan.com,REJECT
+httpdnsvip.meituan.com,REJECT
 .ea.melijoe.com,REJECT
 .marketing.melitta.com,REJECT
 .cdn1.memojav.com,REJECT
@@ -74119,7 +74136,6 @@ insights.samsung.com,REJECT
 .marketing.setaram.com,REJECT
 .cloud.setupad.com,REJECT
 .tracking.sexcash.com,REJECT
-.cdn.sgmntfy.com,REJECT
 .analytics.sgnapps.com,REJECT
 .target.sgproof.com,REJECT
 .metrics.sgproof.com,REJECT
@@ -74856,6 +74872,8 @@ htracker5.zmzfile.com,REJECT
 .smetrics.alecensa.com,REJECT
 .fvuitt.alibabuy.com,REJECT
 .beacon-api.aliyuncs.com,REJECT
+httpdns-sc.aliyuncs.com,REJECT
+httpdns-api.aliyuncs.com,REJECT
 .marketing.all-wall.com,REJECT
 .smetrics.allegion.com,REJECT
 .marketing.allgress.com,REJECT
@@ -74942,6 +74960,7 @@ log.b612kaji.com,REJECT
 .ionfip.badadict.com,REJECT
 .jymxse.baeulhak.com,REJECT
 .a.baidinet.com,REJECT
+httpdns.baidubce.com,REJECT
 .smetrics.bamboohr.com,REJECT
 .secure.bamsocks.com,REJECT
 .metc.banfield.com,REJECT
@@ -77747,6 +77766,7 @@ advertise.baicizhan.com,REJECT
 .dev-analytics-cf.bigcrunch.com,REJECT
 .secure.bike6debt.com,REJECT
 .cv.bikoshaen.com,REJECT
+httpdns.bilivideo.com,REJECT
 .vqxlbd.billyreid.com,REJECT
 .www2.bimobject.com,REJECT
 .www3.bimobject.com,REJECT
@@ -79785,6 +79805,7 @@ m.sjzhushou.com,REJECT
 .link.smallcase.com,REJECT
 .tracking.smartbets.com,REJECT
 .bsypmm.smartcara.com,REJECT
+stun.smartgslb.com,REJECT
 .go.smartjobr.com,REJECT
 .branch-io.smartr365.com,REJECT
 .gdnzwa.sofftshoe.com,REJECT
@@ -80396,6 +80417,7 @@ push.wandoujia.com,REJECT
 .fpida.yue-japan.com,REJECT
 .gwizal.yumbutter.com,REJECT
 .mrksmm.yumegazai.com,REJECT
+httpdns.yunxindns.com,REJECT
 .a.yuzhainan.com,REJECT
 .trk.yzsystems.com,REJECT
 .www.z00yy6tg2.com,REJECT
@@ -83051,6 +83073,7 @@ app-ad.variflight.com,REJECT
 .buzzer.xhofficial.com,REJECT
 .collector.xhofficial.com,REJECT
 .track.xiachufang.com,REJECT
+hd.xiaojukeji.com,REJECT
 .adtrack.xiaojukeji.com,REJECT
 .track.xmarketech.com,REJECT
 .analytics.xoomenergy.com,REJECT
@@ -83660,6 +83683,7 @@ app-ad.variflight.com,REJECT
 .go.faithfollow.com,REJECT
 .bee.farmaciavdg.com,REJECT
 .dyghye.fashionesta.com,REJECT
+.ldpsh.fashionnova.com,REJECT
 .jldtlh.fashionnova.com,REJECT
 .dl.fatimacapos.com,REJECT
 .metrics.fcbarcelona.com,REJECT
@@ -85667,6 +85691,8 @@ oppo.yidianzixun.com,REJECT
 .omes-sec.heytapmobile.com,REJECT
 .httpdns-push.heytapmobile.com,REJECT
 .dragate-in-dc.heytapmobile.com,REJECT
+httpdns-ocloud.heytapmobile.com,REJECT
+httpdns-euex-push.heytapmobile.com,REJECT
 .yzvpco.hfashionmall.com,REJECT
 .sstats.hickoryfarms.com,REJECT
 .lmorsb.highstreettv.com,REJECT
@@ -88030,6 +88056,7 @@ stat.zuimeitianqi.com,REJECT
 .track.vivermaisvida.com,REJECT
 .caterpillarsigns.vivyxprinting.com,REJECT
 .smetrics.vogue-eyewear.com,REJECT
+httpdns.volcengineapi.com,REJECT
 .share.vomevolunteer.com,REJECT
 .game.vulcan-casino.com,REJECT
 .stats.wallisfashion.com,REJECT
@@ -88566,6 +88593,7 @@ stat.zuimeitianqi.com,REJECT
 .somni.hardrockhotels.com,REJECT
 .marketing.hardysolutions.com,REJECT
 .offers.hddistributors.com,REJECT
+.mob2.healthapplines.com,REJECT
 .marketing.healthcarousel.com,REJECT
 .img.healthecareers.com,REJECT
 .go.healthgroupnow.com,REJECT
@@ -92316,6 +92344,7 @@ display.360totalsecurity.com,REJECT
 .srepdata.poughkeepsiejournal.com,REJECT
 .trk.powderandbulksolids.com,REJECT
 .install.pranavconstructions.com,REJECT
+.sponsor.printondemandagency.com,REJECT
 .mdws.provincialemployees.com,REJECT
 .sp.publicopiniononline.com,REJECT
 .sxjfhh.publicopiniononline.com,REJECT
@@ -104542,6 +104571,7 @@ wxsmsdy.video.qq.com,REJECT
 sdkconfig.video.qq.com,REJECT
 huatuocode.huatuo.qq.com,REJECT
 .ad.weixin.qq.com,REJECT
+dns.weixin.qq.com,REJECT
 .log1.wtlogin.qq.com,REJECT
 .zahvzj.fxpro.ru.com,REJECT
 .app.dreambox.ru.com,REJECT
@@ -104552,12 +104582,16 @@ huatuocode.huatuo.qq.com,REJECT
 .smetrix.avon.uk.com,REJECT
 .marketing.teamspirit.uk.com,REJECT
 .app.go.xo.com,REJECT
+httpdns-v6.gslb.yy.com,REJECT
+union-httpdns.gslb.yy.com,REJECT
+yyapp-httpdns.gslb.yy.com,REJECT
 iad.g.163.com,REJECT
 n.3g.163.com,REJECT
 .ac.dun.163.com,REJECT
 .fp-upload.dun.163.com,REJECT
 .timejs.game.163.com,REJECT
 .sentry.music.163.com,REJECT
+httpdns.music.163.com,REJECT
 .clientlog.music.163.com,REJECT
 .metrics.calif.aaa.com,REJECT
 .analytic.calif.aaa.com,REJECT
@@ -104660,8 +104694,6 @@ n.3g.163.com,REJECT
 .ablink.stream.max.com,REJECT
 .ablink.service.max.com,REJECT
 .ablink.marketing.max.com,REJECT
-.api.exc.mob.com,REJECT
-.api.share.mob.com,REJECT
 ads.eu.msn.com,REJECT
 rmads.eu.msn.com,REJECT
 .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com,REJECT
@@ -105595,6 +105627,7 @@ gvod.aiseejapp.atianqi.com,REJECT
 .links.email.bravotv.com,REJECT
 .images.e.brother.com,REJECT
 .tracking.server.bytecon.com,REJECT
+httpdns.c.cdnhwc2.com,REJECT
 .s.info.cemexgo.com,REJECT
 .app.global.certain.com,REJECT
 .tr.newsletter.chandon.com,REJECT
@@ -105741,8 +105774,10 @@ log.v2.hunantv.com,REJECT
 .metrics.winsc.natwest.com,REJECT
 .metrics.droidsc.natwest.com,REJECT
 .app.response.neopost.com,REJECT
+httpdns-sdk.n.netease.com,REJECT
 ad.bn.netease.com,REJECT
 .pr.nss.netease.com,REJECT
+.internal.dradis.netflix.com,REJECT
 .saadata.career.netjets.com,REJECT
 .images.info.newhope.com,REJECT
 .us.tags.newscgp.com,REJECT
@@ -106726,6 +106761,7 @@ adx-drru.op.dbankcloud.com,REJECT
 .tr.emailing.grassavoye.com,REJECT
 .app.go.healthways.com,REJECT
 .tms.hft.hellofresh.com,REJECT
+httpdns.push.heytapmobi.com,REJECT
 .pages.feedback.hofvillage.com,REJECT
 .data.emails.imaginbank.com,REJECT
 .images.info.immofinanz.com,REJECT
@@ -108588,6 +108624,7 @@ al-log.d.meituan.net,REJECT
 huodong.ios.shouji.360.cn,REJECT
 act.commercial.shouji.360.cn,REJECT
 soft.data.weather.360.cn,REJECT
+dns.weixin.qq.com.cn,REJECT
 .tracking.mail.ti.com.cn,REJECT
 .images.mkt.zte.com.cn,REJECT
 .images.newsletter.hach.com.cn,REJECT

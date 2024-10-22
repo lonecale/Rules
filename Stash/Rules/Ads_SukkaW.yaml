@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-10-22T12:39:11.774Z
-  # Size: 109413
+  # Last Updated: 2024-10-22T17:24:38.783Z
+  # Size: 109450
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -718,6 +718,7 @@ payload:
   - .dsceopm.cn
   - .dssdfsf.cn
   - .dswcrlf.cn
+  - .duomeng.cn
   - .dvclhmt.cn
   - .dwbfqmz.cn
   - .dwtkuzo.cn
@@ -4921,6 +4922,7 @@ payload:
   - .a4g.com
   - .ad7.com
   - .b2c.com
+  - .mob.com
   - .oix.com
   - .pp8.com
   - .ru4.com
@@ -9840,6 +9842,7 @@ payload:
   - .sgfsdvc.com
   - .sgftrrs.com
   - .sgihava.com
+  - .sgmntfy.com
   - .sgrawwa.com
   - .sgstats.com
   - .sh2tiki.com
@@ -14654,6 +14657,7 @@ payload:
   - .kavaycash.com
   - .kaxjtkvgo.com
   - .kbadkxocv.com
+  - .kcggmyeag.com
   - .kdczhmain.com
   - .kdmunzpmw.com
   - .keen-slip.com
@@ -26656,6 +26660,7 @@ payload:
   - .text-link-ads.com
   - .tgboghbslgrkg.com
   - .theactualnewz.com
+  - .thebitmeister.com
   - .thecatmachine.com
   - .thefreshposts.com
   - .thegoodcaster.com
@@ -28775,6 +28780,7 @@ payload:
   - .wemakebestnews.com
   - .wendelstein-1b.com
   - .westreflection.com
+  - .whatisaweekend.com
   - .whencewaxworks.com
   - .whiprayoutkill.com
   - .whisperinflate.com
@@ -40708,6 +40714,7 @@ payload:
   - .hubaffiliations.net
   - .joomisomushisuw.net
   - .kiemtiendinhcao.net
+  - .koomowailiwuzou.net
   - .lifeimpressions.net
   - .mediaonenetwork.net
   - .new-vietcombank.net
@@ -42222,6 +42229,7 @@ payload:
   - .hgidskiu.top
   - .hnifdlau.top
   - .hook2up6.top
+  - .houvxliu.top
   - .hrutvncu.top
   - .hwerilxu.top
   - .hwurseru.top
@@ -43965,6 +43973,7 @@ payload:
   - .qhodog.xyz
   - .qhscsu.xyz
   - .qiaoxz.xyz
+  - .qjoges.xyz
   - .qjwvwu.xyz
   - .qkikkg.xyz
   - .qkscga.xyz
@@ -48722,6 +48731,7 @@ payload:
   - .f6176563.site
   - .freefrog.site
   - .hilerant.site
+  - .news-cdn.site
   - .rkgnmwre.site
   - .scl6gc5l.site
   - .screenov.site
@@ -52316,6 +52326,7 @@ payload:
   - g.tbcdn.cn
   - iflow.uczzd.cn
   - .v.vl404.cn
+  - dns.weibo.cn
   - game.weibo.cn
   - .lm1.wkpcw.cn
   - .ce.wlaoc.cn
@@ -66380,6 +66391,7 @@ payload:
   - .ibd-as-api.iq.com
   - .o.j2.com
   - .os.j2.com
+  - dns.jd.com
   - .gia.jd.com
   - jzt.jd.com
   - .log.jd.com
@@ -66457,7 +66469,7 @@ payload:
   - adshmmsg.qq.com
   - adsview2.qq.com
   - pingtcss.qq.com
-  - rmonitor.qq.com
+  - .rmonitor.qq.com
   - adslvfile.qq.com
   - adslvseed.qq.com
   - .beaconcdn.qq.com
@@ -66857,8 +66869,6 @@ payload:
   - .bpeml.mlb.com
   - .fmvwlk.mms.com
   - .yiiwaq.mms.com
-  - .data.mob.com
-  - .log-verify.mob.com
   - .x822.mrt.com
   - .smetrics.msg.com
   - .c.msn.com
@@ -67511,6 +67521,7 @@ payload:
   - .l.imax.com
   - .ads.imbc.com
   - .adsmrapi.imbc.com
+  - .metrics.imdb.com
   - .smetrics.imvu.com
   - .branch.indi.com
   - .marketing.inex.com
@@ -68307,12 +68318,14 @@ payload:
   - .caclick.baidu.com
   - .duclick.baidu.com
   - .guanjia.baidu.com
+  - httpdns.baidu.com
   - .imgstat.baidu.com
   - .nsclick.baidu.com
   - .tracker.baidu.com
   - .tuijian.baidu.com
   - .tuisong.baidu.com
   - .wkclick.baidu.com
+  - httpsdns.baidu.com
   - .wangmeng.baidu.com
   - click-bes.baidu.com
   - nadvideo2.baidu.com
@@ -69874,6 +69887,7 @@ payload:
   - gtms03.alicdn.com
   - gtms04.alicdn.com
   - .alimama.alicdn.com
+  - httpdns.alicdn.com
   - .dorangesource.alicdn.com
   - .nbsdk-baichuan.alicdn.com
   - .amdc.alipay.com
@@ -71003,6 +71017,7 @@ payload:
   - .zozwyc.moscot.com
   - .click.moselo.com
   - .click-testing.moselo.com
+  - .adx.mossru.com
   - .app.motiwy.com
   - .m1tm.motor1.com
   - .data-88ba07a559.motor1.com
@@ -73551,6 +73566,8 @@ payload:
   - .track.meirako.com
   - wmlog.meituan.com
   - .report.meituan.com
+  - httpdns.meituan.com
+  - httpdnsvip.meituan.com
   - .ea.melijoe.com
   - .marketing.melitta.com
   - .cdn1.memojav.com
@@ -74120,7 +74137,6 @@ payload:
   - .marketing.setaram.com
   - .cloud.setupad.com
   - .tracking.sexcash.com
-  - .cdn.sgmntfy.com
   - .analytics.sgnapps.com
   - .target.sgproof.com
   - .metrics.sgproof.com
@@ -74857,6 +74873,8 @@ payload:
   - .smetrics.alecensa.com
   - .fvuitt.alibabuy.com
   - .beacon-api.aliyuncs.com
+  - httpdns-sc.aliyuncs.com
+  - httpdns-api.aliyuncs.com
   - .marketing.all-wall.com
   - .smetrics.allegion.com
   - .marketing.allgress.com
@@ -74943,6 +74961,7 @@ payload:
   - .ionfip.badadict.com
   - .jymxse.baeulhak.com
   - .a.baidinet.com
+  - httpdns.baidubce.com
   - .smetrics.bamboohr.com
   - .secure.bamsocks.com
   - .metc.banfield.com
@@ -77748,6 +77767,7 @@ payload:
   - .dev-analytics-cf.bigcrunch.com
   - .secure.bike6debt.com
   - .cv.bikoshaen.com
+  - httpdns.bilivideo.com
   - .vqxlbd.billyreid.com
   - .www2.bimobject.com
   - .www3.bimobject.com
@@ -79786,6 +79806,7 @@ payload:
   - .link.smallcase.com
   - .tracking.smartbets.com
   - .bsypmm.smartcara.com
+  - stun.smartgslb.com
   - .go.smartjobr.com
   - .branch-io.smartr365.com
   - .gdnzwa.sofftshoe.com
@@ -80397,6 +80418,7 @@ payload:
   - .fpida.yue-japan.com
   - .gwizal.yumbutter.com
   - .mrksmm.yumegazai.com
+  - httpdns.yunxindns.com
   - .a.yuzhainan.com
   - .trk.yzsystems.com
   - .www.z00yy6tg2.com
@@ -83052,6 +83074,7 @@ payload:
   - .buzzer.xhofficial.com
   - .collector.xhofficial.com
   - .track.xiachufang.com
+  - hd.xiaojukeji.com
   - .adtrack.xiaojukeji.com
   - .track.xmarketech.com
   - .analytics.xoomenergy.com
@@ -83661,6 +83684,7 @@ payload:
   - .go.faithfollow.com
   - .bee.farmaciavdg.com
   - .dyghye.fashionesta.com
+  - .ldpsh.fashionnova.com
   - .jldtlh.fashionnova.com
   - .dl.fatimacapos.com
   - .metrics.fcbarcelona.com
@@ -85668,6 +85692,8 @@ payload:
   - .omes-sec.heytapmobile.com
   - .httpdns-push.heytapmobile.com
   - .dragate-in-dc.heytapmobile.com
+  - httpdns-ocloud.heytapmobile.com
+  - httpdns-euex-push.heytapmobile.com
   - .yzvpco.hfashionmall.com
   - .sstats.hickoryfarms.com
   - .lmorsb.highstreettv.com
@@ -88031,6 +88057,7 @@ payload:
   - .track.vivermaisvida.com
   - .caterpillarsigns.vivyxprinting.com
   - .smetrics.vogue-eyewear.com
+  - httpdns.volcengineapi.com
   - .share.vomevolunteer.com
   - .game.vulcan-casino.com
   - .stats.wallisfashion.com
@@ -88567,6 +88594,7 @@ payload:
   - .somni.hardrockhotels.com
   - .marketing.hardysolutions.com
   - .offers.hddistributors.com
+  - .mob2.healthapplines.com
   - .marketing.healthcarousel.com
   - .img.healthecareers.com
   - .go.healthgroupnow.com
@@ -92317,6 +92345,7 @@ payload:
   - .srepdata.poughkeepsiejournal.com
   - .trk.powderandbulksolids.com
   - .install.pranavconstructions.com
+  - .sponsor.printondemandagency.com
   - .mdws.provincialemployees.com
   - .sp.publicopiniononline.com
   - .sxjfhh.publicopiniononline.com
@@ -104543,6 +104572,7 @@ payload:
   - sdkconfig.video.qq.com
   - huatuocode.huatuo.qq.com
   - .ad.weixin.qq.com
+  - dns.weixin.qq.com
   - .log1.wtlogin.qq.com
   - .zahvzj.fxpro.ru.com
   - .app.dreambox.ru.com
@@ -104553,12 +104583,16 @@ payload:
   - .smetrix.avon.uk.com
   - .marketing.teamspirit.uk.com
   - .app.go.xo.com
+  - httpdns-v6.gslb.yy.com
+  - union-httpdns.gslb.yy.com
+  - yyapp-httpdns.gslb.yy.com
   - iad.g.163.com
   - n.3g.163.com
   - .ac.dun.163.com
   - .fp-upload.dun.163.com
   - .timejs.game.163.com
   - .sentry.music.163.com
+  - httpdns.music.163.com
   - .clientlog.music.163.com
   - .metrics.calif.aaa.com
   - .analytic.calif.aaa.com
@@ -104661,8 +104695,6 @@ payload:
   - .ablink.stream.max.com
   - .ablink.service.max.com
   - .ablink.marketing.max.com
-  - .api.exc.mob.com
-  - .api.share.mob.com
   - ads.eu.msn.com
   - rmads.eu.msn.com
   - .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
@@ -105596,6 +105628,7 @@ payload:
   - .links.email.bravotv.com
   - .images.e.brother.com
   - .tracking.server.bytecon.com
+  - httpdns.c.cdnhwc2.com
   - .s.info.cemexgo.com
   - .app.global.certain.com
   - .tr.newsletter.chandon.com
@@ -105742,8 +105775,10 @@ payload:
   - .metrics.winsc.natwest.com
   - .metrics.droidsc.natwest.com
   - .app.response.neopost.com
+  - httpdns-sdk.n.netease.com
   - ad.bn.netease.com
   - .pr.nss.netease.com
+  - .internal.dradis.netflix.com
   - .saadata.career.netjets.com
   - .images.info.newhope.com
   - .us.tags.newscgp.com
@@ -106727,6 +106762,7 @@ payload:
   - .tr.emailing.grassavoye.com
   - .app.go.healthways.com
   - .tms.hft.hellofresh.com
+  - httpdns.push.heytapmobi.com
   - .pages.feedback.hofvillage.com
   - .data.emails.imaginbank.com
   - .images.info.immofinanz.com
@@ -108589,6 +108625,7 @@ payload:
   - huodong.ios.shouji.360.cn
   - act.commercial.shouji.360.cn
   - soft.data.weather.360.cn
+  - dns.weixin.qq.com.cn
   - .tracking.mail.ti.com.cn
   - .images.mkt.zte.com.cn
   - .images.newsletter.hach.com.cn
