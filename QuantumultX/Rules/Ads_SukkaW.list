@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-23T12:39:08.810Z
-# Size: 111551
+# Last Updated: 2024-10-23T17:55:56.059Z
+# Size: 111574
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13206,6 +13206,7 @@ lgtvsdp.com,REJECT
 .vexacion.com,REJECT
 .vexolinu.com,REJECT
 .vfvdsati.com,REJECT
+.vhducnso.com,REJECT
 .vi-serve.com,REJECT
 .viaklera.com,REJECT
 .vib-bank.com,REJECT
@@ -13949,6 +13950,7 @@ lgtvsdp.com,REJECT
 .binomnet3.com,REJECT
 .bioxtubes.com,REJECT
 .biptolyla.com,REJECT
+.birleeris.com,REJECT
 .bissailre.com,REJECT
 .bitcoines.com,REJECT
 .bitraffic.com,REJECT
@@ -14518,6 +14520,7 @@ lgtvsdp.com,REJECT
 .gitcrumbs.com,REJECT
 .givingsol.com,REJECT
 .gixiluros.com,REJECT
+.gjskjzejk.com,REJECT
 .gk79a2oup.com,REJECT
 .gkbhrj49a.com,REJECT
 .gladsince.com,REJECT
@@ -18130,6 +18133,7 @@ lgtvsdp.com,REJECT
 .huwkiycoup.com,REJECT
 .hvooyieoei.com,REJECT
 .hwpnocpctu.com,REJECT
+.hybubehxmv.com,REJECT
 .hydrangeao.com,REJECT
 .i8xkjci7nd.com,REJECT
 .ibillboard.com,REJECT
@@ -18748,6 +18752,7 @@ lgtvsdp.com,REJECT
 .ojzghaawlf.com,REJECT
 .okvovqrfuc.com,REJECT
 .olgknseruf.com,REJECT
+.olivecough.com,REJECT
 .ollsukztoo.com,REJECT
 .olnjitvizo.com,REJECT
 .olnoklmuxo.com,REJECT
@@ -21772,6 +21777,7 @@ samsungqbe.com,REJECT
 .persianstat.com,REJECT
 .persistsaid.com,REJECT
 .pervertmine.com,REJECT
+.pesterolive.com,REJECT
 .petametrics.com,REJECT
 .petrifacius.com,REJECT
 .pezoomsekre.com,REJECT
@@ -24956,6 +24962,7 @@ samsungqbe.com,REJECT
 .qavgacsmegav.com,REJECT
 .qcaagekddoic.com,REJECT
 .qceatqoqwpza.com,REJECT
+.qcerujcajnme.com,REJECT
 .qfiofvovgapc.com,REJECT
 .qfoobwxadcmi.com,REJECT
 .qgevavwyafjf.com,REJECT
@@ -25666,6 +25673,7 @@ samsungqbe.com,REJECT
 .unstoutgolfs.com,REJECT
 .unusualtitle.com,REJECT
 .uoarbhxfyygn.com,REJECT
+.upgoawqlghwh.com,REJECT
 .upliftsearch.com,REJECT
 .uponsurskita.com,REJECT
 .upontogeticr.com,REJECT
@@ -29226,6 +29234,7 @@ samsungqbe.com,REJECT
 .gmcoanceqoymws.com,REJECT
 .gnashesfanfare.com,REJECT
 .gnatterjingall.com,REJECT
+.go-to-zlibrary.com,REJECT
 .gobbingtheresa.com,REJECT
 .gobetweengroan.com,REJECT
 .golden-gateway.com,REJECT
@@ -30375,6 +30384,7 @@ samsungqbe.com,REJECT
 .usuallyaltered.com,REJECT
 .utilitypresent.com,REJECT
 .utilizeimplore.com,REJECT
+.utrdiwdcmhrfon.com,REJECT
 .uvwtmppnbqgzha.com,REJECT
 .uvyuznmuxcyqgd.com,REJECT
 .uwnqbekejrtibi.com,REJECT
@@ -30490,6 +30500,7 @@ samsungqbe.com,REJECT
 .womangathering.com,REJECT
 .womerasecocide.com,REJECT
 .woodbeesdainty.com,REJECT
+.woodlandanyone.com,REJECT
 .woollenthawewe.com,REJECT
 .worldbestposts.com,REJECT
 .worldfreshblog.com,REJECT
@@ -41836,6 +41847,7 @@ samsungcloudsolution.com,REJECT
 .vaikijie.net,REJECT
 .vaitotoo.net,REJECT
 .vasteeds.net,REJECT
+.vauloops.net,REJECT
 .vaxoovos.net,REJECT
 .vayde247.net,REJECT
 .vempozah.net,REJECT
@@ -45083,6 +45095,7 @@ samsungcloudsolution.net,REJECT
 .insurancide.vip,REJECT
 .insurancoes.vip,REJECT
 .insurancpsd.vip,REJECT
+.nhgpidvhdzm.vip,REJECT
 .thanquay247.vip,REJECT
 .vietcapital.vip,REJECT
 .hdsaison-app.vip,REJECT
@@ -48819,6 +48832,7 @@ samsungcloudsolution.net,REJECT
 .adthereis.buzz,REJECT
 .wukbgater.buzz,REJECT
 .tsapphires.buzz,REJECT
+.xavitithnga.buzz,REJECT
 .cipledecline.buzz,REJECT
 .etingplansfo.buzz,REJECT
 .theharityhild.buzz,REJECT
@@ -54285,6 +54299,7 @@ leak.360.cn,REJECT
 .cctvgb.com.cn,REJECT
 .wooboo.com.cn,REJECT
 .ipinyou.com.cn,REJECT
+.js96110.com.cn,REJECT
 .mairuan.com.cn,REJECT
 .taboola.com.cn,REJECT
 .chemdraw.com.cn,REJECT
@@ -73838,6 +73853,7 @@ sdkinit.taobao.com,REJECT
 .metrics.ttiinc.com,REJECT
 .smetrics.ttiinc.com,REJECT
 .tracker.tubecj.com,REJECT
+.analytics-ingestion-production.tubitv.com,REJECT
 .cool.tubous.com,REJECT
 .marketing.tucasi.com,REJECT
 .smetrics.tune-h.com,REJECT
@@ -74118,6 +74134,7 @@ i.xiaomi.com,REJECT
 hd.xiaomi.com,REJECT
 hm.xiaomi.com,REJECT
 .ad1.xiaomi.com,REJECT
+.ads.xiaomi.com,REJECT
 blog.xiaomi.com,REJECT
 game.xiaomi.com,REJECT
 mibi.xiaomi.com,REJECT
@@ -106977,6 +106994,7 @@ rom.pt.miui.com,REJECT
 info.sec.miui.com,REJECT
 .mazu.sec.miui.com,REJECT
 .xlmc.sec.miui.com,REJECT
+.avast.sec.miui.com,REJECT
 flash.sec.miui.com,REJECT
 proxy.sec.miui.com,REJECT
 .avlyun.sec.miui.com,REJECT
@@ -107641,6 +107659,7 @@ mibi.api.xiaomi.com,REJECT
 xshare.api.xiaomi.com,REJECT
 a0.app.xiaomi.com,REJECT
 image.box.xiaomi.com,REJECT
+.ad.rus.xiaomi.com,REJECT
 .mistat.rus.xiaomi.com,REJECT
 zx.game.xiaomi.com,REJECT
 bbs.game.xiaomi.com,REJECT
@@ -107662,6 +107681,7 @@ app.migc.xiaomi.com,REJECT
 mis.migc.xiaomi.com,REJECT
 pmall.migc.xiaomi.com,REJECT
 a.stat.xiaomi.com,REJECT
+.ad.india.xiaomi.com,REJECT
 .mistat.india.xiaomi.com,REJECT
 order.music.xiaomi.com,REJECT
 api.hybrid.xiaomi.com,REJECT
@@ -110333,8 +110353,10 @@ al-log.d.meituan.net,REJECT
 .1187531871.rsc.cdn77.org,REJECT
 .1208344341.rsc.cdn77.org,REJECT
 .1310530397.rsc.cdn77.org,REJECT
+.1323818756.rsc.cdn77.org,REJECT
 .1402819692.rsc.cdn77.org,REJECT
 .1437953666.rsc.cdn77.org,REJECT
+.1446023384.rsc.cdn77.org,REJECT
 .1480876790.rsc.cdn77.org,REJECT
 .1529462937.rsc.cdn77.org,REJECT
 .1548164934.rsc.cdn77.org,REJECT
@@ -111323,6 +111345,7 @@ cc.sys.intl.xiaomi.com,REJECT
 ccc.sys.intl.xiaomi.com,REJECT
 api.hybrid.intl.xiaomi.com,REJECT
 tv.app.migc.xiaomi.com,REJECT
+.ad.quickapp.hybrid.xiaomi.com,REJECT
 t1.a.market.xiaomi.com,REJECT
 t2.a.market.xiaomi.com,REJECT
 t3.a.market.xiaomi.com,REJECT
