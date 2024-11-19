@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-18T12:42:03.870Z
-  # Size: 110048
+  # Last Updated: 2024-11-19T02:36:22.917Z
+  # Size: 110068
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -1813,7 +1813,6 @@ payload:
   - .exchangecash.de
   - .firstsponsor.de
   - .lambdafoobar.de
-  - .media-guides.de
   - .microcounter.de
   - .multicounter.de
   - .notenpartner.de
@@ -10670,6 +10669,7 @@ payload:
   - .authognu.com
   - .avadacom.com
   - .avastats.com
+  - .avhjzemp.com
   - .avvxcexk.com
   - .avwlptrk.com
   - .awempire.com
@@ -10970,7 +10970,6 @@ payload:
   - .cuelinks.com
   - .cuntador.com
   - .cupswiss.com
-  - .curalate.com
   - .curvycry.com
   - .cutechin.com
   - .cuwlmupz.com
@@ -11314,6 +11313,7 @@ payload:
   - .gold-mir.com
   - .gold2762.com
   - .gomtdata.com
+  - .gomucreu.com
   - .goodbark.com
   - .goomaphy.com
   - .goosimes.com
@@ -11344,6 +11344,7 @@ payload:
   - .grihaith.com
   - .gripcorn.com
   - .grirqaks.com
+  - .gritoils.com
   - .groameeb.com
   - .grooksom.com
   - .groomoub.com
@@ -12668,6 +12669,7 @@ payload:
   - .terra8nb.com
   - .tgolived.com
   - .tgtmedia.com
+  - .thacreks.com
   - .thairoob.com
   - .thaitsie.com
   - .thartout.com
@@ -17125,6 +17127,7 @@ payload:
   - .exactdrive.com
   - .exaltbelow.com
   - .exemplarif.com
+  - .exgjhawccb.com
   - .exi8ef83z9.com
   - .exobafrgdf.com
   - .exogripper.com
@@ -17417,6 +17420,7 @@ payload:
   - .hethongbhx.com
   - .heycryptic.com
   - .hfhppxseee.com
+  - .hfnuqljjnt.com
   - .hgub2polye.com
   - .hhbypdoecp.com
   - .hhooyivpxq.com
@@ -19687,6 +19691,7 @@ payload:
   - .ctusolution.com
   - .cubicnought.com
   - .cufultahaur.com
+  - .curatekrait.com
   - .curlycannon.com
   - .curtaincows.com
   - .curvedhoney.com
@@ -24448,6 +24453,7 @@ payload:
   - .writingwhine.com
   - .writshackman.com
   - .wsjlbbqemr23.com
+  - .wtyankriwnza.com
   - .wuczmaorkqaz.com
   - .wvietcombank.com
   - .wwaowwonthco.com
@@ -25912,6 +25918,7 @@ payload:
   - .photographpan.com
   - .physicalbikes.com
   - .pickvideolink.com
+  - .pictunoctette.com
   - .pinchsquirrel.com
   - .pinkberrytube.com
   - .pipaffiliates.com
@@ -27532,6 +27539,7 @@ payload:
   - .inkblotconusor.com
   - .inquisitiveice.com
   - .insightexpress.com
+  - .insistpeerbeef.com
   - .installtracker.com
   - .instantdollarz.com
   - .instinctiveads.com
@@ -29674,6 +29682,7 @@ payload:
   - .spoutitchyyummy.com
   - .springaftermath.com
   - .sprinklecontent.com
+  - .spunorientation.com
   - .stalerestaurant.com
   - .startappservice.com
   - .startfinishthis.com
@@ -31245,6 +31254,7 @@ payload:
   - .bedwhimpershindig.com
   - .benchmarkingstuff.com
   - .berriescourageous.com
+  - .best-girls-around.com
   - .bestcasinopartner.com
   - .bestforexpartners.com
   - .bestonlinecoupons.com
@@ -32649,6 +32659,7 @@ payload:
   - .orhavingartisticta.com
   - .outbalanceleverage.com
   - .outdilateinterrupt.com
+  - .outlayreliancevine.com
   - .outsetnormalwaited.com
   - .overallfetchheight.com
   - .overboardbilingual.com
@@ -38031,6 +38042,7 @@ payload:
   - .sjluuom.icu
   - .skaumbp.icu
   - .slcmvgr.icu
+  - .snnmgdt.icu
   - .snueirk.icu
   - .sowsuwm.icu
   - .sxoejoc.icu
@@ -38179,6 +38191,7 @@ payload:
   - .kvum-bpelzw.icu
   - .yourprivacy.icu
   - .iystrbftlwif.icu
+  - .wpfly-sbpkrd.icu
   - .bional-dested.icu
   - .exists-mazard.icu
   - .hdbankfinancc.icu
@@ -40426,6 +40439,7 @@ payload:
   - .lightningcast.net
   - .luminatichina.net
   - .money-finance.net
+  - .mooptoasinudy.net
   - .mysitetraffic.net
   - .nalraughaksie.net
   - .napgamemobile.net
@@ -42038,6 +42052,7 @@ payload:
   - .ortlisk.top
   - .osyliek.top
   - .ouresdk.top
+  - .oweisik.top
   - .oweriok.top
   - .oyretuk.top
   - .oyuwkbk.top
@@ -42686,6 +42701,7 @@ payload:
   - .jelokeryevrmz.top
   - .jeoawamjbbyeq.top
   - .jeoawamjbbzjy.top
+  - .jybaekajjmqrz.top
   - .jyozavoyyymly.top
   - .jyvkwqjoombkz.top
   - .jzqbyykbrrbkq.top
@@ -46328,6 +46344,7 @@ payload:
   - .staerlcmplks.xyz
   - .staupsadraim.xyz
   - .steefaulrouy.xyz
+  - .steepuleltou.xyz
   - .survrhostngs.xyz
   - .taimachojoba.xyz
   - .tgktlgyqsffx.xyz
@@ -46577,6 +46594,7 @@ payload:
   - .gleeltukaweetho.xyz
   - .gmuskkvfophohqn.xyz
   - .gnssivagwelwspe.xyz
+  - .gquwuefddojikxo.xyz
   - .grojaigrerdugru.xyz
   - .haamumvxavsxwac.xyz
   - .hntkeiupbnoaeha.xyz
@@ -46638,8 +46656,10 @@ payload:
   - .ymansxfmdjhvqly.xyz
   - .ynonymlxtqisyka.xyz
   - .ynrnfedbmuuemhs.xyz
+  - .yrccils0spqnkc3.xyz
   - .yuuchxfuutmdyyd.xyz
   - .ywopyohpihnkppc.xyz
+  - .z9uvpwarkk1mnpf.xyz
   - .zounaishuphaucu.xyz
   - .bideo-schnellvpn.xyz
   - .chambermaidthree.xyz
@@ -49624,6 +49644,7 @@ payload:
   - .dyipkcuro.rocks
   - .g-xtqrgag.rocks
   - .rv-syzfedv.rocks
+  - .i-svzgrtibs.rocks
   - .lqcngjecijy.rocks
   - .monerominer.rocks
   - .oz-yypkhuwo.rocks
@@ -83818,7 +83839,6 @@ payload:
   - .stereos2.crutchfield.com
   - .stereos2s.crutchfield.com
   - .lnk.culturetrip.com
-  - .dz.curatekrait.com
   - .em.curnberthed.com
   - .smetrics.customersvc.com
   - .nfksex.customsigns.com
@@ -87656,6 +87676,7 @@ payload:
   - .start.hearsaysocial.com
   - .j158.hearstmediact.com
   - .f857.hearstmediatx.com
+  - .log.heartratepros.com
   - .track.heelsiumsocks.com
   - .listing-a8-itp.hello-storage.com
   - .a8trck.helloactivity.com
@@ -88077,7 +88098,6 @@ payload:
   - .a8cv.physiqueframe.com
   - .ydtzzw.pianetabasket.com
   - .app.pickyourtrail.com
-  - .dv.pictunoctette.com
   - .metrics.pisces-penton.com
   - .sheep.pixair-survey.com
   - .zx.plaiceagonist.com
