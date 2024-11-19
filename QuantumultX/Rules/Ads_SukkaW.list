@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-19T02:36:22.917Z
-# Size: 110068
+# Last Updated: 2024-11-19T12:25:16.211Z
+# Size: 110074
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9706,6 +9706,7 @@ lgtvsdp.com,REJECT
 .scashwl.com,REJECT
 .scendho.com,REJECT
 .scfsdvc.com,REJECT
+.scihuns.com,REJECT
 .sclrnnp.com,REJECT
 .scmn0di.com,REJECT
 .scnd-tr.com,REJECT
@@ -20070,6 +20071,7 @@ samsungqbe.com,REJECT
 .go-g3t-som3.com,REJECT
 .goaleedeary.com,REJECT
 .goatcounter.com,REJECT
+.goclicknext.com,REJECT
 .gojsmanager.com,REJECT
 .golderotica.com,REJECT
 .goobakocaup.com,REJECT
@@ -37570,6 +37572,7 @@ samsungcloudsolution.com,REJECT
 .cloudcdn.gdn,REJECT
 .cloudmedia.gdn,REJECT
 .xoilactv123.gdn,REJECT
+.4t6u.icu,REJECT
 .0pdsa.icu,REJECT
 .1cecn.icu,REJECT
 .1dki0.icu,REJECT
@@ -50010,6 +50013,7 @@ nmbr.info,REJECT
 .adtrace.online,REJECT
 .agadata.online,REJECT
 .bigvids.online,REJECT
+.datazap.online,REJECT
 .mc-live.online,REJECT
 .ncbbank.online,REJECT
 .nhanqua.online,REJECT
@@ -70033,6 +70037,7 @@ cps.360buy.com,REJECT
 .console.adspmg.com,REJECT
 .cdn.adt356.com,REJECT
 .cdn.adt361.com,REJECT
+.cdn.adt512.com,REJECT
 .cdn.adt532.com,REJECT
 .fpa-api.adweek.com,REJECT
 .fpa-cdn.adweek.com,REJECT
@@ -98322,6 +98327,7 @@ tag.safary.club,REJECT
 .stat.wanted.jobs,REJECT
 .data-927768f668.pharmastellen.jobs,REJECT
 .smetrics.home.kpmg,REJECT
+.stats.amur.life,REJECT
 .v.cdn4.life,REJECT
 .afi.iino.life,REJECT
 .cv.nell.life,REJECT

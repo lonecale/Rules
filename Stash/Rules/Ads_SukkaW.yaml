@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-19T02:36:22.917Z
-  # Size: 110068
+  # Last Updated: 2024-11-19T12:25:16.211Z
+  # Size: 110074
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -9707,6 +9707,7 @@ payload:
   - .scashwl.com
   - .scendho.com
   - .scfsdvc.com
+  - .scihuns.com
   - .sclrnnp.com
   - .scmn0di.com
   - .scnd-tr.com
@@ -20071,6 +20072,7 @@ payload:
   - .go-g3t-som3.com
   - .goaleedeary.com
   - .goatcounter.com
+  - .goclicknext.com
   - .gojsmanager.com
   - .golderotica.com
   - .goobakocaup.com
@@ -37571,6 +37573,7 @@ payload:
   - .cloudcdn.gdn
   - .cloudmedia.gdn
   - .xoilactv123.gdn
+  - .4t6u.icu
   - .0pdsa.icu
   - .1cecn.icu
   - .1dki0.icu
@@ -50011,6 +50014,7 @@ payload:
   - .adtrace.online
   - .agadata.online
   - .bigvids.online
+  - .datazap.online
   - .mc-live.online
   - .ncbbank.online
   - .nhanqua.online
@@ -70034,6 +70038,7 @@ payload:
   - .console.adspmg.com
   - .cdn.adt356.com
   - .cdn.adt361.com
+  - .cdn.adt512.com
   - .cdn.adt532.com
   - .fpa-api.adweek.com
   - .fpa-cdn.adweek.com
@@ -98323,6 +98328,7 @@ payload:
   - .stat.wanted.jobs
   - .data-927768f668.pharmastellen.jobs
   - .smetrics.home.kpmg
+  - .stats.amur.life
   - .v.cdn4.life
   - .afi.iino.life
   - .cv.nell.life
