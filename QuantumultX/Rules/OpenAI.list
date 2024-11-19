@@ -1,0 +1,18 @@
+# 内容：OpenAi
+# 数量：16条
+HOST-KEYWORD,openai,PROXY
+HOST-SUFFIX,auth0.com,PROXY
+HOST-SUFFIX,challenges.cloudflare.com,PROXY
+HOST-SUFFIX,chatgpt.com,PROXY
+HOST-SUFFIX,client-api.arkoselabs.com,PROXY
+HOST-SUFFIX,events.statsigapi.net,PROXY
+HOST-SUFFIX,featuregates.org,PROXY
+HOST-SUFFIX,identrust.com,PROXY
+HOST-SUFFIX,intercom.io,PROXY
+HOST-SUFFIX,intercomcdn.com,PROXY
+HOST-SUFFIX,oaistatic.com,PROXY
+HOST-SUFFIX,oaiusercontent.com,PROXY
+HOST-SUFFIX,openai.com,PROXY
+HOST-SUFFIX,openaiapi-site.azureedge.net,PROXY
+HOST-SUFFIX,sentry.io,PROXY
+HOST-SUFFIX,stripe.com,PROXY
