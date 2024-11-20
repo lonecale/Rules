@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-19T12:25:16.211Z
-  # Size: 110074
+  # Last Updated: 2024-11-20T06:40:27.215Z
+  # Size: 110122
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -5271,6 +5271,7 @@ payload:
   - .clevv.com
   - .clkmg.com
   - .cluep.com
+  - .cmelr.com
   - .cmrdr.com
   - .cn846.com
   - .coull.com
@@ -5288,6 +5289,7 @@ payload:
   - .ctyzd.com
   - .cufcw.com
   - .cwmlm.com
+  - .cxvyk.com
   - .d-064.com
   - .dapxl.com
   - .daraz.com
@@ -5429,6 +5431,7 @@ payload:
   - .hsusd.com
   - .htdvt.com
   - .htkcm.com
+  - .htwjo.com
   - .hubhc.com
   - .hubpd.com
   - .hurra.com
@@ -6863,6 +6866,7 @@ payload:
   - .iigmlx.com
   - .ijkcmm.com
   - .ikcaru.com
+  - .ilzies.com
   - .img301.com
   - .imgsdn.com
   - .imiclk.com
@@ -11589,6 +11593,7 @@ payload:
   - .kjsagtrk.com
   - .kkvesjzn.com
   - .kliksaya.com
+  - .klingxai.com
   - .klipmart.com
   - .klixfeed.com
   - .klldabck.com
@@ -13499,6 +13504,7 @@ payload:
   - .basicstat.com
   - .basilfish.com
   - .baste-znl.com
+  - .batanwqwo.com
   - .batebalmy.com
   - .battepush.com
   - .baucraell.com
@@ -15871,6 +15877,7 @@ payload:
   - .1239feffd9.com
   - .12a640bb5e.com
   - .13199960a1.com
+  - .132ffebe8c.com
   - .1370065b3a.com
   - .13b3403320.com
   - .13b696a4c1.com
@@ -17392,6 +17399,7 @@ payload:
   - .hadseaside.com
   - .hakqkhtlav.com
   - .handyfield.com
+  - .happykitcr.com
   - .hardynylon.com
   - .haresmodus.com
   - .harrydough.com
@@ -18420,6 +18428,7 @@ payload:
   - .sarinfalun.com
   - .sartolutus.com
   - .sascentral.com
+  - .satiresboy.com
   - .saub27i3os.com
   - .sauptoacoa.com
   - .sawsdaggly.com
@@ -19674,6 +19683,7 @@ payload:
   - .cratecamera.com
   - .craterwhsle.com
   - .crawlclocks.com
+  - .crazesmalto.com
   - .creativecdn.com
   - .crectipumlu.com
   - .crentexgate.com
@@ -19729,6 +19739,7 @@ payload:
   - .dbaomgnsahy.com
   - .dbizrrslifc.com
   - .dddomainccc.com
+  - .ddndbjuseqi.com
   - .ddqfgamwnhp.com
   - .deadpangate.com
   - .dealcurrent.com
@@ -20973,6 +20984,7 @@ payload:
   - .ringsrecord.com
   - .riotousgrit.com
   - .ripenstreet.com
+  - .rivacathood.com
   - .rkoohcakrfu.com
   - .rkulukhwuoc.com
   - .rndambipoma.com
@@ -21054,6 +21066,7 @@ payload:
   - .sdjvbsjbvas.com
   - .searchmulty.com
   - .searchpeack.com
+  - .searswalers.com
   - .secqueduomo.com
   - .secthatlead.com
   - .securedhops.com
@@ -23693,6 +23706,7 @@ payload:
   - .relatumrorid.com
   - .relevanceads.com
   - .reliablemore.com
+  - .remembergirl.com
   - .rentinfinity.com
   - .replaceroute.com
   - .repsrowedpay.com
@@ -23969,6 +23983,7 @@ payload:
   - .spuriousbase.com
   - .spysubstance.com
   - .squalidscrew.com
+  - .squarertubal.com
   - .ss0uu1lpirig.com
   - .ssindserving.com
   - .ssl-services.com
@@ -24026,6 +24041,7 @@ payload:
   - .summerobject.com
   - .summitmanner.com
   - .sunkwarriors.com
+  - .sunnudvelure.com
   - .sunnyscanner.com
   - .superfastcdn.com
   - .superonclick.com
@@ -24204,6 +24220,7 @@ payload:
   - .trustbummler.com
   - .trustedpeach.com
   - .try-snowplow.com
+  - .tsjjbvbgrugs.com
   - .tst14netreal.com
   - .tu2024020388.com
   - .tubealliance.com
@@ -24443,6 +24460,7 @@ payload:
   - .workedworlds.com
   - .worldgravity.com
   - .worldlyyouth.com
+  - .wormsunflame.com
   - .worritsmahra.com
   - .worryingonto.com
   - .worstideatum.com
@@ -24716,6 +24734,7 @@ payload:
   - .bachelorfranz.com
   - .backbeatmedia.com
   - .backetkidlike.com
+  - .baghlachalked.com
   - .baguioattalea.com
   - .balmexhibited.com
   - .bandsaislevow.com
@@ -25094,6 +25113,7 @@ payload:
   - .dreamaquarium.com
   - .dreambooknews.com
   - .drenastheycam.com
+  - .drewitecossic.com
   - .dripappliance.com
   - .dromoicassida.com
   - .dropkickmedia.com
@@ -25142,6 +25162,7 @@ payload:
   - .endorsesmelly.com
   - .endurablebulb.com
   - .endurableshop.com
+  - .endwaysdsname.com
   - .eneughghaffir.com
   - .engineergrape.com
   - .engineertrick.com
@@ -25266,6 +25287,7 @@ payload:
   - .forlumineoner.com
   - .formalcabinet.com
   - .formedwrapped.com
+  - .fornaxmetered.com
   - .forprimeapeon.com
   - .fortunatemark.com
   - .forumtendency.com
@@ -25643,6 +25665,7 @@ payload:
   - .lurkgenerally.com
   - .lusinlepading.com
   - .lustroushaven.com
+  - .lutrineextant.com
   - .lvwuuehkvitwn.com
   - .maaphdiwuoetl.com
   - .mabelasateens.com
@@ -27672,6 +27695,7 @@ payload:
   - .maipinshangmao.com
   - .majime-site-rk.com
   - .majorworkertop.com
+  - .makhzanpopulin.com
   - .maliciousmusic.com
   - .malleteighteen.com
   - .maltcontaining.com
@@ -27812,6 +27836,7 @@ payload:
   - .opponenteaster.com
   - .optidownloader.com
   - .optimizesocial.com
+  - .oqyictvedqfhhd.com
   - .orecticconchae.com
   - .organizerprobe.com
   - .originatecrane.com
@@ -28495,6 +28520,7 @@ payload:
   - .weepingpretext.com
   - .welcomevaliant.com
   - .wellgroomedbat.com
+  - .welliesazoxime.com
   - .wemakebestnews.com
   - .wendelstein-1b.com
   - .whatisaweekend.com
@@ -28531,6 +28557,7 @@ payload:
   - .wizard-traffic.com
   - .wmail-endpoint.com
   - .womangathering.com
+  - .womerasecocide.com
   - .woodbeesdainty.com
   - .woodlandanyone.com
   - .woollenthawewe.com
@@ -33173,6 +33200,7 @@ payload:
   - .dietarydecreewilful.com
   - .dietschoolvirtually.com
   - .differpurifymustard.com
+  - .dingytiredfollowing.com
   - .diningconsonanthope.com
   - .discernibletickpang.com
   - .dischargedcomponent.com
@@ -36870,6 +36898,7 @@ payload:
   - .formidableprovidingdisguised.com
   - .freefire-membershipvn-garena.com
   - .frenchhypotheticallysubquery.com
+  - .fugitiveautomaticallybottled.com
   - .garenalienquan-chuoisukienhe.com
   - .giaodichquettindungvn-online.com
   - .giftcode-garenavn-sukienlqmb.com
@@ -37573,7 +37602,9 @@ payload:
   - .cloudcdn.gdn
   - .cloudmedia.gdn
   - .xoilactv123.gdn
+  - .1buo.icu
   - .4t6u.icu
+  - .7aey.icu
   - .0pdsa.icu
   - .1cecn.icu
   - .1dki0.icu
@@ -37873,6 +37904,7 @@ payload:
   - .bxoaeju.icu
   - .bzqqftz.icu
   - .cbdqzbi.icu
+  - .cdlekgr.icu
   - .cfugrnc.icu
   - .chmueyv.icu
   - .chooncv.icu
@@ -38132,6 +38164,7 @@ payload:
   - .ddlmsoyo.icu
   - .dmevejjt.icu
   - .dqlrfmwp.icu
+  - .feubgzfx.icu
   - .fgnfpnae.icu
   - .fnjoomqa.icu
   - .fzjbsvgz.icu
@@ -40083,6 +40116,7 @@ payload:
   - .duzeegotimu.net
   - .edixagnesag.net
   - .eeghooptauy.net
+  - .eemsautsoay.net
   - .eezaurdauha.net
   - .epsashoofil.net
   - .euleriancdn.net
@@ -40100,6 +40134,7 @@ payload:
   - .giraingoats.net
   - .glaidekeemp.net
   - .gliptoacaft.net
+  - .glooftezoad.net
   - .gloumoonees.net
   - .go-g3t-push.net
   - .go-g3t-s0me.net
@@ -41054,6 +41089,7 @@ payload:
   - .popupsblocker.org
   - .qualizebruisi.org
   - .rldwideorgani.org
+  - .rytransionsco.org
   - .salestingoner.org
   - .scambiobanner.org
   - .setitoefanyor.org
@@ -41147,6 +41183,7 @@ payload:
   - .bootstrap-framework.org
   - .releaseavailandproc.org
   - .alizebruisiaculturer.org
+  - .alsdebaticalfelixsto.org
   - .arcadebannerexchange.org
   - .natural-health-choices.org
   - .thisdomainisfortracking.org
@@ -42291,6 +42328,7 @@ payload:
   - .aliexshop.top
   - .ama-zmart.top
   - .ao1118kas.top
+  - .ao1120kas.top
   - .arcedcoss.top
   - .baovietcv.top
   - .baovietin.top
@@ -42486,6 +42524,7 @@ payload:
   - .aoao11111iis.top
   - .aoao11120iis.top
   - .aoao11121iis.top
+  - .aoao11201iis.top
   - .assilagfilii.top
   - .astersrepent.top
   - .atabekdoubly.top
@@ -42713,6 +42752,7 @@ payload:
   - .lactantsurety.top
   - .lazarsunthank.top
   - .llboqevyavvjy.top
+  - .llozybovlozvk.top
   - .lmqvowevzlwbr.top
   - .loglabitrufly.top
   - .lvojjayaaoqym.top
@@ -42759,6 +42799,7 @@ payload:
   - .sheoguekibosh.top
   - .shoalsestrepe.top
   - .sieusalegiare.top
+  - .sinderpalaced.top
   - .snurlybumbler.top
   - .sovietsdryers.top
   - .spasmusbarble.top
@@ -42821,6 +42862,7 @@ payload:
   - .bestcontentjob.top
   - .bestcontentuse.top
   - .bestcontentweb.top
+  - .bulgingquintet.top
   - .calvaryfiliety.top
   - .cassabahotcake.top
   - .choomsiesurvey.top
@@ -43377,6 +43419,7 @@ payload:
   - .91199a.xyz
   - .977878.xyz
   - .97b448.xyz
+  - .990215.xyz
   - .a49ebd.xyz
   - .a67d12.xyz
   - .aadmei.xyz
@@ -46595,6 +46638,7 @@ payload:
   - .flowwiththetide.xyz
   - .fwbejnuplyuxufm.xyz
   - .gleeltukaweetho.xyz
+  - .gleerdoacmockuy.xyz
   - .gmuskkvfophohqn.xyz
   - .gnssivagwelwspe.xyz
   - .gquwuefddojikxo.xyz
@@ -46649,6 +46693,7 @@ payload:
   - .vrcjleonnurifjy.xyz
   - .vrivslffndepxqd.xyz
   - .wcgcddncqveiqia.xyz
+  - .wsoldiyajjufmvk.xyz
   - .xlifcbyihnhvmcy.xyz
   - .xppedxgjxcajuae.xyz
   - .xqdfnqfgixjwpdb.xyz
@@ -46923,6 +46968,7 @@ payload:
   - .giftandmore.club
   - .hfdfyrqj-ws.club
   - .itphanpytor.club
+  - .jsiygcyzrhg.club
   - .lehemhavita.club
   - .movies-flix.club
   - .newsofworld.club
@@ -48179,6 +48225,7 @@ payload:
   - .allsports4free.live
   - .cfcdist.loan
   - .pdheuryopd.loan
+  - .bxbkh.love
   - .exrzo.love
   - .candyai.love
   - .be-frioaj.love
@@ -48561,6 +48608,7 @@ payload:
   - .shnpetdn185.shop
   - .siamturakit.shop
   - .skeliccater.shop
+  - .sketfarinha.shop
   - .spicytucker.shop
   - .stiondecide.shop
   - .subducgiare.shop
@@ -48610,6 +48658,7 @@ payload:
   - .glaziertarps.shop
   - .gluilyepacme.shop
   - .glynnoutcity.shop
+  - .honzoenjewel.shop
   - .hoofedpazend.shop
   - .inspakedolts.shop
   - .instarspouff.shop
@@ -54543,6 +54592,7 @@ payload:
   - .smetrics.wowtv.de
   - .app.wudju.de
   - .data-0142dcfbcf.yacht.de
+  - .tqmwqfh.yo-bc.de
   - .target.zeiss.de
   - .data-c14a6b9c37.1000ps.de
   - .data-cf56e4da9b.1000ps.de
@@ -77274,6 +77324,7 @@ payload:
   - .ayrobz.theory11.com
   - .analytics-tracker.thescore.com
   - .analytics.theta360.com
+  - .pac.thetimes.com
   - .target.thetruth.com
   - .smetrics.thetruth.com
   - .trk.thinkhdi.com
@@ -80708,7 +80759,6 @@ payload:
   - .2c33f8d1d4.10b7647bbf.com
   - .d7a13b77bf.11f65cf2f1.com
   - .27d0dea7d7.121f973b97.com
-  - .ca74179f92.132ffebe8c.com
   - .4959987cc4.134af949d5.com
   - .b0bee72a02.13e153630d.com
   - .563639804d.13e63e2dea.com
@@ -84898,7 +84948,6 @@ payload:
   - .ey.scutmercury.com
   - .lamprey.seagyndavis.com
   - .stats.searchsight.com
-  - .hu.searswalers.com
   - .smetrics.seasearcher.com
   - .app.seasonshare.com
   - .fnfhgj.secretsales.com
@@ -87481,7 +87530,6 @@ payload:
   - .ii.dorothycanzos.com
   - .fn.dowagerbeurre.com
   - .union.dplayerstatic.com
-  - .hs.drewitecossic.com
   - .dealersuccess.drivedominion.com
   - .a8clk.driver-island.com
   - .trace21.dsb-ebusiness.com
@@ -89729,7 +89777,6 @@ payload:
   - .t570.wiltonbulletin.com
   - .smetrics.winfieldunited.com
   - .alpaca.wingmantracker.com
-  - .vx.womerasecocide.com
   - .communications.worldtravelinc.com
   - .metrics.wyndhamrewards.com
   - .smetrics.wyndhamrewards.com
@@ -98688,6 +98735,7 @@ payload:
   - .cdn.xpln.tech
   - .mljfff.zgbv.tech
   - .zsmhlv.zgbv.tech
+  - .gefkyqjq.adckt.tech
   - .r01lacou.azidp.tech
   - .v90327ux.beget.tech
   - .stats.cable.tech
