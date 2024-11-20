@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-11-20T06:40:27.662Z
-# Size: 34
+# Last Updated: 2024-11-20T09:02:57.524Z
+# Size: 35
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ HOST-SUFFIX,oaiusercontent.com,PROXY
 HOST-SUFFIX,deepmind.google,PROXY
 HOST-SUFFIX,notebooklm.google,PROXY
 HOST-SUFFIX,generativeai.google,PROXY
+HOST,api.github.com,PROXY
 HOST-SUFFIX,bard.google.com,PROXY
 HOST-SUFFIX,gemini.google.com,PROXY
 HOST-SUFFIX,aistudio.google.com,PROXY

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-20T06:40:27.215Z
-# Size: 110122
+# Last Updated: 2024-11-20T11:52:21.953Z
+# Size: 110121
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -103035,7 +103035,6 @@ httpdns-browser.platform.dbankcloud.cn
 .analysis.sooplive.co.kr
 .eventapi.sooplive.co.kr
 .adballoon.sooplive.co.kr
-.collector1.sooplive.co.kr
 .vod-mplayer.sooplive.co.kr
 .cmxqcv.sundayup.co.kr
 .nmgagm.teamflex.co.kr
