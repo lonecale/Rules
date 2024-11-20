@@ -31,7 +31,7 @@ log-level: info
 udp: true
 
 # TCP Keep Alive 包的间隔，单位为秒
-keep-alive-interval: 30
+keep-alive-interval: 600
 # TCP Keep Alive 的最大空闲时间
 keep-alive-idle: 600
 # 禁用 TCP Keep Alive，在 Android 默认为 true
