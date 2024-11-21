@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-21T02:59:41.398Z
-  # Size: 110163
+  # Last Updated: 2024-11-21T12:41:17.928Z
+  # Size: 110172
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -1208,6 +1208,7 @@ payload:
   - .clickfilter.co
   - .com-contact.co
   - .g1188506010.co
+  - .g1386590346.co
   - .g1584674682.co
   - .g1584674684.co
   - .g1782759015.co
@@ -8211,6 +8212,7 @@ payload:
   - .aniview.com
   - .antcixn.com
   - .antoiew.com
+  - .aomsitf.com
   - .apeidol.com
   - .apex-ad.com
   - .apexcdn.com
@@ -8290,6 +8292,7 @@ payload:
   - .bhcumsc.com
   - .bhqfnuq.com
   - .bidgear.com
+  - .bidjora.com
   - .bidsopt.com
   - .bigbolz.com
   - .bigrstr.com
@@ -9144,6 +9147,7 @@ payload:
   - .lumitos.com
   - .lumtest.com
   - .luuming.com
+  - .luunels.com
   - .lvsnmgg.com
   - .lxnkuie.com
   - .lxtrack.com
@@ -37624,6 +37628,7 @@ payload:
   - .cloudmedia.gdn
   - .xoilactv123.gdn
   - .1buo.icu
+  - .1jok.icu
   - .3sas.icu
   - .4t6u.icu
   - .7aey.icu
@@ -42560,6 +42565,7 @@ payload:
   - .aoao11120iis.top
   - .aoao11121iis.top
   - .aoao11201iis.top
+  - .aoao11211iis.top
   - .assilagfilii.top
   - .astersrepent.top
   - .atabekdoubly.top
@@ -44760,6 +44766,7 @@ payload:
   - .pzphmkf.xyz
   - .qbhjokk.xyz
   - .qbhzghb.xyz
+  - .qcixkb1.xyz
   - .qdtjjxr.xyz
   - .qdtzbbh.xyz
   - .qhbhlii.xyz
@@ -55625,6 +55632,7 @@ payload:
   - .data-ba9232a07a.nuernberg.de
   - .data-6345746ba5.nwzonline.de
   - .data-bc58d40c93.nwzonline.de
+  - .matomo.oekoloewe.de
   - .data-3069017f33.oldenburg.de
   - .d.omsnative.de
   - .data-d4db30a18b.on-online.de
@@ -59726,6 +59734,7 @@ payload:
   - .smetrics.goindigo.in
   - .lnk.joinpopp.in
   - .js.kakuyomu.in
+  - .utics.nodejibi.in
   - .download.poolking.in
   - .9984342.reddoorz.in
   - .link.shopview.in
@@ -66307,6 +66316,7 @@ payload:
   - .link.wix.app
   - .carp.acda.app
   - .open.ailo.app
+  - .events.bsky.app
   - .go.calo.app
   - .hop.dttd.app
   - .share.dusk.app
@@ -99875,7 +99885,6 @@ payload:
   - .smetrics.ten.com.au
   - .antelope.u3a.com.au
   - .get.ukg.com.au
-  - .stream.9now.com.au
   - .assets1.aami.com.au
   - .assets2.aami.com.au
   - .activate.aami.com.au

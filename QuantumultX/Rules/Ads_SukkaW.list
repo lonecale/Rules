@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-21T02:59:41.398Z
-# Size: 110163
+# Last Updated: 2024-11-21T12:41:17.928Z
+# Size: 110172
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1207,6 +1207,7 @@
 .clickfilter.co,REJECT
 .com-contact.co,REJECT
 .g1188506010.co,REJECT
+.g1386590346.co,REJECT
 .g1584674682.co,REJECT
 .g1584674684.co,REJECT
 .g1782759015.co,REJECT
@@ -8210,6 +8211,7 @@
 .aniview.com,REJECT
 .antcixn.com,REJECT
 .antoiew.com,REJECT
+.aomsitf.com,REJECT
 .apeidol.com,REJECT
 .apex-ad.com,REJECT
 .apexcdn.com,REJECT
@@ -8289,6 +8291,7 @@
 .bhcumsc.com,REJECT
 .bhqfnuq.com,REJECT
 .bidgear.com,REJECT
+.bidjora.com,REJECT
 .bidsopt.com,REJECT
 .bigbolz.com,REJECT
 .bigrstr.com,REJECT
@@ -9143,6 +9146,7 @@ lgtvsdp.com,REJECT
 .lumitos.com,REJECT
 .lumtest.com,REJECT
 .luuming.com,REJECT
+.luunels.com,REJECT
 .lvsnmgg.com,REJECT
 .lxnkuie.com,REJECT
 .lxtrack.com,REJECT
@@ -37623,6 +37627,7 @@ samsungcloudsolution.com,REJECT
 .cloudmedia.gdn,REJECT
 .xoilactv123.gdn,REJECT
 .1buo.icu,REJECT
+.1jok.icu,REJECT
 .3sas.icu,REJECT
 .4t6u.icu,REJECT
 .7aey.icu,REJECT
@@ -42559,6 +42564,7 @@ samsungcloudsolution.net,REJECT
 .aoao11120iis.top,REJECT
 .aoao11121iis.top,REJECT
 .aoao11201iis.top,REJECT
+.aoao11211iis.top,REJECT
 .assilagfilii.top,REJECT
 .astersrepent.top,REJECT
 .atabekdoubly.top,REJECT
@@ -44759,6 +44765,7 @@ samsungcloudsolution.net,REJECT
 .pzphmkf.xyz,REJECT
 .qbhjokk.xyz,REJECT
 .qbhzghb.xyz,REJECT
+.qcixkb1.xyz,REJECT
 .qdtjjxr.xyz,REJECT
 .qdtzbbh.xyz,REJECT
 .qhbhlii.xyz,REJECT
@@ -55624,6 +55631,7 @@ p.cloudcraft.co,REJECT
 .data-ba9232a07a.nuernberg.de,REJECT
 .data-6345746ba5.nwzonline.de,REJECT
 .data-bc58d40c93.nwzonline.de,REJECT
+.matomo.oekoloewe.de,REJECT
 .data-3069017f33.oldenburg.de,REJECT
 .d.omsnative.de,REJECT
 .data-d4db30a18b.on-online.de,REJECT
@@ -59725,6 +59733,7 @@ adx.yixin.im,REJECT
 .smetrics.goindigo.in,REJECT
 .lnk.joinpopp.in,REJECT
 .js.kakuyomu.in,REJECT
+.utics.nodejibi.in,REJECT
 .download.poolking.in,REJECT
 .9984342.reddoorz.in,REJECT
 .link.shopview.in,REJECT
@@ -66306,6 +66315,7 @@ adsystem.wasu.tv,REJECT
 .link.wix.app,REJECT
 .carp.acda.app,REJECT
 .open.ailo.app,REJECT
+.events.bsky.app,REJECT
 .go.calo.app,REJECT
 .hop.dttd.app,REJECT
 .share.dusk.app,REJECT
@@ -99874,7 +99884,6 @@ comments.gazo.space,REJECT
 .smetrics.ten.com.au,REJECT
 .antelope.u3a.com.au,REJECT
 .get.ukg.com.au,REJECT
-.stream.9now.com.au,REJECT
 .assets1.aami.com.au,REJECT
 .assets2.aami.com.au,REJECT
 .activate.aami.com.au,REJECT
