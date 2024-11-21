@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-20T14:37:40.099Z
-# Size: 110147
+# Last Updated: 2024-11-21T02:59:41.398Z
+# Size: 110163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -44,6 +44,7 @@
 .vdo.ai
 .clrt.ai
 .wknd.ai
+.cunda.ai
 .nrich.ai
 .spiny.ai
 .hybrid.ai
@@ -712,6 +713,7 @@
 .cuvtnzv.cn
 .czouthy.cn
 .czresus.cn
+.daiitmk.cn
 .dchdmhf.cn
 .ddaixdz.cn
 .dfejqmh.cn
@@ -875,6 +877,7 @@
 .sugilip.cn
 .svhdbmp.cn
 .svncowt.cn
+.syfgtby.cn
 .szapaqi.cn
 .tdhserg.cn
 .trpyceq.cn
@@ -1836,6 +1839,7 @@
 .counteronline.de
 .counterserver.de
 .directcounter.de
+.fairanalytics.de
 .gameover-shop.de
 .haymarketstat.de
 .klamm-counter.de
@@ -2369,6 +2373,7 @@
 .bitcoadz.io
 .bitmedia.io
 .bitspush.io
+.caerulus.io
 .cdnspace.io
 .chainads.io
 .click360.io
@@ -3827,6 +3832,7 @@
 .seobloger.ru
 .sniperlog.ru
 .svivqrhrh.ru
+.tapulsads.ru
 .targetman.ru
 .teasernet.ru
 .tgel2ebtx.ru
@@ -4015,6 +4021,7 @@
 .promoblocks.ru
 .rctfgrazkha.ru
 .reklamaizer.ru
+.richlifeads.ru
 .rustrackers.ru
 .securemoney.ru
 .startscript.ru
@@ -7213,6 +7220,7 @@
 .oijkse.com
 .oiycak.com
 .okanjo.com
+.olgrae.com
 .olibes.com
 .omheth.com
 .onacao.com
@@ -12284,6 +12292,7 @@ lgtvsdp.com
 .qfavlkgf.com
 .qgwjydxo.com
 .qhemphox.com
+.qhestrad.com
 .qhocciks.com
 .qhupdate.com
 .qichexin.com
@@ -14268,6 +14277,7 @@ lgtvsdp.com
 .iloacmoam.com
 .imagiflex.com
 .imamictra.com
+.imcounter.com
 .imgcdnbet.com
 .imghst-de.com
 .imgsniper.com
@@ -14432,6 +14442,7 @@ lgtvsdp.com
 .lairauque.com
 .landelcut.com
 .landingpg.com
+.lanky-bar.com
 .laserstat.com
 .latinwayy.com
 .laughdrum.com
@@ -37612,6 +37623,7 @@ samsungcloudsolution.com
 .cloudmedia.gdn
 .xoilactv123.gdn
 .1buo.icu
+.3sas.icu
 .4t6u.icu
 .7aey.icu
 .0pdsa.icu
@@ -38208,6 +38220,7 @@ samsungcloudsolution.com
 .tqanmatx.icu
 .tuxpfiok.icu
 .uaqdgrfr.icu
+.vkbxaixl.icu
 .vrdfxioe.icu
 .vzdkngmf.icu
 .wenoolgo.icu
@@ -41968,6 +41981,7 @@ samsungcloudsolution.net
 .curesdf.top
 .cwaterf.top
 .cweisif.top
+.cweizaf.top
 .cweriof.top
 .cyjqgpf.top
 .cyretuf.top
@@ -42006,6 +42020,7 @@ samsungcloudsolution.net
 .huresdu.top
 .hwateru.top
 .hweisiu.top
+.hweizau.top
 .hweriou.top
 .hyislou.top
 .hyjqgpu.top
@@ -44691,6 +44706,7 @@ samsungcloudsolution.net
 .nlfbdgr.xyz
 .nljrvdh.xyz
 .nnrbyty.xyz
+.nois5gj.xyz
 .npjvgug.xyz
 .npnpxoz.xyz
 .npnzfri.xyz
@@ -74651,7 +74667,6 @@ analytics.spotify.com
 .rtlog.tiktokv.com
 .mcs-va.tiktokv.com
 .xlog-va.tiktokv.com
-.log-boot.tiktokv.com
 .rtc-logger-va.tiktokv.com
 .mcs-va-useast2a.tiktokv.com
 .tjnffp.tilebar.com
@@ -110121,6 +110136,7 @@ migrate.driveapi.micloud.xiaomi.net
 .imagenes.marketing.calidad.pucp.edu.pe
 .ivzplytl9nqc6ex2.a.asg.maxx.ddac.ru
 .uat.smetrics.globalcommon.citibank.com.sg
+.tracker.prod.ams3.k8s.hyperia.sk
 .phpmyadmin.toolmonger.net.jumia.co.tz
 .ati-a1.946d001b783803c1.xhst.bbci.co.uk
 .data.email.yourmessage.aviva.co.uk

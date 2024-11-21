@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-20T14:37:40.099Z
-# Size: 110147
+# Last Updated: 2024-11-21T02:59:41.398Z
+# Size: 110163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -44,6 +44,7 @@
 .vdo.ai,REJECT
 .clrt.ai,REJECT
 .wknd.ai,REJECT
+.cunda.ai,REJECT
 .nrich.ai,REJECT
 .spiny.ai,REJECT
 .hybrid.ai,REJECT
@@ -712,6 +713,7 @@
 .cuvtnzv.cn,REJECT
 .czouthy.cn,REJECT
 .czresus.cn,REJECT
+.daiitmk.cn,REJECT
 .dchdmhf.cn,REJECT
 .ddaixdz.cn,REJECT
 .dfejqmh.cn,REJECT
@@ -875,6 +877,7 @@
 .sugilip.cn,REJECT
 .svhdbmp.cn,REJECT
 .svncowt.cn,REJECT
+.syfgtby.cn,REJECT
 .szapaqi.cn,REJECT
 .tdhserg.cn,REJECT
 .trpyceq.cn,REJECT
@@ -1836,6 +1839,7 @@
 .counteronline.de,REJECT
 .counterserver.de,REJECT
 .directcounter.de,REJECT
+.fairanalytics.de,REJECT
 .gameover-shop.de,REJECT
 .haymarketstat.de,REJECT
 .klamm-counter.de,REJECT
@@ -2369,6 +2373,7 @@
 .bitcoadz.io,REJECT
 .bitmedia.io,REJECT
 .bitspush.io,REJECT
+.caerulus.io,REJECT
 .cdnspace.io,REJECT
 .chainads.io,REJECT
 .click360.io,REJECT
@@ -3827,6 +3832,7 @@
 .seobloger.ru,REJECT
 .sniperlog.ru,REJECT
 .svivqrhrh.ru,REJECT
+.tapulsads.ru,REJECT
 .targetman.ru,REJECT
 .teasernet.ru,REJECT
 .tgel2ebtx.ru,REJECT
@@ -4015,6 +4021,7 @@
 .promoblocks.ru,REJECT
 .rctfgrazkha.ru,REJECT
 .reklamaizer.ru,REJECT
+.richlifeads.ru,REJECT
 .rustrackers.ru,REJECT
 .securemoney.ru,REJECT
 .startscript.ru,REJECT
@@ -7213,6 +7220,7 @@
 .oijkse.com,REJECT
 .oiycak.com,REJECT
 .okanjo.com,REJECT
+.olgrae.com,REJECT
 .olibes.com,REJECT
 .omheth.com,REJECT
 .onacao.com,REJECT
@@ -12284,6 +12292,7 @@ lgtvsdp.com,REJECT
 .qfavlkgf.com,REJECT
 .qgwjydxo.com,REJECT
 .qhemphox.com,REJECT
+.qhestrad.com,REJECT
 .qhocciks.com,REJECT
 .qhupdate.com,REJECT
 .qichexin.com,REJECT
@@ -14268,6 +14277,7 @@ lgtvsdp.com,REJECT
 .iloacmoam.com,REJECT
 .imagiflex.com,REJECT
 .imamictra.com,REJECT
+.imcounter.com,REJECT
 .imgcdnbet.com,REJECT
 .imghst-de.com,REJECT
 .imgsniper.com,REJECT
@@ -14432,6 +14442,7 @@ lgtvsdp.com,REJECT
 .lairauque.com,REJECT
 .landelcut.com,REJECT
 .landingpg.com,REJECT
+.lanky-bar.com,REJECT
 .laserstat.com,REJECT
 .latinwayy.com,REJECT
 .laughdrum.com,REJECT
@@ -37612,6 +37623,7 @@ samsungcloudsolution.com,REJECT
 .cloudmedia.gdn,REJECT
 .xoilactv123.gdn,REJECT
 .1buo.icu,REJECT
+.3sas.icu,REJECT
 .4t6u.icu,REJECT
 .7aey.icu,REJECT
 .0pdsa.icu,REJECT
@@ -38208,6 +38220,7 @@ samsungcloudsolution.com,REJECT
 .tqanmatx.icu,REJECT
 .tuxpfiok.icu,REJECT
 .uaqdgrfr.icu,REJECT
+.vkbxaixl.icu,REJECT
 .vrdfxioe.icu,REJECT
 .vzdkngmf.icu,REJECT
 .wenoolgo.icu,REJECT
@@ -41968,6 +41981,7 @@ samsungcloudsolution.net,REJECT
 .curesdf.top,REJECT
 .cwaterf.top,REJECT
 .cweisif.top,REJECT
+.cweizaf.top,REJECT
 .cweriof.top,REJECT
 .cyjqgpf.top,REJECT
 .cyretuf.top,REJECT
@@ -42006,6 +42020,7 @@ samsungcloudsolution.net,REJECT
 .huresdu.top,REJECT
 .hwateru.top,REJECT
 .hweisiu.top,REJECT
+.hweizau.top,REJECT
 .hweriou.top,REJECT
 .hyislou.top,REJECT
 .hyjqgpu.top,REJECT
@@ -44691,6 +44706,7 @@ samsungcloudsolution.net,REJECT
 .nlfbdgr.xyz,REJECT
 .nljrvdh.xyz,REJECT
 .nnrbyty.xyz,REJECT
+.nois5gj.xyz,REJECT
 .npjvgug.xyz,REJECT
 .npnpxoz.xyz,REJECT
 .npnzfri.xyz,REJECT
@@ -74651,7 +74667,6 @@ analytics.spotify.com,REJECT
 .rtlog.tiktokv.com,REJECT
 .mcs-va.tiktokv.com,REJECT
 .xlog-va.tiktokv.com,REJECT
-.log-boot.tiktokv.com,REJECT
 .rtc-logger-va.tiktokv.com,REJECT
 .mcs-va-useast2a.tiktokv.com,REJECT
 .tjnffp.tilebar.com,REJECT
@@ -110121,6 +110136,7 @@ migrate.driveapi.micloud.xiaomi.net,REJECT
 .imagenes.marketing.calidad.pucp.edu.pe,REJECT
 .ivzplytl9nqc6ex2.a.asg.maxx.ddac.ru,REJECT
 .uat.smetrics.globalcommon.citibank.com.sg,REJECT
+.tracker.prod.ams3.k8s.hyperia.sk,REJECT
 .phpmyadmin.toolmonger.net.jumia.co.tz,REJECT
 .ati-a1.946d001b783803c1.xhst.bbci.co.uk,REJECT
 .data.email.yourmessage.aviva.co.uk,REJECT
