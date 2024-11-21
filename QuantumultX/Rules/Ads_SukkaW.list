@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-21T12:41:17.928Z
-# Size: 110172
+# Last Updated: 2024-11-21T14:58:55.431Z
+# Size: 110193
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11412,6 +11412,7 @@ lgtvsdp.com,REJECT
 .heymatic.com,REJECT
 .heystaks.com,REJECT
 .hgfsdzfs.com,REJECT
+.hhndmpql.com,REJECT
 .hibids10.com,REJECT
 .highnets.com,REJECT
 .hihashop.com,REJECT
@@ -11558,6 +11559,7 @@ lgtvsdp.com,REJECT
 .jiubuhua.com,REJECT
 .jiupaozi.com,REJECT
 .jiusudie.com,REJECT
+.jjvpbstg.com,REJECT
 .joastaca.com,REJECT
 .joathath.com,REJECT
 .joopaish.com,REJECT
@@ -19014,6 +19016,7 @@ samsungqbe.com,REJECT
 .websiteceo.com,REJECT
 .webstats4u.com,REJECT
 .webtraffiq.com,REJECT
+.wedauspicy.com,REJECT
 .weeblysite.com,REJECT
 .wegotmedia.com,REJECT
 .welfarefit.com,REJECT
@@ -23042,6 +23045,7 @@ samsungqbe.com,REJECT
 .koakoucaisho.com,REJECT
 .kraoqsvumatd.com,REJECT
 .ksnbiepnvjdi.com,REJECT
+.kspmaaiayadg.com,REJECT
 .ktikpuruxasq.com,REJECT
 .kubachigugal.com,REJECT
 .kuqgrelpiamw.com,REJECT
@@ -25691,6 +25695,7 @@ samsungqbe.com,REJECT
 .mabelasateens.com,REJECT
 .maddenparrots.com,REJECT
 .madlyexcavate.com,REJECT
+.mafflerplaids.com,REJECT
 .magnetairport.com,REJECT
 .main-card-vib.com,REJECT
 .majorhalfmoon.com,REJECT
@@ -26046,6 +26051,7 @@ samsungqbe.com,REJECT
 .pubimageboard.com,REJECT
 .publisherride.com,REJECT
 .pubtagmanager.com,REJECT
+.pudicalnablus.com,REJECT
 .puldhukelpmet.com,REJECT
 .pumpedpancake.com,REJECT
 .pumpedpurpose.com,REJECT
@@ -26140,6 +26146,7 @@ samsungqbe.com,REJECT
 .retinaesprent.com,REJECT
 .revenuemantra.com,REJECT
 .revenuestripe.com,REJECT
+.reverercowier.com,REJECT
 .reviewdollars.com,REJECT
 .reviveservers.com,REJECT
 .rfuqsrnllqlmv.com,REJECT
@@ -26762,6 +26769,7 @@ samsungqbe.com,REJECT
 .zationsuchasr.com,REJECT
 .zemydreamsauk.com,REJECT
 .zilchesmoated.com,REJECT
+.zinniafianced.com,REJECT
 .zpgetworker11.com,REJECT
 .20dollars2surf.com,REJECT
 .25662zubo23739.com,REJECT
@@ -27459,6 +27467,7 @@ samsungqbe.com,REJECT
 .gnashesfanfare.com,REJECT
 .gnatterjingall.com,REJECT
 .go-to-zlibrary.com,REJECT
+.goeducklactase.com,REJECT
 .golden-gateway.com,REJECT
 .goldfishgrowth.com,REJECT
 .googleanalytcs.com,REJECT
@@ -36681,6 +36690,7 @@ samsungcloudsolution.com,REJECT
 .platinum-ruttientindung247.com,REJECT
 .playwrightsovietcommentary.com,REJECT
 .preachbacteriadisingenuous.com,REJECT
+.privilegedmansfieldvaguely.com,REJECT
 .probablyrespectivelyadhere.com,REJECT
 .pronouncedgetawayetiquette.com,REJECT
 .providingcrechepartnership.com,REJECT
@@ -37499,6 +37509,7 @@ samsungcloudsolution.com,REJECT
 .apathyjav128.fun,REJECT
 .arrestjav182.fun,REJECT
 .birthday3452.fun,REJECT
+.bumaqblyqviw.fun,REJECT
 .changejav128.fun,REJECT
 .choosejav182.fun,REJECT
 .colonyjav182.fun,REJECT
@@ -40230,6 +40241,7 @@ samsungcloudsolution.com,REJECT
 .phanmemfree.net,REJECT
 .phockukoagu.net,REJECT
 .phoosaurgap.net,REJECT
+.phouckusogh.net,REJECT
 .portkingric.net,REJECT
 .primedirect.net,REJECT
 .pseeltaimpu.net,REJECT
@@ -40284,6 +40296,7 @@ samsungcloudsolution.com,REJECT
 .webtrekk-us.net,REJECT
 .whainsairgi.net,REJECT
 .wheegaulrie.net,REJECT
+.wheelsetsur.net,REJECT
 .whoisonline.net,REJECT
 .whoulikaihe.net,REJECT
 .whouptoomsy.net,REJECT
@@ -40297,6 +40310,7 @@ samsungcloudsolution.com,REJECT
 .adworldmedia.net,REJECT
 .ahomsoalsoah.net,REJECT
 .aigniltosesh.net,REJECT
+.aimaunongeez.net,REJECT
 .analytically.net,REJECT
 .asiantraffic.net,REJECT
 .auneechuksee.net,REJECT
@@ -40492,6 +40506,7 @@ samsungcloudsolution.com,REJECT
 .getconversion.net,REJECT
 .glashampouksy.net,REJECT
 .globaladmedia.net,REJECT
+.grashaksoudry.net,REJECT
 .greckoaghoate.net,REJECT
 .hauraiwaurulu.net,REJECT
 .hougriwhabool.net,REJECT
@@ -40590,6 +40605,7 @@ samsungcloudsolution.com,REJECT
 .maugrewuthigeb.net,REJECT
 .muchooltoarsie.net,REJECT
 .napthelienquan.net,REJECT
+.neewouwoafisha.net,REJECT
 .nijaultuweftie.net,REJECT
 .nonstoppartner.net,REJECT
 .odeecmoothaith.net,REJECT
@@ -40602,6 +40618,7 @@ samsungcloudsolution.com,REJECT
 .servicegetbook.net,REJECT
 .shoadessuglouz.net,REJECT
 .shoathuftussux.net,REJECT
+.sholraidsoalro.net,REJECT
 .smartadnetwork.net,REJECT
 .snapmobileasia.net,REJECT
 .softwareplanet.net,REJECT
@@ -42045,6 +42062,7 @@ samsungcloudsolution.net,REJECT
 .iuresdo.top,REJECT
 .iwatero.top,REJECT
 .iweisio.top,REJECT
+.iweizao.top,REJECT
 .iwerioo.top,REJECT
 .iyisloo.top,REJECT
 .iyjqgpo.top,REJECT
@@ -42462,6 +42480,7 @@ samsungcloudsolution.net,REJECT
 .lizijing12.top,REJECT
 .lolacorded.top,REJECT
 .matsuderat.top,REJECT
+.mollesscar.top,REJECT
 .morneminim.top,REJECT
 .nexaapptwp.top,REJECT
 .olmnvbgufy.top,REJECT
@@ -42837,6 +42856,7 @@ samsungcloudsolution.net,REJECT
 .ropablegaliot.top,REJECT
 .rqyebojlaawzj.top,REJECT
 .salmiacforked.top,REJECT
+.sawdustreives.top,REJECT
 .sheoguekibosh.top,REJECT
 .shoalsestrepe.top,REJECT
 .sieusalegiare.top,REJECT
@@ -44094,6 +44114,7 @@ samsungcloudsolution.net,REJECT
 .phjtxx.xyz,REJECT
 .phtivr.xyz,REJECT
 .phwrju.xyz,REJECT
+.piotyo.xyz,REJECT
 .pjdthz.xyz,REJECT
 .pjzxdl.xyz,REJECT
 .pklujb.xyz,REJECT
@@ -44750,6 +44771,7 @@ samsungcloudsolution.net,REJECT
 .phcrjth.xyz,REJECT
 .photo07.xyz,REJECT
 .phvfevk.xyz,REJECT
+.pjb9gv9.xyz,REJECT
 .plnrkgc.xyz,REJECT
 .postaoz.xyz,REJECT
 .ppvpmrt.xyz,REJECT
@@ -46198,6 +46220,7 @@ samsungcloudsolution.net,REJECT
 .gdktgkjfyvd.xyz,REJECT
 .generalebad.xyz,REJECT
 .getsozoaque.xyz,REJECT
+.gleloamseft.xyz,REJECT
 .gloohozedoa.xyz,REJECT
 .gomtdatacom.xyz,REJECT
 .guxdjfuuhey.xyz,REJECT
@@ -49198,6 +49221,7 @@ nmbr.info,REJECT
 .paht.tech,REJECT
 .regi.tech,REJECT
 .adiam.tech,REJECT
+.eehir.tech,REJECT
 .ijtlu.tech,REJECT
 .pcqze.tech,REJECT
 .pegah.tech,REJECT
@@ -69898,8 +69922,6 @@ game.weibo.com,REJECT
 .syndication.whibp.com,REJECT
 .events.whisk.com,REJECT
 .axp.who13.com,REJECT
-adnew.wifi8.com,REJECT
-adunion.wifi8.com,REJECT
 .sdata.wiley.com,REJECT
 .marketing.wingd.com,REJECT
 .pop.wioau.com,REJECT
@@ -105722,7 +105744,6 @@ msmetrics-test.ws.sonos.com,REJECT
 adimg.uve.weibo.com,REJECT
 wbapp.uve.weibo.com,REJECT
 sdkapp.uve.weibo.com,REJECT
-ad.yun.wifi8.com,REJECT
 .images.news.wiley.com,REJECT
 .images.publishing.wiley.com,REJECT
 .tr.email.wtwco.com,REJECT
