@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-22T12:40:17.406Z
-# Size: 110202
+# Last Updated: 2024-11-22T17:46:27.312Z
+# Size: 110210
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10993,7 +10993,6 @@ lgtvsdp.com,REJECT
 .cutechin.com,REJECT
 .cuwlmupz.com,REJECT
 .cvastico.com,REJECT
-.cxpublic.com,REJECT
 .czilladx.com,REJECT
 .czncztrk.com,REJECT
 .czuvzixm.com,REJECT
@@ -11082,6 +11081,7 @@ lgtvsdp.com,REJECT
 .doukoula.com,REJECT
 .drabsize.com,REJECT
 .drakeesh.com,REJECT
+.drenqils.com,REJECT
 .driveniq.com,REJECT
 .dspmulti.com,REJECT
 .dspultra.com,REJECT
@@ -18731,6 +18731,7 @@ samsungqbe.com,REJECT
 .tastesnake.com,REJECT
 .tat3ayogh6.com,REJECT
 .tbxyuwctmt.com,REJECT
+.tcvjhwizmy.com,REJECT
 .td5xffxsx4.com,REJECT
 .teamagonan.com,REJECT
 .teasereach.com,REJECT
@@ -20947,6 +20948,7 @@ samsungqbe.com,REJECT
 .rateonclick.com,REJECT
 .rauwoukauku.com,REJECT
 .razzlebuyer.com,REJECT
+.rcqwmwxdvnt.com,REJECT
 .readysnails.com,REJECT
 .realitycash.com,REJECT
 .realizedoor.com,REJECT
@@ -25113,6 +25115,7 @@ samsungqbe.com,REJECT
 .distinctrobin.com,REJECT
 .dividetribute.com,REJECT
 .djosbhwpnfxmx.com,REJECT
+.dmhclkohnrpvg.com,REJECT
 .dmvbdfblevxvx.com,REJECT
 .dockdigestion.com,REJECT
 .doctorhousing.com,REJECT
@@ -39163,6 +39166,7 @@ samsungcloudsolution.com,REJECT
 .grunoaph.net,REJECT
 .gscontxt.net,REJECT
 .gsimedia.net,REJECT
+.guckoash.net,REJECT
 .hadronid.net,REJECT
 .haihaime.net,REJECT
 .haltough.net,REJECT
@@ -40346,6 +40350,7 @@ samsungcloudsolution.com,REJECT
 .elephantdata.net,REJECT
 .eliwitensirg.net,REJECT
 .fast-counter.net,REJECT
+.fooguthauque.net,REJECT
 .foozoujeewhy.net,REJECT
 .fouderezaifi.net,REJECT
 .fuseplatform.net,REJECT
@@ -42109,6 +42114,7 @@ samsungcloudsolution.net,REJECT
 .kuresdd.top,REJECT
 .kwaterd.top,REJECT
 .kweisid.top,REJECT
+.kweizad.top,REJECT
 .kweriod.top,REJECT
 .kyislod.top,REJECT
 .kyuwkbd.top,REJECT
@@ -69644,6 +69650,7 @@ userimg.qunar.com,REJECT
 .elqtrk.rsmus.com,REJECT
 .link.ruhgu.com,REJECT
 .kwaefd.rusty.com,REJECT
+.api.rvere.com,REJECT
 .yurobl.rw-co.com,REJECT
 .online.rwdls.com,REJECT
 .marketing.rxaap.com,REJECT
@@ -78994,6 +79001,7 @@ ad.caiyunapp.com,REJECT
 .wpcdn1.herokuapp.com,REJECT
 .jqcdn01.herokuapp.com,REJECT
 .jqcdn03.herokuapp.com,REJECT
+.tpi-app.herokuapp.com,REJECT
 .mcgtrack.herokuapp.com,REJECT
 .aurora-d3.herokuapp.com,REJECT
 .anti-adblock.herokuapp.com,REJECT
