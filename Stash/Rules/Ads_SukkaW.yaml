@@ -1,7 +1,7 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-22T05:06:22.210Z
+  # Last Updated: 2024-11-22T12:40:17.406Z
   # Size: 110202
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
@@ -60180,6 +60180,7 @@ payload:
   - .1amehwchx31.bloxdhop.io
   - .api.bytebrew.io
   - .core.centotag.io
+  - .apps-pbd.ctraffic.io
   - .broker.datazoom.io
   - .pubsrv.devhints.io
   - .cattle.driftbot.io
@@ -72807,7 +72808,6 @@ payload:
   - .ads.betfair.com
   - .ads.bethard.com
   - .ensighten.bhphoto.com
-  - .creative.bidease.com
   - .track-us.bidease.com
   - .track-resource.bidease.com
   - .ad.bidrich.com
