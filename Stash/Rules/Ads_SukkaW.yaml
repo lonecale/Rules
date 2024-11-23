@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-23T06:18:51.033Z
-  # Size: 110238
+  # Last Updated: 2024-11-23T12:37:00.991Z
+  # Size: 110250
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -326,6 +326,7 @@ payload:
   - .ringier-advertising.ch
   - .pema.cl
   - .rove.cl
+  - .gosrv.cl
   - .howhow.cl
   - .pirat2.cl
   - .pirateproxy.cl
@@ -15560,6 +15561,7 @@ payload:
   - .tumblebit.com
   - .tumordied.com
   - .tuneshave.com
+  - .twewmykfe.com
   - .twinadsrv.com
   - .twinrdack.com
   - .twinrdsrv.com
@@ -16092,6 +16094,7 @@ payload:
   - .6179b859b8.com
   - .62ca04e27a.com
   - .63912b9175.com
+  - .639c909d45.com
   - .65bfba9ad0.com
   - .65f249bd43.com
   - .65spy7rgcu.com
@@ -25685,6 +25688,7 @@ payload:
   - .links2revenue.com
   - .literatelight.com
   - .llyighaboveth.com
+  - .lmeegwxcasdyo.com
   - .localsnaughty.com
   - .lockerdomecdn.com
   - .lockerstagger.com
@@ -34430,6 +34434,7 @@ payload:
   - .victoryrugbyumbrella.com
   - .viewerwhateversavour.com
   - .vigorouslyflamboyant.com
+  - .vigorouslymicrophone.com
   - .violentelitistbakery.com
   - .visioncriticalpanels.com
   - .vnpay-quetthetindung.com
@@ -41209,6 +41214,7 @@ payload:
   - .officetablntry.org
   - .oldndalltheold.org
   - .orldwhoisquite.org
+  - .paintydevelela.org
   - .prodregistryv2.org
   - .scormationwind.org
   - .sionscormation.org
@@ -41242,6 +41248,7 @@ payload:
   - .myachievementhub.org
   - .ozationsuchasric.org
   - .rldwideorganizat.org
+  - .strangineersalyl.org
   - .therplungestrang.org
   - .townrusisedpriva.org
   - .trackersimulator.org
@@ -42813,6 +42820,7 @@ payload:
   - .debonerscroop.top
   - .derateissuant.top
   - .diobolazafran.top
+  - .dreyntbynames.top
   - .ductedcestoid.top
   - .eeywmvwaqqrrl.top
   - .elyvbqklmamkb.top
@@ -42857,6 +42865,7 @@ payload:
   - .lvojjayaaoqym.top
   - .macomaenteria.top
   - .managesrimery.top
+  - .maniconfiscal.top
   - .medullapreppy.top
   - .mifsirnhvvrps.top
   - .momzersatorii.top
@@ -42884,6 +42893,7 @@ payload:
   - .qrkwvoomrbbrj.top
   - .qrkwvoomrbroo.top
   - .ramrodsmorals.top
+  - .rboyqkyrwrvkq.top
   - .reeqqkeweaemj.top
   - .refeelparolee.top
   - .reseenpeytrel.top
@@ -47451,6 +47461,7 @@ payload:
   - .emailsnow.info
   - .fitthings.info
   - .giacatloi.info
+  - .go-static.info
   - .ightsapph.info
   - .ilikethis.info
   - .iresandal.info
@@ -50027,6 +50038,7 @@ payload:
   - .szreismz.world
   - .vietlott.world
   - .greedseed.world
+  - .ixtbiwi-jf.world
   - .refpasrasw.world
   - .tagd-otmhf.world
   - .zcck60eqyw.world

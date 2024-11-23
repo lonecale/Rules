@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-23T06:18:51.033Z
-# Size: 110238
+# Last Updated: 2024-11-23T12:37:00.991Z
+# Size: 110250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -325,6 +325,7 @@
 .ringier-advertising.ch,REJECT
 .pema.cl,REJECT
 .rove.cl,REJECT
+.gosrv.cl,REJECT
 .howhow.cl,REJECT
 .pirat2.cl,REJECT
 .pirateproxy.cl,REJECT
@@ -15559,6 +15560,7 @@ lgtvsdp.com,REJECT
 .tumblebit.com,REJECT
 .tumordied.com,REJECT
 .tuneshave.com,REJECT
+.twewmykfe.com,REJECT
 .twinadsrv.com,REJECT
 .twinrdack.com,REJECT
 .twinrdsrv.com,REJECT
@@ -16091,6 +16093,7 @@ lgtvsdp.com,REJECT
 .6179b859b8.com,REJECT
 .62ca04e27a.com,REJECT
 .63912b9175.com,REJECT
+.639c909d45.com,REJECT
 .65bfba9ad0.com,REJECT
 .65f249bd43.com,REJECT
 .65spy7rgcu.com,REJECT
@@ -25684,6 +25687,7 @@ samsungqbe.com,REJECT
 .links2revenue.com,REJECT
 .literatelight.com,REJECT
 .llyighaboveth.com,REJECT
+.lmeegwxcasdyo.com,REJECT
 .localsnaughty.com,REJECT
 .lockerdomecdn.com,REJECT
 .lockerstagger.com,REJECT
@@ -34429,6 +34433,7 @@ samsungcloudsolution.com,REJECT
 .victoryrugbyumbrella.com,REJECT
 .viewerwhateversavour.com,REJECT
 .vigorouslyflamboyant.com,REJECT
+.vigorouslymicrophone.com,REJECT
 .violentelitistbakery.com,REJECT
 .visioncriticalpanels.com,REJECT
 .vnpay-quetthetindung.com,REJECT
@@ -41208,6 +41213,7 @@ samsungcloudsolution.net,REJECT
 .officetablntry.org,REJECT
 .oldndalltheold.org,REJECT
 .orldwhoisquite.org,REJECT
+.paintydevelela.org,REJECT
 .prodregistryv2.org,REJECT
 .scormationwind.org,REJECT
 .sionscormation.org,REJECT
@@ -41241,6 +41247,7 @@ samsungcloudsolution.net,REJECT
 .myachievementhub.org,REJECT
 .ozationsuchasric.org,REJECT
 .rldwideorganizat.org,REJECT
+.strangineersalyl.org,REJECT
 .therplungestrang.org,REJECT
 .townrusisedpriva.org,REJECT
 .trackersimulator.org,REJECT
@@ -42812,6 +42819,7 @@ samsungcloudsolution.net,REJECT
 .debonerscroop.top,REJECT
 .derateissuant.top,REJECT
 .diobolazafran.top,REJECT
+.dreyntbynames.top,REJECT
 .ductedcestoid.top,REJECT
 .eeywmvwaqqrrl.top,REJECT
 .elyvbqklmamkb.top,REJECT
@@ -42856,6 +42864,7 @@ samsungcloudsolution.net,REJECT
 .lvojjayaaoqym.top,REJECT
 .macomaenteria.top,REJECT
 .managesrimery.top,REJECT
+.maniconfiscal.top,REJECT
 .medullapreppy.top,REJECT
 .mifsirnhvvrps.top,REJECT
 .momzersatorii.top,REJECT
@@ -42883,6 +42892,7 @@ samsungcloudsolution.net,REJECT
 .qrkwvoomrbbrj.top,REJECT
 .qrkwvoomrbroo.top,REJECT
 .ramrodsmorals.top,REJECT
+.rboyqkyrwrvkq.top,REJECT
 .reeqqkeweaemj.top,REJECT
 .refeelparolee.top,REJECT
 .reseenpeytrel.top,REJECT
@@ -47450,6 +47460,7 @@ nmbr.info,REJECT
 .emailsnow.info,REJECT
 .fitthings.info,REJECT
 .giacatloi.info,REJECT
+.go-static.info,REJECT
 .ightsapph.info,REJECT
 .ilikethis.info,REJECT
 .iresandal.info,REJECT
@@ -50026,6 +50037,7 @@ nmbr.info,REJECT
 .szreismz.world,REJECT
 .vietlott.world,REJECT
 .greedseed.world,REJECT
+.ixtbiwi-jf.world,REJECT
 .refpasrasw.world,REJECT
 .tagd-otmhf.world,REJECT
 .zcck60eqyw.world,REJECT
