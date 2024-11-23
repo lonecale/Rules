@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-22T17:46:27.312Z
-# Size: 110210
+# Last Updated: 2024-11-23T06:18:51.033Z
+# Size: 110238
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6535,6 +6535,7 @@
 .ctrtrk.com,REJECT
 .ctsdwm.com,REJECT
 .ctxtfl.com,REJECT
+.cukuix.com,REJECT
 .cuteab.com,REJECT
 .cwchmb.com,REJECT
 .cwyxyw.com,REJECT
@@ -7847,6 +7848,7 @@
 .xaxoro.com,REJECT
 .xdiwbc.com,REJECT
 .xebadu.com,REJECT
+.xevaix.com,REJECT
 .xhzspi.com,REJECT
 .xilele.com,REJECT
 .xiniuz.com,REJECT
@@ -10025,6 +10027,7 @@ lgtvsdp.com,REJECT
 .tubemov.com,REJECT
 .tuberay.com,REJECT
 .tubevay.com,REJECT
+.tukveks.com,REJECT
 .tulip18.com,REJECT
 .tupwiwm.com,REJECT
 .turncdn.com,REJECT
@@ -13267,6 +13270,7 @@ lgtvsdp.com,REJECT
 .accesslnk.com,REJECT
 .acelacien.com,REJECT
 .acheworry.com,REJECT
+.ackuwxjbk.com,REJECT
 .aclickads.com,REJECT
 .acqpizkpo.com,REJECT
 .actionrtb.com,REJECT
@@ -14072,6 +14076,7 @@ lgtvsdp.com,REJECT
 .g33tr4c3r.com,REJECT
 .g5rkmcc9f.com,REJECT
 .gafdelins.com,REJECT
+.gagebonus.com,REJECT
 .gamadspro.com,REJECT
 .gambar123.com,REJECT
 .gamesyour.com,REJECT
@@ -16185,6 +16190,7 @@ lgtvsdp.com,REJECT
 .943d6e0643.com,REJECT
 .94ded8b16e.com,REJECT
 .95b1e00252.com,REJECT
+.95d127d868.com,REJECT
 .96424fcd96.com,REJECT
 .971bf5ec60.com,REJECT
 .97927e3b4d.com,REJECT
@@ -16222,6 +16228,7 @@ lgtvsdp.com,REJECT
 .a14refresh.com,REJECT
 .a166994a16.com,REJECT
 .a1c99093b6.com,REJECT
+.a2b219c0ce.com,REJECT
 .a32d9f2cc6.com,REJECT
 .a32fc87d2f.com,REJECT
 .a34aba7b6c.com,REJECT
@@ -16538,6 +16545,7 @@ lgtvsdp.com,REJECT
 .b6f16b3cd2.com,REJECT
 .b70f0a4569.com,REJECT
 .b76751e155.com,REJECT
+.b7bf007bbe.com,REJECT
 .b8ce2eba60.com,REJECT
 .b9645fef65.com,REJECT
 .ba46b70722.com,REJECT
@@ -17340,6 +17348,7 @@ lgtvsdp.com,REJECT
 .glbtracker.com,REJECT
 .gleemsomto.com,REJECT
 .gleneditor.com,REJECT
+.gligoubsed.com,REJECT
 .global-trk.com,REJECT
 .globeshyso.com,REJECT
 .globlemath.com,REJECT
@@ -18509,6 +18518,7 @@ samsungqbe.com,REJECT
 .shaggytank.com,REJECT
 .shakesider.com,REJECT
 .shakytaste.com,REJECT
+.shallowart.com,REJECT
 .shareusads.com,REJECT
 .sharkbleed.com,REJECT
 .sharkskids.com,REJECT
@@ -20972,6 +20982,7 @@ samsungqbe.com,REJECT
 .refuserates.com,REJECT
 .regadsworld.com,REJECT
 .regainthong.com,REJECT
+.reicezenana.com,REJECT
 .reimageplus.com,REJECT
 .rejowhourox.com,REJECT
 .reklamagaci.com,REJECT
@@ -21052,6 +21063,7 @@ samsungqbe.com,REJECT
 .rutthe-mpos.com,REJECT
 .ruxmkiqkasw.com,REJECT
 .rvrpushserv.com,REJECT
+.rzuokcobzru.com,REJECT
 .rzyosrlajku.com,REJECT
 .sa2m4buc5us.com,REJECT
 .sadsaunsord.com,REJECT
@@ -22514,6 +22526,7 @@ samsungqbe.com,REJECT
 .doubtmeasure.com,REJECT
 .downparanoia.com,REJECT
 .dramasoloist.com,REJECT
+.drapingleden.com,REJECT
 .drctcldfbfwr.com,REJECT
 .drctcldfefwr.com,REJECT
 .drctcldfffwr.com,REJECT
@@ -23178,6 +23191,7 @@ samsungqbe.com,REJECT
 .malletdetour.com,REJECT
 .malthaeurite.com,REJECT
 .manoirshrine.com,REJECT
+.marcidknaves.com,REJECT
 .marfeelcache.com,REJECT
 .markedcrayon.com,REJECT
 .markethealth.com,REJECT
@@ -23610,6 +23624,7 @@ samsungqbe.com,REJECT
 .pretrackings.com,REJECT
 .prevuesthurl.com,REJECT
 .prime-hunage.com,REJECT
+.prinksdammit.com,REJECT
 .printaugment.com,REJECT
 .printerswear.com,REJECT
 .prmtracking3.com,REJECT
@@ -27178,6 +27193,7 @@ samsungqbe.com,REJECT
 .coreldrawchina.com,REJECT
 .cosmicsculptor.com,REJECT
 .cosysuppressed.com,REJECT
+.cottoidearldom.com,REJECT
 .countdownlogic.com,REJECT
 .counter-gratis.com,REJECT
 .counteractpull.com,REJECT
@@ -27349,6 +27365,7 @@ samsungqbe.com,REJECT
 .enrageeyesnoop.com,REJECT
 .entlyhavebeden.com,REJECT
 .epipialbeheira.com,REJECT
+.epylliafending.com,REJECT
 .eroadvertising.com,REJECT
 .errantstetrole.com,REJECT
 .ertistsldahehu.com,REJECT
@@ -37650,6 +37667,7 @@ samsungcloudsolution.com,REJECT
 .3sas.icu,REJECT
 .4t6u.icu,REJECT
 .7aey.icu,REJECT
+.wi1f.icu,REJECT
 .0pdsa.icu,REJECT
 .1cecn.icu,REJECT
 .1dki0.icu,REJECT
@@ -38218,6 +38236,7 @@ samsungcloudsolution.com,REJECT
 .hkjzkrqz.icu,REJECT
 .hkpeghqu.icu,REJECT
 .hoxdotye.icu,REJECT
+.hwplypbn.icu,REJECT
 .jcfnbhqo.icu,REJECT
 .jcppcmqa.icu,REJECT
 .jgntjtyf.icu,REJECT
@@ -39959,6 +39978,7 @@ samsungcloudsolution.com,REJECT
 .gameshopvn.net,REJECT
 .gaudoaphuh.net,REJECT
 .geeptaunip.net,REJECT
+.gessiptoab.net,REJECT
 .gixeedsute.net,REJECT
 .gletchauka.net,REJECT
 .glipigaicm.net,REJECT
@@ -40341,6 +40361,7 @@ samsungcloudsolution.com,REJECT
 .deepsaifaide.net,REJECT
 .def-platform.net,REJECT
 .dimpoaghoorg.net,REJECT
+.dirdoophounu.net,REJECT
 .douchaiwouvo.net,REJECT
 .dualeotruyen.net,REJECT
 .dvaminusodin.net,REJECT
@@ -40362,6 +40383,7 @@ samsungcloudsolution.com,REJECT
 .geewedurisou.net,REJECT
 .gichaisseexy.net,REJECT
 .glaisseexoar.net,REJECT
+.glouvugnirsy.net,REJECT
 .glowhoatooji.net,REJECT
 .graitaulrocm.net,REJECT
 .graivampouth.net,REJECT
@@ -42197,6 +42219,7 @@ samsungcloudsolution.net,REJECT
 .suresdb.top,REJECT
 .swaterb.top,REJECT
 .sweisib.top,REJECT
+.sweizab.top,REJECT
 .sweriob.top,REJECT
 .syislob.top,REJECT
 .syuwkbb.top,REJECT
@@ -42398,6 +42421,7 @@ samsungcloudsolution.net,REJECT
 .ao1118kas.top,REJECT
 .ao1120kas.top,REJECT
 .ao1122kas.top,REJECT
+.ao1123kas.top,REJECT
 .arcedcoss.top,REJECT
 .baovietcv.top,REJECT
 .baovietin.top,REJECT
@@ -44523,6 +44547,7 @@ samsungcloudsolution.net,REJECT
 .zkfojr.xyz,REJECT
 .zkrdzn.xyz,REJECT
 .zltndp.xyz,REJECT
+.zmrmbc.xyz,REJECT
 .znnfzx.xyz,REJECT
 .zoltrl.xyz,REJECT
 .zozwnv.xyz,REJECT
@@ -46286,6 +46311,7 @@ samsungcloudsolution.net,REJECT
 .osyqldvshkc.xyz,REJECT
 .oumainseeba.xyz,REJECT
 .ouwhejoacie.xyz,REJECT
+.patchouptid.xyz,REJECT
 .peechohovaz.xyz,REJECT
 .pekseerdune.xyz,REJECT
 .phaidaimpee.xyz,REJECT
@@ -48571,6 +48597,7 @@ nmbr.info,REJECT
 .ggttmu853.shop,REJECT
 .gibsuncap.shop,REJECT
 .glossblip.shop,REJECT
+.hajecurie.shop,REJECT
 .hhffks967.shop,REJECT
 .hhffnu135.shop,REJECT
 .illygeoty.shop,REJECT
@@ -48863,6 +48890,7 @@ nmbr.info,REJECT
 .nuttishstromb.shop,REJECT
 .oophyteaparai.shop,REJECT
 .oxamateborrel.shop,REJECT
+.paiwariaroids.shop,REJECT
 .pardaotopazes.shop,REJECT
 .pawditechapel.shop,REJECT
 .pipiska221net.shop,REJECT
