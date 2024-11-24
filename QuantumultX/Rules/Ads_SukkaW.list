@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-23T12:37:00.991Z
-# Size: 110250
+# Last Updated: 2024-11-24T04:59:11.950Z
+# Size: 110260
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9110,6 +9110,7 @@ lgtvsdp.com,REJECT
 .limurol.com,REJECT
 .linkmyc.com,REJECT
 .linkyar.com,REJECT
+.lipheak.com,REJECT
 .liracdn.com,REJECT
 .litiumo.com,REJECT
 .livecam.com,REJECT
@@ -9617,6 +9618,7 @@ lgtvsdp.com,REJECT
 .rar-vpn.com,REJECT
 .rausfml.com,REJECT
 .rayjump.com,REJECT
+.razzweb.com,REJECT
 .rbcxttd.com,REJECT
 .rcvlink.com,REJECT
 .rdtrck2.com,REJECT
@@ -13107,6 +13109,7 @@ lgtvsdp.com,REJECT
 .yamanoha.com,REJECT
 .yamstamp.com,REJECT
 .yathmoth.com,REJECT
+.ybnksajy.com,REJECT
 .yeahmobi.com,REJECT
 .yektanet.com,REJECT
 .yellowjm.com,REJECT
@@ -22177,6 +22180,7 @@ samsungqbe.com,REJECT
 .besmeargleor.com,REJECT
 .best-vpn-app.com,REJECT
 .bestboundary.com,REJECT
+.bestfuckapps.com,REJECT
 .bestfunnyads.com,REJECT
 .bestreceived.com,REJECT
 .bestunfollow.com,REJECT
@@ -24559,6 +24563,7 @@ samsungqbe.com,REJECT
 .yxjsibeugmmj.com,REJECT
 .yy9s51b2u05z.com,REJECT
 .zaiveeneefol.com,REJECT
+.zcaappcthktx.com,REJECT
 .zealousfield.com,REJECT
 .zeepteestaub.com,REJECT
 .zelatorpukka.com,REJECT
@@ -37672,6 +37677,7 @@ samsungcloudsolution.com,REJECT
 .3sas.icu,REJECT
 .4t6u.icu,REJECT
 .7aey.icu,REJECT
+.dt0j.icu,REJECT
 .wi1f.icu,REJECT
 .0pdsa.icu,REJECT
 .1cecn.icu,REJECT
@@ -38275,6 +38281,7 @@ samsungcloudsolution.com,REJECT
 .wenoolgo.icu,REJECT
 .wsgnihbh.icu,REJECT
 .xbbhwggj.icu,REJECT
+.xcwdcynb.icu,REJECT
 .xjtosdof.icu,REJECT
 .xnbuapwp.icu,REJECT
 .xufyxhiu.icu,REJECT
@@ -42063,6 +42070,7 @@ samsungcloudsolution.net,REJECT
 .euresdw.top,REJECT
 .ewaterw.top,REJECT
 .eweisiw.top,REJECT
+.eweizaw.top,REJECT
 .eweriow.top,REJECT
 .eyislow.top,REJECT
 .eyuwkbw.top,REJECT
@@ -42275,6 +42283,7 @@ samsungcloudsolution.net,REJECT
 .wtyusie.top,REJECT
 .wuresde.top,REJECT
 .wweisie.top,REJECT
+.wweizae.top,REJECT
 .wwerioe.top,REJECT
 .wyisloe.top,REJECT
 .wyuwkbe.top,REJECT
@@ -49018,6 +49027,7 @@ nmbr.info,REJECT
 .vingroupventures.shop,REJECT
 .tindungonline-evn.shop,REJECT
 .sieukhuyenmaii2023.shop,REJECT
+.expressmealdelivery.shop,REJECT
 .d3c.site,REJECT
 .295c.site,REJECT
 .3a2e.site,REJECT
