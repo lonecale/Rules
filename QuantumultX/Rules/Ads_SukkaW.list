@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-24T04:59:11.950Z
-# Size: 110260
+# Last Updated: 2024-11-24T12:37:06.550Z
+# Size: 110265
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11219,6 +11219,7 @@ lgtvsdp.com,REJECT
 .fgdxwpht.com,REJECT
 .fhdd8431.com,REJECT
 .fibmaths.com,REJECT
+.fiezaits.com,REJECT
 .fijbyiwn.com,REJECT
 .fijekone.com,REJECT
 .filitrac.com,REJECT
@@ -21072,6 +21073,7 @@ samsungqbe.com,REJECT
 .rzuokcobzru.com,REJECT
 .rzyosrlajku.com,REJECT
 .sa2m4buc5us.com,REJECT
+.sacombankvn.com,REJECT
 .sadsaunsord.com,REJECT
 .safebrowsdv.com,REJECT
 .safetybrush.com,REJECT
@@ -37677,6 +37679,7 @@ samsungcloudsolution.com,REJECT
 .3sas.icu,REJECT
 .4t6u.icu,REJECT
 .7aey.icu,REJECT
+.az5i.icu,REJECT
 .dt0j.icu,REJECT
 .wi1f.icu,REJECT
 .0pdsa.icu,REJECT
@@ -42288,6 +42291,7 @@ samsungcloudsolution.net,REJECT
 .wyisloe.top,REJECT
 .wyuwkbe.top,REJECT
 .xiaosdg.top,REJECT
+.yoqqiev.top,REJECT
 .zrqsmcx.top,REJECT
 .369bgrec.top,REJECT
 .96696612.top,REJECT
@@ -103718,6 +103722,7 @@ grs.platform.dbankcloud.ru,REJECT
 .tracking.etidning.ht.se,REJECT
 .tracking.etidning.jp.se,REJECT
 .tracking.etidning.lt.se,REJECT
+.stats.med.lu.se,REJECT
 .tracking.etidning.na.se,REJECT
 .tracking.omniture.nt.se,REJECT
 .tracking.etidning.op.se,REJECT

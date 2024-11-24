@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-24T04:59:11.950Z
-  # Size: 110260
+  # Last Updated: 2024-11-24T12:37:06.550Z
+  # Size: 110265
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -11220,6 +11220,7 @@ payload:
   - .fgdxwpht.com
   - .fhdd8431.com
   - .fibmaths.com
+  - .fiezaits.com
   - .fijbyiwn.com
   - .fijekone.com
   - .filitrac.com
@@ -21073,6 +21074,7 @@ payload:
   - .rzuokcobzru.com
   - .rzyosrlajku.com
   - .sa2m4buc5us.com
+  - .sacombankvn.com
   - .sadsaunsord.com
   - .safebrowsdv.com
   - .safetybrush.com
@@ -37678,6 +37680,7 @@ payload:
   - .3sas.icu
   - .4t6u.icu
   - .7aey.icu
+  - .az5i.icu
   - .dt0j.icu
   - .wi1f.icu
   - .0pdsa.icu
@@ -42289,6 +42292,7 @@ payload:
   - .wyisloe.top
   - .wyuwkbe.top
   - .xiaosdg.top
+  - .yoqqiev.top
   - .zrqsmcx.top
   - .369bgrec.top
   - .96696612.top
@@ -103719,6 +103723,7 @@ payload:
   - .tracking.etidning.ht.se
   - .tracking.etidning.jp.se
   - .tracking.etidning.lt.se
+  - .stats.med.lu.se
   - .tracking.etidning.na.se
   - .tracking.omniture.nt.se
   - .tracking.etidning.op.se
