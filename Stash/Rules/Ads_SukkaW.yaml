@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-25T12:41:38.525Z
-  # Size: 108896
+  # Last Updated: 2024-11-25T13:34:07.797Z
+  # Size: 108901
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -23437,6 +23437,7 @@ payload:
   - .yxjsibeugmmj.com
   - .yy9s51b2u05z.com
   - .zaiveeneefol.com
+  - .zayac2volk11.com
   - .zcaappcthktx.com
   - .zeepteestaub.com
   - .zelatorpukka.com
@@ -60370,6 +60371,7 @@ payload:
   - .clohzp.hifi.lu
   - .sstats.seat.lu
   - .smetrics.sony.lu
+  - a.tool.lu
   - .saa.dyson.lu
   - .campaign.mazda.lu
   - .dialogue.mazda.lu
@@ -68671,6 +68673,7 @@ payload:
   - .go.cheerz.com
   - .link.cheerz.com
   - .ahsmpt.cheerz.com
+  - .my.chinaz.com
   - .a2put.chinaz.com
   - .adebis.chojyu.com
   - .lmfsga.chojyu.com
@@ -76903,6 +76906,7 @@ payload:
   - .analytics.erepublic.com
   - .www7.erogewiki.com
   - .ao-marketing.essendant.com
+  - eas.etherscan.com
   - .kta.etherscan.com
   - .nasi.etherscan.com
   - .www.etym6cero.com
@@ -81635,6 +81639,7 @@ payload:
   - .giraffe.talktalent.com
   - .sda.tamdiem247.com
   - .stats.tamdiem247.com
+  - ackee.tangly1024.com
   - .sfzpql.tateossian.com
   - .efuxqe.tatilbudur.com
   - .communications.taylorcorp.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-25T12:41:38.525Z
-# Size: 108896
+# Last Updated: 2024-11-25T13:34:07.797Z
+# Size: 108901
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23436,6 +23436,7 @@ samsungqbe.com,REJECT
 .yxjsibeugmmj.com,REJECT
 .yy9s51b2u05z.com,REJECT
 .zaiveeneefol.com,REJECT
+.zayac2volk11.com,REJECT
 .zcaappcthktx.com,REJECT
 .zeepteestaub.com,REJECT
 .zelatorpukka.com,REJECT
@@ -60369,6 +60370,7 @@ s.maketheweb.io,REJECT
 .clohzp.hifi.lu,REJECT
 .sstats.seat.lu,REJECT
 .smetrics.sony.lu,REJECT
+a.tool.lu,REJECT
 .saa.dyson.lu,REJECT
 .campaign.mazda.lu,REJECT
 .dialogue.mazda.lu,REJECT
@@ -68670,6 +68672,7 @@ miui-fxcse.avlyun.com,REJECT
 .go.cheerz.com,REJECT
 .link.cheerz.com,REJECT
 .ahsmpt.cheerz.com,REJECT
+.my.chinaz.com,REJECT
 .a2put.chinaz.com,REJECT
 .adebis.chojyu.com,REJECT
 .lmfsga.chojyu.com,REJECT
@@ -76902,6 +76905,7 @@ ad.caiyunapp.com,REJECT
 .analytics.erepublic.com,REJECT
 .www7.erogewiki.com,REJECT
 .ao-marketing.essendant.com,REJECT
+eas.etherscan.com,REJECT
 .kta.etherscan.com,REJECT
 .nasi.etherscan.com,REJECT
 .www.etym6cero.com,REJECT
@@ -81634,6 +81638,7 @@ analytics3.starschina.com,REJECT
 .giraffe.talktalent.com,REJECT
 .sda.tamdiem247.com,REJECT
 .stats.tamdiem247.com,REJECT
+ackee.tangly1024.com,REJECT
 .sfzpql.tateossian.com,REJECT
 .efuxqe.tatilbudur.com,REJECT
 .communications.taylorcorp.com,REJECT
