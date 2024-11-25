@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-24T12:37:06.550Z
-# Size: 110265
+# Last Updated: 2024-11-25T03:22:12.684Z
+# Size: 110272
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10071,6 +10071,7 @@ lgtvsdp.com,REJECT
 .ukdtzkc.com,REJECT
 .ukskxmh.com,REJECT
 .ukzoweq.com,REJECT
+.uldaens.com,REJECT
 .ulesxbo.com,REJECT
 .ulsmcdn.com,REJECT
 .umamdmo.com,REJECT
@@ -10617,6 +10618,7 @@ lgtvsdp.com,REJECT
 .airairgu.com,REJECT
 .aitrades.com,REJECT
 .aitsatho.com,REJECT
+.aizhantj.com,REJECT
 .ajgffcat.com,REJECT
 .ajoosheg.com,REJECT
 .ak0gsh40.com,REJECT
@@ -24544,6 +24546,7 @@ samsungqbe.com,REJECT
 .xucashntaghy.com,REJECT
 .xxxblackbook.com,REJECT
 .xxxnewvideos.com,REJECT
+.yandexmetric.com,REJECT
 .yankbecoming.com,REJECT
 .yeggscuvette.com,REJECT
 .yesmessenger.com,REJECT
@@ -37681,6 +37684,7 @@ samsungcloudsolution.com,REJECT
 .7aey.icu,REJECT
 .az5i.icu,REJECT
 .dt0j.icu,REJECT
+.g41i.icu,REJECT
 .wi1f.icu,REJECT
 .0pdsa.icu,REJECT
 .1cecn.icu,REJECT
@@ -38269,6 +38273,7 @@ samsungcloudsolution.com,REJECT
 .plfwxtgu.icu,REJECT
 .pwrgcxaj.icu,REJECT
 .pwxlbsie.icu,REJECT
+.qidzwhfp.icu,REJECT
 .roxwusak.icu,REJECT
 .rvnaxwqe.icu,REJECT
 .rvtfwryz.icu,REJECT
@@ -42216,6 +42221,7 @@ samsungcloudsolution.net,REJECT
 .qtyusiy.top,REJECT
 .quresdy.top,REJECT
 .qweisiy.top,REJECT
+.qweizay.top,REJECT
 .qwerioy.top,REJECT
 .qwoofao.top,REJECT
 .qwsanan.top,REJECT
@@ -65927,6 +65933,7 @@ adsystem.wasu.tv,REJECT
 .ok.nationalreliefcenter.us,REJECT
 .rmp4.destinia.uy,REJECT
 .analytics.neoogilvy.uy,REJECT
+.watson.nat.vg,REJECT
 .corporatecommunications.bvifsc.vg,REJECT
 .facabook.id.vn,REJECT
 .cliphott.io.vn,REJECT

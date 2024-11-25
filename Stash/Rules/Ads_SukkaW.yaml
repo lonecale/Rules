@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-24T12:37:06.550Z
-  # Size: 110265
+  # Last Updated: 2024-11-25T03:22:12.684Z
+  # Size: 110272
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -10072,6 +10072,7 @@ payload:
   - .ukdtzkc.com
   - .ukskxmh.com
   - .ukzoweq.com
+  - .uldaens.com
   - .ulesxbo.com
   - .ulsmcdn.com
   - .umamdmo.com
@@ -10618,6 +10619,7 @@ payload:
   - .airairgu.com
   - .aitrades.com
   - .aitsatho.com
+  - .aizhantj.com
   - .ajgffcat.com
   - .ajoosheg.com
   - .ak0gsh40.com
@@ -24545,6 +24547,7 @@ payload:
   - .xucashntaghy.com
   - .xxxblackbook.com
   - .xxxnewvideos.com
+  - .yandexmetric.com
   - .yankbecoming.com
   - .yeggscuvette.com
   - .yesmessenger.com
@@ -37682,6 +37685,7 @@ payload:
   - .7aey.icu
   - .az5i.icu
   - .dt0j.icu
+  - .g41i.icu
   - .wi1f.icu
   - .0pdsa.icu
   - .1cecn.icu
@@ -38270,6 +38274,7 @@ payload:
   - .plfwxtgu.icu
   - .pwrgcxaj.icu
   - .pwxlbsie.icu
+  - .qidzwhfp.icu
   - .roxwusak.icu
   - .rvnaxwqe.icu
   - .rvtfwryz.icu
@@ -42217,6 +42222,7 @@ payload:
   - .qtyusiy.top
   - .quresdy.top
   - .qweisiy.top
+  - .qweizay.top
   - .qwerioy.top
   - .qwoofao.top
   - .qwsanan.top
@@ -65928,6 +65934,7 @@ payload:
   - .ok.nationalreliefcenter.us
   - .rmp4.destinia.uy
   - .analytics.neoogilvy.uy
+  - .watson.nat.vg
   - .corporatecommunications.bvifsc.vg
   - .facabook.id.vn
   - .cliphott.io.vn
