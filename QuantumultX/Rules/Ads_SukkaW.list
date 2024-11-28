@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-28T06:19:10.627Z
-# Size: 109829
+# Last Updated: 2024-11-28T12:42:20.370Z
+# Size: 109832
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6476,7 +6476,6 @@
 .chidir.com,REJECT
 .chtntr.com,REJECT
 .churci.com,REJECT
-.cision.com,REJECT
 .cizion.com,REJECT
 .cj2550.com,REJECT
 .cjvdfw.com,REJECT
@@ -18879,6 +18878,7 @@ samsungqbe.com,REJECT
 .yrdrtzmsmt.com,REJECT
 .yrvzqabfxe.com,REJECT
 .yuanmengbi.com,REJECT
+.yuanzunxs1.com,REJECT
 .yuriembark.com,REJECT
 .yvzgazds6d.com,REJECT
 .yxajqsrsij.com,REJECT
@@ -36896,6 +36896,7 @@ samsungcloudsolution.com,REJECT
 .g41i.icu,REJECT
 .wi1f.icu,REJECT
 .y7ts.icu,REJECT
+.z9k7.icu,REJECT
 .0pdsa.icu,REJECT
 .1cecn.icu,REJECT
 .1dki0.icu,REJECT
@@ -37902,6 +37903,7 @@ samsungcloudsolution.com,REJECT
 .optify.net,REJECT
 .peer39.net,REJECT
 .pipsol.net,REJECT
+.planad.net,REJECT
 .plexop.net,REJECT
 .podefr.net,REJECT
 .polyad.net,REJECT
@@ -46260,6 +46262,7 @@ nmbr.info,REJECT
 .1cash.info,REJECT
 .3file.info,REJECT
 .awlov.info,REJECT
+.bmmwa.info,REJECT
 .dopor.info,REJECT
 .fedra.info,REJECT
 .geede.info,REJECT
