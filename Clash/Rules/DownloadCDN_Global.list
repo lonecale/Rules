@@ -11,7 +11,7 @@ DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,ipv4.egdownload.fastly-edge.com
 DOMAIN-KEYWORD,epicgames-download
-###################################AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-KEYWORD,-epicgames-))
+####################################AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-KEYWORD,-epicgames-))
 
 # Battle.net战网游戏下载、更新[国际]
 DOMAIN,blzddist1-a.akamaihd.net
@@ -100,7 +100,7 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,ssl-lvlt.cdn.ea.com
 
 # Steam游戏下载、游戏更新、创意工坊下载、Steam.TV直播、社区实况直播[国际]
-###################################AND,((DOMAIN-KEYWORD,cache),(DOMAIN-SUFFIX,steamcontent.com))
+####################################AND,((DOMAIN-KEYWORD,cache),(DOMAIN-SUFFIX,steamcontent.com))
 DOMAIN,avatars.akamai.steamstatic.com
 DOMAIN,avatars.cloudflare.steamstatic.com
 DOMAIN,avatars.steamstatic.com
