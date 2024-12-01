@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-30T12:37:54.139Z
-# Size: 110124
+# Last Updated: 2024-12-01T12:39:01.122Z
+# Size: 110137
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6446,6 +6446,7 @@
 .c11011.com,REJECT
 .c1ecda.com,REJECT
 .caahwq.com,REJECT
+.caaqot.com,REJECT
 .cabhwq.com,REJECT
 .cabnnr.com,REJECT
 .caltat.com,REJECT
@@ -8323,6 +8324,7 @@
 .brdtnet.com,REJECT
 .breedac.com,REJECT
 .brekdok.com,REJECT
+.brircel.com,REJECT
 .brqhyzk.com,REJECT
 .brulpha.com,REJECT
 .bsilzzc.com,REJECT
@@ -23121,6 +23123,7 @@ samsungqbe.com,REJECT
 .onclicksuper.com,REJECT
 .ondeerlingan.com,REJECT
 .onemediawork.com,REJECT
+.oneselfoxide.com,REJECT
 .onevenadvnow.com,REJECT
 .online-ibank.com,REJECT
 .onlyfansrips.com,REJECT
@@ -26938,6 +26941,7 @@ samsungqbe.com,REJECT
 .earphonespulse.com,REJECT
 .eastfeukufunde.com,REJECT
 .ebannertraffic.com,REJECT
+.ebayadservices.com,REJECT
 .echinusandaste.com,REJECT
 .echocultdanger.com,REJECT
 .economicpizzas.com,REJECT
@@ -27943,6 +27947,7 @@ samsungqbe.com,REJECT
 .tarrilyathenee.com,REJECT
 .tarsiusbaconic.com,REJECT
 .tastelesstrees.com,REJECT
+.tbydnpeykunahn.com,REJECT
 .teadwightshaft.com,REJECT
 .teamshilarious.com,REJECT
 .teamsoutspoken.com,REJECT
@@ -37013,9 +37018,12 @@ samsungcloudsolution.com,REJECT
 .7aey.icu,REJECT
 .96rj.icu,REJECT
 .9xxy.icu,REJECT
+.a2wx.icu,REJECT
+.af6s.icu,REJECT
 .az5i.icu,REJECT
 .dnd2.icu,REJECT
 .dt0j.icu,REJECT
+.e8d7.icu,REJECT
 .egg0.icu,REJECT
 .g41i.icu,REJECT
 .oo3z.icu,REJECT
@@ -37598,6 +37606,7 @@ samsungcloudsolution.com,REJECT
 .igabcgnh.icu,REJECT
 .jcfnbhqo.icu,REJECT
 .jcppcmqa.icu,REJECT
+.jcwlsofn.icu,REJECT
 .jgntjtyf.icu,REJECT
 .jrjtibez.icu,REJECT
 .jwhjqjfl.icu,REJECT
@@ -41433,6 +41442,7 @@ samsungcloudsolution.net,REJECT
 .cyretuf.top,REJECT
 .cyuwkbf.top,REJECT
 .dnn1300.top,REJECT
+.edamcsw.top,REJECT
 .edickew.top,REJECT
 .edoshbw.top,REJECT
 .eetlwsw.top,REJECT
@@ -41603,6 +41613,7 @@ samsungcloudsolution.net,REJECT
 .qyisloy.top,REJECT
 .qyuwkby.top,REJECT
 .qywbslk.top,REJECT
+.sdamcsb.top,REJECT
 .sdickeb.top,REJECT
 .sdoshbb.top,REJECT
 .setlwsb.top,REJECT
@@ -41824,6 +41835,7 @@ samsungcloudsolution.net,REJECT
 .ao1120kas.top,REJECT
 .ao1122kas.top,REJECT
 .ao1123kas.top,REJECT
+.ao1201kas.top,REJECT
 .arcedcoss.top,REJECT
 .baovietcv.top,REJECT
 .baovietin.top,REJECT
@@ -42025,6 +42037,7 @@ samsungcloudsolution.net,REJECT
 .aoao11121iis.top,REJECT
 .aoao11201iis.top,REJECT
 .aoao11211iis.top,REJECT
+.aoao12011iis.top,REJECT
 .astersrepent.top,REJECT
 .atabekdoubly.top,REJECT
 .avwjyvzeymmb.top,REJECT
@@ -42328,6 +42341,7 @@ samsungcloudsolution.net,REJECT
 .garrafaoutsins.top,REJECT
 .gleetchisurvey.top,REJECT
 .halibiulobcokt.top,REJECT
+.hebenonwidegab.top,REJECT
 .hoggershumblie.top,REJECT
 .houselsforwelk.top,REJECT
 .laridaetrionfo.top,REJECT
@@ -47883,6 +47897,7 @@ nmbr.info,REJECT
 .vib-up-the.shop,REJECT
 .vn-lienket.shop,REJECT
 .vn-nhanqua.shop,REJECT
+.yowlnibble.shop,REJECT
 .algomanjuly.shop,REJECT
 .anurybolded.shop,REJECT
 .arenigcools.shop,REJECT
@@ -47908,6 +47923,7 @@ nmbr.info,REJECT
 .dawtittalky.shop,REJECT
 .disburymixy.shop,REJECT
 .ersjnpwf837.shop,REJECT
+.exilesgalei.shop,REJECT
 .eyrybuiltin.shop,REJECT
 .fanocaraway.shop,REJECT
 .flaffsilver.shop,REJECT
@@ -64011,7 +64027,6 @@ stat.dns.sb,REJECT
 .tracking.ltz.se,REJECT
 .ape.mfj.se,REJECT
 .ma.mvr.se,REJECT
-.statistik.mxo.se,REJECT
 .tracking.nsk.se,REJECT
 .tracking.nvp.se,REJECT
 .sitecatalyst.pts.se,REJECT
@@ -64204,7 +64219,6 @@ stat.dns.sb,REJECT
 .skaffa.tidyapp.se,REJECT
 .statsapi.tiendeo.se,REJECT
 .tagging-service.tv4play.se,REJECT
-.tracking.vxonews.se,REJECT
 .smetrics.zeposia.se,REJECT
 .marketing.advectas.se,REJECT
 .owa.agriprim.se,REJECT
@@ -95690,7 +95704,6 @@ static.vuevideo.net,REJECT
 .d1wc0ojltqk24g.cloudfront.net,REJECT
 .d1wd81rzdci3ru.cloudfront.net,REJECT
 .d1wi563t0137vz.cloudfront.net,REJECT
-.d1wix2gc2cgqis.cloudfront.net,REJECT
 .d1wjz6mrey9f5v.cloudfront.net,REJECT
 .d1wv5x2u0qrvjw.cloudfront.net,REJECT
 .d1xdxiqs8w12la.cloudfront.net,REJECT
