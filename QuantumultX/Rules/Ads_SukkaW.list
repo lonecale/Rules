@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-02T12:43:34.748Z
+# Last Updated: 2024-12-02T15:43:04.532Z
 # Size: 110332
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -36977,6 +36977,7 @@ samsungcloudsolution.com,REJECT
 .dv0i.icu,REJECT
 .e8d7.icu,REJECT
 .egg0.icu,REJECT
+.fy60.icu,REJECT
 .g41i.icu,REJECT
 .oo3z.icu,REJECT
 .w59g.icu,REJECT
@@ -71375,7 +71376,6 @@ adm.meiguo.com,REJECT
 .kszuxn.snidel.com,REJECT
 .jeyttn.snipes.com,REJECT
 .link.snippz.com,REJECT
-.ib.snssdk.com,REJECT
 .bds.snssdk.com,REJECT
 .log.snssdk.com,REJECT
 .mcs.snssdk.com,REJECT

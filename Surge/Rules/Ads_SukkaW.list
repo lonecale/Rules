@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-02T12:43:34.748Z
+# Last Updated: 2024-12-02T15:43:04.532Z
 # Size: 110332
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -36977,6 +36977,7 @@ DOMAIN-SUFFIX,dt0j.icu
 DOMAIN-SUFFIX,dv0i.icu
 DOMAIN-SUFFIX,e8d7.icu
 DOMAIN-SUFFIX,egg0.icu
+DOMAIN-SUFFIX,fy60.icu
 DOMAIN-SUFFIX,g41i.icu
 DOMAIN-SUFFIX,oo3z.icu
 DOMAIN-SUFFIX,w59g.icu
@@ -71375,7 +71376,6 @@ DOMAIN-SUFFIX,dichvucong.snggov.com
 DOMAIN-SUFFIX,kszuxn.snidel.com
 DOMAIN-SUFFIX,jeyttn.snipes.com
 DOMAIN-SUFFIX,link.snippz.com
-DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,mcs.snssdk.com
