@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-03T06:08:56.792Z
-# Size: 110396
+# Last Updated: 2024-12-03T12:41:41.829Z
+# Size: 110397
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1345,7 +1345,6 @@
 .cdceed.de
 .counti.de
 .counto.de
-.cpdsrv.de
 .cuiron.de
 .df-srv.de
 .edgeno.de
@@ -7599,6 +7598,7 @@
 .tgaqxo.com
 .thanot.com
 .thao88.com
+.thaqne.com
 .theadx.com
 .thevtk.com
 .thiraq.com
@@ -21246,6 +21246,7 @@ samsungqbe.com
 .undiesthumb.com
 .ungiblechan.com
 .uniformyeah.com
+.unifyintent.com
 .unkinpigsty.com
 .unknownidea.com
 .unknowntray.com
