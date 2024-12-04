@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-03T12:41:41.829Z
-# Size: 110397
+# Last Updated: 2024-12-04T06:38:16.248Z
+# Size: 110410
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11591,6 +11591,7 @@ lgtvsdp.com,REJECT
 .linkfars.com,REJECT
 .linkmepu.com,REJECT
 .linkmink.com,REJECT
+.linksprf.com,REJECT
 .list-ads.com,REJECT
 .liverail.com,REJECT
 .livestat.com,REJECT
@@ -12338,6 +12339,7 @@ lgtvsdp.com,REJECT
 .sconvtrk.com,REJECT
 .scriptil.com,REJECT
 .scrollye.com,REJECT
+.scroscoi.com,REJECT
 .sdk4push.com,REJECT
 .seaofads.com,REJECT
 .seedoupo.com,REJECT
@@ -14639,6 +14641,7 @@ lgtvsdp.com,REJECT
 .numbninth.com,REJECT
 .nummobile.com,REJECT
 .nutiipwkk.com,REJECT
+.nuvaioqds.com,REJECT
 .nv3tosjqd.com,REJECT
 .nvtvssczb.com,REJECT
 .nwwrtbbit.com,REJECT
@@ -28965,6 +28968,7 @@ samsungqbe.com,REJECT
 .netapplications.com,REJECT
 .new-vietcombank.com,REJECT
 .newsforyourmood.com,REJECT
+.newtabextension.com,REJECT
 .nganhang-vpbank.com,REJECT
 .ngaytetlienquan.com,REJECT
 .nglestpeoplesho.com,REJECT
@@ -29772,6 +29776,7 @@ samsungqbe.com,REJECT
 .competemerriment.com,REJECT
 .compileformality.com,REJECT
 .comprehendpaying.com,REJECT
+.concealmentmimic.com,REJECT
 .conceivedtowards.com,REJECT
 .conduit-services.com,REJECT
 .confessioneurope.com,REJECT
@@ -36997,6 +37002,8 @@ samsungcloudsolution.com,REJECT
 .cloudcdn.gdn,REJECT
 .cloudmedia.gdn,REJECT
 .xoilactv123.gdn,REJECT
+.d5r.icu,REJECT
+.fo0.icu,REJECT
 .0dwm.icu,REJECT
 .1buo.icu,REJECT
 .1gtp.icu,REJECT
@@ -37021,6 +37028,7 @@ samsungcloudsolution.com,REJECT
 .g41i.icu,REJECT
 .k5uj.icu,REJECT
 .oo3z.icu,REJECT
+.q1bp.icu,REJECT
 .w59g.icu,REJECT
 .wi1f.icu,REJECT
 .xa7j.icu,REJECT
@@ -37610,6 +37618,7 @@ samsungcloudsolution.com,REJECT
 .lfrdskwj.icu,REJECT
 .ljzcawea.icu,REJECT
 .locpikbb.icu,REJECT
+.lumvkebr.icu,REJECT
 .nbfsvreu.icu,REJECT
 .ngxzkaxf.icu,REJECT
 .nlxgjwye.icu,REJECT
@@ -41549,6 +41558,7 @@ samsungcloudsolution.net,REJECT
 .kweriod.top,REJECT
 .kyislod.top,REJECT
 .kyuwkbd.top,REJECT
+.ldamcsl.top,REJECT
 .ldoshbl.top,REJECT
 .letlwsl.top,REJECT
 .lewrutl.top,REJECT
@@ -41583,6 +41593,7 @@ samsungcloudsolution.net,REJECT
 .nitsche.top,REJECT
 .now-dns.top,REJECT
 .oaiqksi.top,REJECT
+.odamcsk.top,REJECT
 .oewrutk.top,REJECT
 .ofjslik.top,REJECT
 .okiterk.top,REJECT
@@ -44898,6 +44909,7 @@ samsungcloudsolution.net,REJECT
 .oophoame.xyz,REJECT
 .oopoawee.xyz,REJECT
 .ootchaig.xyz,REJECT
+.op3xdork.xyz,REJECT
 .ophophiz.xyz,REJECT
 .opsoudaw.xyz,REJECT
 .oqejupqb.xyz,REJECT
@@ -63657,6 +63669,7 @@ x.o2.pl,REJECT
 .alt-ad.mail.ru,REJECT
 .showbiz.mail.ru,REJECT
 .top-fwz1.mail.ru,REJECT
+.media-stat.mail.ru,REJECT
 .top-staging.mail.ru,REJECT
 .analytics.move.ru,REJECT
 .analytics.msk1.ru,REJECT
@@ -63890,6 +63903,7 @@ x.o2.pl,REJECT
 .statistics.fppressa.ru,REJECT
 .radar.imgsmail.ru,REJECT
 .mediator.imgsmail.ru,REJECT
+.media-advcycle.imgsmail.ru,REJECT
 .ads.imovideo.ru,REJECT
 .ads-gdl.imovideo.ru,REJECT
 .ads.interfax.ru,REJECT
@@ -70324,7 +70338,6 @@ sapi.edgedb.com,REJECT
 .1.feihua.com,REJECT
 .cash.femjoy.com,REJECT
 .links.fennel.com,REJECT
-.hub.fghtem.com,REJECT
 .go.fhlbny.com,REJECT
 .join.fhlbny.com,REJECT
 .learn.fhlbny.com,REJECT

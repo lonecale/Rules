@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-12-03T12:41:41.829Z
-  # Size: 110397
+  # Last Updated: 2024-12-04T06:38:16.248Z
+  # Size: 110410
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -11592,6 +11592,7 @@ payload:
   - .linkfars.com
   - .linkmepu.com
   - .linkmink.com
+  - .linksprf.com
   - .list-ads.com
   - .liverail.com
   - .livestat.com
@@ -12339,6 +12340,7 @@ payload:
   - .sconvtrk.com
   - .scriptil.com
   - .scrollye.com
+  - .scroscoi.com
   - .sdk4push.com
   - .seaofads.com
   - .seedoupo.com
@@ -14640,6 +14642,7 @@ payload:
   - .numbninth.com
   - .nummobile.com
   - .nutiipwkk.com
+  - .nuvaioqds.com
   - .nv3tosjqd.com
   - .nvtvssczb.com
   - .nwwrtbbit.com
@@ -28966,6 +28969,7 @@ payload:
   - .netapplications.com
   - .new-vietcombank.com
   - .newsforyourmood.com
+  - .newtabextension.com
   - .nganhang-vpbank.com
   - .ngaytetlienquan.com
   - .nglestpeoplesho.com
@@ -29773,6 +29777,7 @@ payload:
   - .competemerriment.com
   - .compileformality.com
   - .comprehendpaying.com
+  - .concealmentmimic.com
   - .conceivedtowards.com
   - .conduit-services.com
   - .confessioneurope.com
@@ -36998,6 +37003,8 @@ payload:
   - .cloudcdn.gdn
   - .cloudmedia.gdn
   - .xoilactv123.gdn
+  - .d5r.icu
+  - .fo0.icu
   - .0dwm.icu
   - .1buo.icu
   - .1gtp.icu
@@ -37022,6 +37029,7 @@ payload:
   - .g41i.icu
   - .k5uj.icu
   - .oo3z.icu
+  - .q1bp.icu
   - .w59g.icu
   - .wi1f.icu
   - .xa7j.icu
@@ -37611,6 +37619,7 @@ payload:
   - .lfrdskwj.icu
   - .ljzcawea.icu
   - .locpikbb.icu
+  - .lumvkebr.icu
   - .nbfsvreu.icu
   - .ngxzkaxf.icu
   - .nlxgjwye.icu
@@ -41550,6 +41559,7 @@ payload:
   - .kweriod.top
   - .kyislod.top
   - .kyuwkbd.top
+  - .ldamcsl.top
   - .ldoshbl.top
   - .letlwsl.top
   - .lewrutl.top
@@ -41584,6 +41594,7 @@ payload:
   - .nitsche.top
   - .now-dns.top
   - .oaiqksi.top
+  - .odamcsk.top
   - .oewrutk.top
   - .ofjslik.top
   - .okiterk.top
@@ -44899,6 +44910,7 @@ payload:
   - .oophoame.xyz
   - .oopoawee.xyz
   - .ootchaig.xyz
+  - .op3xdork.xyz
   - .ophophiz.xyz
   - .opsoudaw.xyz
   - .oqejupqb.xyz
@@ -63658,6 +63670,7 @@ payload:
   - .alt-ad.mail.ru
   - .showbiz.mail.ru
   - .top-fwz1.mail.ru
+  - .media-stat.mail.ru
   - .top-staging.mail.ru
   - .analytics.move.ru
   - .analytics.msk1.ru
@@ -63891,6 +63904,7 @@ payload:
   - .statistics.fppressa.ru
   - .radar.imgsmail.ru
   - .mediator.imgsmail.ru
+  - .media-advcycle.imgsmail.ru
   - .ads.imovideo.ru
   - .ads-gdl.imovideo.ru
   - .ads.interfax.ru
@@ -70325,7 +70339,6 @@ payload:
   - .1.feihua.com
   - .cash.femjoy.com
   - .links.fennel.com
-  - .hub.fghtem.com
   - .go.fhlbny.com
   - .join.fhlbny.com
   - .learn.fhlbny.com

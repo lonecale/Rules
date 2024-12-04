@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-03T12:41:41.829Z
-# Size: 110397
+# Last Updated: 2024-12-04T06:38:16.248Z
+# Size: 110410
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11591,6 +11591,7 @@ lgtvsdp.com
 .linkfars.com
 .linkmepu.com
 .linkmink.com
+.linksprf.com
 .list-ads.com
 .liverail.com
 .livestat.com
@@ -12338,6 +12339,7 @@ lgtvsdp.com
 .sconvtrk.com
 .scriptil.com
 .scrollye.com
+.scroscoi.com
 .sdk4push.com
 .seaofads.com
 .seedoupo.com
@@ -14639,6 +14641,7 @@ lgtvsdp.com
 .numbninth.com
 .nummobile.com
 .nutiipwkk.com
+.nuvaioqds.com
 .nv3tosjqd.com
 .nvtvssczb.com
 .nwwrtbbit.com
@@ -28965,6 +28968,7 @@ samsungqbe.com
 .netapplications.com
 .new-vietcombank.com
 .newsforyourmood.com
+.newtabextension.com
 .nganhang-vpbank.com
 .ngaytetlienquan.com
 .nglestpeoplesho.com
@@ -29772,6 +29776,7 @@ samsungqbe.com
 .competemerriment.com
 .compileformality.com
 .comprehendpaying.com
+.concealmentmimic.com
 .conceivedtowards.com
 .conduit-services.com
 .confessioneurope.com
@@ -36997,6 +37002,8 @@ samsungcloudsolution.com
 .cloudcdn.gdn
 .cloudmedia.gdn
 .xoilactv123.gdn
+.d5r.icu
+.fo0.icu
 .0dwm.icu
 .1buo.icu
 .1gtp.icu
@@ -37021,6 +37028,7 @@ samsungcloudsolution.com
 .g41i.icu
 .k5uj.icu
 .oo3z.icu
+.q1bp.icu
 .w59g.icu
 .wi1f.icu
 .xa7j.icu
@@ -37610,6 +37618,7 @@ samsungcloudsolution.com
 .lfrdskwj.icu
 .ljzcawea.icu
 .locpikbb.icu
+.lumvkebr.icu
 .nbfsvreu.icu
 .ngxzkaxf.icu
 .nlxgjwye.icu
@@ -41549,6 +41558,7 @@ samsungcloudsolution.net
 .kweriod.top
 .kyislod.top
 .kyuwkbd.top
+.ldamcsl.top
 .ldoshbl.top
 .letlwsl.top
 .lewrutl.top
@@ -41583,6 +41593,7 @@ samsungcloudsolution.net
 .nitsche.top
 .now-dns.top
 .oaiqksi.top
+.odamcsk.top
 .oewrutk.top
 .ofjslik.top
 .okiterk.top
@@ -44898,6 +44909,7 @@ samsungcloudsolution.net
 .oophoame.xyz
 .oopoawee.xyz
 .ootchaig.xyz
+.op3xdork.xyz
 .ophophiz.xyz
 .opsoudaw.xyz
 .oqejupqb.xyz
@@ -63657,6 +63669,7 @@ x.o2.pl
 .alt-ad.mail.ru
 .showbiz.mail.ru
 .top-fwz1.mail.ru
+.media-stat.mail.ru
 .top-staging.mail.ru
 .analytics.move.ru
 .analytics.msk1.ru
@@ -63890,6 +63903,7 @@ x.o2.pl
 .statistics.fppressa.ru
 .radar.imgsmail.ru
 .mediator.imgsmail.ru
+.media-advcycle.imgsmail.ru
 .ads.imovideo.ru
 .ads-gdl.imovideo.ru
 .ads.interfax.ru
@@ -70324,7 +70338,6 @@ sapi.edgedb.com
 .1.feihua.com
 .cash.femjoy.com
 .links.fennel.com
-.hub.fghtem.com
 .go.fhlbny.com
 .join.fhlbny.com
 .learn.fhlbny.com
