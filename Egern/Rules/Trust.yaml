@@ -2,18 +2,18 @@ no_resolve: true
 domain_set:
 - api.avax.network
 domain_suffix_set:
-- kodif.io
-- trustwallet.com
-- walletconnect.com
-- twnodes.com
-- nariox.org
 - ankr.com
-- thebittimes.com
 - coinpedia.org
 - crypto.news
 - cryptonews.com
+- kodif.io
+- nariox.org
 - ninerealms.com
+- thebittimes.com
 - trongrid.io
+- trustwallet.com
+- twnodes.com
+- walletconnect.com
 domain_keyword_set:
 domain_regex_set:
 ip_cidr_set:
