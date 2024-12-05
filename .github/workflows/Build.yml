@@ -47,6 +47,25 @@ jobs:
         mkdir -p Tool-repo/GeoIP
         curl -L -o Tool-repo/GeoIP/CN_Country.mmdb "https://raw.githubusercontent.com/Masaiki/GeoIP2-CN/release/Country.mmdb"
         curl -L -o Tool-repo/GeoIP/Global_Country.mmdb "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+        curl -L -o Tool-repo/GeoIP/geoip.dat "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat"
+
+    - name: Unpack geoIP
+      run: |
+        # rm -rf Tool-repo/GeoIP/rules/*
+        mkdir -p Tool-repo/GeoIP/rules
+        $HOME/v2dat unpack geoip -o Tool-repo/GeoIP/rules Tool-repo/GeoIP/geoip.dat
+        # 重命名文件以去除前缀
+        cd Tool-repo/GeoIP/rules
+        for file in geoip_*.*; do
+          newname="${file#geoip_}"
+          mv "$file" "$newname"
+          if grep -q -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+(/[0-9]+)?$' "$newname"; then
+            grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+(/[0-9]+)?$' "$newname" > "${newname%.txt}_ipv4.txt"
+          fi
+          if grep -q -E '^[0-9a-fA-F:]+(/[0-9]+)?$' "$newname"; then
+            grep -E '^[0-9a-fA-F:]+(/[0-9]+)?$' "$newname" > "${newname%.txt}_ipv6.txt"
+          fi
+        done
 
     - name: Geosite
       run: |
@@ -69,24 +88,6 @@ jobs:
         cd Tool-repo/Geosite/rules
         for file in geosite_*.*; do
           mv "$file" "${file#geosite_}"
-        done
-
-    - name: Unpack geoIP
-      run: |
-        # rm -rf Tool-repo/GeoIP/rules/*
-        mkdir -p Tool-repo/GeoIP/rules
-        $HOME/v2dat unpack geoip -o Tool-repo/GeoIP/rules Tool-repo/GeoIP/geoip.dat
-        # 重命名文件以去除前缀
-        cd Tool-repo/GeoIP/rules
-        for file in geoip_*.*; do
-          newname="${file#geoip_}"
-          mv "$file" "$newname"
-          if grep -q -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+(/[0-9]+)?$' "$newname"; then
-            grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+(/[0-9]+)?$' "$newname" > "${newname%.txt}_ipv4.txt"
-          fi
-          if grep -q -E '^[0-9a-fA-F:]+(/[0-9]+)?$' "$newname"; then
-            grep -E '^[0-9a-fA-F:]+(/[0-9]+)?$' "$newname" > "${newname%.txt}_ipv6.txt"
-          fi
         done
 
     - name: Create Markdown navigation
