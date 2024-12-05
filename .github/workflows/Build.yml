@@ -120,8 +120,8 @@ jobs:
       run: |
         #!/bin/bash
         repo_name=$(basename "$GITHUB_REPOSITORY")
-        echo "repo_name: $repo_name"
-        if [[ "$repo_name" == "lonecale/Rules" ]]; then
+        # echo "repo_name: $repo_name"
+        if [[ "$repo_name" == "Rules" ]]; then
             echo "Running in Tool repository"
             mkdir -p Tool-repo/Ruleset
             # 合并广告规则
