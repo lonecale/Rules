@@ -14,13 +14,13 @@ jobs:
     
     steps: 
     - name: Checkout target repository
-      uses: actions/checkout@v4.1.0
+      uses: actions/checkout@v4.2.2
       with:
         repository: lonecale/Rules
         path: Tool-repo
 
     - name: Checkout v2dat repository
-      uses: actions/checkout@v4.1.0
+      uses: actions/checkout@v4.2.2
       with:
         repository: urlesistiana/v2dat
         path: Tool-repo/v2dat
