@@ -1,3 +1,4 @@
+full:csis-prod.s3.amazonaws.com
 full:a.ppy.sh
 full:assets.ppy.sh
 full:c.ppy.sh
@@ -7,7 +8,6 @@ full:lazer.ppy.sh
 full:notify.ppy.sh
 full:sentry.ppy.sh
 full:spectator.ppy.sh
-full:csis-prod.s3.amazonaws.com
 aomedia.org
 atypi.org
 change.org
@@ -21,16 +21,7 @@ un.org
 w3.org
 who.int
 wto.org
-openmaps.org
-openstreetmap.com
-openstreetmap.net
-openstreetmap.org
-openstreetmaps.org
-osm.org
-osmfoundation.org
-stateofthemap.com
-stateofthemap.org
-ppy.sh
+csis.org
 emojipedia.org
 worldemojiawards.com
 worldemojiday.com
@@ -108,5 +99,14 @@ ccstatic.org
 creativecommons.org
 creativecommons.engineering
 licensebuttons.net
-csis.org
+openmaps.org
+openstreetmap.com
+openstreetmap.net
+openstreetmap.org
+openstreetmaps.org
+osm.org
+osmfoundation.org
+stateofthemap.com
+stateofthemap.org
 paskoocheh.com
+ppy.sh
