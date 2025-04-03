@@ -84,8 +84,10 @@ jobs:
 
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt Tool-repo/Geosite/geosite-pt.dat
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt@cn-pt Tool-repo/Geosite/geosite-pt.dat
+        $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt@!cn Tool-repo/Geosite/geosite-pt.dat
         # 重命名文件以去除前缀
         cd Tool-repo/Geosite/rules
+        rm -rf Tool-repo/Geosite/rules/category-pt.txt
         for file in geosite_*.*; do
           mv "$file" "${file#geosite_}"
         done
