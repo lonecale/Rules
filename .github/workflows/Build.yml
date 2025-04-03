@@ -87,9 +87,13 @@ jobs:
         $HOME/v2dat unpack geosite -o Tool-repo/Geosite/rules -f category-pt@!cn Tool-repo/Geosite/geosite-pt.dat
         # 重命名文件以去除前缀
         cd Tool-repo/Geosite/rules
-        rm -rf Tool-repo/Geosite/rules/category-pt.txt
-        for file in geosite_*.*; do
-          mv "$file" "${file#geosite_}"
+        rm -rf Tool-repo/Geosite/rules/geosite_category-pt.txt
+        for file in geosite_*.* geosite-pt_*.*; do
+          if [[ "$file" == geosite_*.* ]]; then
+            mv "$file" "${file#geosite_}"
+          elif [[ "$file" == geosite-pt_*.* ]]; then
+            mv "$file" "${file#geosite-pt_}"
+          fi
         done
 
     - name: Create Markdown navigation
