@@ -1,5 +1,6 @@
 full:time.apple.com
 full:time.euro.apple.com
+full:time.aws.com
 full:time.facebook.com
 full:time1.facebook.com
 full:time2.facebook.com
@@ -91,6 +92,7 @@ full:ntp4.aliyun.com
 full:ntp5.aliyun.com
 full:ntp6.aliyun.com
 full:ntp7.aliyun.com
+full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:ntp.tencent.com
