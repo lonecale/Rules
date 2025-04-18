@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3467
+# 规则统计: 3468
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2691,6 +2691,7 @@ HOST-SUFFIX,ezocdn.com,CDN
 HOST-SUFFIX,f-droid.org,CDN
 HOST-SUFFIX,f.hubspotemail.net,CDN
 HOST-SUFFIX,f.hubspotfree.net,CDN
+HOST-SUFFIX,f.hubspotstarter.net,CDN
 HOST-SUFFIX,faceit-cdn.net,CDN
 HOST-SUFFIX,fakeimg.pl,CDN
 HOST-SUFFIX,fakestoreapi.com,CDN

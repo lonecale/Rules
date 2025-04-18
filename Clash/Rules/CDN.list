@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3465
+# 规则统计: 3466
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2691,6 +2691,7 @@ DOMAIN-SUFFIX,ezocdn.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f.hubspotemail.net
 DOMAIN-SUFFIX,f.hubspotfree.net
+DOMAIN-SUFFIX,f.hubspotstarter.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,fakeimg.pl
 DOMAIN-SUFFIX,fakestoreapi.com

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3467
+# 规则统计: 3468
 
 domain_set:
   - 0x0.st
@@ -2693,6 +2693,7 @@ domain_suffix_set:
   - f-droid.org
   - f.hubspotemail.net
   - f.hubspotfree.net
+  - f.hubspotstarter.net
   - faceit-cdn.net
   - fakeimg.pl
   - fakestoreapi.com
