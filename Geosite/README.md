@@ -605,6 +605,7 @@
 - [homedepot](rules/homedepot.txt)
 - [hongdunwang](rules/hongdunwang.txt)
 - [hongkongpost](rules/hongkongpost.txt)
+- [honor](rules/honor.txt)
 - [hooligapps](rules/hooligapps.txt)
 - [hotjar-ads](rules/hotjar-ads.txt)
 - [hotstar](rules/hotstar.txt)
