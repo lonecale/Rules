@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 71858
+# 规则统计: 71862
 
 no_resolve: true
 domain_set:
@@ -6522,6 +6522,7 @@ domain_suffix_set:
   - analytics.leavemanager.com
   - analytics.leespace.co
   - analytics.lekumo.jp
+  - analytics.lemoolah.com
   - analytics.lenco.com
   - analytics.lenco.de
   - analytics.lenco.fr
@@ -27515,6 +27516,7 @@ domain_suffix_set:
   - hfahds.zegarkicentrum.pl
   - hfbetl.fc-hikaku.net
   - hfc.healthfanclub.com
+  - hfc195b.com
   - hfd.bridgetowermedia.com
   - hfdcna.sunmountain.com
   - hfdfyrqj-ws.club
@@ -30997,6 +30999,7 @@ domain_suffix_set:
   - itkdlu.howrse.sk
   - itmmgk.ilgufo.com
   - itnuzleafan.com
+  - itoqals.com
   - itp.phoebebeautyup.com
   - itp.yaku-job.com
   - itpatratr.com
@@ -31898,6 +31901,7 @@ domain_suffix_set:
   - julrdr.com
   - jumbln.com
   - jumbo-insurance.pro
+  - jumbo.zomato.com
   - jumboaffiliates.com
   - jumghz.durstexpress.de
   - jumpingapplecloud.com
