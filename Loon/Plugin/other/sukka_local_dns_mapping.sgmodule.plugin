@@ -325,6 +325,7 @@ aterm.me = server:system
 *.10.in-addr.arpa = server:system
 
 *.localdomain = server:system
+*.local = server:system
 *.home.arpa = server:system
 *.lan = server:system
 
