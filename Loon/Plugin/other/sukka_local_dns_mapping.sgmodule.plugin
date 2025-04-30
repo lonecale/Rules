@@ -156,6 +156,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.bilibili.cn = server:https://doh.pub/dns-query
 
 *.mijia.tech = server:https://doh.pub/dns-query
+*.gorouter.info = server:https://doh.pub/dns-query
 *.xiaomi.net = server:https://doh.pub/dns-query
 *.xiaomiyoupin.com = server:https://doh.pub/dns-query
 *.xiaomixiaoai.com = server:https://doh.pub/dns-query
