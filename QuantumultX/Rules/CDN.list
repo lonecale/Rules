@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3571
+# 规则统计: 3581
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -67,6 +67,7 @@ HOST,app.cookieyes.com,CDN
 HOST,app.groove.cm,CDN
 HOST,app.groovefunnels.com,CDN
 HOST,app.moegirl.tw,CDN
+HOST,app.quotemedia.com,CDN
 HOST,app.roboflow.com,CDN
 HOST,app.viral-loops.com,CDN
 HOST,appassets.mvtdev.com,CDN
@@ -361,6 +362,7 @@ HOST,cdn-img2.iporntv.net,CDN
 HOST,cdn-img3.iporntv.net,CDN
 HOST,cdn-live.foreignaffairs.com,CDN
 HOST,cdn-longterm.mee6.xyz,CDN
+HOST,cdn-main.plus500.com,CDN
 HOST,cdn-media-1.freecodecamp.org,CDN
 HOST,cdn-media-2.freecodecamp.org,CDN
 HOST,cdn-mobile.aptoide.com,CDN
@@ -608,6 +610,7 @@ HOST,cdn.player.fm,CDN
 HOST,cdn.playwire.com,CDN
 HOST,cdn.plot.ly,CDN
 HOST,cdn.plu.mx,CDN
+HOST,cdn.plus500.com,CDN
 HOST,cdn.plyr.io,CDN
 HOST,cdn.pricespider.com,CDN
 HOST,cdn.privacy-mgmt.com,CDN
@@ -1623,6 +1626,7 @@ HOST,netlify.apollo.io,CDN
 HOST,newassets.hcaptcha.com,CDN
 HOST,news-assets.apple.com,CDN
 HOST,newsletter.postmarkapp.com,CDN
+HOST,next-images.123rf.com,CDN
 HOST,next-images.opencollective.com,CDN
 HOST,nextra.site,CDN
 HOST,ni-assets.azureedge.net,CDN
@@ -1770,6 +1774,7 @@ HOST,public.mocortech.com,CDN
 HOST,public.saasexch.com,CDN
 HOST,publicsuffix.org,CDN
 HOST,pytorch.org,CDN
+HOST,qmod.quotemedia.com,CDN
 HOST,quriobot.com,CDN
 HOST,r.r10s.jp,CDN
 HOST,r2.1hanime.com,CDN
@@ -1801,6 +1806,7 @@ HOST,resources-cache.prod.sketch.com,CDN
 HOST,resources-live.sketch.cloud,CDN
 HOST,resources.allstate.com,CDN
 HOST,resources.chessbase.com,CDN
+HOST,resources.digital-cloud.medallia.com,CDN
 HOST,resources.help.salesforce.com,CDN
 HOST,resources.whatwg.org,CDN
 HOST,rest.happierleads.com,CDN
@@ -1939,6 +1945,7 @@ HOST,sig.grumpybumpers.com,CDN
 HOST,sigma9.scpwikicn.com,CDN
 HOST,signal.cdnbye.com,CDN
 HOST,signalcloud.cdnbye.com,CDN
+HOST,signature.overwolf.com,CDN
 HOST,siloh-ns1.plutotv.net,CDN
 HOST,simpleicons.org,CDN
 HOST,simplicity.trustpilot.com,CDN
@@ -2372,6 +2379,7 @@ HOST,upos-sz-mirroralibstar1.bilivideo.com,CDN
 HOST,upos-sz-mirrorcosbstar1.bilivideo.com,CDN
 HOST,uptn.nv7s.com,CDN
 HOST,us-js.zonka.co,CDN
+HOST,us.123rf.com,CDN
 HOST,us.hamreus.com,CDN
 HOST,us01ccistatic.zoom.us,CDN
 HOST,us1-prod-images.disco-api.com,CDN
@@ -2795,6 +2803,7 @@ HOST-SUFFIX,filecunhua.top,CDN
 HOST-SUFFIX,files.bbci.co.uk,CDN
 HOST-SUFFIX,files.gitbook.io,CDN
 HOST-SUFFIX,files.wordpress.com,CDN
+HOST-SUFFIX,fimfiction-static.net,CDN
 HOST-SUFFIX,firebaseapp.com,CDN
 HOST-SUFFIX,firebasestorage.googleapis.com,CDN
 HOST-SUFFIX,firefoxusercontent.com,CDN
@@ -3366,6 +3375,7 @@ HOST-SUFFIX,swiftypecdn.com,CDN
 HOST-SUFFIX,sxccdn.com,CDN
 HOST-SUFFIX,szjal.cn,CDN
 HOST-SUFFIX,tapecontent.net,CDN
+HOST-SUFFIX,targetimg1.com,CDN
 HOST-SUFFIX,teamtailor-cdn.com,CDN
 HOST-SUFFIX,tedcdn.com,CDN
 HOST-SUFFIX,telemetry.services.yofi.ai,CDN

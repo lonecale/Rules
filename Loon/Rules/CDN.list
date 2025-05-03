@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3571
+# 规则统计: 3581
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -67,6 +67,7 @@ DOMAIN,app.cookieyes.com
 DOMAIN,app.groove.cm
 DOMAIN,app.groovefunnels.com
 DOMAIN,app.moegirl.tw
+DOMAIN,app.quotemedia.com
 DOMAIN,app.roboflow.com
 DOMAIN,app.viral-loops.com
 DOMAIN,appassets.mvtdev.com
@@ -361,6 +362,7 @@ DOMAIN,cdn-img2.iporntv.net
 DOMAIN,cdn-img3.iporntv.net
 DOMAIN,cdn-live.foreignaffairs.com
 DOMAIN,cdn-longterm.mee6.xyz
+DOMAIN,cdn-main.plus500.com
 DOMAIN,cdn-media-1.freecodecamp.org
 DOMAIN,cdn-media-2.freecodecamp.org
 DOMAIN,cdn-mobile.aptoide.com
@@ -608,6 +610,7 @@ DOMAIN,cdn.player.fm
 DOMAIN,cdn.playwire.com
 DOMAIN,cdn.plot.ly
 DOMAIN,cdn.plu.mx
+DOMAIN,cdn.plus500.com
 DOMAIN,cdn.plyr.io
 DOMAIN,cdn.pricespider.com
 DOMAIN,cdn.privacy-mgmt.com
@@ -1623,6 +1626,7 @@ DOMAIN,netlify.apollo.io
 DOMAIN,newassets.hcaptcha.com
 DOMAIN,news-assets.apple.com
 DOMAIN,newsletter.postmarkapp.com
+DOMAIN,next-images.123rf.com
 DOMAIN,next-images.opencollective.com
 DOMAIN,nextra.site
 DOMAIN,ni-assets.azureedge.net
@@ -1770,6 +1774,7 @@ DOMAIN,public.mocortech.com
 DOMAIN,public.saasexch.com
 DOMAIN,publicsuffix.org
 DOMAIN,pytorch.org
+DOMAIN,qmod.quotemedia.com
 DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
 DOMAIN,r2.1hanime.com
@@ -1801,6 +1806,7 @@ DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
 DOMAIN,resources.allstate.com
 DOMAIN,resources.chessbase.com
+DOMAIN,resources.digital-cloud.medallia.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,resources.whatwg.org
 DOMAIN,rest.happierleads.com
@@ -1939,6 +1945,7 @@ DOMAIN,sig.grumpybumpers.com
 DOMAIN,sigma9.scpwikicn.com
 DOMAIN,signal.cdnbye.com
 DOMAIN,signalcloud.cdnbye.com
+DOMAIN,signature.overwolf.com
 DOMAIN,siloh-ns1.plutotv.net
 DOMAIN,simpleicons.org
 DOMAIN,simplicity.trustpilot.com
@@ -2372,6 +2379,7 @@ DOMAIN,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com
 DOMAIN,uptn.nv7s.com
 DOMAIN,us-js.zonka.co
+DOMAIN,us.123rf.com
 DOMAIN,us.hamreus.com
 DOMAIN,us01ccistatic.zoom.us
 DOMAIN,us1-prod-images.disco-api.com
@@ -2795,6 +2803,7 @@ DOMAIN-SUFFIX,filecunhua.top
 DOMAIN-SUFFIX,files.bbci.co.uk
 DOMAIN-SUFFIX,files.gitbook.io
 DOMAIN-SUFFIX,files.wordpress.com
+DOMAIN-SUFFIX,fimfiction-static.net
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebasestorage.googleapis.com
 DOMAIN-SUFFIX,firefoxusercontent.com
@@ -3366,6 +3375,7 @@ DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,szjal.cn
 DOMAIN-SUFFIX,tapecontent.net
+DOMAIN-SUFFIX,targetimg1.com
 DOMAIN-SUFFIX,teamtailor-cdn.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,telemetry.services.yofi.ai

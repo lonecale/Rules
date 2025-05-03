@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3571
+# 规则统计: 3581
 
 domain_set:
   - 0x0.st
@@ -68,6 +68,7 @@ domain_set:
   - app.groove.cm
   - app.groovefunnels.com
   - app.moegirl.tw
+  - app.quotemedia.com
   - app.roboflow.com
   - app.viral-loops.com
   - appassets.mvtdev.com
@@ -362,6 +363,7 @@ domain_set:
   - cdn-img3.iporntv.net
   - cdn-live.foreignaffairs.com
   - cdn-longterm.mee6.xyz
+  - cdn-main.plus500.com
   - cdn-media-1.freecodecamp.org
   - cdn-media-2.freecodecamp.org
   - cdn-mobile.aptoide.com
@@ -609,6 +611,7 @@ domain_set:
   - cdn.playwire.com
   - cdn.plot.ly
   - cdn.plu.mx
+  - cdn.plus500.com
   - cdn.plyr.io
   - cdn.pricespider.com
   - cdn.privacy-mgmt.com
@@ -1624,6 +1627,7 @@ domain_set:
   - newassets.hcaptcha.com
   - news-assets.apple.com
   - newsletter.postmarkapp.com
+  - next-images.123rf.com
   - next-images.opencollective.com
   - nextra.site
   - ni-assets.azureedge.net
@@ -1771,6 +1775,7 @@ domain_set:
   - public.saasexch.com
   - publicsuffix.org
   - pytorch.org
+  - qmod.quotemedia.com
   - quriobot.com
   - r.r10s.jp
   - r2.1hanime.com
@@ -1802,6 +1807,7 @@ domain_set:
   - resources-live.sketch.cloud
   - resources.allstate.com
   - resources.chessbase.com
+  - resources.digital-cloud.medallia.com
   - resources.help.salesforce.com
   - resources.whatwg.org
   - rest.happierleads.com
@@ -1940,6 +1946,7 @@ domain_set:
   - sigma9.scpwikicn.com
   - signal.cdnbye.com
   - signalcloud.cdnbye.com
+  - signature.overwolf.com
   - siloh-ns1.plutotv.net
   - simpleicons.org
   - simplicity.trustpilot.com
@@ -2373,6 +2380,7 @@ domain_set:
   - upos-sz-mirrorcosbstar1.bilivideo.com
   - uptn.nv7s.com
   - us-js.zonka.co
+  - us.123rf.com
   - us.hamreus.com
   - us01ccistatic.zoom.us
   - us1-prod-images.disco-api.com
@@ -2797,6 +2805,7 @@ domain_suffix_set:
   - files.bbci.co.uk
   - files.gitbook.io
   - files.wordpress.com
+  - fimfiction-static.net
   - firebaseapp.com
   - firebasestorage.googleapis.com
   - firefoxusercontent.com
@@ -3368,6 +3377,7 @@ domain_suffix_set:
   - sxccdn.com
   - szjal.cn
   - tapecontent.net
+  - targetimg1.com
   - teamtailor-cdn.com
   - tedcdn.com
   - telemetry.services.yofi.ai
