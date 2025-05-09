@@ -864,6 +864,7 @@
 - [mpv](rules/mpv.txt)
 - [msi](rules/msi.txt)
 - [msn](rules/msn.txt)
+- [mubi](rules/mubi.txt)
 - [mucinex](rules/mucinex.txt)
 - [mudvod](rules/mudvod.txt)
 - [muji](rules/muji.txt)
