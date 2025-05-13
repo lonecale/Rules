@@ -8,6 +8,7 @@
 dns.alidns.com = server:system
 doh.pub = server:system
 doh.360.cn = server:101.198.198.198
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:quic://dns.alidns.com:853
 *.aliapp.org = server:quic://dns.alidns.com:853
 *.aliyundrive.net = server:quic://dns.alidns.com:853
 *.alikunlun.net = server:quic://dns.alidns.com:853
@@ -90,6 +91,7 @@ ali-safety-video.acfun.cn = server:quic://dns.alidns.com:853
 *.tb.cn = server:quic://dns.alidns.com:853
 *.sm.cn = server:quic://dns.alidns.com:853
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:https://doh.pub/dns-query
 *.tencent-cloud.net = server:https://doh.pub/dns-query
 *.smtcdns.net = server:https://doh.pub/dns-query
 *.coding.net = server:https://doh.pub/dns-query
@@ -138,6 +140,7 @@ url.cn = server:https://doh.pub/dns-query
 *.gtimg.com.cn = server:https://doh.pub/dns-query
 *.qq.com.cn = server:https://doh.pub/dns-query
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:https://doh.pub/dns-query
 *.bilivideo.net = server:https://doh.pub/dns-query
 *.biligame.net = server:https://doh.pub/dns-query
 *.biliapi.net = server:https://doh.pub/dns-query
@@ -156,6 +159,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.bilivideo.cn = server:https://doh.pub/dns-query
 *.bilibili.cn = server:https://doh.pub/dns-query
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:https://doh.pub/dns-query
 *.mijia.tech = server:https://doh.pub/dns-query
 *.gorouter.info = server:https://doh.pub/dns-query
 *.xiaomi.net = server:https://doh.pub/dns-query
@@ -173,6 +177,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.xiaomi.cn = server:https://doh.pub/dns-query
 *.mifile.cn = server:https://doh.pub/dns-query
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:180.184.2.2
 *.feishu.net = server:180.184.2.2
 *.toutiaostatic.com = server:180.184.2.2
 *.huoshanstatic.com = server:180.184.2.2
@@ -220,6 +225,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.bytecdn.cn = server:180.184.2.2
 *.feishu.cn = server:180.184.2.2
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:180.76.76.76
 *.yunjiasu-cdn.net = server:180.76.76.76
 *.baiducontent.com = server:180.76.76.76
 *.baidustatic.com = server:180.76.76.76
@@ -247,6 +253,7 @@ upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 *.91.com = server:180.76.76.76
 *.baidu.cn = server:180.76.76.76
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:https://doh.360.cn/dns-query
 *.360.net = server:https://doh.360.cn/dns-query
 *.360webcache.com = server:https://doh.360.cn/dns-query
 *.qhupdate.com = server:https://doh.360.cn/dns-query
@@ -281,6 +288,7 @@ hotspot.cslwifi.com = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
 *.bogon = server:system
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:system
 mobile.hotspot = server:system
 *.router = server:system
 *.plex.direct = server:system
@@ -307,6 +315,7 @@ router.asus.com = server:system
 aterm.me = server:system
 *.tplogin.cn = server:system
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:system
 *.168.192.in-addr.arpa = server:system
 *.31.172.in-addr.arpa = server:system
 *.30.172.in-addr.arpa = server:system
@@ -327,6 +336,7 @@ aterm.me = server:system
 *.254.169.in-addr.arpa = server:system
 *.10.in-addr.arpa = server:system
 
+th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:system
 *.localdomain = server:system
 *.local = server:system
 *.home.arpa = server:system
