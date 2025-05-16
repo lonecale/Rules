@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3641
+# 规则统计: 3639
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -561,7 +561,6 @@ HOST,cdn.lemonsqueezy.com,CDN
 HOST,cdn.libravatar.org,CDN
 HOST,cdn.lihkg.com,CDN
 HOST,cdn.linearicons.com,CDN
-HOST,cdn.linux.do,CDN
 HOST,cdn.livechatinc.com,CDN
 HOST,cdn.loom.com,CDN
 HOST,cdn.macstories.net,CDN
@@ -2578,7 +2577,6 @@ HOST-SUFFIX,agechecker-northern-apps.com,CDN
 HOST-SUFFIX,agechecker.northern-apps.com,CDN
 HOST-SUFFIX,ahcdn.com,CDN
 HOST-SUFFIX,airio3.live,CDN
-HOST-SUFFIX,akamai-content-network.com,CDN
 HOST-SUFFIX,akidoo.top,CDN
 HOST-SUFFIX,alexdav.id,CDN
 HOST-SUFFIX,algolianet.com,CDN
