@@ -787,6 +787,7 @@
 - [linkedin](rules/linkedin.txt)
 - [linotype](rules/linotype.txt)
 - [linux](rules/linux.txt)
+- [linuxdo](rules/linuxdo.txt)
 - [lisiku](rules/lisiku.txt)
 - [litv](rules/litv.txt)
 - [lizhi](rules/lizhi.txt)
