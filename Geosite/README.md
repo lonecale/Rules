@@ -1320,6 +1320,7 @@
 - [volvo](rules/volvo.txt)
 - [voxmedia](rules/voxmedia.txt)
 - [vpngate](rules/vpngate.txt)
+- [vrzwk](rules/vrzwk.txt)
 - [vultr](rules/vultr.txt)
 ## W
 - [w3schools](rules/w3schools.txt)
