@@ -1195,6 +1195,7 @@
 - [tagtic-ads](rules/tagtic-ads.txt)
 - [taikang](rules/taikang.txt)
 - [tailscale](rules/tailscale.txt)
+- [talkatone](rules/talkatone.txt)
 - [talktone](rules/talktone.txt)
 - [taomee](rules/taomee.txt)
 - [tappx-ads](rules/tappx-ads.txt)
