@@ -401,6 +401,7 @@
 - [deribit](rules/deribit.txt)
 - [dettol](rules/dettol.txt)
 - [deviantart](rules/deviantart.txt)
+- [dewu](rules/dewu.txt)
 - [dgtle](rules/dgtle.txt)
 - [dida365](rules/dida365.txt)
 - [didi](rules/didi.txt)
