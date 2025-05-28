@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7363
+# 规则统计: 7365
 
 no_resolve: true
 domain_set:
@@ -1468,6 +1468,7 @@ domain_suffix_set:
   - delicious.com
   - democrats.org
   - demosisto.hk
+  - deno.com
   - depositphotos.com
   - derekhsu.homeip.net
   - desc.se
@@ -3461,6 +3462,7 @@ domain_suffix_set:
   - jsdelivr.net
   - jsfiddle.net
   - jshell.net
+  - jsr.io
   - jtvnw.net
   - jubushoushen.com
   - juhuaren.com
