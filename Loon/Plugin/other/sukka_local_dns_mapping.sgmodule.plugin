@@ -147,6 +147,7 @@ th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe = server:https://doh.pub/dns-quer
 *.bilicomics.com = server:https://doh.pub/dns-query
 *.bilivideo.com = server:https://doh.pub/dns-query
 *.bilicomic.com = server:https://doh.pub/dns-query
+*.bulicdn2.com = server:https://doh.pub/dns-query
 *.biligame.com = server:https://doh.pub/dns-query
 *.bilicdn1.com = server:https://doh.pub/dns-query
 *.bilibili.com = server:https://doh.pub/dns-query

@@ -886,6 +886,7 @@
 - [mytvsuper](rules/mytvsuper.txt)
 - [mzed](rules/mzed.txt)
 ## N
+- [n26](rules/n26.txt)
 - [n3ro](rules/n3ro.txt)
 - [narwal](rules/narwal.txt)
 - [nat-test](rules/nat-test.txt)
