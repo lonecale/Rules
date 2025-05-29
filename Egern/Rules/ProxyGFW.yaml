@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7365
+# 规则统计: 7366
 
 no_resolve: true
 domain_set:
@@ -5405,6 +5405,7 @@ domain_suffix_set:
   - shixiao.org
   - shizhao.org
   - shkspr.mobi
+  - shodan.io
   - shodanhq.com
   - shooshtime.com
   - shop2000.com.tw
