@@ -5,10 +5,6 @@ full:officecdn-microsoft-com.akamaized.net
 full:statics-marketingsites-eas-ms-com.akamaized.net
 full:statics-marketingsites-eus-ms-com.akamaized.net
 full:statics-marketingsites-wcus-ms-com.akamaized.net
-full:crl.microsoft.com
-full:mscrl.microsoft.com
-full:ocsp.microsoft.com
-full:oneocsp.microsoft.com
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -28,6 +24,10 @@ full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
+full:crl.microsoft.com
+full:mscrl.microsoft.com
+full:ocsp.microsoft.com
+full:oneocsp.microsoft.com
 microsoft
 hotmail
 office
@@ -273,11 +273,10 @@ windowsupdate.com
 morphcharts.com
 microsoft.cat
 microsoftedgeinsider.com
-msocsp.com
 microsoftnews.cc
-xamarin.com
-vscode-unpkg.net
 microsoftnews.com
+msocsp.com
+xamarin.com
 microsoftnews.net
 microsoftnews.org
 microsoftnewsforkids.com
@@ -301,11 +300,11 @@ onedrive.com
 onedrive.eu
 onedrive.net
 onedrive.org
+vscode-unpkg.net
 vscode-cdn.net
 vscode.dev
 vsassets.io
 vfsforgit.org
-vfsforgit.com
 microsoft.by
 forzamotorsport.net
 forzaracingchampionship.com
@@ -429,7 +428,7 @@ msunlimitedcloudsummit.com
 office365love.com
 office365tw.com
 renovacionoffice.com
-visualstudio.net
+vfsforgit.com
 githubhackathon.com
 ghcr.io
 githubnext.com
@@ -455,7 +454,7 @@ thegithubshop.com
 atom.io
 npm.community
 npmjs.com
-visualstudio.eu
+visualstudio.net
 adaptivecards.io
 api-extractor.com
 apisof.net
@@ -497,12 +496,13 @@ uwpcommunitytoolkit.com
 visualstudio-staging.com
 visualstudio.com
 visualstudio.co
+visualstudio.eu
 onedrive.co.uk
 skypedata.akadns.net
 skype-edf.akadns.net
 microsoftstore.com.hk
-live.com.au
 visualstudio.co.uk
+live.com.au
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 clarity.ms
 dcg.microsoft.com
@@ -580,7 +580,6 @@ full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:xb.dlservice.microsoft.com
-full:www.microsoft.com
 microsoftnews.cn
 msn.cn
 xboxlive.cn
@@ -681,3 +680,4 @@ full:emoi-cncdn.bing.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
+full:www.microsoft.com
