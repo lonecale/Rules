@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3660
+# 规则统计: 3661
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -997,6 +997,7 @@ HOST,edgecdn-embza6g8cacagcbn.z01.azurefd.net,CDN
 HOST,edgestatic.azureedge.net,CDN
 HOST,eep.io,CDN
 HOST,eightcha.com,CDN
+HOST,embed-cloudfront.wistia.com,CDN
 HOST,embed-ssl.wistia.com,CDN
 HOST,embed-v2.testimonial.to,CDN
 HOST,embed.culturalspot.org,CDN

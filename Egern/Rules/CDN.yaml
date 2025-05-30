@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3660
+# 规则统计: 3661
 
 domain_set:
   - 0x0.st
@@ -998,6 +998,7 @@ domain_set:
   - edgestatic.azureedge.net
   - eep.io
   - eightcha.com
+  - embed-cloudfront.wistia.com
   - embed-ssl.wistia.com
   - embed-v2.testimonial.to
   - embed.culturalspot.org

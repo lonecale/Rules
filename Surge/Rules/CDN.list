@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3660
+# 规则统计: 3661
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -997,6 +997,7 @@ DOMAIN,edgecdn-embza6g8cacagcbn.z01.azurefd.net
 DOMAIN,edgestatic.azureedge.net
 DOMAIN,eep.io
 DOMAIN,eightcha.com
+DOMAIN,embed-cloudfront.wistia.com
 DOMAIN,embed-ssl.wistia.com
 DOMAIN,embed-v2.testimonial.to
 DOMAIN,embed.culturalspot.org
