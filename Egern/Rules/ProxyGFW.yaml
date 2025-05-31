@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7368
+# 规则统计: 7369
 
 no_resolve: true
 domain_set:
@@ -5779,6 +5779,7 @@ domain_suffix_set:
   - syncback.com
   - synergyse.com
   - syosetu.com
+  - sysctl-explorer.net
   - sysresccd.org
   - sytes.net
   - syx86.cn
