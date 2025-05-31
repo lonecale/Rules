@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3661
+# 规则统计: 3660
 
 domain_set:
   - 0x0.st
@@ -1638,7 +1638,6 @@ domain_set:
   - medias.meow.social
   - medium-media.vgm.io
   - megapx-assets.dcard.tw
-  - meta.prismlauncher.org
   - meteorclient.com
   - metrics.kapa.ai
   - micro.rubiconproject.com

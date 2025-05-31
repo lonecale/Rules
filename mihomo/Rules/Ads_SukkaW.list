@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 83924
+# 规则统计: 83929
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -21289,6 +21289,7 @@ DOMAIN-SUFFIX,data.turium.es
 DOMAIN-SUFFIX,data.tw-email.princess.com
 DOMAIN-SUFFIX,data.tw-guest.princess.com
 DOMAIN-SUFFIX,data.txn.puntoscolombia.com
+DOMAIN-SUFFIX,data.ubi.com
 DOMAIN-SUFFIX,data.ublock-browser.com
 DOMAIN-SUFFIX,data.ucpa.se
 DOMAIN-SUFFIX,data.uk-email.princess.com
@@ -26431,6 +26432,7 @@ DOMAIN-SUFFIX,explore-123.com
 DOMAIN-SUFFIX,explore-dev.agilent.com
 DOMAIN-SUFFIX,explore-ft.agilent.com
 DOMAIN-SUFFIX,explore-uat.agilent.com
+DOMAIN-SUFFIX,explore.agilent.com
 DOMAIN-SUFFIX,explore.att.com
 DOMAIN-SUFFIX,explore.broncos.com.au
 DOMAIN-SUFFIX,explore.bytelab.uk
@@ -33143,6 +33145,7 @@ DOMAIN-SUFFIX,hywjmh.eriks.be
 DOMAIN-SUFFIX,hyxvec.michaelpage.co.jp
 DOMAIN-SUFFIX,hyybul.kaskus.co.id
 DOMAIN-SUFFIX,hyzvvg.p-a.jp
+DOMAIN-SUFFIX,hz-telemetry.adobe.io
 DOMAIN-SUFFIX,hz.shouyoutv.com
 DOMAIN-SUFFIX,hzcyhe.alvadi.ee
 DOMAIN-SUFFIX,hzdayy.poeleaboismaison.com
@@ -45448,6 +45451,7 @@ DOMAIN-SUFFIX,mbn.com.ua
 DOMAIN-SUFFIX,mbna.bruker.com
 DOMAIN-SUFFIX,mbns.bruker.com
 DOMAIN-SUFFIX,mbopt.bruker.com
+DOMAIN-SUFFIX,mbox.wegmans.com
 DOMAIN-SUFFIX,mbox12.offermatica.com
 DOMAIN-SUFFIX,mbox12e.offermatica.com
 DOMAIN-SUFFIX,mbox3.offermatica.com
@@ -52015,6 +52019,7 @@ DOMAIN-SUFFIX,omniture.yodlee.com
 DOMAIN-SUFFIX,omniture443.partycity.ca
 DOMAIN-SUFFIX,omniture443.partycity.com
 DOMAIN-SUFFIX,omnjpeakvwwo.com
+DOMAIN-SUFFIX,omns.americanexpress.com
 DOMAIN-SUFFIX,omns.crackle.com
 DOMAIN-SUFFIX,omns.murdoch.edu.au
 DOMAIN-SUFFIX,omoevcozeezhg.one
