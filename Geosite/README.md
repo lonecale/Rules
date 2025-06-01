@@ -499,6 +499,7 @@
 - [feishu](rules/feishu.txt)
 - [fengxing](rules/fengxing.txt)
 - [fflogs](rules/fflogs.txt)
+- [fibank](rules/fibank.txt)
 - [figma](rules/figma.txt)
 - [filimo](rules/filimo.txt)
 - [finish](rules/finish.txt)
