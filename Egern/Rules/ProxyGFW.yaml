@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7369
+# 规则统计: 7371
 
 no_resolve: true
 domain_set:
@@ -1617,6 +1617,7 @@ domain_suffix_set:
   - drgan.net
   - dribbble.com
   - drmingxia.org
+  - droidwin.com
   - dronedj.com
   - dropbooks.tv
   - dropbox.com
@@ -4547,6 +4548,7 @@ domain_suffix_set:
   - onedrive.live.com
   - onedumb.com
   - onejav.com
+  - onepluscommunityserver.com
   - onesto.re
   - onestore.co.kr
   - onevps.com

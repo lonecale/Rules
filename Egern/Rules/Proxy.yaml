@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1039
+# 规则统计: 1041
 
 domain_set:
   - ccmdl.adobe.com
@@ -264,6 +264,7 @@ domain_suffix_set:
   - downdetectorapi.com
   - draw.io
   - dribbble.com
+  - droidwin.com
   - drtuber.com
   - duck.com
   - duckduckgo.com
@@ -662,6 +663,7 @@ domain_suffix_set:
   - okx.com
   - one
   - one.com
+  - onepluscommunityserver.com
   - opencollective.com
   - opensea.io
   - openstreetmap.org
