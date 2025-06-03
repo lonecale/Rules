@@ -114,6 +114,7 @@
 - [arphic](rules/arphic.txt)
 - [artstation](rules/artstation.txt)
 - [asahi](rules/asahi.txt)
+- [asobo](rules/asobo.txt)
 - [asproex](rules/asproex.txt)
 - [asus](rules/asus.txt)
 - [atlassian](rules/atlassian.txt)
@@ -517,6 +518,7 @@
 - [fontshop](rules/fontshop.txt)
 - [fontsinuse](rules/fontsinuse.txt)
 - [forbes](rules/forbes.txt)
+- [forza](rules/forza.txt)
 - [foundertype](rules/foundertype.txt)
 - [fox](rules/fox.txt)
 - [fqnovel](rules/fqnovel.txt)
@@ -1083,6 +1085,7 @@
 - [ruten](rules/ruten.txt)
 - [rutracker](rules/rutracker.txt)
 ## S
+- [sakurafrp](rules/sakurafrp.txt)
 - [salesforce](rules/salesforce.txt)
 - [samsung](rules/samsung.txt)
 - [sankei](rules/sankei.txt)
