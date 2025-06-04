@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 799
+# 规则统计: 798
 
 domain_set:
   - acg.tv
@@ -354,7 +354,6 @@ domain_suffix_set:
   - gtimg.com
   - guancha.cn
   - guoguo-app.com
-  - h2os.com
   - hao123.com
   - haosou.com
   - haowu.link
