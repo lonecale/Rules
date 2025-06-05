@@ -1009,6 +1009,7 @@
 - [pocketcasts](rules/pocketcasts.txt)
 - [pocoiq-ads](rules/pocoiq-ads.txt)
 - [poe](rules/poe.txt)
+- [polocloud](rules/polocloud.txt)
 - [polymer](rules/polymer.txt)
 - [polyv](rules/polyv.txt)
 - [pornhub](rules/pornhub.txt)
