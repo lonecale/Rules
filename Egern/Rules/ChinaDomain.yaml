@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 798
+# 规则统计: 799
 
 domain_set:
   - acg.tv
@@ -380,6 +380,7 @@ domain_suffix_set:
   - huawei.cn
   - huawei.com
   - huaweistatic.com
+  - huolala.cn
   - huoshan.com
   - huoshanstatic.com
   - huoshanzhibo.com
