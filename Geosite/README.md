@@ -251,6 +251,8 @@
 - [category-forums](rules/category-forums.txt)
 - [category-game-accelerator-cn](rules/category-game-accelerator-cn.txt)
 - [category-game-platforms-download](rules/category-game-platforms-download.txt)
+- [category-games-!cn](rules/category-games-!cn.txt)
+- [category-games-cn](rules/category-games-cn.txt)
 - [category-games](rules/category-games.txt)
 - [category-gov-ir](rules/category-gov-ir.txt)
 - [category-gov-ru](rules/category-gov-ru.txt)
