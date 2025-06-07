@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3673
+# 规则统计: 3671
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3484,7 +3484,6 @@ DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,tile.openstreetmap.de
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.osm.org
-DOMAIN-SUFFIX,timg135.top
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,tkcdns.com
@@ -3540,7 +3539,6 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vodvideo.cbsnews.com
 DOMAIN-SUFFIX,vox-cdn.com
-DOMAIN-SUFFIX,vplay.life
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net

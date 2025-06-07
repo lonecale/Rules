@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3675
+# 规则统计: 3673
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -3484,7 +3484,6 @@ HOST-SUFFIX,tildacdn.net,CDN
 HOST-SUFFIX,tile.openstreetmap.de,CDN
 HOST-SUFFIX,tile.openstreetmap.org,CDN
 HOST-SUFFIX,tile.osm.org,CDN
-HOST-SUFFIX,timg135.top,CDN
 HOST-SUFFIX,tindiemedia.com,CDN
 HOST-SUFFIX,tiqcdn.com,CDN
 HOST-SUFFIX,tkcdns.com,CDN
@@ -3540,7 +3539,6 @@ HOST-SUFFIX,videodelivery.net,CDN
 HOST-SUFFIX,vimeocdn.com,CDN
 HOST-SUFFIX,vodvideo.cbsnews.com,CDN
 HOST-SUFFIX,vox-cdn.com,CDN
-HOST-SUFFIX,vplay.life,CDN
 HOST-SUFFIX,vsassets.io,CDN
 HOST-SUFFIX,vscode-cdn.net,CDN
 HOST-SUFFIX,vscode-unpkg.net,CDN
