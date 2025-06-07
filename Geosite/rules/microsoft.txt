@@ -5,8 +5,8 @@ full:officecdn-microsoft-com.akamaized.net
 full:statics-marketingsites-eas-ms-com.akamaized.net
 full:statics-marketingsites-eus-ms-com.akamaized.net
 full:statics-marketingsites-wcus-ms-com.akamaized.net
-full:prodforza.blob.core.windows.net
 full:flightsimulator.azureedge.net
+full:prodforza.blob.core.windows.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -314,6 +314,8 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
+asobostudio.com
+flightsimulator.com
 beth.games
 bethesda.net
 bethesdagamestudios.com
@@ -330,8 +332,6 @@ minecraft.net
 minecraftservices.com
 minecraftshop.com
 mojang.com
-asobostudio.com
-flightsimulator.com
 microsoft.be
 aadrm.com
 yammer.com
