@@ -1336,6 +1336,7 @@
 - [vultr](rules/vultr.txt)
 ## W
 - [w3schools](rules/w3schools.txt)
+- [wallhaven](rules/wallhaven.txt)
 - [walmart](rules/walmart.txt)
 - [wanfang](rules/wanfang.txt)
 - [wangsu](rules/wangsu.txt)
