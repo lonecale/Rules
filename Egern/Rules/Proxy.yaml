@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1042
+# 规则统计: 1043
 
 domain_set:
   - ccmdl.adobe.com
@@ -711,6 +711,7 @@ domain_suffix_set:
   - pornpics.com
   - porntrex.com
   - porntube.com
+  - precisionhydration.com
   - prisma.io
   - prismlauncher.org
   - privacytest.info
