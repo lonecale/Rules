@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1043
+# 规则统计: 1044
 
 domain_set:
   - ccmdl.adobe.com
@@ -501,6 +501,7 @@ domain_suffix_set:
   - justdns.info
   - kagi.com
   - kakao.com
+  - kali.org
   - kde.org
   - kg
   - kick.com
