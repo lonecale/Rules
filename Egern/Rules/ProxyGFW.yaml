@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7374
+# 规则统计: 7377
 
 no_resolve: true
 domain_set:
@@ -3575,6 +3575,8 @@ domain_suffix_set:
   - kobo.com
   - kobobooks.com
   - kodingen.com
+  - komoot.com
+  - komoot.net
   - kompozer.net
   - konachan.com
   - kone.com
@@ -4373,6 +4375,7 @@ domain_suffix_set:
   - niusnews.com
   - nj.com
   - njactb.org
+  - njav.com
   - njuice.com
   - nl
   - nlfreevpn.com

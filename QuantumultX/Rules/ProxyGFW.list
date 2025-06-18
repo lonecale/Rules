@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7375
+# 规则统计: 7378
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -3572,6 +3572,8 @@ HOST-SUFFIX,ko-fi.com,ProxyGFW
 HOST-SUFFIX,kobo.com,ProxyGFW
 HOST-SUFFIX,kobobooks.com,ProxyGFW
 HOST-SUFFIX,kodingen.com,ProxyGFW
+HOST-SUFFIX,komoot.com,ProxyGFW
+HOST-SUFFIX,komoot.net,ProxyGFW
 HOST-SUFFIX,kompozer.net,ProxyGFW
 HOST-SUFFIX,konachan.com,ProxyGFW
 HOST-SUFFIX,kone.com,ProxyGFW
@@ -4370,6 +4372,7 @@ HOST-SUFFIX,niu.moe,ProxyGFW
 HOST-SUFFIX,niusnews.com,ProxyGFW
 HOST-SUFFIX,nj.com,ProxyGFW
 HOST-SUFFIX,njactb.org,ProxyGFW
+HOST-SUFFIX,njav.com,ProxyGFW
 HOST-SUFFIX,njuice.com,ProxyGFW
 HOST-SUFFIX,nl,ProxyGFW
 HOST-SUFFIX,nlfreevpn.com,ProxyGFW
