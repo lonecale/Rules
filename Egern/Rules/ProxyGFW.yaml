@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7379
+# 规则统计: 7385
 
 no_resolve: true
 domain_set:
@@ -695,6 +695,7 @@ domain_suffix_set:
   - bit.no.com
   - bitbay.net
   - bitbucket.io
+  - bitbucket.org
   - bitchute.com
   - bitcointalk.org
   - bitcoinworld.com
@@ -1286,6 +1287,7 @@ domain_suffix_set:
   - coolloud.org.tw
   - coolncute.com
   - coolstuffinc.com
+  - corecode.io
   - corumcollege.com
   - cos-moe.com
   - cosplay-jav.com
@@ -2132,6 +2134,7 @@ domain_suffix_set:
   - freekazakhs.org
   - freekwonpyong.org
   - freelotto.com
+  - freemacsoft.net
   - freeman2.com
   - freemoren.com
   - freemorenews.com
@@ -3192,6 +3195,7 @@ domain_suffix_set:
   - ihao.org
   - iheart.com
   - iicns.com
+  - iina.io
   - ikstar.com
   - ikwb.com
   - ilbe.com
@@ -3825,6 +3829,7 @@ domain_suffix_set:
   - macpaw.com
   - macrovpn.com
   - macts.com.tw
+  - macupdate.com
   - mad-ar.ch
   - madewithcode.com
   - madonna-av.com
@@ -7034,6 +7039,7 @@ domain_suffix_set:
   - xpdo.net
   - xpressunblock.com
   - xpud.org
+  - xquartz.org
   - xrentdvd.com
   - xsden.info
   - xskywalker.com

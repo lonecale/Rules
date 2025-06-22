@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7379
+# 规则统计: 7385
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,cloud.oracle.com
@@ -692,6 +692,7 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bitbay.net
 DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitcoinworld.com
@@ -1283,6 +1284,7 @@ DOMAIN-SUFFIX,coolder.com
 DOMAIN-SUFFIX,coolloud.org.tw
 DOMAIN-SUFFIX,coolncute.com
 DOMAIN-SUFFIX,coolstuffinc.com
+DOMAIN-SUFFIX,corecode.io
 DOMAIN-SUFFIX,corumcollege.com
 DOMAIN-SUFFIX,cos-moe.com
 DOMAIN-SUFFIX,cosplay-jav.com
@@ -2129,6 +2131,7 @@ DOMAIN-SUFFIX,freeilhamtohti.org
 DOMAIN-SUFFIX,freekazakhs.org
 DOMAIN-SUFFIX,freekwonpyong.org
 DOMAIN-SUFFIX,freelotto.com
+DOMAIN-SUFFIX,freemacsoft.net
 DOMAIN-SUFFIX,freeman2.com
 DOMAIN-SUFFIX,freemoren.com
 DOMAIN-SUFFIX,freemorenews.com
@@ -3189,6 +3192,7 @@ DOMAIN-SUFFIX,ihakka.net
 DOMAIN-SUFFIX,ihao.org
 DOMAIN-SUFFIX,iheart.com
 DOMAIN-SUFFIX,iicns.com
+DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,ikstar.com
 DOMAIN-SUFFIX,ikwb.com
 DOMAIN-SUFFIX,ilbe.com
@@ -3822,6 +3826,7 @@ DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,macrovpn.com
 DOMAIN-SUFFIX,macts.com.tw
+DOMAIN-SUFFIX,macupdate.com
 DOMAIN-SUFFIX,mad-ar.ch
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,madonna-av.com
@@ -7031,6 +7036,7 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xpdo.net
 DOMAIN-SUFFIX,xpressunblock.com
 DOMAIN-SUFFIX,xpud.org
+DOMAIN-SUFFIX,xquartz.org
 DOMAIN-SUFFIX,xrentdvd.com
 DOMAIN-SUFFIX,xsden.info
 DOMAIN-SUFFIX,xskywalker.com

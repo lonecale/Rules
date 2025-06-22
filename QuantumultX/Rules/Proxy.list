@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1050
+# 规则统计: 1056
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -128,6 +128,7 @@ HOST-SUFFIX,binance.com,Proxy
 HOST-SUFFIX,binance.me,Proxy
 HOST-SUFFIX,bing.com,Proxy
 HOST-SUFFIX,bitbucket.io,Proxy
+HOST-SUFFIX,bitbucket.org,Proxy
 HOST-SUFFIX,bitchute.com,Proxy
 HOST-SUFFIX,bitfinex.com,Proxy
 HOST-SUFFIX,bitly.com,Proxy
@@ -205,6 +206,7 @@ HOST-SUFFIX,coinmarketcap.com,Proxy
 HOST-SUFFIX,community,Proxy
 HOST-SUFFIX,convertio.co,Proxy
 HOST-SUFFIX,cool18.com,Proxy
+HOST-SUFFIX,corecode.io,Proxy
 HOST-SUFFIX,cosplay-jav.com,Proxy
 HOST-SUFFIX,costco.com,Proxy
 HOST-SUFFIX,coveralls.io,Proxy
@@ -329,6 +331,7 @@ HOST-SUFFIX,forbes.com,Proxy
 HOST-SUFFIX,foxnews.com,Proxy
 HOST-SUFFIX,fr,Proxy
 HOST-SUFFIX,freedownloadmanager.org,Proxy
+HOST-SUFFIX,freemacsoft.net,Proxy
 HOST-SUFFIX,freepik.com,Proxy
 HOST-SUFFIX,ft.com,Proxy
 HOST-SUFFIX,fuq.com,Proxy
@@ -449,6 +452,7 @@ HOST-SUFFIX,ietf.org,Proxy
 HOST-SUFFIX,ifixit.com,Proxy
 HOST-SUFFIX,ifttt.com,Proxy
 HOST-SUFFIX,iheart.com,Proxy
+HOST-SUFFIX,iina.io,Proxy
 HOST-SUFFIX,iloveimg.com,Proxy
 HOST-SUFFIX,imagefap.com,Proxy
 HOST-SUFFIX,imagekit.io,Proxy
@@ -550,6 +554,7 @@ HOST-SUFFIX,lynxjs.org,Proxy
 HOST-SUFFIX,m.me,Proxy
 HOST-SUFFIX,macaddress.io,Proxy
 HOST-SUFFIX,macpaw.com,Proxy
+HOST-SUFFIX,macupdate.com,Proxy
 HOST-SUFFIX,madewithcode.com,Proxy
 HOST-SUFFIX,majsoul.union-game.com,Proxy
 HOST-SUFFIX,makerworld.com,Proxy
@@ -1022,6 +1027,7 @@ HOST-SUFFIX,xing.com,Proxy
 HOST-SUFFIX,xn--ngstr-lra8j.com,Proxy
 HOST-SUFFIX,xnxx.com,Proxy
 HOST-SUFFIX,xpressunblock.com,Proxy
+HOST-SUFFIX,xquartz.org,Proxy
 HOST-SUFFIX,xvideos-cdn.com,Proxy
 HOST-SUFFIX,xvideos.com,Proxy
 HOST-SUFFIX,xxx,Proxy
