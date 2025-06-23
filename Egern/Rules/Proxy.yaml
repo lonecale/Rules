@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1055
+# 规则统计: 1057
 
 domain_set:
   - ccmdl.adobe.com
@@ -464,6 +464,7 @@ domain_suffix_set:
   - imgur.com
   - imo.im
   - in
+  - indiegogo.com
   - influxdata.com
   - infoq.com
   - initiummall.com
@@ -811,6 +812,7 @@ domain_suffix_set:
   - signal.art
   - signal.org
   - signalusers.org
+  - silca.cc
   - sk
   - sketch.cloud
   - sketch.com
