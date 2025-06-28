@@ -1077,6 +1077,7 @@
 - [roborock](rules/roborock.txt)
 - [rockstar](rules/rockstar.txt)
 - [roku](rules/roku.txt)
+- [rsshub-3rd](rules/rsshub-3rd.txt)
 - [rsshub](rules/rsshub.txt)
 - [rthk](rules/rthk.txt)
 - [ruanmei](rules/ruanmei.txt)
