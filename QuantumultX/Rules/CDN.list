@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3747
+# 规则统计: 3748
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -506,6 +506,7 @@ HOST,cdn.ecomm.ui.com,CDN
 HOST,cdn.embed.ly,CDN
 HOST,cdn.embedly.com,CDN
 HOST,cdn.engagement.ai,CDN
+HOST,cdn.episode.ninja,CDN
 HOST,cdn.equalweb.com,CDN
 HOST,cdn.equinix.com,CDN
 HOST,cdn.eu.contentful.com,CDN

@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7391
+# 规则统计: 7392
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -6759,6 +6759,7 @@ HOST-SUFFIX,waymo.com,ProxyGFW
 HOST-SUFFIX,waze.com,ProxyGFW
 HOST-SUFFIX,wd.bible,ProxyGFW
 HOST-SUFFIX,wdf5.com,ProxyGFW
+HOST-SUFFIX,wdfiles.com,ProxyGFW
 HOST-SUFFIX,wealth.com.tw,ProxyGFW
 HOST-SUFFIX,wearehairy.com,ProxyGFW
 HOST-SUFFIX,wearn.com,ProxyGFW

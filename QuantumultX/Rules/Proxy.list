@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1061
+# 规则统计: 1062
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -976,6 +976,7 @@ HOST-SUFFIX,watch,Proxy
 HOST-SUFFIX,waveprotocol.org,Proxy
 HOST-SUFFIX,waymo.com,Proxy
 HOST-SUFFIX,waze.com,Proxy
+HOST-SUFFIX,wdfiles.com,Proxy
 HOST-SUFFIX,weather.com,Proxy
 HOST-SUFFIX,webflow.com,Proxy
 HOST-SUFFIX,webmproject.org,Proxy

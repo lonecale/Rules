@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3747
+# 规则统计: 3748
 
 domain_set:
   - 0x0.st
@@ -507,6 +507,7 @@ domain_set:
   - cdn.embed.ly
   - cdn.embedly.com
   - cdn.engagement.ai
+  - cdn.episode.ninja
   - cdn.equalweb.com
   - cdn.equinix.com
   - cdn.eu.contentful.com
