@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1057
+# 规则统计: 1060
 
 domain_set:
   - ccmdl.adobe.com
@@ -361,6 +361,7 @@ domain_suffix_set:
   - ghostery.com
   - girlsgogames.com
   - git.io
+  - gitbook.com
   - gitbook.io
   - github.com
   - github.io
@@ -673,6 +674,7 @@ domain_suffix_set:
   - okcoin.com
   - okex.com
   - okx.com
+  - olympics.com
   - one
   - one.com
   - onepluscommunityserver.com
@@ -714,6 +716,7 @@ domain_suffix_set:
   - plurk.com
   - pm
   - podbean.com
+  - poeditor.com
   - polymer-project.org
   - porn.com
   - porngo.com
