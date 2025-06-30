@@ -147,6 +147,9 @@ dns:
   # 指定域名查询的解析服务器，可使用 geosite, 优先于 nameserver/fallback 查询
   nameserver-policy:
     # 'geosite:category-ads-all': 'rcode://success'
+    '*': system
+    '+.lan': system
+    '+.local': system
     # 'geosite:cn': system
     'geosite:private,cn,apple': ['https://dns.alidns.com/dns-query', 'https://doh.pub/dns-query']
     'geosite:category-ads-all': rcode://success
