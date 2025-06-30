@@ -31,7 +31,7 @@ log-level: info
 udp: true
 
 # TCP Keep Alive 包的间隔，单位为秒
-keep-alive-interval: 600
+keep-alive-interval: 60
 # TCP Keep Alive 的最大空闲时间
 keep-alive-idle: 600
 # 禁用 TCP Keep Alive，在 Android 默认为 true
@@ -105,6 +105,8 @@ sniffer:
     - +.push.apple.com
     - Mijia Cloud
     - dlg.io.mi.com
+    - +.oray.com
+    - +.sunlogin.net
 
 # Tun 配置  
 tun:
@@ -144,6 +146,7 @@ dns:
   proxy-server-nameserver: ['https://doh.pub/dns-query']
   # 指定域名查询的解析服务器，可使用 geosite, 优先于 nameserver/fallback 查询
   nameserver-policy:
+    # 'geosite:category-ads-all': 'rcode://success'
     # 'geosite:cn': system
     'geosite:private,cn,apple': ['https://dns.alidns.com/dns-query', 'https://doh.pub/dns-query']
     'geosite:category-ads-all': rcode://success
