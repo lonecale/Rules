@@ -214,7 +214,7 @@ jobs:
             # 下载规则
             files=(
                 # 苹果
-                "APNs.list https://kelee.one/Tool/Loon/Rule/ApplePushNotificationService.list"
+                "APNs.list https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
                 "Apple.list https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
                 "AppleMusic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
                 "AppStore.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list"
@@ -240,7 +240,7 @@ jobs:
                 # 甲骨文
                 "Oracle.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list"
                 # 流媒体
-                "TikTok.list https://kelee.one/Tool/Loon/Rule/TikTok.list"
+                "TikTok.list https://kelee.one/Tool/Loon/Lsr/TikTok.lsr"
                 "Netflix.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
                 "HBO.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBO/HBO.list"
                 "Disney.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list"
@@ -259,8 +259,8 @@ jobs:
                 "Epic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
                 "Game.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
                 # 下载CDN
-                "DownloadCDN_Global.list https://kelee.one/Tool/Loon/Rule/InternationalDownloadCDN.list"
-                "DownloadCDN_CN.list https://kelee.one/Tool/Loon/Rule/ChinaDownloadCDN.list"
+                "DownloadCDN_Global.list https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr"
+                "DownloadCDN_CN.list https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr"
                 # 国内规则
                 "Bilibili.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list"
                 "WeChat.list https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list"
@@ -313,6 +313,8 @@ jobs:
             sed -i -e '/^\s*[#;]/d' -e '/^$/d' -e 's| //.*||'  "$file"
             # 删除指定域名
             sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
+            sed -i -e '/DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe/d' "$file"
+            sed -i -e '/DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe/d' "$file"
             sed -i -e 's/,reject$//' "$file"
             # 修正格式
             sed -i 's/, */,/g' "$file"
