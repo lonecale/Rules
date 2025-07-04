@@ -6,10 +6,6 @@ steampp.net
 tgpro.top
 tgprocs.net
 wo1wan.com
-vrzwk.cn
-vrzwk.com
-vrzwk.net
-vrzwk.top
 cowlevel.net
 cdncl.net
 tgbus.com
@@ -71,6 +67,10 @@ youba.com
 yxhhdl.com
 tiancity.com
 tiancitycdn.com
+vrzwk.cn
+vrzwk.com
+vrzwk.net
+vrzwk.top
 ro.com
 xd.cn
 xd.com
@@ -101,6 +101,12 @@ themisweeps.com
 yuanshen.com
 juequling.com
 regexp:^.+-mihayo\.akamaized\.net$
+bilibiligame.cn
+bilibiligame.co
+bilibiligame.net
+biligame.co
+biligame.com
+biligame.net
 battlecare.net
 gameitop.com
 gameloop.com
@@ -187,9 +193,3 @@ tcfmglobal.com
 anticheatexpert.com
 17roco.com
 roco.qq.com
-bilibiligame.cn
-bilibiligame.co
-bilibiligame.net
-biligame.co
-biligame.com
-biligame.net
