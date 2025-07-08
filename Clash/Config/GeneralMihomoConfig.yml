@@ -69,7 +69,7 @@ geox-url:
   geoip: 'https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat'
   geosite: 'https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat'
   mmdb: 'https://github.com/xream/geoip/releases/latest/download/ipinfo.country.mmdb'
-  asn: 'https://raw.githubusercontent.com/P3TERX/GeoLite.mmdb/download/GeoLite2-ASN.mmdb'
+  asn: 'https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb'
 
 profile:
   # 储存 API 对策略组的选择，以供下次启动时使用
