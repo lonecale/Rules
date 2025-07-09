@@ -53,6 +53,7 @@ jobs:
         for file in Tool-repo/AdguardHome/Rules/*.txt; do
           if [ "$file" = "Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt" ]; then
             sed -i -e '/^IP-CIDR,/d' -e '/^IP-CIDR6,/d' "$file"
+            sort -t, -k2,2 -u "$file" -o "$file"
             awk -F, '
               /^DOMAIN,/ {
                 domain = $2
