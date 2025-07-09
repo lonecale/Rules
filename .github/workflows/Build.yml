@@ -429,6 +429,38 @@ jobs:
           fi
         done
 
+    - name: BitTorrent Tracker
+      run: |
+        # 定义源列表
+        urls=(
+          "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+          "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
+        ) > Tool-repo/mihomo/Rules/trackers_rules.yaml
+
+        for url in "${urls[@]}"; do
+          echo "Downloading: $url"
+          curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/trackers_rules.yaml || { echo "Download Failed: $url"; exit 1; }
+          echo "" >> Tool-repo/mihomo/Rules/trackers_rules.yaml
+        done
+
+        sed -E \
+          -e 's#(https?|wss?|udp)://##' \
+          -e 's#^\[?([0-9A-Fa-f:.]+)\]?.*$#\1#' Tool-repo/mihomo/Rules/trackers_rules.yaml | \
+        sort -u | \
+        awk '
+          /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
+            print "IP-CIDR," $0 "/32"
+            next
+          }
+          /:/ {
+            print "IP-CIDR6," $0 "/128"
+            next
+          }
+          {
+            print "DOMAIN," $0
+          }
+        ' > tmpfile && mv tmpfile Tool-repo/mihomo/Rules/trackers_rules.yaml
+
     - name: Egern
       run: |
         for file in Tool-repo/Egern/Rules/*.yaml; do
