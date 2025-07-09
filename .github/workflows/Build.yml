@@ -449,6 +449,7 @@ jobs:
           -e 's#:[0-9]+(/.*)?$##' \
           -e 's#^\[##; s#\]$##' \
           Tool-repo/mihomo/Rules/BTtrackers.yaml | \
+        grep -v '^[[:space:]]*$' | \
         sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
@@ -462,7 +463,9 @@ jobs:
           {
             print "DOMAIN," $0
           }
-        ' > tmpfile && mv tmpfile Tool-repo/mihomo/Rules/BTtrackers.yaml
+        ' | \
+        sort -t, -k1,1 -k2,2 \
+        > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
 
     - name: Egern
       run: |
