@@ -65,8 +65,7 @@ jobs:
           else
             echo "$file not found."
           fi
-        done		  
-		  
+        done
 
     - name: GeoIP
       run: |
