@@ -445,11 +445,11 @@ jobs:
         done
 
         sed -E \
+          -e '/^[[:space:]]*$/d' \
+          -e 's#\[(.+)\]#\1#g' \
           -e 's#(https?|wss?|udp)://##' \
           -e 's#:[0-9]+(/.*)?$##' \
-          -e 's#^\[##; s#\]$##' \
           Tool-repo/mihomo/Rules/BTtrackers.yaml | \
-        grep -v '^[[:space:]]*$' | \
         sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
