@@ -57,7 +57,7 @@ jobs:
               /^DOMAIN,/ {
                 domain = $2
                 gsub(/[[:space:]]/, "", domain)
-                print "||" domain "^"
+                print "||" domain "^$dnstype=!AAAA"
                 print "||" domain "^$dnstype=AAAA,dnsrewrite=NOERROR"
               }
             ' "$file" > "${file}.tmp" \
