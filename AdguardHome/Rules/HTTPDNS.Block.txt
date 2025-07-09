@@ -28,6 +28,8 @@
 ||httpdns.music.163.com^
 ||httpdns.n.netease.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.n.netease.com^
+||httpdns.pro^$dnstype=AAAA,dnsrewrite=NOERROR
+||httpdns.pro^
 ||httpdns.push.oppomobile.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.push.oppomobile.com^
 ||httpdns.volcengineapi.com^$dnstype=AAAA,dnsrewrite=NOERROR
