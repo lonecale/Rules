@@ -52,10 +52,10 @@ jobs:
 
         for file in Tool-repo/AdguardHome/Rules/*.txt; do
           if [ "$file" = "Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt" ]; then
-            sed -i -e '/^IP-CIDR,/d' -e '/^IP-CIDR6,/d' "$file"
+            sed -i -e '/^IP-CIDR,/d' -e '/^IP-CIDR6,/d' -e 's/[[:space:]]//g' "$file"
             sort -t, -k2,2 -u "$file" -o "$file"
             awk -F, '
-              /^DOMAIN,/ {
+              /^DOMAIN(-SUFFIX)?,/ {
                 domain = $2
                 gsub(/[[:space:]]/, "", domain)
                 print "||" domain "^$dnstype=AAAA,dnsrewrite=NOERROR"
