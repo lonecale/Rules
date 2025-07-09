@@ -43,6 +43,31 @@ jobs:
         rm -rf Tool-repo/v2dat
         # ls -l Tool-repo/
 
+
+    - name: AdguardHome Rules
+      run: |
+        mkdir -p Tool-repo/AdguardHome/Rules
+		
+		curl -L -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/HTTPDNS.Block.list"
+
+        for file in Tool-repo/AdguardHome/Rules/*.txt; do
+          if [ "$file" = "HTTPDNS.Block.txt" ]; then
+            sed -i -e '/^IP-CIDR,/d' -e '/^IP-CIDR6,/d' "$file"
+            awk -F, '
+              /^DOMAIN,/ {
+                domain = $2
+                gsub(/[[:space:]]/, "", domain)
+                print "||" domain "^$dnstype=A"
+                print "||" domain "^$dnstype=AAAA,dnsrewrite=NOERROR"
+              }
+            ' "$file" > "${file}.tmp" \
+              && mv "${file}.tmp" "$file"
+          else
+            echo "$file not found."
+          fi
+        done		  
+		  
+
     - name: GeoIP
       run: |
         mkdir -p Tool-repo/GeoIP
