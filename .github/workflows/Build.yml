@@ -429,23 +429,27 @@ jobs:
           fi
         done
 
+
     - name: BitTorrent Tracker
       run: |
-        # 定义源列表
+        # BitTorrent Tracker 源
+        
+        > Tool-repo/mihomo/Rules/BTtrackers.yaml
         urls=(
           "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
           "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
-        ) > Tool-repo/mihomo/Rules/trackers_rules.yaml
+        )
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/trackers_rules.yaml || { echo "Download Failed: $url"; exit 1; }
-          echo "" >> Tool-repo/mihomo/Rules/trackers_rules.yaml
+          curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/BTtrackers.yaml || { echo "Download Failed: $url"; exit 1; }
+          echo "" >> Tool-repo/mihomo/Rules/BTtrackers.yaml
         done
 
         sed -E \
           -e 's#(https?|wss?|udp)://##' \
-          -e 's#^\[?([0-9A-Fa-f:.]+)\]?.*$#\1#' Tool-repo/mihomo/Rules/trackers_rules.yaml | \
+          -e 's#:[0-9]+(/.*)?$##' \
+          Tool-repo/mihomo/Rules/BTtrackers.yaml | \
         sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
@@ -459,7 +463,7 @@ jobs:
           {
             print "DOMAIN," $0
           }
-        ' > tmpfile && mv tmpfile Tool-repo/mihomo/Rules/trackers_rules.yaml
+        ' > tmpfile && mv tmpfile Tool-repo/mihomo/Rules/BTtrackers.yaml
 
     - name: Egern
       run: |
