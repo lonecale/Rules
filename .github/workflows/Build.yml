@@ -429,7 +429,6 @@ jobs:
           fi
         done
 
-
     - name: BitTorrent Tracker
       run: |
         # BitTorrent Tracker 源
@@ -443,21 +442,21 @@ jobs:
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
           curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/BTtrackers.yaml || { echo "Download Failed: $url"; exit 1; }
-          echo "" >> Tool-repo/mihomo/Rules/BTtrackers.yaml
         done
 
         sed -E \
           -e 's#(https?|wss?|udp)://##' \
           -e 's#:[0-9]+(/.*)?$##' \
+          -e 's#^\[##; s#\]$##' \
           Tool-repo/mihomo/Rules/BTtrackers.yaml | \
         sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
-            print "IP-CIDR," $0 "/32"
+            print "IP-CIDR," $0 "/32,no-resolve"
             next
           }
           /:/ {
-            print "IP-CIDR6," $0 "/128"
+            print "IP-CIDR6," $0 "/128,no-resolve"
             next
           }
           {
