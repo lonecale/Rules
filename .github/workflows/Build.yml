@@ -64,7 +64,7 @@ jobs:
           if [ "$file" = "Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt" ]; then
             sed -i -e 's/[[:space:]]//g' -e '/^[[:space:]]*$/d' "$file"
             sort -t, -k2,2 -u "$file" -o "$file"
-           awk -F, '
+            awk -F, '
               /^DOMAIN(-SUFFIX)?,/ {
                 domain = $2
                 gsub(/[[:space:]]/, "", domain)
