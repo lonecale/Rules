@@ -57,6 +57,7 @@ jobs:
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
           curl -f -L -A "Surge iOS/3367" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
         for file in Tool-repo/AdguardHome/Rules/*.txt; do
@@ -451,6 +452,7 @@ jobs:
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
           curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/BTtrackers.yaml || { echo "Download Failed: $url"; exit 1; }
+          echo "" >> Tool-repo/mihomo/Rules/BTtrackers.yaml
         done
 
         sed -E \
