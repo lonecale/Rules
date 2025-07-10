@@ -62,8 +62,7 @@ jobs:
         for file in Tool-repo/AdguardHome/Rules/*.txt; do
           if [ "$file" = "Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt" ]; then
             sed -i -e 's/[[:space:]]//g' -e '/^[[:space:]]*$/d' "$file"
-            # sort -t, -k2,2 -u "$file" -o "$file"
-            sort -t, -k2,2 "$file" -o "$file"
+            sort -t, -k2,2 -u "$file" -o "$file"
            awk -F, '
               /^DOMAIN(-SUFFIX)?,/ {
                 domain = $2
@@ -445,7 +444,7 @@ jobs:
         
         > Tool-repo/mihomo/Rules/BTtrackers.yaml
         urls=(
-          "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+          # "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
           "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
         )
 
