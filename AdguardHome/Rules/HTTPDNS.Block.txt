@@ -92,6 +92,10 @@
 ||httpdns.volcengineapi.com^
 ||httpdns.yunxindns.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.yunxindns.com^
+||httpdns.yunxindns.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||httpdns.yunxindns.com^
+||httpdns.zybang.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||httpdns.zybang.com^
 ||httpdns.zybang.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.zybang.com^
 ||httpdns1.cc.cdnhwc5.com^$dnstype=AAAA,dnsrewrite=NOERROR
