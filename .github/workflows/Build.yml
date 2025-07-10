@@ -444,7 +444,7 @@ jobs:
         
         > Tool-repo/mihomo/Rules/BTtrackers.yaml
         urls=(
-          # "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+          "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
           "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
         )
 
