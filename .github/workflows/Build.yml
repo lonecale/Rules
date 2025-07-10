@@ -477,6 +477,7 @@ jobs:
         ' | \
         sort -t, -k1,1 -k2,2 \
         > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
+        cp Tool-repo/{mihomo,Clash}/Rules/BTtrackers.yaml
 
     - name: Egern
       run: |
