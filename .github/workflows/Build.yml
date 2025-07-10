@@ -62,7 +62,7 @@ jobs:
         for file in Tool-repo/AdguardHome/Rules/*.txt; do
           if [ "$file" = "Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt" ]; then
             sed -i -e 's/[[:space:]]//g' -e '/^[[:space:]]*$/d' "$file"
-            # sort -t, -k2,2 -u "$file" -o "$file"
+            sort -t, -k2,2 -u "$file" -o "$file"
             awk -F, '
               /^DOMAIN(-SUFFIX)?,/ {
                 domain = $2
@@ -459,7 +459,7 @@ jobs:
           -e 's#(https?|wss?|udp)://##' \
           -e 's#:[0-9]+(/.*)?$##' \
           Tool-repo/mihomo/Rules/BTtrackers.yaml | \
-        sort -u | \
+        # sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
             print "IP-CIDR," $0 "/32,no-resolve"
@@ -473,7 +473,7 @@ jobs:
             print "DOMAIN," $0
           }
         ' | \
-        sort -t, -k1,1 -k2,2 \
+        # sort -t, -k1,1 -k2,2 \
         > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
 
     - name: Egern
