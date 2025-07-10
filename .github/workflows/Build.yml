@@ -461,6 +461,7 @@ jobs:
           -e 's#(https?|wss?|udp)://##' \
           -e 's#:[0-9]+(/.*)?$##' \
           Tool-repo/mihomo/Rules/BTtrackers.yaml | \
+        sort -u | \
         awk '
           /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
             print "IP-CIDR," $0 "/32,no-resolve"
@@ -473,7 +474,9 @@ jobs:
           {
             print "DOMAIN," $0
           }
-        ' > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
+        ' | \
+        sort -t, -k1,1 -k2,2 \
+        > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
 
     - name: Egern
       run: |
