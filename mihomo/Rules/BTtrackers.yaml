@@ -34,7 +34,6 @@ DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
-DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
@@ -53,7 +52,9 @@ DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrentsmd.com
+DOMAIN,tr-rh-zhuqiy.dgj055.icu
 DOMAIN,tr.abiir.top
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
@@ -68,7 +69,6 @@ DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
@@ -101,9 +101,9 @@ DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.pcfreetime.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.privateseedbox.xyz
@@ -114,6 +114,7 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -135,9 +136,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
-DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ttk2.nbaonlineservice.com
-DOMAIN,ttracker.just-h.party
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
