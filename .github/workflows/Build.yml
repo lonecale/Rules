@@ -571,6 +571,7 @@ jobs:
                   | grep -E '^(DOMAIN|DOMAIN-SUFFIX)' \
                   | grep -v 'sukkaw' \
                   | sed -E 's/^DOMAIN-SUFFIX,/*./; s/^DOMAIN,//' \
+                  | grep -v 'th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset\.skk\.moe' \
                   | sed "s|\$| = ${server}|"
                 echo ""
               else
