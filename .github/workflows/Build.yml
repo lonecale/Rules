@@ -336,6 +336,45 @@ jobs:
             exit 1
         fi
 
+    - name: BitTorrent Tracker
+      run: |
+        # BitTorrent Tracker 源
+        
+        > Tool-repo/Ruleset/BTtrackers.list
+        urls=(
+          "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+          "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
+        )
+
+        for url in "${urls[@]}"; do
+          echo "Downloading: $url"
+          curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/Ruleset/BTtrackers.list || { echo "Download Failed: $url"; exit 1; }
+          echo "" >> Tool-repo/Ruleset/BTtrackers.list
+        done
+
+        sed -E \
+          -e '/^[[:space:]]*$/d' \
+          -e 's#\[(.+)\]#\1#g' \
+          -e 's#(https?|wss?|udp)://##' \
+          -e 's#:[0-9]+(/.*)?$##' \
+          Tool-repo/Ruleset/BTtrackers.list | \
+        sort -u | \
+        awk '
+          /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
+            print "IP-CIDR," $0 "/32,no-resolve"
+            next
+          }
+          /:/ {
+            print "IP-CIDR6," $0 "/128,no-resolve"
+            next
+          }
+          {
+            print "DOMAIN," $0
+          }
+        ' | \
+        sort -t, -k1,1 -k2,2 \
+        > tmp && mv tmp Tool-repo/Ruleset/BTtrackers.list
+
     - name: Source build
       run: |
         for file in Tool-repo/Ruleset/*.list ; do
@@ -438,46 +477,6 @@ jobs:
             echo "$file not found."
           fi
         done
-
-    - name: BitTorrent Tracker
-      run: |
-        # BitTorrent Tracker 源
-        
-        > Tool-repo/mihomo/Rules/BTtrackers.yaml
-        urls=(
-          "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
-          "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
-        )
-
-        for url in "${urls[@]}"; do
-          echo "Downloading: $url"
-          curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/mihomo/Rules/BTtrackers.yaml || { echo "Download Failed: $url"; exit 1; }
-          echo "" >> Tool-repo/mihomo/Rules/BTtrackers.yaml
-        done
-
-        sed -E \
-          -e '/^[[:space:]]*$/d' \
-          -e 's#\[(.+)\]#\1#g' \
-          -e 's#(https?|wss?|udp)://##' \
-          -e 's#:[0-9]+(/.*)?$##' \
-          Tool-repo/mihomo/Rules/BTtrackers.yaml | \
-        sort -u | \
-        awk '
-          /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/ {
-            print "IP-CIDR," $0 "/32,no-resolve"
-            next
-          }
-          /:/ {
-            print "IP-CIDR6," $0 "/128,no-resolve"
-            next
-          }
-          {
-            print "DOMAIN," $0
-          }
-        ' | \
-        sort -t, -k1,1 -k2,2 \
-        > tmp && mv tmp Tool-repo/mihomo/Rules/BTtrackers.yaml
-        cp Tool-repo/{mihomo,Clash}/Rules/BTtrackers.yaml
 
     - name: Egern
       run: |
