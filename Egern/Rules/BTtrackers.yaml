@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 150
+# 规则统计: 152
 
 no_resolve: true
 domain_set:
@@ -7,6 +7,8 @@ domain_set:
   - 0d.kebhana.mx
   - 1337.abcvg.info
   - 1c.premierzal.ru
+  - admin.52ywp.com
+  - asiatorrent.ddns.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -78,6 +80,7 @@ domain_set:
   - tracker.dler.com
   - tracker.dler.org
   - tracker.dmcomic.org
+  - tracker.ducks.party
   - tracker.expli.top
   - tracker.filemail.com
   - tracker.fnix.net
@@ -120,7 +123,6 @@ domain_set:
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.vanitycore.co
