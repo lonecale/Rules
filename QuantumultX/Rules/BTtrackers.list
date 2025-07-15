@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 152
+# 规则统计: 150
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -55,6 +55,7 @@ HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
@@ -75,7 +76,6 @@ HOST,tracker.ddunlimited.net,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
 HOST,tracker.dmcomic.org,BTtrackers
-HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.expli.top,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
 HOST,tracker.fnix.net,BTtrackers
@@ -121,13 +121,11 @@ HOST,tracker.torrust-demo.com,BTtrackers
 HOST,tracker.tritan.gg,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.tvunderground.org.ru,BTtrackers
-HOST,tracker.valete.tf,BTtrackers
 HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
-HOST,tracker.zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker.zhuqiy.top,BTtrackers
 HOST,tracker1.520.jp,BTtrackers
 HOST,tracker1.bt.moack.co.kr,BTtrackers
