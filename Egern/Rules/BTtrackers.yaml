@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 156
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -74,7 +75,6 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -97,13 +97,10 @@ domain_set:
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.home.kmzs123.cn
-  - tracker.internetwarriors.net
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
-  - tracker.ipv6tracker.ru
   - tracker.itscraftsoftware.my.id
   - tracker.jdx3.org
-  - tracker.kmzs123.cn
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lintk.me
@@ -123,6 +120,7 @@ domain_set:
   - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
