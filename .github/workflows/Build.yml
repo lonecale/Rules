@@ -43,7 +43,9 @@ jobs:
         rm -rf Tool-repo/v2dat
         # ls -l Tool-repo/
 
-
+    - name: Print Public IP
+      run: curl https://www.cip.cc
+      
     - name: AdguardHome Rules
       run: |
         mkdir -p Tool-repo/AdguardHome/Rules
