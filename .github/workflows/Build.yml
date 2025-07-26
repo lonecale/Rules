@@ -66,7 +66,7 @@ jobs:
         rm Tool-repo/curl-impersonate/curl-impersonate.tar.gz
 
     - name: Verify curl-impersonate
-      run: Tool-repo/curl-impersonate/curl-impersonate-chrome --version  
+      run: Tool-repo/curl-impersonate/curl-impersonate-chrome --version
 
     - name: AdguardHome Rules
       run: |
