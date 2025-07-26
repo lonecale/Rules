@@ -46,14 +46,19 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Install curl-impersonate
-      run: |
-        mkdir -p $HOME/bin
-        curl -L -o $HOME/bin/curl-impersonate-chrome \
-          https://github.com/lwthiker/curl-impersonate/releases/latest/download/curl-impersonate-chrome
-        chmod +x $HOME/bin/curl-impersonate-chrome
-        ln -s $HOME/bin/curl-impersonate-chrome $HOME/bin/curl-impersonate
-        echo "$HOME/bin" >> $GITHUB_PATH
+    - name: Download latest curl-impersonate binary
+      uses: softprops/action-download-release-asset@v1
+      with:
+        # 填你的 GitHub Token（通常不需要额外配置，默认 GITHUB_TOKEN 即可）
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        # 仓库
+        owner: lwthiker
+        repo: curl-impersonate
+        # 只下载 x86_64 Linux tar.gz
+        asset_pattern: 'curl-impersonate-.*x86_64-linux-gnu\.tar\.gz$'
+        # 解压并放到 $HOME/bin
+        extract: true
+        extract_path: $HOME/bin
 
     - name: AdguardHome Rules
       run: |
