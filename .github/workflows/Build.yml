@@ -66,7 +66,7 @@ jobs:
         rm Tool-repo/curl-impersonate/curl-impersonate.tar.gz
 
     - name: Verify curl-impersonate
-      run: Tool-repo/curl-impersonate/curl-impersonate-chrome --version
+      run: Tool-repo/curl-impersonate/curl_safari15_5 --version
 
     - name: AdguardHome Rules
       run: |
@@ -80,7 +80,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          Tool-repo/curl-impersonate/curl-impersonate-chrome -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          Tool-repo/curl-impersonate/curl_safari15_5 -v -f -L -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
