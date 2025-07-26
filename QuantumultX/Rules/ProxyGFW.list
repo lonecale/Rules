@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7406
+# 规则统计: 7408
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,ProxyGFW
 HOST,ccmdl.adobe.com,ProxyGFW
@@ -30,6 +30,8 @@ HOST-SUFFIX,10beasts.net,ProxyGFW
 HOST-SUFFIX,10conditionsoflove.com,ProxyGFW
 HOST-SUFFIX,10musume.com,ProxyGFW
 HOST-SUFFIX,111666.best,ProxyGFW
+HOST-SUFFIX,123av.com,ProxyGFW
+HOST-SUFFIX,123av.me,ProxyGFW
 HOST-SUFFIX,123rf.com,ProxyGFW
 HOST-SUFFIX,12bet.com,ProxyGFW
 HOST-SUFFIX,12vpn.com,ProxyGFW

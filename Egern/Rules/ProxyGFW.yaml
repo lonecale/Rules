@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7405
+# 规则统计: 7407
 
 no_resolve: true
 domain_set:
@@ -33,6 +33,8 @@ domain_suffix_set:
   - 10conditionsoflove.com
   - 10musume.com
   - 111666.best
+  - 123av.com
+  - 123av.me
   - 123rf.com
   - 12bet.com
   - 12vpn.com

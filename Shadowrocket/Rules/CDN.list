@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3782
+# 规则统计: 3784
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3480,6 +3480,7 @@ DOMAIN-SUFFIX,sftcdn.net
 DOMAIN-SUFFIX,shgcdn.com
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shoppulse88.store
 DOMAIN-SUFFIX,shortpixel.ai
 DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,similarcdn.com
@@ -3559,6 +3560,7 @@ DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,surrit.store
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,svbtleusercontent.com
 DOMAIN-SUFFIX,sway-cdn.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1083
+# 规则统计: 1085
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -12,6 +12,8 @@ DOMAIN,sgminorshort.wechat.com
 DOMAIN,sgshort.wechat.com
 DOMAIN,store.ui.com.cn
 DOMAIN,wego.here.com
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,18comic.vip

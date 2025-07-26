@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1084
+# 规则统计: 1086
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Proxy
 HOST,ccmdl.adobe.com,Proxy
@@ -12,6 +12,8 @@ HOST,sgminorshort.wechat.com,Proxy
 HOST,sgshort.wechat.com,Proxy
 HOST,store.ui.com.cn,Proxy
 HOST,wego.here.com,Proxy
+HOST-SUFFIX,123av.com,Proxy
+HOST-SUFFIX,123av.me,Proxy
 HOST-SUFFIX,123rf.com,Proxy
 HOST-SUFFIX,18comic.org,Proxy
 HOST-SUFFIX,18comic.vip,Proxy

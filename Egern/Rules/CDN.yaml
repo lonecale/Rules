@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3782
+# 规则统计: 3784
 
 domain_set:
   - 0x0.st
@@ -3482,6 +3482,7 @@ domain_suffix_set:
   - shgcdn.com
   - shields.io
   - shopifycdn.com
+  - shoppulse88.store
   - shortpixel.ai
   - simgbb.com
   - similarcdn.com
@@ -3561,6 +3562,7 @@ domain_suffix_set:
   - superfiliate-cdn.com
   - surge.sh
   - surrit.com
+  - surrit.store
   - susercontent.com
   - svbtleusercontent.com
   - sway-cdn.com
