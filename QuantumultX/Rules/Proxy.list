@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1083
+# 规则统计: 1084
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Proxy
 HOST,ccmdl.adobe.com,Proxy
@@ -883,6 +883,7 @@ HOST-SUFFIX,synergyse.com,Proxy
 HOST-SUFFIX,sysctl-explorer.net,Proxy
 HOST-SUFFIX,t.co,Proxy
 HOST-SUFFIX,t66y.com,Proxy
+HOST-SUFFIX,tailfin.cc,Proxy
 HOST-SUFFIX,tailwindcss.com,Proxy
 HOST-SUFFIX,taipei,Proxy
 HOST-SUFFIX,talkcc.com,Proxy

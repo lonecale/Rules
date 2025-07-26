@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3773
+# 规则统计: 3781
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -314,6 +314,7 @@ HOST,boards.greenhouse.io,CDN
 HOST,bookface-static.ycombinator.com,CDN
 HOST,bot.ivy.ai,CDN
 HOST,brand-sdk.kmsmep.com,CDN
+HOST,brandwidgets.outtra.com,CDN
 HOST,brick.a.ssl.fastly.net,CDN
 HOST,brick.freetls.fastly.net,CDN
 HOST,bst.icons8.com,CDN
@@ -518,6 +519,7 @@ HOST,cdn.european-alternatives.eu,CDN
 HOST,cdn.evbstatic.com,CDN
 HOST,cdn.faire.com,CDN
 HOST,cdn.fastcomments.com,CDN
+HOST,cdn.fera.ai,CDN
 HOST,cdn.filen.io,CDN
 HOST,cdn.firebase.com,CDN
 HOST,cdn.fluidplayer.com,CDN
@@ -588,6 +590,7 @@ HOST,cdn.libravatar.org,CDN
 HOST,cdn.lihkg.com,CDN
 HOST,cdn.linearicons.com,CDN
 HOST,cdn.livechatinc.com,CDN
+HOST,cdn.logbase.io,CDN
 HOST,cdn.loom.com,CDN
 HOST,cdn.macstories.net,CDN
 HOST,cdn.manageengine.com,CDN
@@ -928,6 +931,7 @@ HOST,components.trynow.net,CDN
 HOST,config.extension.grammarly.com,CDN
 HOST,connect-js.stripe.com,CDN
 HOST,connect.facebook.net,CDN
+HOST,connect.getflowbox.com,CDN
 HOST,connect.nosto.com,CDN
 HOST,connectivitycheck.android.com,CDN
 HOST,connectivitycheck.gstatic.com,CDN
@@ -1244,6 +1248,7 @@ HOST,ichef.bbci.co.uk,CDN
 HOST,icons.buffer.com,CDN
 HOST,icons.duckduckgo.com,CDN
 HOST,icons.ferndocs.com,CDN
+HOST,icons.internetbrands.com,CDN
 HOST,icons.leavemealone.com,CDN
 HOST,icons.llamao.fi,CDN
 HOST,icons.ly,CDN
@@ -1667,6 +1672,7 @@ HOST,media.ra.kroll.com,CDN
 HOST,media.shopimind.com,CDN
 HOST,media.smooch.io,CDN
 HOST,media.steampowered.com,CDN
+HOST,media.tailfin.cc,CDN
 HOST,media.telanganatoday.com,CDN
 HOST,media.tenor.com,CDN
 HOST,media.themoviedb.org,CDN
@@ -1879,6 +1885,7 @@ HOST,public.hare200.com,CDN
 HOST,public.linear.app,CDN
 HOST,public.mocortech.com,CDN
 HOST,public.saasexch.com,CDN
+HOST,public.zoorix.com,CDN
 HOST,publicsuffix.org,CDN
 HOST,pytorch.org,CDN
 HOST,qmod.quotemedia.com,CDN
@@ -2023,6 +2030,7 @@ HOST,screenshots.codesandbox.io,CDN
 HOST,screenshots.debian.net,CDN
 HOST,screenshots.downloadtorrentfile.com,CDN
 HOST,screenshots.webflow.com,CDN
+HOST,script.custobar.com,CDN
 HOST,scripts.dailymail.co.uk,CDN
 HOST,scripts.scriptwrapper.com,CDN
 HOST,scripts.webeo.com,CDN

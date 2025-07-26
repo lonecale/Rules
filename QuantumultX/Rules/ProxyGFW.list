@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7405
+# 规则统计: 7406
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,ProxyGFW
 HOST,ccmdl.adobe.com,ProxyGFW
@@ -5830,6 +5830,7 @@ HOST-SUFFIX,tafm.org,ProxyGFW
 HOST-SUFFIX,tagwa.org.au,ProxyGFW
 HOST-SUFFIX,tagwalk.com,ProxyGFW
 HOST-SUFFIX,tahr.org.tw,ProxyGFW
+HOST-SUFFIX,tailfin.cc,ProxyGFW
 HOST-SUFFIX,tailwindcss.com,ProxyGFW
 HOST-SUFFIX,taipei,ProxyGFW
 HOST-SUFFIX,taipeisociety.org,ProxyGFW
