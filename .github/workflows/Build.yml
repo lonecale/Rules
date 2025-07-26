@@ -58,7 +58,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl --http2 -v -f -L -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl --http2 --tls-max 1.2 --ciphers "ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256" --curves "X25519:P-256" -v -f -L -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
