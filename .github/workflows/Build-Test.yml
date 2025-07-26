@@ -378,6 +378,7 @@ jobs:
                 curl -A "Surge iOS/3367" -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
             done
             echo "Files downloaded successfully."
+            curl --version && openssl ciphers -v 'ALL'
         else
             echo "Unknown repository. Please run this script in either Tool or Tool repository."
             exit 1
