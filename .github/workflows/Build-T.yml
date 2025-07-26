@@ -6,7 +6,6 @@ on:
     - cron: "30 */6 * * *"
 
 jobs:
-  # ① macOS 下载文件，并上传为 artifact
   fetch-files:
     runs-on: macos-latest
     outputs:
@@ -24,28 +23,17 @@ jobs:
           mkdir -p Tool-repo/AdguardHome/Rules Tool-repo/Ruleset
 
           # HTTPDNS.Block
-          curl -f -L \
-            -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" \
-            "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" \
-            -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
+          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
 
           # TikTok.lsr → TikTok.list
-          curl -f -L -A "Surge iOS/3367" \
-            "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" \
-            -o Tool-repo/Ruleset/TikTok.list
+          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" -o Tool-repo/Ruleset/TikTok.list
 
           # ApplePushNotificationService.lsr → APNs.list
-          curl -f -L -A "Surge iOS/3367" \
-            "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" \
-            -o Tool-repo/Ruleset/APNs.list
+          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" -o Tool-repo/Ruleset/APNs.list
 
           # DownloadCDN
-          curl -f -L -A "Surge iOS/3367" \
-            "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" \
-            -o Tool-repo/Ruleset/DownloadCDN_Global.list
-          curl -f -L -A "Surge iOS/3367" \
-            "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" \
-            -o Tool-repo/Ruleset/DownloadCDN_CN.list
+          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_Global.list
+          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_CN.list
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
@@ -54,8 +42,8 @@ jobs:
           path: |
             Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
             Tool-repo/Ruleset/*.list
+          retention-days: 1
 
-  # ② 在 Ubuntu 上执行其余下载、规则处理并提交
   build:
     needs: fetch-files
     runs-on: ubuntu-latest
