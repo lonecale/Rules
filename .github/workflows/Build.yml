@@ -20,7 +20,7 @@ jobs:
         path: Tool-repo
 
     - name: Checkout v2dat repository
-      uses: actions/checkout@v4.1.0
+      uses: actions/checkout@v4.2.2
       with:
         repository: urlesistiana/v2dat
         path: Tool-repo/v2dat
@@ -46,19 +46,26 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Download latest curl-impersonate binary
-      uses: softprops/action-download-release-asset@v1
+    - name: Checkout curl-impersonate repository
+      uses: actions/checkout@v4.2.2
       with:
-        # 填你的 GitHub Token（通常不需要额外配置，默认 GITHUB_TOKEN 即可）
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
-        # 仓库
-        owner: lwthiker
-        repo: curl-impersonate
-        # 只下载 x86_64 Linux tar.gz
-        asset_pattern: 'curl-impersonate-.*x86_64-linux-gnu\.tar\.gz$'
-        # 解压并放到 $HOME/bin
-        extract: true
-        extract_path: $HOME/bin
+        repository: lwthiker/curl-impersonate
+        path: Tool-repo/curl-impersonate-src
+
+    # 2. 安装编译依赖并编译
+    - name: Build curl-impersonate
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential cmake pkg-config zlib1g-dev
+        mkdir -p Tool-repo/curl-impersonate-src/build
+        cd Tool-repo/curl-impersonate-src/build
+        cmake .. -DCMAKE_BUILD_TYPE=Release
+        make -j$(nproc)
+        sudo install curl-impersonate /usr/local/bin/
+
+    # 3. 验证安装成功
+    - name: Verify curl-impersonate
+      run: curl-impersonate --version
 
     - name: AdguardHome Rules
       run: |
@@ -72,7 +79,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl-impersonate-chrome -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl-impersonate -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
