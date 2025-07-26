@@ -46,22 +46,30 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Checkout curl-impersonate repository
-      uses: actions/checkout@v4.2.2
-      with:
-        repository: lwthiker/curl-impersonate
-        path: Tool-repo/curl-impersonate-src
-
-    # 2. 安装编译依赖并编译
-    - name: Build curl-impersonate
+    - name: Install curl-impersonate binary
       run: |
-        sudo apt-get update
-        sudo apt-get install -y build-essential cmake pkg-config zlib1g-dev
-        mkdir -p Tool-repo/curl-impersonate-src/build
-        cd Tool-repo/curl-impersonate-src/build
-        cmake .. -DCMAKE_BUILD_TYPE=Release
-        make -j$(nproc)
-        sudo install curl-impersonate /usr/local/bin/
+        # 可执行目录
+        mkdir -p $HOME/bin
+    
+        # 下载 x86_64 Linux 预编译二进制包（v0.6.1）
+        curl -L -o curl-impersonate.tar.gz \
+          https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
+    
+        # 解压可执行文件到 $HOME/bin
+        tar -xzf curl-impersonate.tar.gz -C $HOME/bin curl-impersonate
+    
+        # 赋可执行权限
+        chmod +x $HOME/bin/curl-impersonate
+    
+        # 把 bin 目录加入 PATH
+        echo "$HOME/bin" >> $GITHUB_PATH
+    
+        # 清理
+        rm curl-impersonate.tar.gz
+
+    - name: Verify curl-impersonate
+      run: curl-impersonate --version
+
 
     # 3. 验证安装成功
     - name: Verify curl-impersonate
