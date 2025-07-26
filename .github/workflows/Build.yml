@@ -46,6 +46,11 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
+    - name: Install curl-impersonate
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y curl-impersonate
+
     - name: AdguardHome Rules
       run: |
         mkdir -p Tool-repo/AdguardHome/Rules
