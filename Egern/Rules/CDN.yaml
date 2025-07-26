@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3781
+# 规则统计: 3782
 
 domain_set:
   - 0x0.st
@@ -2635,6 +2635,7 @@ domain_set:
   - widgets.listenlive.co
   - widgets.media.weather.com
   - widgets.outbrain.com
+  - widgets.pinterest.com
   - widgets.tree-nation.com
   - widgets.turnto.com
   - widgets.zohosalesiq.com

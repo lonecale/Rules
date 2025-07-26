@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3781
+# 规则统计: 3782
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2634,6 +2634,7 @@ HOST,widgets.flickr.com,CDN
 HOST,widgets.listenlive.co,CDN
 HOST,widgets.media.weather.com,CDN
 HOST,widgets.outbrain.com,CDN
+HOST,widgets.pinterest.com,CDN
 HOST,widgets.tree-nation.com,CDN
 HOST,widgets.turnto.com,CDN
 HOST,widgets.zohosalesiq.com,CDN
