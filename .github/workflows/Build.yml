@@ -55,8 +55,8 @@ jobs:
         curl -L -o curl-impersonate.tar.gz \
           https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
     
-        # 解压可执行文件到 $HOME/bin
-        tar -xzf curl-impersonate.tar.gz -C $HOME/bin curl-impersonate
+        # 解压可执行文件到 $HOME/bin，并去掉顶层目录
+        tar -xzf curl-impersonate.tar.gz -C $HOME/bin --strip-components=1
     
         # 赋可执行权限
         chmod +x $HOME/bin/curl-impersonate
@@ -64,13 +64,9 @@ jobs:
         # 把 bin 目录加入 PATH
         echo "$HOME/bin" >> $GITHUB_PATH
     
-        # 清理
+        # 清理下载文件
         rm curl-impersonate.tar.gz
-
-    - name: Verify curl-impersonate
-      run: curl-impersonate --version
-
-
+    
     # 3. 验证安装成功
     - name: Verify curl-impersonate
       run: curl-impersonate --version
