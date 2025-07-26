@@ -46,27 +46,30 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Install curl-impersonate binary
+    - name: Checkout curl-impersonate source
+      uses: actions/checkout@v4
+      with:
+        repository: lwthiker/curl-impersonate
+        path: Tool-repo/curl-impersonate-src
+
+    - name: Build dynamic curl-impersonate
       run: |
-        # 在 Tool-repo 下创建目录
+        sudo apt-get update
+        sudo apt-get install -y build-essential cmake pkg-config libssl-dev zlib1g-dev
+        mkdir -p Tool-repo/curl-impersonate-src/build
+        cd Tool-repo/curl-impersonate-src/build
+
+        # 关闭静态链接，启用 dynamic 库支持，这样才会编译出真正支持 --impersonate 的二进制
+        cmake .. \
+          -DCMAKE_BUILD_TYPE=Release \
+          -DBUILD_STATIC=OFF \
+          -DUSE_OPENSSL=ON
+        make -j$(nproc)
+
+        # 把最终可执行搬到 Tool-repo 下
         mkdir -p Tool-repo/curl-impersonate
-
-        # 下载官方 x86_64 Linux 预编译包
-        curl -L -o Tool-repo/curl-impersonate/curl-impersonate.tar.gz \
-          https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
-
-        # 解压全部文件到同目录
-        tar -xzf Tool-repo/curl-impersonate/curl-impersonate.tar.gz \
-          -C Tool-repo/curl-impersonate
-
-        # 确保所有二进制可执行
-        chmod +x Tool-repo/curl-impersonate/*
-
-        # 删除压缩包
-        rm Tool-repo/curl-impersonate/curl-impersonate.tar.gz
-
-    - name: Verify curl-impersonate
-      run: Tool-repo/curl-impersonate/curl_safari15_5 --version
+        mv curl-impersonate $GITHUB_WORKSPACE/Tool-repo/curl-impersonate/curl-impersonate
+        chmod +x Tool-repo/curl-impersonate/curl-impersonate
 
     - name: AdguardHome Rules
       run: |
@@ -80,7 +83,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          Tool-repo/curl-impersonate/curl_safari15_5 -v -f -L "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          Tool-repo/curl-impersonate/curl-impersonate --impersonate safari15_5 -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" -v -f -L "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
