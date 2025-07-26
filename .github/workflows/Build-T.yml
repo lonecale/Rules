@@ -1,18 +1,15 @@
-name: Build
+name: Fetch-HTTPDNS
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 */6 * * *"
 
 jobs:
-  # ① 专门拉取 HTTPDNS.Block，跑在 macOS
   fetch-httpdns:
     runs-on: macos-latest
-    outputs:
-      artifact-name: httpdns-block
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout rules repo
+        uses: actions/checkout@v4
         with:
           repository: lonecale/Rules
           path: Tool-repo
@@ -26,46 +23,8 @@ jobs:
             "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" \
             -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
 
-      - name: Upload HTTPDNS artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: ${{ job.outputs.artifact-name }}
-          path: Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
-
-  # ② 正常的 Build，跑在 Ubuntu
-  Build:
-    needs: fetch-httpdns
-    runs-on: ubuntu-latest
-    env:
-      TZ: "Asia/Shanghai"
-      SING_BOX_VERSION: 1.10.5
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          repository: lonecale/Rules
-          path: Tool-repo
-
-      - name: Download HTTPDNS.Block artifact
-        uses: actions/download-artifact@v3
+      - name: Upload HTTPDNS.Block artifact
+        uses: actions/upload-artifact@v4
         with:
           name: httpdns-block
-          path: Tool-repo/AdguardHome/Rules
-
-      # 接下来恢复你原来脚本里对 HTTPDNS.Block.txt 的 sed/sort/awk 处理
-      - name: Normalize HTTPDNS.Block
-        run: |
-          for file in Tool-repo/AdguardHome/Rules/*.txt; do
-            sed -i -e 's/[[:space:]]//g' -e '/^[[:space:]]*$/d' "$file"
-            sort -t, -k2,2 -u "$file" -o "$file"
-            awk -F, '
-              /^DOMAIN(-SUFFIX)?,/ {
-                domain = $2
-                gsub(/[[:space:]]/, "", domain)
-                print "||" domain "^$dnstype=AAAA,dnsrewrite=NOERROR"
-                print "||" domain "^"
-              }
-            ' "$file" > "${file}.tmp" \
-              && mv "${file}.tmp" "$file"
-          done
+          path: Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
