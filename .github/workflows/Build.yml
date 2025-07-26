@@ -86,7 +86,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl-impersonate -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          $HOME/bin/curl-impersonate -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
