@@ -48,8 +48,11 @@ jobs:
 
     - name: Install curl-impersonate
       run: |
-        sudo apt-get update
-        sudo apt-get install -y curl-impersonate
+        mkdir -p $HOME/bin
+        curl -L -o $HOME/bin/curl-impersonate \
+          https://github.com/lwthiker/curl-impersonate/releases/latest/download/curl-impersonate
+        chmod +x $HOME/bin/curl-impersonate
+        echo "$HOME/bin" >> $GITHUB_PATH
 
     - name: AdguardHome Rules
       run: |
