@@ -331,7 +331,6 @@ jobs:
                 set -- $file
                 echo "Downloading: $2"
                 curl -A "Surge iOS/3367" --ciphers "ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256" --curves "X25519:P-256" -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
-                curl --version && openssl ciphers -v 'ALL'
             done
             echo "Files downloaded successfully."
         else
