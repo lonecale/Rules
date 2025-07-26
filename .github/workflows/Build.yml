@@ -48,28 +48,31 @@ jobs:
 
     - name: Install curl-impersonate binary
       run: |
-        # 用于存放可执行文件
+        # 1) 准备目录
         mkdir -p $HOME/bin
-
-        # 下载 x86_64 Linux 预编译二进制（这里以 v0.6.1 为例）
+    
+        # 2) 下载 tarball
         curl -L -o curl-impersonate.tar.gz \
           https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
-
-        # 解压所有内容到 $HOME/bin，并去掉顶层目录
-        tar -xzf curl-impersonate.tar.gz -C $HOME/bin --strip-components=1
-
-        # 确保主二进制可执行
-        chmod +x $HOME/bin/curl-impersonate
-
-        # 把 bin 加入 PATH
+    
+        # 3) 直接解压所有文件到 $HOME/bin
+        tar -xzf curl-impersonate.tar.gz -C $HOME/bin
+    
+        # 4) 把 chrome 版本重命名为通用命令
+        mv $HOME/bin/curl-impersonate-chrome $HOME/bin/curl-impersonate
+    
+        # 5) 确保可执行
+        chmod +x $HOME/bin/curl-impersonate*
+    
+        # 6) 把 bin 加到 PATH
         echo "$HOME/bin" >> $GITHUB_PATH
-
-        # 清理下载包
+    
+        # 7) 清理
         rm curl-impersonate.tar.gz
-
+    
     - name: Verify curl-impersonate
-      run: |
-        curl-impersonate --version
+      run: curl-impersonate --version
+
 
     - name: AdguardHome Rules
       run: |
