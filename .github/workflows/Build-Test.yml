@@ -1,9 +1,9 @@
-name: Build-T
+name: Build-Test
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 */6 * * *"
+  # schedule:
+    # - cron: "30 */6 * * *"
 
 jobs:
   fetch-files:
