@@ -51,25 +51,38 @@ jobs:
       with:
         repository: lwthiker/curl-impersonate
         path: Tool-repo/curl-impersonate-src
+        # fetch-depth: 1   # 可选，加速
 
+    # 2) 安装依赖并编译
     - name: Build dynamic curl-impersonate
       run: |
         sudo apt-get update
         sudo apt-get install -y build-essential cmake pkg-config libssl-dev zlib1g-dev
-        mkdir -p Tool-repo/curl-impersonate-src/build
-        cd Tool-repo/curl-impersonate-src/build
 
-        # 关闭静态链接，启用 dynamic 库支持，这样才会编译出真正支持 --impersonate 的二进制
+        # 进入源码目录
+        cd Tool-repo/curl-impersonate-src
+
+        # 建 build 目录
+        mkdir -p build
+        cd build
+
+        # 关闭静态链接、启用 OpenSSL 动态库
         cmake .. \
           -DCMAKE_BUILD_TYPE=Release \
           -DBUILD_STATIC=OFF \
           -DUSE_OPENSSL=ON
+
+        # 并行编译
         make -j$(nproc)
 
-        # 把最终可执行搬到 Tool-repo 下
-        mkdir -p Tool-repo/curl-impersonate
+        # 将可执行搬回 Tool-repo 方便调用
+        mkdir -p $GITHUB_WORKSPACE/Tool-repo/curl-impersonate
         mv curl-impersonate $GITHUB_WORKSPACE/Tool-repo/curl-impersonate/curl-impersonate
-        chmod +x Tool-repo/curl-impersonate/curl-impersonate
+        chmod +x $GITHUB_WORKSPACE/Tool-repo/curl-impersonate/curl-impersonate
+
+    # 3) 验证一下
+    - name: Verify dynamic curl-impersonate
+      run: Tool-repo/curl-impersonate/curl-impersonate --version
 
     - name: AdguardHome Rules
       run: |
