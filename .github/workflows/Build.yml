@@ -11,6 +11,9 @@ jobs:
     env:
       TZ: "Asia/Shanghai"
       SING_BOX_VERSION: 1.10.5
+      CIPHERS: "ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256"  
+      CURVES: "X25519:P-256:P-384"
+      TLS_FLAGS: "--ciphers ${{ env.CIPHERS }} --curves ${{ env.CURVES }}"
 
     steps:
     - name: Checkout Repository
@@ -58,7 +61,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl -f -L -A "Surge iOS/3367" --tls-max 1.2 --ciphers "ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256" --curves "X25519:P-256" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl -f -L -A "Surge iOS/3367" $TLS_FLAGS -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
@@ -330,7 +333,7 @@ jobs:
             for file in "${files[@]}"; do
                 set -- $file
                 echo "Downloading: $2"
-                curl -A "Surge iOS/3367" --ciphers "ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256" --curves "X25519:P-256" -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
+                curl -A "Surge iOS/3367" $TLS_FLAGS -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
             done
             echo "Files downloaded successfully."
         else
