@@ -48,22 +48,25 @@ jobs:
 
     - name: Install curl-impersonate binary
       run: |
-        # 1) 下载并解压到临时目录
-        mkdir -p tmp-ci
-        curl -L -o tmp-ci/curl-impersonate.tar.gz \
+        # 在 Tool-repo 下创建目录
+        mkdir -p Tool-repo/curl-impersonate
+
+        # 下载官方 x86_64 Linux 预编译包
+        curl -L -o Tool-repo/curl-impersonate/curl-impersonate.tar.gz \
           https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
-        mkdir -p tmp-ci/extract
-        tar -xzf tmp-ci/curl-impersonate.tar.gz -C tmp-ci/extract
 
-        # 2) 将 chrome 版本二进制搬到 $HOME 下，并重命名为 curl-impersonate
-        mv tmp-ci/extract/curl-impersonate-chrome $HOME/curl-impersonate
-        chmod +x $HOME/curl-impersonate
+        # 解压全部文件到同目录
+        tar -xzf Tool-repo/curl-impersonate/curl-impersonate.tar.gz \
+          -C Tool-repo/curl-impersonate
 
-        # 3) 清理临时文件
-        rm -rf tmp-ci
+        # 确保所有二进制可执行
+        chmod +x Tool-repo/curl-impersonate/*
+
+        # 删除压缩包
+        rm Tool-repo/curl-impersonate/curl-impersonate.tar.gz
 
     - name: Verify curl-impersonate
-      run: $HOME/curl-impersonate --version
+      run: Tool-repo/curl-impersonate/curl-impersonate-chrome --version  
 
     - name: AdguardHome Rules
       run: |
@@ -77,7 +80,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          $HOME/curl-impersonate -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          Tool-repo/curl-impersonate/curl-impersonate-chrome -v -f -L --impersonate safari15_3 -H "User-Agent: Loon/883 CFNetwork/1410.0.3 Darwin/22.6.0" -H "Accept: */*" -H "Connection: keep-alive" -H "Accept-Language: zh-CN,zh-Hans;q=0.9" --compressed "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
