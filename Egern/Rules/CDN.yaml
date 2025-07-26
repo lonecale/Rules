@@ -2249,6 +2249,7 @@ domain_set:
   - static.guim.co.uk
   - static.heavy-r.com
   - static.helpjuice.com
+  - static.hosting.com
   - static.hotjar.com
   - static.hubspot.com
   - static.hugedomains.com
@@ -3302,7 +3303,6 @@ domain_suffix_set:
   - nelreports.net
   - nest.land
   - net.anydesk.com
-  - netdna-ssl.com
   - netlify.app
   - neweggimages.com
   - newscdn.com.au

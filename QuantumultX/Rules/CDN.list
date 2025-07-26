@@ -2248,6 +2248,7 @@ HOST,static.grammarly.com,CDN
 HOST,static.guim.co.uk,CDN
 HOST,static.heavy-r.com,CDN
 HOST,static.helpjuice.com,CDN
+HOST,static.hosting.com,CDN
 HOST,static.hotjar.com,CDN
 HOST,static.hubspot.com,CDN
 HOST,static.hugedomains.com,CDN
@@ -3300,7 +3301,6 @@ HOST-SUFFIX,nel.measure.office.net,CDN
 HOST-SUFFIX,nelreports.net,CDN
 HOST-SUFFIX,nest.land,CDN
 HOST-SUFFIX,net.anydesk.com,CDN
-HOST-SUFFIX,netdna-ssl.com,CDN
 HOST-SUFFIX,netlify.app,CDN
 HOST-SUFFIX,neweggimages.com,CDN
 HOST-SUFFIX,newscdn.com.au,CDN
