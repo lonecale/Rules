@@ -46,42 +46,6 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Checkout curl-impersonate source
-      uses: actions/checkout@v4
-      with:
-        repository: lwthiker/curl-impersonate
-        path: Tool-repo/curl-impersonate-src
-        fetch-depth: 1
-
-    # 2) 安装依赖并 Autotools 编译
-    - name: Build curl-impersonate from source
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y \
-          build-essential autoconf automake libtool \
-          pkg-config libssl-dev libnghttp2-dev libnspr4-dev libnss3-dev zlib1g-dev
-
-        cd Tool-repo/curl-impersonate-src
-
-        # 生成 configure 脚本
-        autoreconf -fi
-
-        # configure 开启 OpenSSL
-        ./configure --with-ssl
-
-        # 并行编译
-        make -j$(nproc)
-
-        # 拷贝可执行到 Tool-repo 下
-        mkdir -p ../curl-impersonate
-        cp src/curl ../curl-impersonate/curl-impersonate
-        chmod +x ../curl-impersonate/curl-impersonate
-
-    # 3) 验证
-    - name: Verify curl-impersonate
-      run: Tool-repo/curl-impersonate/curl-impersonate --version
-
-
     - name: AdguardHome Rules
       run: |
         mkdir -p Tool-repo/AdguardHome/Rules
@@ -94,7 +58,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          Tool-repo/curl-impersonate/curl-impersonate --impersonate safari15_5 -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" -v -f -L "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl -f -L -A "Surge iOS/3367" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
