@@ -23,7 +23,7 @@ jobs:
           mkdir -p Tool-repo/AdguardHome/Rules Tool-repo/Ruleset
 
           # HTTPDNS.Block
-          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
+          curl -f -L "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
 
           # TikTok.lsr → TikTok.list
           curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" -o Tool-repo/Ruleset/TikTok.list
