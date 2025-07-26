@@ -46,25 +46,30 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
-    - name: Checkout curl-impersonate source
-      uses: actions/checkout@v4
-      with:
-        repository: lwthiker/curl-impersonate
-        path: Tool-repo/curl-impersonate-src
-
-    - name: Build curl-impersonate from source
+    - name: Install curl-impersonate binary
       run: |
-        sudo apt-get update
-        sudo apt-get install -y build-essential cmake pkg-config zlib1g-dev libssl-dev
-        mkdir -p Tool-repo/curl-impersonate-src/build
-        cd Tool-repo/curl-impersonate-src/build
-        cmake .. -DCMAKE_BUILD_TYPE=Release
-        make -j$(nproc)
-        sudo install curl-impersonate /usr/local/bin/
+        # 用于存放可执行文件
+        mkdir -p $HOME/bin
+
+        # 下载 x86_64 Linux 预编译二进制（这里以 v0.6.1 为例）
+        curl -L -o curl-impersonate.tar.gz \
+          https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz
+
+        # 解压所有内容到 $HOME/bin，并去掉顶层目录
+        tar -xzf curl-impersonate.tar.gz -C $HOME/bin --strip-components=1
+
+        # 确保主二进制可执行
+        chmod +x $HOME/bin/curl-impersonate
+
+        # 把 bin 加入 PATH
+        echo "$HOME/bin" >> $GITHUB_PATH
+
+        # 清理下载包
+        rm curl-impersonate.tar.gz
 
     - name: Verify curl-impersonate
-      run: curl-impersonate --version
-
+      run: |
+        curl-impersonate --version
 
     - name: AdguardHome Rules
       run: |
