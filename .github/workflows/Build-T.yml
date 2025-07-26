@@ -1,4 +1,4 @@
-name: Build-T
+name: Build
 
 on:
   workflow_dispatch:
@@ -6,8 +6,60 @@ on:
     - cron: "30 */6 * * *"
 
 jobs:
-  Build:
+  # ① macOS 下载文件，并上传为 artifact
+  fetch-files:
     runs-on: macos-latest
+    outputs:
+      artifact-name: remote-files
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: lonecale/Rules
+          path: Tool-repo
+
+      - name: Fetch remote lists
+        working-directory: Tool-repo
+        run: |
+          mkdir -p AdguardHome/Rules Ruleset
+
+          # HTTPDNS.Block
+          curl -f -L \
+            -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" \
+            "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" \
+            -o AdguardHome/Rules/HTTPDNS.Block.txt
+
+          # TikTok.lsr → TikTok.list
+          curl -f -L -A "Surge iOS/3367" \
+            "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" \
+            -o Ruleset/TikTok.list
+
+          # ApplePushNotificationService.lsr → APNs.list
+          curl -f -L -A "Surge iOS/3367" \
+            "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" \
+            -o Ruleset/APNs.list
+
+          # DownloadCDN
+          curl -f -L -A "Surge iOS/3367" \
+            "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" \
+            -o Ruleset/DownloadCDN_Global.list
+          curl -f -L -A "Surge iOS/3367" \
+            "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" \
+            -o Ruleset/DownloadCDN_CN.list
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ job.outputs.artifact-name }}
+          path: |
+            AdguardHome/Rules/HTTPDNS.Block.txt
+            Ruleset/*.list
+
+  # ② 在 Ubuntu 上执行其余下载、规则处理并提交
+  build:
+    needs: fetch-files
+    runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
       SING_BOX_VERSION: 1.10.5
@@ -46,14 +98,20 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
+    - name: Download remote-files artifact
+      uses: actions/download-artifact@v3
+      with:
+        name: ${{ needs.fetch-files.outputs.artifact-name }}
+        path: Tool-repo
+
     - name: AdguardHome Rules
       run: |
         mkdir -p Tool-repo/AdguardHome/Rules
 
-        > Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
+        # > Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         urls=(
           # "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/HTTPDNS.Block.list"
-          "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx"
+          # "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx"
         )
 
         for url in "${urls[@]}"; do
@@ -251,7 +309,7 @@ jobs:
             # 下载规则
             files=(
                 # 苹果
-                "APNs.list https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
+                # "APNs.list https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
                 "Apple.list https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
                 "AppleMusic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
                 "AppStore.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppStore/AppStore.list"
@@ -277,7 +335,7 @@ jobs:
                 # 甲骨文
                 "Oracle.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Oracle/Oracle.list"
                 # 流媒体
-                "TikTok.list https://kelee.one/Tool/Loon/Lsr/TikTok.lsr"
+                # "TikTok.list https://kelee.one/Tool/Loon/Lsr/TikTok.lsr"
                 "Netflix.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
                 "HBO.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBO/HBO.list"
                 "Disney.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list"
@@ -296,8 +354,8 @@ jobs:
                 "Epic.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
                 "Game.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
                 # 下载CDN
-                "DownloadCDN_Global.list https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr"
-                "DownloadCDN_CN.list https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr"
+                # "DownloadCDN_Global.list https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr"
+                # "DownloadCDN_CN.list https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr"
                 # 国内规则
                 "Bilibili.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list"
                 "WeChat.list https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list"
