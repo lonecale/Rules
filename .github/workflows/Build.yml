@@ -46,29 +46,40 @@ jobs:
     - name: Print Public IP
       run: curl cip.cc
 
+    - name: Checkout curl-impersonate source
+      uses: actions/checkout@v4
+      with:
+        repository: lwthiker/curl-impersonate
+        path: Tool-repo/curl-impersonate-src
+        fetch-depth: 1
+
+    # 2) 安装依赖并 Autotools 编译
     - name: Build curl-impersonate from source
       run: |
-        # 1) install build deps
         sudo apt-get update
         sudo apt-get install -y \
           build-essential autoconf automake libtool \
-          pkg-config libssl-dev libnghttp2-dev libnss3-dev
+          pkg-config libssl-dev libnghttp2-dev libnspr4-dev libnss3-dev zlib1g-dev
 
-        # 2) bootstrap & configure
         cd Tool-repo/curl-impersonate-src
+
+        # 生成 configure 脚本
         autoreconf -fi
+
+        # configure 开启 OpenSSL
         ./configure --with-ssl
 
-        # 3) compile
+        # 并行编译
         make -j$(nproc)
 
-        # 4) install into a known location under Tool-repo
+        # 拷贝可执行到 Tool-repo 下
         mkdir -p ../curl-impersonate
-        cp src/curl ../curl-impersonate/curl-impersonate-chrome
-        chmod +x ../curl-impersonate/curl-impersonate-chrome
+        cp src/curl ../curl-impersonate/curl-impersonate
+        chmod +x ../curl-impersonate/curl-impersonate
 
+    # 3) 验证
     - name: Verify curl-impersonate
-      run: Tool-repo/curl-impersonate/curl-impersonate-chrome --version
+      run: Tool-repo/curl-impersonate/curl-impersonate --version
 
 
     - name: AdguardHome Rules
