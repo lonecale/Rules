@@ -50,7 +50,7 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ job.outputs.artifact-name }}
+          name: remote-files
           path: |
             Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
             Tool-repo/Ruleset/*.list
@@ -100,7 +100,7 @@ jobs:
     - name: Download remote-files artifact
       uses: actions/download-artifact@v4
       with:
-        name: ${{ needs.fetch-files.outputs.artifact-name }}
+        name: remote-files
         path: Tool-repo
 
     - name: AdguardHome Rules
