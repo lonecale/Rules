@@ -1,4 +1,4 @@
-name: Build
+name: Build-T
 
 on:
   workflow_dispatch:
@@ -20,41 +20,40 @@ jobs:
           path: Tool-repo
 
       - name: Fetch remote lists
-        working-directory: Tool-repo
         run: |
-          mkdir -p AdguardHome/Rules Ruleset
+          mkdir -p Tool-repo/AdguardHome/Rules Tool-repo/Ruleset
 
           # HTTPDNS.Block
           curl -f -L \
             -A "Surge iOS/3367 CFNetwork/1410.0.3 Darwin/22.6.0" \
             "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" \
-            -o AdguardHome/Rules/HTTPDNS.Block.txt
+            -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
 
           # TikTok.lsr → TikTok.list
           curl -f -L -A "Surge iOS/3367" \
             "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" \
-            -o Ruleset/TikTok.list
+            -o Tool-repo/Ruleset/TikTok.list
 
           # ApplePushNotificationService.lsr → APNs.list
           curl -f -L -A "Surge iOS/3367" \
             "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" \
-            -o Ruleset/APNs.list
+            -o Tool-repo/Ruleset/APNs.list
 
           # DownloadCDN
           curl -f -L -A "Surge iOS/3367" \
             "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" \
-            -o Ruleset/DownloadCDN_Global.list
+            -o Tool-repo/Ruleset/DownloadCDN_Global.list
           curl -f -L -A "Surge iOS/3367" \
             "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" \
-            -o Ruleset/DownloadCDN_CN.list
+            -o Tool-repo/Ruleset/DownloadCDN_CN.list
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ${{ job.outputs.artifact-name }}
           path: |
-            AdguardHome/Rules/HTTPDNS.Block.txt
-            Ruleset/*.list
+            Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
+            Tool-repo/Ruleset/*.list
 
   # ② 在 Ubuntu 上执行其余下载、规则处理并提交
   build:
@@ -99,7 +98,7 @@ jobs:
       run: curl cip.cc
 
     - name: Download remote-files artifact
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: ${{ needs.fetch-files.outputs.artifact-name }}
         path: Tool-repo
