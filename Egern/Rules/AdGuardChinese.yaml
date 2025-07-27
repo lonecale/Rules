@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 5181
+# 规则统计: 5191
 
 domain_suffix_set:
   - 002777.xyz
@@ -979,6 +979,7 @@ domain_suffix_set:
   - brerkols.com
   - brircel.com
   - brornaeq.com
+  - brownnx.top
   - brtlisv.top
   - brulpha.com
   - brutvncv.top
@@ -1025,6 +1026,7 @@ domain_suffix_set:
   - bypllv.icu
   - byretuv.top
   - byscy.cn
+  - byt73g6rrr.com
   - bytmfj.xyz
   - c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
   - c.28rv.com
@@ -1947,6 +1949,8 @@ domain_suffix_set:
   - gio07241rp.com
   - gio07250rp.com
   - gio07251rp.com
+  - gio07260rp.com
+  - gio07261rp.com
   - giphaudoq.com
   - gjinuqg.top
   - gjjskhdnm.top
@@ -3363,6 +3367,7 @@ domain_suffix_set:
   - orcinhyi.com
   - orkreats.com
   - orodsmnu.com
+  - orpy.cn
   - ortlisk.top
   - orup.cn
   - orutvnck.top
@@ -4095,6 +4100,7 @@ domain_suffix_set:
   - t0sfe1.com
   - t1.612.com
   - t1.xuefen.com.cn
+  - t1d26dvout.com
   - t2s.fun
   - t6.china-xian.com
   - t78obxl4h1.com
@@ -4409,6 +4415,7 @@ domain_suffix_set:
   - ullc.cn
   - uloscw.xyz
   - um5xcgngmart.xyz
+  - umrr.cn
   - umwcyw.xyz
   - un.ubaike.cn
   - un1.lawyernet.cn
@@ -4504,6 +4511,7 @@ domain_suffix_set:
   - v1.wphonelife.com
   - v4p.fun
   - vahmimb.com
+  - valeriesara.com
   - vasz.cn
   - vaykjwn.top
   - vbjm.cn
@@ -4600,6 +4608,7 @@ domain_suffix_set:
   - vtbkhl.icu
   - vtdgfisz.icu
   - vthruucceod.com
+  - vtiwz6pgc8.com
   - vtjbnb.xyz
   - vtqhelleano.com
   - vtrrxqbi.xyz
@@ -4638,6 +4647,7 @@ domain_suffix_set:
   - w3.ting55.com
   - w4sn20zpvz.com
   - w59g.icu
+  - w5ftl8bhu3.com
   - w7044.com
   - w9uwz5966.com
   - wanfumei.net
