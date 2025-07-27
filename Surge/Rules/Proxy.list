@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1086
+# 规则统计: 1087
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -926,6 +926,7 @@ DOMAIN-SUFFIX,tktube.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,to
+DOMAIN-SUFFIX,tokto-motion.net
 DOMAIN-SUFFIX,tokyomotion.net
 DOMAIN-SUFFIX,tokyonline.com
 DOMAIN-SUFFIX,toolforge.org

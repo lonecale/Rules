@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3784
+# 规则统计: 3787
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -673,6 +673,7 @@ HOST,cdn.reimu.net,CDN
 HOST,cdn.report-uri.com,CDN
 HOST,cdn.rex.contents.rakuten.co.jp,CDN
 HOST,cdn.rive.app,CDN
+HOST,cdn.road.cc,CDN
 HOST,cdn.robinpro.gallery,CDN
 HOST,cdn.roboflow.com,CDN
 HOST,cdn.royaleapi.com,CDN
@@ -722,6 +723,7 @@ HOST,cdn.thenewstack.io,CDN
 HOST,cdn.thingiverse.com,CDN
 HOST,cdn.tiny.cloud,CDN
 HOST,cdn.tinypass.com,CDN
+HOST,cdn.tokyo-motion.net,CDN
 HOST,cdn.tolt.io,CDN
 HOST,cdn.tracxn.com,CDN
 HOST,cdn.transcend.io,CDN
@@ -2837,6 +2839,7 @@ HOST-SUFFIX,cdnclouder.com,CDN
 HOST-SUFFIX,cdndoe.xyz,CDN
 HOST-SUFFIX,cdnfonts.com,CDN
 HOST-SUFFIX,cdninstagram.com,CDN
+HOST-SUFFIX,cdnjav.com,CDN
 HOST-SUFFIX,cdnjhd.com,CDN
 HOST-SUFFIX,cdnjs.network,CDN
 HOST-SUFFIX,cdnpk.net,CDN
