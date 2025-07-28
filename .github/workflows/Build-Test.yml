@@ -23,17 +23,17 @@ jobs:
           mkdir -p Tool-repo/AdguardHome/Rules Tool-repo/Ruleset
 
           # HTTPDNS.Block
-          curl -v -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
+          curl -v -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx" -o Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
 
           # TikTok.lsr → TikTok.list
-          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" -o Tool-repo/Ruleset/TikTok.list
+          curl -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr" -o Tool-repo/Ruleset/TikTok.list
 
           # ApplePushNotificationService.lsr → APNs.list
-          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" -o Tool-repo/Ruleset/APNs.list
+          curl -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr" -o Tool-repo/Ruleset/APNs.list
 
           # DownloadCDN
-          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_Global.list
-          curl -f -L -A "Surge iOS/3367" "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_CN.list
+          curl -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lsr/InternationalDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_Global.list
+          curl -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_CN.list
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
@@ -103,7 +103,7 @@ jobs:
 
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl -f -L -A "Surge iOS/3367" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl -f -L -A "Surge iOS/9527" -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
@@ -375,7 +375,7 @@ jobs:
             for file in "${files[@]}"; do
                 set -- $file
                 echo "Downloading: $2"
-                curl -A "Surge iOS/3367" -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
+                curl -A "Surge iOS/9527" -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
             done
             echo "Files downloaded successfully."
         else
