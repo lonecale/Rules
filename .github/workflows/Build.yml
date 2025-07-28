@@ -65,7 +65,7 @@ jobs:
         
         for url in "${urls[@]}"; do
           echo "Downloading: $url"
-          curl -f -L -A "Surge iOS/3367" $TLS_FLAGS -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
+          curl -f -L -A "Surge iOS/9527" $TLS_FLAGS -H "Accept-Language: en-us" "$url" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt || { echo "Download Failed: $url"; exit 1; }
           echo "" >> Tool-repo/AdguardHome/Rules/HTTPDNS.Block.txt
         done
 
@@ -337,7 +337,7 @@ jobs:
             for file in "${files[@]}"; do
                 set -- $file
                 echo "Downloading: $2"
-                curl -A "Surge iOS/3367" $TLS_FLAGS -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
+                curl -A "Surge iOS/9527" $TLS_FLAGS -H "Accept-Language: en-us" -f -L -o "Tool-repo/Ruleset/$1" "$2" || { echo "Download Failed: $2"; exit 1; }
             done
             echo "Files downloaded successfully."
         else
