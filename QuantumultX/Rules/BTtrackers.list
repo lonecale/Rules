@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 158
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -11,7 +11,6 @@ HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.ktrackers.com,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
-HOST,bt.rer.lol,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,buny.uk,BTtrackers
 HOST,concen.org,BTtrackers
@@ -31,7 +30,6 @@ HOST,isk.richardsw.club,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns-1.x-fins.com,BTtrackers
-HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open.demonii.com,BTtrackers
 HOST,open.dstud.io,BTtrackers
@@ -79,6 +77,7 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
+HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
@@ -97,9 +96,7 @@ HOST,tracker.gigantino.net,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
-HOST,tracker.home.kmzs123.cn,BTtrackers
 HOST,tracker.internetwarriors.net,BTtrackers
-HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.jdx3.org,BTtrackers
@@ -124,6 +121,7 @@ HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skillindia.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
+HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrust-demo.com,BTtrackers

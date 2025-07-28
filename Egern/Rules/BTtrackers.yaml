@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 158
 
 no_resolve: true
 domain_set:
@@ -13,7 +13,6 @@ domain_set:
   - bt.ktrackers.com
   - bt.okmp3.ru
   - bt.poletracker.org
-  - bt.rer.lol
   - bt1.xxxxbt.cc
   - buny.uk
   - concen.org
@@ -33,7 +32,6 @@ domain_set:
   - leet-tracker.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
@@ -81,6 +79,7 @@ domain_set:
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
+  - tracker.cangku.moe
   - tracker.corpscorp.online
   - tracker.cutie.dating
   - tracker.cyberia.is
@@ -99,9 +98,7 @@ domain_set:
   - tracker.gmi.gd
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.home.kmzs123.cn
   - tracker.internetwarriors.net
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -126,6 +123,7 @@ domain_set:
   - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
