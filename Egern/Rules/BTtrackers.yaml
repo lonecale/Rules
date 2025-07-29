@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 159
 
 no_resolve: true
 domain_set:
@@ -65,6 +65,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
