@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 159
+# 规则统计: 157
 
 no_resolve: true
 domain_set:
@@ -33,6 +33,7 @@ domain_set:
   - ipv6.rer.lol
   - isk.richardsw.club
   - leet-tracker.moe
+  - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
   - nyaa.tracker.wf
@@ -77,11 +78,9 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
-  - tracker.cangku.moe
   - tracker.corpscorp.online
   - tracker.cutie.dating
   - tracker.cyberia.is
@@ -101,7 +100,7 @@ domain_set:
   - tracker.gmi.gd
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iperson.xyz
+  - tracker.internetwarriors.net
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -152,7 +151,6 @@ domain_set:
   - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
-  - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
 ip_cidr_set:
