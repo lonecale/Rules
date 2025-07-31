@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 165
 
 no_resolve: true
 domain_set:
@@ -7,6 +7,9 @@ domain_set:
   - 0d.kebhana.mx
   - 1337.abcvg.info
   - 1c.premierzal.ru
+  - admin.52ywp.com
+  - asiatorrent.ddns.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
