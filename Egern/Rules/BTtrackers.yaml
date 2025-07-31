@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 162
 
 no_resolve: true
 domain_set:
@@ -7,7 +7,6 @@ domain_set:
   - 0d.kebhana.mx
   - 1337.abcvg.info
   - 1c.premierzal.ru
-  - admin.52ywp.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -70,6 +69,7 @@ domain_set:
   - tr.abir.ga
   - tr.nyacat.pw
   - tr.zukizuki.org
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.23794.top
@@ -100,7 +100,6 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -152,7 +151,6 @@ domain_set:
   - tracker810.xyz
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
-  - utracker.ghostchu-services.top
   - v74853.hosted-by-vdsina.com
   - wepzone.net
   - www.all4nothin.net
