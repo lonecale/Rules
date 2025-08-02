@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 161
+# 规则统计: 162
 
 no_resolve: true
 domain_set:
@@ -8,6 +8,8 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - admin.52ywp.com
+  - asiatorrent.ddns.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -55,7 +57,6 @@ domain_set:
   - retracker01-msk-virt.corbina.net
   - seeders-paradise.org
   - servandroidkino.ru
-  - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
@@ -67,6 +68,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -99,7 +101,6 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru

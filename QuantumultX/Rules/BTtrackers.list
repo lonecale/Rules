@@ -1,11 +1,13 @@
 # 规则名称: BTtrackers
-# 规则统计: 161
+# 规则统计: 162
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
+HOST,asiatorrent.ddns.net,BTtrackers
+HOST,asiatorrent.giize.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.ktrackers.com,BTtrackers
@@ -53,7 +55,6 @@ HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seeders-paradise.org,BTtrackers
 HOST,servandroidkino.ru,BTtrackers
-HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
@@ -65,6 +66,7 @@ HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr.zukizuki.org,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
@@ -97,7 +99,6 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
-HOST,tracker.internetwarriors.net,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
