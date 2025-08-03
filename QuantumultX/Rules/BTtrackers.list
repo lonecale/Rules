@@ -1,17 +1,18 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 163
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
+HOST,asiatorrent.ddns.net,BTtrackers
+HOST,asiatorrent.giize.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.ktrackers.com,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
-HOST,bt.rer.lol,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,buny.uk,BTtrackers
 HOST,concen.org,BTtrackers
@@ -43,6 +44,7 @@ HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.cl,BTtrackers
 HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
+HOST,opentracker.8880085.xyz,BTtrackers
 HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,public.tracker.vraphim.com,BTtrackers
@@ -53,11 +55,11 @@ HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seeders-paradise.org,BTtrackers
 HOST,servandroidkino.ru,BTtrackers
-HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.jaekr.sh,BTtrackers
+HOST,t.overflow.biz,BTtrackers
 HOST,taciturn-shadow.spb.ru,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
@@ -97,6 +99,7 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
+HOST,tracker.internetwarriors.net,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
