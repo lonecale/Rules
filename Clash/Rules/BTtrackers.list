@@ -1,11 +1,13 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 164
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
-DOMAIN,admin.52ywp.com
+DOMAIN,6ahddutb1ucc3cp.ru
+DOMAIN,asiatorrent.ddns.net
+DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
@@ -22,7 +24,6 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,finbytes.org
-DOMAIN,glotorrents.pw
 DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
@@ -59,6 +60,7 @@ DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.jaekr.sh
+DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
@@ -66,7 +68,6 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
-DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
@@ -111,6 +112,7 @@ DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
@@ -123,7 +125,6 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -142,6 +143,7 @@ DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com

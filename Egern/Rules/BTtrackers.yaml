@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 164
 
 no_resolve: true
 domain_set:
@@ -7,7 +7,9 @@ domain_set:
   - 0d.kebhana.mx
   - 1337.abcvg.info
   - 1c.premierzal.ru
-  - admin.52ywp.com
+  - 6ahddutb1ucc3cp.ru
+  - asiatorrent.ddns.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -24,7 +26,6 @@ domain_set:
   - explodie.org
   - extracker.dahrkael.net
   - finbytes.org
-  - glotorrents.pw
   - hificode.in
   - highteahop.top
   - home.yxgz.club
@@ -61,6 +62,7 @@ domain_set:
   - shubt.net
   - t.213891.xyz
   - t.jaekr.sh
+  - t.overflow.biz
   - taciturn-shadow.spb.ru
   - tk.greedland.net
   - torrent.hificode.in
@@ -68,7 +70,6 @@ domain_set:
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
-  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -113,6 +114,7 @@ domain_set:
   - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.netmap.top
+  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
@@ -125,7 +127,6 @@ domain_set:
   - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -144,6 +145,7 @@ domain_set:
   - tracker1.520.jp
   - tracker1.bt.moack.co.kr
   - tracker1.itzmx.com
+  - tracker1.myporn.club
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
