@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 166
+# 规则统计: 164
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -65,14 +65,11 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr-rh-zhuqiy.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
@@ -127,6 +124,7 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
