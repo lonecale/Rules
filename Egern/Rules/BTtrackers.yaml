@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 166
 
 no_resolve: true
 domain_set:
@@ -8,6 +8,7 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - 6ahddutb1ucc3cp.ru
+  - admin.52ywp.com
   - asiatorrent.ddns.net
   - asiatorrent.giize.com
   - bandito.byterunner.io
@@ -68,6 +69,7 @@ domain_set:
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
+  - tr-rh-zhuqiy.dgj055.icu
   - tr.abiir.top
   - tr.abir.ga
   - tr.nyacat.pw
