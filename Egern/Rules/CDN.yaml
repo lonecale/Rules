@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3811
+# 规则统计: 3814
 
 domain_set:
   - 0x0.st
@@ -1616,6 +1616,7 @@ domain_set:
   - mangaz-books.j-comi.jp
   - mangaz-static.j-comi.jp
   - mantisloader.mantis-awx.com
+  - map.vesselfinder.net
   - maps.geoapify.com
   - maps.gstatic.com
   - maptile.osmand.net
@@ -2123,6 +2124,7 @@ domain_set:
   - st.agrd.eu
   - st.deviantart.net
   - st.dynamicyield.com
+  - st.transfer.it
   - st1.zoom.us
   - st2.zoom.us
   - st3.zoom.us
@@ -2383,6 +2385,7 @@ domain_set:
   - static.uptimia.com
   - static.v2ex.com
   - static.vanta.com
+  - static.vesselfinder.net
   - static.vinted.com
   - static.vocadb.net
   - static.webclicks24.com

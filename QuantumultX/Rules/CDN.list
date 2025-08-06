@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3811
+# 规则统计: 3814
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1615,6 +1615,7 @@ HOST,makerworld.bblmw.com,CDN
 HOST,mangaz-books.j-comi.jp,CDN
 HOST,mangaz-static.j-comi.jp,CDN
 HOST,mantisloader.mantis-awx.com,CDN
+HOST,map.vesselfinder.net,CDN
 HOST,maps.geoapify.com,CDN
 HOST,maps.gstatic.com,CDN
 HOST,maptile.osmand.net,CDN
@@ -2122,6 +2123,7 @@ HOST,st-eu.dynamicyield.com,CDN
 HOST,st.agrd.eu,CDN
 HOST,st.deviantart.net,CDN
 HOST,st.dynamicyield.com,CDN
+HOST,st.transfer.it,CDN
 HOST,st1.zoom.us,CDN
 HOST,st2.zoom.us,CDN
 HOST,st3.zoom.us,CDN
@@ -2382,6 +2384,7 @@ HOST,static.underhentai.net,CDN
 HOST,static.uptimia.com,CDN
 HOST,static.v2ex.com,CDN
 HOST,static.vanta.com,CDN
+HOST,static.vesselfinder.net,CDN
 HOST,static.vinted.com,CDN
 HOST,static.vocadb.net,CDN
 HOST,static.webclicks24.com,CDN

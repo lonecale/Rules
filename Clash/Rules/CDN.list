@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3809
+# 规则统计: 3812
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1615,6 +1615,7 @@ DOMAIN,makerworld.bblmw.com
 DOMAIN,mangaz-books.j-comi.jp
 DOMAIN,mangaz-static.j-comi.jp
 DOMAIN,mantisloader.mantis-awx.com
+DOMAIN,map.vesselfinder.net
 DOMAIN,maps.geoapify.com
 DOMAIN,maps.gstatic.com
 DOMAIN,maptile.osmand.net
@@ -2122,6 +2123,7 @@ DOMAIN,st-eu.dynamicyield.com
 DOMAIN,st.agrd.eu
 DOMAIN,st.deviantart.net
 DOMAIN,st.dynamicyield.com
+DOMAIN,st.transfer.it
 DOMAIN,st1.zoom.us
 DOMAIN,st2.zoom.us
 DOMAIN,st3.zoom.us
@@ -2382,6 +2384,7 @@ DOMAIN,static.underhentai.net
 DOMAIN,static.uptimia.com
 DOMAIN,static.v2ex.com
 DOMAIN,static.vanta.com
+DOMAIN,static.vesselfinder.net
 DOMAIN,static.vinted.com
 DOMAIN,static.vocadb.net
 DOMAIN,static.webclicks24.com
