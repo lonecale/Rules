@@ -86,7 +86,7 @@ jobs:
       run: curl cip.cc
 
     - name: Download remote-files artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: remote-files
         path: Tool-repo
