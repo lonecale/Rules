@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 164
 
 no_resolve: true
 domain_set:
@@ -9,6 +9,7 @@ domain_set:
   - 1c.premierzal.ru
   - 6ahddutb1ucc3cp.ru
   - admin.52ywp.com
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.ktrackers.com
@@ -32,6 +33,7 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - isk.richardsw.club
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
@@ -67,6 +69,8 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
+  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -76,6 +80,7 @@ domain_set:
   - tracker.aburaya.live
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
+  - tracker.bittor.pw
   - tracker.bontal.net
   - tracker.bt-hash.com
   - tracker.bt4g.com
@@ -99,6 +104,7 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
+  - tracker.internetwarriors.net
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -123,7 +129,6 @@ domain_set:
   - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -136,7 +141,6 @@ domain_set:
   - tracker.wepzone.net
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
-  - tracker.zhuqiy.dgj055.icu
   - tracker.zhuqiy.top
   - tracker.zupix.online
   - tracker1.520.jp
