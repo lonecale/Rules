@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 156
 
 no_resolve: true
 domain_set:
@@ -8,8 +8,6 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - 6ahddutb1ucc3cp.ru
-  - admin.52ywp.com
-  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -65,8 +63,8 @@ domain_set:
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
-  - tr-zhuqiy-1.dgj055.icu
   - tr.abiir.top
+  - tr.abir.ga
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -77,11 +75,9 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
-  - tracker.cangku.moe
   - tracker.corpscorp.online
   - tracker.cutie.dating
   - tracker.cyberia.is
@@ -100,7 +96,6 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -112,12 +107,10 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.netmap.top
   - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
-  - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.qu.ax
   - tracker.renfei.net
@@ -129,6 +122,7 @@ domain_set:
   - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
+  - tracker.torrust-demo.com
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
