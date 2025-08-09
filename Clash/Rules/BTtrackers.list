@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 153
+# 规则统计: 156
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -7,6 +7,8 @@ DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,admin.52ywp.com
+DOMAIN,asiatorrent.ddns.net
+DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -49,6 +51,7 @@ DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
+DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.jaekr.sh
@@ -58,6 +61,7 @@ DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -91,7 +95,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.iperson.xyz
+DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kmzs123.cn
@@ -101,7 +105,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
