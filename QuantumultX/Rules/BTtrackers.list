@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 156
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -15,7 +15,6 @@ HOST,bt.poletracker.org,BTtrackers
 HOST,bt.rer.lol,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,buny.uk,BTtrackers
-HOST,cn.pcfreetime.com,BTtrackers
 HOST,concen.org,BTtrackers
 HOST,d40969.acod.regrucolo.ru,BTtrackers
 HOST,evan.im,BTtrackers
@@ -51,7 +50,6 @@ HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seeders-paradise.org,BTtrackers
 HOST,servandroidkino.ru,BTtrackers
-HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t.jaekr.sh,BTtrackers
@@ -76,7 +74,6 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
-HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
@@ -150,6 +147,7 @@ HOST,v74853.hosted-by-vdsina.com,BTtrackers
 HOST,wepzone.net,BTtrackers
 HOST,www.all4nothin.net,BTtrackers
 HOST,www.genesis-sp.org,BTtrackers
+HOST,www.torrent.eu.org,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers

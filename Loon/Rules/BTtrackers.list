@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 156
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -15,7 +15,6 @@ DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
-DOMAIN,cn.pcfreetime.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,evan.im
@@ -51,7 +50,6 @@ DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
-DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.jaekr.sh
@@ -76,7 +74,6 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
@@ -150,6 +147,7 @@ DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
+DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 IP-CIDR,207.241.226.111/32,no-resolve
