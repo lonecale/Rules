@@ -8,8 +8,6 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - 6ahddutb1ucc3cp.ru
-  - asiatorrent.ddns.net
-  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -20,7 +18,6 @@ domain_set:
   - buny.uk
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - evan.im
   - exodus.desync.com
   - explodie.org
@@ -33,14 +30,13 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
-  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
   - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
+  - open.demonii.si
   - open.dstud.io
   - open.free-tracker.ga
   - open.stealth.si
@@ -66,22 +62,25 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
+  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
+  - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.aburaya.live
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
   - tracker.corpscorp.online
   - tracker.cutie.dating
   - tracker.cyberia.is
+  - tracker.darkness.services
   - tracker.dler.com
   - tracker.dler.org
   - tracker.dmcomic.org
@@ -107,7 +106,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
@@ -120,8 +118,10 @@ domain_set:
   - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
+  - tracker.torrust-demo.com
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
