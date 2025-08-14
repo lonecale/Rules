@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3876
+# 规则统计: 3885
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -318,6 +318,7 @@ DOMAIN,bookface-static.ycombinator.com
 DOMAIN,bot.ivy.ai
 DOMAIN,brand-sdk.kmsmep.com
 DOMAIN,brandwidgets.outtra.com
+DOMAIN,brew.sh
 DOMAIN,brick.a.ssl.fastly.net
 DOMAIN,brick.freetls.fastly.net
 DOMAIN,bst.icons8.com
@@ -1049,6 +1050,7 @@ DOMAIN,divhunt.b-cdn.net
 DOMAIN,dl.airdroid.com
 DOMAIN,dlassets-ssl.xboxlive.com
 DOMAIN,do.featurebase.app
+DOMAIN,docs.brew.sh
 DOMAIN,docs.rs
 DOMAIN,domain.expiring-soon.xyz
 DOMAIN,doppler-config.cbsivideo.com
@@ -1546,6 +1548,11 @@ DOMAIN,img8.yna.co.kr
 DOMAIN,img9.socialshopwave.com
 DOMAIN,img9.yna.co.kr
 DOMAIN,imgcdn.cna.com.tw
+DOMAIN,imgcn.bgmbk.tv
+DOMAIN,imgcn2.bgmbk.tv
+DOMAIN,imgcn3.bgmbk.tv
+DOMAIN,imgcn4.bgmbk.tv
+DOMAIN,imgcn5.bgmbk.tv
 DOMAIN,imgfile.shop
 DOMAIN,imgix.setapp.com
 DOMAIN,imgopt.infoq.com
@@ -1801,6 +1808,7 @@ DOMAIN,nextra.site
 DOMAIN,ni-assets.azureedge.net
 DOMAIN,nightly.link
 DOMAIN,no-cache.hubspot.com
+DOMAIN,node.green
 DOMAIN,nodeassets.nbcnews.com
 DOMAIN,nodei.co
 DOMAIN,npm.antfu.dev
@@ -3436,6 +3444,7 @@ DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,parceljs.org
+DOMAIN-SUFFIX,parsecusercontent.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,patientpop.com
 DOMAIN-SUFFIX,patreonusercontent.com

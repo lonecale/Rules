@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3876
+# 规则统计: 3885
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -318,6 +318,7 @@ HOST,bookface-static.ycombinator.com,CDN
 HOST,bot.ivy.ai,CDN
 HOST,brand-sdk.kmsmep.com,CDN
 HOST,brandwidgets.outtra.com,CDN
+HOST,brew.sh,CDN
 HOST,brick.a.ssl.fastly.net,CDN
 HOST,brick.freetls.fastly.net,CDN
 HOST,bst.icons8.com,CDN
@@ -1049,6 +1050,7 @@ HOST,divhunt.b-cdn.net,CDN
 HOST,dl.airdroid.com,CDN
 HOST,dlassets-ssl.xboxlive.com,CDN
 HOST,do.featurebase.app,CDN
+HOST,docs.brew.sh,CDN
 HOST,docs.rs,CDN
 HOST,domain.expiring-soon.xyz,CDN
 HOST,doppler-config.cbsivideo.com,CDN
@@ -1546,6 +1548,11 @@ HOST,img8.yna.co.kr,CDN
 HOST,img9.socialshopwave.com,CDN
 HOST,img9.yna.co.kr,CDN
 HOST,imgcdn.cna.com.tw,CDN
+HOST,imgcn.bgmbk.tv,CDN
+HOST,imgcn2.bgmbk.tv,CDN
+HOST,imgcn3.bgmbk.tv,CDN
+HOST,imgcn4.bgmbk.tv,CDN
+HOST,imgcn5.bgmbk.tv,CDN
 HOST,imgfile.shop,CDN
 HOST,imgix.setapp.com,CDN
 HOST,imgopt.infoq.com,CDN
@@ -1801,6 +1808,7 @@ HOST,nextra.site,CDN
 HOST,ni-assets.azureedge.net,CDN
 HOST,nightly.link,CDN
 HOST,no-cache.hubspot.com,CDN
+HOST,node.green,CDN
 HOST,nodeassets.nbcnews.com,CDN
 HOST,nodei.co,CDN
 HOST,npm.antfu.dev,CDN
@@ -3436,6 +3444,7 @@ HOST-SUFFIX,pagecdn.io,CDN
 HOST-SUFFIX,pages.dev,CDN
 HOST-SUFFIX,parastorage.com,CDN
 HOST-SUFFIX,parceljs.org,CDN
+HOST-SUFFIX,parsecusercontent.com,CDN
 HOST-SUFFIX,pastebin.com,CDN
 HOST-SUFFIX,patientpop.com,CDN
 HOST-SUFFIX,patreonusercontent.com,CDN

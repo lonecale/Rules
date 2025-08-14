@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3876
+# 规则统计: 3885
 
 domain_set:
   - 0x0.st
@@ -319,6 +319,7 @@ domain_set:
   - bot.ivy.ai
   - brand-sdk.kmsmep.com
   - brandwidgets.outtra.com
+  - brew.sh
   - brick.a.ssl.fastly.net
   - brick.freetls.fastly.net
   - bst.icons8.com
@@ -1050,6 +1051,7 @@ domain_set:
   - dl.airdroid.com
   - dlassets-ssl.xboxlive.com
   - do.featurebase.app
+  - docs.brew.sh
   - docs.rs
   - domain.expiring-soon.xyz
   - doppler-config.cbsivideo.com
@@ -1547,6 +1549,11 @@ domain_set:
   - img9.socialshopwave.com
   - img9.yna.co.kr
   - imgcdn.cna.com.tw
+  - imgcn.bgmbk.tv
+  - imgcn2.bgmbk.tv
+  - imgcn3.bgmbk.tv
+  - imgcn4.bgmbk.tv
+  - imgcn5.bgmbk.tv
   - imgfile.shop
   - imgix.setapp.com
   - imgopt.infoq.com
@@ -1802,6 +1809,7 @@ domain_set:
   - ni-assets.azureedge.net
   - nightly.link
   - no-cache.hubspot.com
+  - node.green
   - nodeassets.nbcnews.com
   - nodei.co
   - npm.antfu.dev
@@ -3438,6 +3446,7 @@ domain_suffix_set:
   - pages.dev
   - parastorage.com
   - parceljs.org
+  - parsecusercontent.com
   - pastebin.com
   - patientpop.com
   - patreonusercontent.com

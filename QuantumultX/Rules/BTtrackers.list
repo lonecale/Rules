@@ -1,18 +1,14 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 156
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
-HOST,admin.52ywp.com,BTtrackers
-HOST,asiatorrent.ddns.net,BTtrackers
-HOST,asiatorrent.giize.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.bontal.net,BTtrackers
-HOST,bt.okmp3.ru,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
 HOST,bt.rer.lol,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
@@ -65,7 +61,6 @@ HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
-HOST,tr-rh-zhuqiy.dgj055.icu,BTtrackers
 HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
@@ -78,7 +73,6 @@ HOST,tracker.aburaya.live,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
-HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -111,7 +105,6 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
-HOST,tracker.netmap.top,BTtrackers
 HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
