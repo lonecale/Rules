@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 157
+# 规则统计: 154
 
 no_resolve: true
 domain_set:
@@ -38,7 +38,6 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
@@ -66,7 +65,6 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.nyacat.pw
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
@@ -108,7 +106,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.netmap.top
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
