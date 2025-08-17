@@ -12,7 +12,6 @@ domain_set:
   - 3.tracker.eu.org
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
-  - admin.52ywp.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -62,13 +61,14 @@ domain_set:
   - shubt.net
   - speedtest.iperson.xyz
   - t.jaekr.sh
+  - t.overflow.biz
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.23794.top

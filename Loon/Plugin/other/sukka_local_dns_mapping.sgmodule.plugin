@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2025-04-19T13:06:24.480Z
+#!desc=Last Updated: 2025-08-17T09:04:38.793Z
 #!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 #!author=Sukka
@@ -344,6 +344,8 @@ router.asus.com = server:system
 aterm.me = server:system
 *.tplogin.cn = server:system
 
+127.0.0.1.sslip.io = 127.0.0.1
+127.atlas.skk.moe = 127.0.0.1
 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe = server:system
 *.168.192.in-addr.arpa = server:system
 *.31.172.in-addr.arpa = server:system
@@ -370,6 +372,8 @@ aterm.me = server:system
 *.internal = server:system
 *.local = server:system
 *.home.arpa = server:system
+*.127.atlas.skk.moe = server:system
 *.lan = server:system
+*.127.0.0.1.sslip.io = server:system
 
 cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net
