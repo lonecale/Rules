@@ -4,10 +4,6 @@
 ||apidns-js.kwd.inkuai.com^
 ||apidns.kwd.inkuai.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||apidns.kwd.inkuai.com^
-||dig.bdurl.net^$dnstype=AAAA,dnsrewrite=NOERROR
-||dig.bdurl.net^
-||dig.zjurl.cn^$dnstype=AAAA,dnsrewrite=NOERROR
-||dig.zjurl.cn^
 ||dns.iqiyi.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||dns.iqiyi.com^
 ||dns.jd.com^$dnstype=AAAA,dnsrewrite=NOERROR
@@ -88,8 +84,6 @@
 ||httpdns.push.heytapmobi.com^
 ||httpdns.push.oppomobile.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.push.oppomobile.com^
-||httpdns.volcengineapi.com^$dnstype=AAAA,dnsrewrite=NOERROR
-||httpdns.volcengineapi.com^
 ||httpdns.yunxindns.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||httpdns.yunxindns.com^
 ||httpdns.zybang.com^$dnstype=AAAA,dnsrewrite=NOERROR
