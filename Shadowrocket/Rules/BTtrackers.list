@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 160
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -10,7 +10,7 @@ DOMAIN,2.tracker.eu.org
 DOMAIN,3.tracker.eu.org
 DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,admin.52ywp.com
+DOMAIN,asiatorrent.ddns.net
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -66,19 +66,16 @@ DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr-rh-zhuqiy.dgj055.icu
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
-DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -102,6 +99,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
+DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -147,7 +145,6 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
-DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
