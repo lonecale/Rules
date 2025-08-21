@@ -1,16 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 156
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
-DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
-DOMAIN,2.tracker.eu.org
-DOMAIN,3.tracker.eu.org
-DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,asiatorrent.ddns.net
+DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -62,13 +58,15 @@ DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.jaekr.sh
+DOMAIN,t.overflow.biz
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
@@ -76,6 +74,7 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -83,7 +82,6 @@ DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
-DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
@@ -115,7 +113,6 @@ DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.privateseedbox.xyz
-DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
@@ -147,7 +144,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
-DOMAIN,utracker.ghostchu-services.top
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
