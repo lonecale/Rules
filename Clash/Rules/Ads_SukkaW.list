@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102966
+# 规则统计: 102956
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -15282,7 +15282,6 @@ DOMAIN-SUFFIX,cariouscannedroman.com
 DOMAIN-SUFFIX,carlinegodwit.rest
 DOMAIN-SUFFIX,carlinsliney.cfd
 DOMAIN-SUFFIX,carloforward.com
-DOMAIN-SUFFIX,carmen.golem.de
 DOMAIN-SUFFIX,carnations9.com
 DOMAIN-SUFFIX,carnetforeman.cfd
 DOMAIN-SUFFIX,carnoseearlet.click
@@ -27318,7 +27317,6 @@ DOMAIN-SUFFIX,efglbp.baur.de
 DOMAIN-SUFFIX,efhljy.trendhim.bg
 DOMAIN-SUFFIX,efm.verintsystemsinc.com
 DOMAIN-SUFFIX,efmwfw.bellcosme.com
-DOMAIN-SUFFIX,eforeukandthi.org
 DOMAIN-SUFFIX,efplso.epost.go.kr
 DOMAIN-SUFFIX,efreecode.com
 DOMAIN-SUFFIX,efs.efani.com
@@ -31185,7 +31183,6 @@ DOMAIN-SUFFIX,forumz.info
 DOMAIN-SUFFIX,forunfezanttor.com
 DOMAIN-SUFFIX,forwanderful.com
 DOMAIN-SUFFIX,forward.kashiarchan.com
-DOMAIN-SUFFIX,forwardemail.net
 DOMAIN-SUFFIX,forwhimsicottan.com
 DOMAIN-SUFFIX,foryanmachan.com
 DOMAIN-SUFFIX,forzbv.agriconomie.be
@@ -43643,7 +43640,6 @@ DOMAIN-SUFFIX,jrfngdrodrdop.icu
 DOMAIN-SUFFIX,jrhrlr.litterbox.com
 DOMAIN-SUFFIX,jrhrn.cushionsource.com
 DOMAIN-SUFFIX,jrjtibez.icu
-DOMAIN-SUFFIX,jrolyrlabyawl.top
 DOMAIN-SUFFIX,jrpkizae.com
 DOMAIN-SUFFIX,jrqet.catholiccompany.com
 DOMAIN-SUFFIX,jrrea.eddiebauer.ca
@@ -43946,7 +43942,6 @@ DOMAIN-SUFFIX,jybsb9oyss.com
 DOMAIN-SUFFIX,jyczddycqnckw.store
 DOMAIN-SUFFIX,jyfdbj.xyz
 DOMAIN-SUFFIX,jygotubvpyguak.com
-DOMAIN-SUFFIX,jygvbyvwzbwkv.top
 DOMAIN-SUFFIX,jyisloa.top
 DOMAIN-SUFFIX,jyjfycnpodkjp.com
 DOMAIN-SUFFIX,jyjrbz.xyz
@@ -58015,7 +58010,6 @@ DOMAIN-SUFFIX,mqvyob.vidaxl.fi
 DOMAIN-SUFFIX,mqwqas.marketbio.pl
 DOMAIN-SUFFIX,mqwtgq.xyz
 DOMAIN-SUFFIX,mqydmo.kumbayajoias.com.br
-DOMAIN-SUFFIX,mqyyocimwg.xyz
 DOMAIN-SUFFIX,mqzoid.vintorte.com
 DOMAIN-SUFFIX,mr-in-staging.beginlearning.com
 DOMAIN-SUFFIX,mr-in.beginlearning.com
@@ -59118,7 +59112,6 @@ DOMAIN-SUFFIX,neowiv.brumbrum.it
 DOMAIN-SUFFIX,nepinplainsight.com
 DOMAIN-SUFFIX,nepls.pmdbeauty.com
 DOMAIN-SUFFIX,nepoamoo.com
-DOMAIN-SUFFIX,nepoteincited.shop
 DOMAIN-SUFFIX,nerangee.com
 DOMAIN-SUFFIX,nerdolac.com
 DOMAIN-SUFFIX,nereserv.com
@@ -63487,7 +63480,6 @@ DOMAIN-SUFFIX,pchur.belkin.com
 DOMAIN-SUFFIX,pci.aon.com
 DOMAIN-SUFFIX,pciidk.shopee.vn
 DOMAIN-SUFFIX,pciokm.glamuse.com
-DOMAIN-SUFFIX,pckapvelrcftmfl.com
 DOMAIN-SUFFIX,pcktmkfjnkfqm.club
 DOMAIN-SUFFIX,pclick.yahoo.com
 DOMAIN-SUFFIX,pclk.name
@@ -76774,7 +76766,6 @@ DOMAIN-SUFFIX,spadelack.com
 DOMAIN-SUFFIX,spadsync.com
 DOMAIN-SUFFIX,spain.thomsonreuters.com
 DOMAIN-SUFFIX,spaltcower.shop
-DOMAIN-SUFFIX,spamscanner.net
 DOMAIN-SUFFIX,spandlenama.click
 DOMAIN-SUFFIX,spanemymop.rest
 DOMAIN-SUFFIX,spangedfrisbee.com
@@ -95049,7 +95040,6 @@ DOMAIN-SUFFIX,tveta.naver.net
 DOMAIN-SUFFIX,tvfli.stripeandstare.com
 DOMAIN-SUFFIX,tvgkatu.icu
 DOMAIN-SUFFIX,tvkfms.nta.co.jp
-DOMAIN-SUFFIX,tvkfxtoydfqtf.online
 DOMAIN-SUFFIX,tvmeta-dynamic.tvinteractive.tv
 DOMAIN-SUFFIX,tvnwpj.utensileriaonline.it
 DOMAIN-SUFFIX,tvoiioftvfzzc.buzz
@@ -102309,7 +102299,6 @@ DOMAIN-SUFFIX,zxqrdm.vinomofo.com
 DOMAIN-SUFFIX,zxrnfc.drinco.jp
 DOMAIN-SUFFIX,zxrrop.musely.com
 DOMAIN-SUFFIX,zxvhxdpyordan.store
-DOMAIN-SUFFIX,zxwzi.com
 DOMAIN-SUFFIX,zxxvns.f64.ro
 DOMAIN-SUFFIX,zybnqcnikmpqu.life
 DOMAIN-SUFFIX,zybrdr.com
@@ -102671,6 +102660,7 @@ DOMAIN-REGEX,eclog*-*.cafe24.com
 DOMAIN-REGEX,ecommerce-events*.adscale.com
 DOMAIN-REGEX,etargetnet.*.hu
 DOMAIN-REGEX,eum*.instana.io
+DOMAIN-REGEX,event.*.karrotmarket.com
 DOMAIN-REGEX,event.*.shoplive.cloud
 DOMAIN-REGEX,events*.cre.ma
 DOMAIN-REGEX,events-api*.outfit7.com

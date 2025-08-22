@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102969
+# 规则统计: 102959
 
 no_resolve: true
 domain_set:
@@ -15285,7 +15285,6 @@ domain_suffix_set:
   - carlinegodwit.rest
   - carlinsliney.cfd
   - carloforward.com
-  - carmen.golem.de
   - carnations9.com
   - carnetforeman.cfd
   - carnoseearlet.click
@@ -27321,7 +27320,6 @@ domain_suffix_set:
   - efhljy.trendhim.bg
   - efm.verintsystemsinc.com
   - efmwfw.bellcosme.com
-  - eforeukandthi.org
   - efplso.epost.go.kr
   - efreecode.com
   - efs.efani.com
@@ -31188,7 +31186,6 @@ domain_suffix_set:
   - forunfezanttor.com
   - forwanderful.com
   - forward.kashiarchan.com
-  - forwardemail.net
   - forwhimsicottan.com
   - foryanmachan.com
   - forzbv.agriconomie.be
@@ -43646,7 +43643,6 @@ domain_suffix_set:
   - jrhrlr.litterbox.com
   - jrhrn.cushionsource.com
   - jrjtibez.icu
-  - jrolyrlabyawl.top
   - jrpkizae.com
   - jrqet.catholiccompany.com
   - jrrea.eddiebauer.ca
@@ -43949,7 +43945,6 @@ domain_suffix_set:
   - jyczddycqnckw.store
   - jyfdbj.xyz
   - jygotubvpyguak.com
-  - jygvbyvwzbwkv.top
   - jyisloa.top
   - jyjfycnpodkjp.com
   - jyjrbz.xyz
@@ -58018,7 +58013,6 @@ domain_suffix_set:
   - mqwqas.marketbio.pl
   - mqwtgq.xyz
   - mqydmo.kumbayajoias.com.br
-  - mqyyocimwg.xyz
   - mqzoid.vintorte.com
   - mr-in-staging.beginlearning.com
   - mr-in.beginlearning.com
@@ -59121,7 +59115,6 @@ domain_suffix_set:
   - nepinplainsight.com
   - nepls.pmdbeauty.com
   - nepoamoo.com
-  - nepoteincited.shop
   - nerangee.com
   - nerdolac.com
   - nereserv.com
@@ -63490,7 +63483,6 @@ domain_suffix_set:
   - pci.aon.com
   - pciidk.shopee.vn
   - pciokm.glamuse.com
-  - pckapvelrcftmfl.com
   - pcktmkfjnkfqm.club
   - pclick.yahoo.com
   - pclk.name
@@ -76777,7 +76769,6 @@ domain_suffix_set:
   - spadsync.com
   - spain.thomsonreuters.com
   - spaltcower.shop
-  - spamscanner.net
   - spandlenama.click
   - spanemymop.rest
   - spangedfrisbee.com
@@ -95052,7 +95043,6 @@ domain_suffix_set:
   - tvfli.stripeandstare.com
   - tvgkatu.icu
   - tvkfms.nta.co.jp
-  - tvkfxtoydfqtf.online
   - tvmeta-dynamic.tvinteractive.tv
   - tvnwpj.utensileriaonline.it
   - tvoiioftvfzzc.buzz
@@ -102312,7 +102302,6 @@ domain_suffix_set:
   - zxrnfc.drinco.jp
   - zxrrop.musely.com
   - zxvhxdpyordan.store
-  - zxwzi.com
   - zxxvns.f64.ro
   - zybnqcnikmpqu.life
   - zybrdr.com
@@ -102676,6 +102665,7 @@ domain_wildcard_set:
   - ecommerce-events*.adscale.com
   - etargetnet.*.hu
   - eum*.instana.io
+  - event.*.karrotmarket.com
   - event.*.shoplive.cloud
   - events*.cre.ma
   - events-api*.outfit7.com
