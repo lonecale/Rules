@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 103001
+# 规则统计: 103002
 
 no_resolve: true
 domain_set:
@@ -102628,6 +102628,7 @@ domain_wildcard_set:
   - asd8900.oss-*.aliyuncs.com
   - at*.doubanio.com
   - attonlineservice*.wixstudio.com
+  - attr-logs.*.amazonaws.com
   - auth-*.hismarttv.com
   - authsignonstaff*.softr.app
   - ax.*.ifeng.com

@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102998
+# 规则统计: 102999
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -102623,6 +102623,7 @@ DOMAIN-WILDCARD,as*.prog.hu
 DOMAIN-WILDCARD,asd8900.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,at*.doubanio.com
 DOMAIN-WILDCARD,attonlineservice*.wixstudio.com
+DOMAIN-WILDCARD,attr-logs.*.amazonaws.com
 DOMAIN-WILDCARD,auth-*.hismarttv.com
 DOMAIN-WILDCARD,authsignonstaff*.softr.app
 DOMAIN-WILDCARD,ax.*.ifeng.com
