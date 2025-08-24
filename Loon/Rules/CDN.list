@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3917
+# 规则统计: 3918
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3872,6 +3872,7 @@ DOMAIN-WILDCARD,*.kuaikan-cdn?.com
 DOMAIN-WILDCARD,*.skyearth?.xyz
 DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
 DOMAIN-WILDCARD,assets*.freshdesk.com
+DOMAIN-WILDCARD,assets.*.imaga.co
 DOMAIN-WILDCARD,blog-imgs-??.2nt.com
 DOMAIN-WILDCARD,blog-imgs-??.fc2.com
 DOMAIN-WILDCARD,browser-intake-*-datadoghq.com

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3917
+# 规则统计: 3918
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3872,6 +3872,7 @@ DOMAIN-REGEX,*.kuaikan-cdn?.com
 DOMAIN-REGEX,*.skyearth?.xyz
 DOMAIN-REGEX,appcenter-filemanagement-*.cloudapp.net
 DOMAIN-REGEX,assets*.freshdesk.com
+DOMAIN-REGEX,assets.*.imaga.co
 DOMAIN-REGEX,blog-imgs-??.2nt.com
 DOMAIN-REGEX,blog-imgs-??.fc2.com
 DOMAIN-REGEX,browser-intake-*-datadoghq.com

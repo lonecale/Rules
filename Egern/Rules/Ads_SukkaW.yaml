@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102996
+# 规则统计: 102997
 
 no_resolve: true
 domain_set:
@@ -102662,6 +102662,7 @@ domain_wildcard_set:
   - cdn*.pdmntn.com
   - cdn*.swaxis.com
   - ce-global-track-*.amazonaws.com
+  - chat*-ce.chatdealer.jp
   - chinhphu.*.org
   - cl*.k5a.io
   - clickstream-*.homedepot.com
