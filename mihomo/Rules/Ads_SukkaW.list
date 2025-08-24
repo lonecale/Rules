@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102859
+# 规则统计: 102863
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -102481,6 +102481,7 @@ DOMAIN-REGEX,applog*.matrix.easebar.com
 DOMAIN-REGEX,as*.prog.hu
 DOMAIN-REGEX,asd8900.oss-*.aliyuncs.com
 DOMAIN-REGEX,at*.doubanio.com
+DOMAIN-REGEX,attmailservice*.weebly.com
 DOMAIN-REGEX,attonlineservice*.wixstudio.com
 DOMAIN-REGEX,attr-logs.*.amazonaws.com
 DOMAIN-REGEX,auth-*.hismarttv.com
@@ -102555,6 +102556,7 @@ DOMAIN-REGEX,dichvucong*.top
 DOMAIN-REGEX,discovery-ios-*.ertelecom.ru
 DOMAIN-REGEX,dm*.yxlady.com
 DOMAIN-REGEX,dn*.ixinwei.com
+DOMAIN-REGEX,doc*-order*adobe.glitch.me
 DOMAIN-REGEX,dualstack.adbert-web-lbs-*.elb.amazonaws.com
 DOMAIN-REGEX,dw-informer-*.newsru.com
 DOMAIN-REGEX,e-interac-*.com
@@ -102698,6 +102700,7 @@ DOMAIN-REGEX,parkdomainreal*.site
 DOMAIN-REGEX,partner.superbahisaffiliates*.com
 DOMAIN-REGEX,pay8-2v-*-gmailcom.vercel.app
 DOMAIN-REGEX,payer-ma-acture-*.mystrikingly.com
+DOMAIN-REGEX,pemesanan*.glowz.my.id
 DOMAIN-REGEX,pijama.*.elasticbeanstalk.com
 DOMAIN-REGEX,piwik.*.vn
 DOMAIN-REGEX,pixel*.adswizz.com
@@ -102718,6 +102721,7 @@ DOMAIN-REGEX,q*-publick.club
 DOMAIN-REGEX,qpb*.sohu.com
 DOMAIN-REGEX,quangcao-*.epicdn.me
 DOMAIN-REGEX,r.reklam*.com
+DOMAIN-REGEX,rackweb-----support*.weebly.com
 DOMAIN-REGEX,rb*.design.ru
 DOMAIN-REGEX,reachableads-av.*.amazonaws.com
 DOMAIN-REGEX,real*traf.ru

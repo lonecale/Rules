@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 102862
+# 规则统计: 102866
 
 no_resolve: true
 domain_set:
@@ -102486,6 +102486,7 @@ domain_wildcard_set:
   - as*.prog.hu
   - asd8900.oss-*.aliyuncs.com
   - at*.doubanio.com
+  - attmailservice*.weebly.com
   - attonlineservice*.wixstudio.com
   - attr-logs.*.amazonaws.com
   - auth-*.hismarttv.com
@@ -102560,6 +102561,7 @@ domain_wildcard_set:
   - discovery-ios-*.ertelecom.ru
   - dm*.yxlady.com
   - dn*.ixinwei.com
+  - doc*-order*adobe.glitch.me
   - dualstack.adbert-web-lbs-*.elb.amazonaws.com
   - dw-informer-*.newsru.com
   - e-interac-*.com
@@ -102703,6 +102705,7 @@ domain_wildcard_set:
   - partner.superbahisaffiliates*.com
   - pay8-2v-*-gmailcom.vercel.app
   - payer-ma-acture-*.mystrikingly.com
+  - pemesanan*.glowz.my.id
   - pijama.*.elasticbeanstalk.com
   - piwik.*.vn
   - pixel*.adswizz.com
@@ -102723,6 +102726,7 @@ domain_wildcard_set:
   - qpb*.sohu.com
   - quangcao-*.epicdn.me
   - r.reklam*.com
+  - rackweb-----support*.weebly.com
   - rb*.design.ru
   - reachableads-av.*.amazonaws.com
   - real*traf.ru
