@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1135
+# 规则统计: 1136
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Proxy
 HOST,ccmdl.adobe.com,Proxy
@@ -158,6 +158,7 @@ HOST-SUFFIX,businessinsider.com,Proxy
 HOST-SUFFIX,bwh1.net,Proxy
 HOST-SUFFIX,bybit.com,Proxy
 HOST-SUFFIX,bycsi.com,Proxy
+HOST-SUFFIX,c-span.org,Proxy
 HOST-SUFFIX,c.mi.com,Proxy
 HOST-SUFFIX,ca,Proxy
 HOST-SUFFIX,cachefly.net,Proxy
