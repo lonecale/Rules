@@ -26,8 +26,8 @@ full:crl.microsoft.com
 full:mscrl.microsoft.com
 full:ocsp.microsoft.com
 full:oneocsp.microsoft.com
-full:prodforza.blob.core.windows.net
 full:flightsimulator.azureedge.net
+full:prodforza.blob.core.windows.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 microsoft
@@ -440,10 +440,6 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
-forza.net
-forzamotorsport.net
-forzaracingchampionship.com
-forzarc.com
 callersbane.com
 minecraft-services.net
 minecraft.net
@@ -458,6 +454,10 @@ bethesdagamestudios.com
 bethsoft.com
 doom.com
 elderscrolls.com
+forza.net
+forzamotorsport.net
+forzaracingchampionship.com
+forzarc.com
 microsoft.az
 aadrm.com
 azure-devices-int.net
