@@ -3860,8 +3860,6 @@ HOST-WILDCARD,image*.cloudokyo.cloud,CDN
 HOST-WILDCARD,img-*.now.com,CDN
 HOST-WILDCARD,img?.porngo.com,CDN
 HOST-WILDCARD,img??.porngo.com,CDN
-HOST-WILDCARD,media?.kissjav.com,CDN
-HOST-WILDCARD,media??.kissjav.com,CDN
 HOST-WILDCARD,object-storage-*.vexxhost.net,CDN
 HOST-WILDCARD,ocsp.*.amazontrust.com,CDN
 HOST-WILDCARD,proxy-*.dailymotion.com,CDN
@@ -3875,6 +3873,8 @@ HOST-WILDCARD,s???.pornone.com,CDN
 HOST-WILDCARD,sdk.*.braze.eu,CDN
 HOST-WILDCARD,static?.tgstat.ru,CDN
 HOST-WILDCARD,static??.tgstat.ru,CDN
+HOST-WILDCARD,stream?.kissjav.com,CDN
+HOST-WILDCARD,stream??.kissjav.com,CDN
 HOST-WILDCARD,t?.nhentai.net,CDN
 HOST-WILDCARD,th-*.pornone.com,CDN
 HOST-WILDCARD,uploads-*.insided.com,CDN
