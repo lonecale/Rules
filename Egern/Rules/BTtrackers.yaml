@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 159
+# 规则统计: 160
 
 no_resolve: true
 domain_set:
@@ -12,7 +12,7 @@ domain_set:
   - 3.tracker.eu.org
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
-  - asiatorrent.giize.com
+  - admin.52ywp.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -68,6 +68,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
