@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 160
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -79,7 +79,6 @@ HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
-HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -102,7 +101,6 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
-HOST,tracker.home.kmzs123.cn,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
@@ -114,7 +112,6 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
-HOST,tracker.netmap.top,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.plx.im,BTtrackers
@@ -140,7 +137,6 @@ HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
-HOST,tracker.zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker.zhuqiy.top,BTtrackers
 HOST,tracker.zupix.online,BTtrackers
 HOST,tracker1.520.jp,BTtrackers

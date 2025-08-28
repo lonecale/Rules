@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 160
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -79,7 +79,6 @@ DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -102,7 +101,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.home.kmzs123.cn
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
@@ -114,7 +112,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
@@ -140,7 +137,6 @@ DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yume-hatsuyuki.moe
-DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp

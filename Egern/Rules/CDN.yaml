@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3884
+# 规则统计: 3897
 
 domain_set:
   - 0x0.st
@@ -717,6 +717,7 @@ domain_set:
   - cdn.search.brave.com
   - cdn.sedo.com
   - cdn.segment.com
+  - cdn.seline.so
   - cdn.seondf.com
   - cdn.seonintelligence.com
   - cdn.servicebell.com
@@ -1044,6 +1045,7 @@ domain_set:
   - design-assets.hubspot.com
   - design-system.yext.com
   - design.codeberg.org
+  - design.keyoxide.org
   - design.mayoclinic.org
   - designsystem.brevo.com
   - detectportal.firefox.com
@@ -1277,6 +1279,7 @@ domain_set:
   - i.kickstarter.com
   - i.loli.best
   - i.mediatek.com
+  - i.mij.rip
   - i.mt.lv
   - i.mydramalist.com
   - i.nhentai.net
@@ -2175,8 +2178,10 @@ domain_set:
   - ssl.gstatic.com
   - st-eu.dynamicyield.com
   - st.agrd.eu
+  - st.codeforces.com
   - st.deviantart.net
   - st.dynamicyield.com
+  - st.prntscr.com
   - st.transfer.it
   - st1.zoom.us
   - st2.zoom.us
@@ -2452,6 +2457,7 @@ domain_set:
   - static.xgroovy.com
   - static.xns.one
   - static.xxxshake.com
+  - static.yfsp.tv
   - static.zaobao.com
   - static.zaobao.com.sg
   - static.zuora.com
@@ -2754,6 +2760,7 @@ domain_suffix_set:
   - 2mdn.net
   - 4cdn.org
   - 4everland.io
+  - 52netflix.com
   - 666565.xyz
   - 91pic.org
   - 98avcdn.xyz
@@ -2950,15 +2957,18 @@ domain_suffix_set:
   - cloudflare-ipfs.com
   - cloudflare.ltd
   - cloudflarestream.com
+  - cloudforfun.vip
   - cloudfront.net
   - cloudfront.net.in
   - cloudimg.io
+  - cloudlin.vip
   - cmail19.com
   - cmail20.com
   - cms-cdn.linear.app
   - cms.replit.com
   - cnbetacdn.com
   - codeberg.page
+  - codeforces.org
   - codepenassets.com
   - colliderimages.com
   - combinatronics.io
@@ -3133,6 +3143,8 @@ domain_suffix_set:
   - graphql.org
   - gravatar.com
   - gravity.jup.io
+  - gsuus.com
+  - gszyi.com
   - gtranslate.net
   - gw3.io
   - h-cdn.co
@@ -3324,6 +3336,7 @@ domain_suffix_set:
   - livemediahost.com
   - local.webcontainer.io
   - localizecdn.com
+  - locimg.com
   - lodash.com
   - loggly.com
   - logz.io

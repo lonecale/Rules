@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 830
+# 规则统计: 826
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,acg.tv
@@ -826,8 +826,4 @@ DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
-DOMAIN-WILDCARD,*.ffzy-online?.com
-DOMAIN-WILDCARD,*.ffzy-play?.com
-DOMAIN-WILDCARD,*.lz-cdn?.com
-DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,*.qhimgs?.com
