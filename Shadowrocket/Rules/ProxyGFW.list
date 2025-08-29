@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7444
+# 规则统计: 7446
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -1253,6 +1253,8 @@ DOMAIN-SUFFIX,cochina.co
 DOMAIN-SUFFIX,cochina.org
 DOMAIN-SUFFIX,code1984.com
 DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,codeforces.com
+DOMAIN-SUFFIX,codeforces.org
 DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,codeshare.io
