@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 162
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -40,7 +40,6 @@ HOST,isk.richardsw.club,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
-HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open.demonii.com,BTtrackers
 HOST,open.dstud.io,BTtrackers
@@ -60,7 +59,6 @@ HOST,servandroidkino.ru,BTtrackers
 HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
-HOST,speedtest.iperson.xyz,BTtrackers
 HOST,t.jaekr.sh,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,t1.hloli.org,BTtrackers
@@ -86,12 +84,12 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
-HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
 HOST,tracker.darkness.services,BTtrackers
+HOST,tracker.dhitechnical.com,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
 HOST,tracker.dmcomic.org,BTtrackers
@@ -106,7 +104,6 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
-HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.jdx3.org,BTtrackers
@@ -117,12 +114,12 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
+HOST,tracker.netmap.top,BTtrackers
 HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.plx.im,BTtrackers
 HOST,tracker.pmman.tech,BTtrackers
-HOST,tracker.privateseedbox.xyz,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.rescuecrew7.com,BTtrackers

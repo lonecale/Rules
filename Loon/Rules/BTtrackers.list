@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 162
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -40,7 +40,6 @@ DOMAIN,isk.richardsw.club
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
@@ -60,7 +59,6 @@ DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
-DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
@@ -86,12 +84,12 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
@@ -106,7 +104,6 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -117,12 +114,12 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
-DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
