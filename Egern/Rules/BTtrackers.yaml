@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 170
 
 no_resolve: true
 domain_set:
@@ -34,7 +34,6 @@ domain_set:
   - hificode.in
   - highteahop.top
   - home.yxgz.club
-  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -42,9 +41,11 @@ domain_set:
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - ns-1.x-fins.com
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.tracker.cl
   - open.trackerlist.xyz
@@ -58,9 +59,9 @@ domain_set:
   - retracker01-msk-virt.corbina.net
   - seeders-paradise.org
   - servandroidkino.ru
-  - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
+  - speedtest.iperson.xyz
   - t.jaekr.sh
   - t.overflow.biz
   - t1.hloli.org
@@ -69,6 +70,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -100,6 +102,7 @@ domain_set:
   - tracker.filemail.com
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gigantino.net
   - tracker.gmi.gd
@@ -117,11 +120,13 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
+  - tracker.netmap.top
   - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
   - tracker.pmman.tech
+  - tracker.privateseedbox.xyz
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
@@ -129,6 +134,7 @@ domain_set:
   - tracker.skillindia.site
   - tracker.srv00.com
   - tracker.startwork.cv
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -138,6 +144,7 @@ domain_set:
   - tracker.valete.tf
   - tracker.vanitycore.co
   - tracker.waaa.moe
+  - tracker.wepzone.net
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.yume-hatsuyuki.moe
@@ -154,6 +161,7 @@ domain_set:
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
+  - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
   - www.torrent.eu.org
