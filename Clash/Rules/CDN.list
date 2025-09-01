@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3900
+# 规则统计: 3901
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2737,6 +2737,7 @@ DOMAIN,ws-cdn.nperf.com
 DOMAIN,ws2-cache.aptoide.com
 DOMAIN,ww2-secure.justanswer.com
 DOMAIN,ww2.justanswer.com
+DOMAIN,www-cdn.uscardforum.com
 DOMAIN,www-res.cablelabs.com
 DOMAIN,www-static.ripe.net
 DOMAIN,www.10086.win

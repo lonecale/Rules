@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3900
+# 规则统计: 3901
 
 domain_set:
   - 0x0.st
@@ -2738,6 +2738,7 @@ domain_set:
   - ws2-cache.aptoide.com
   - ww2-secure.justanswer.com
   - ww2.justanswer.com
+  - www-cdn.uscardforum.com
   - www-res.cablelabs.com
   - www-static.ripe.net
   - www.10086.win
