@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1138
+# 规则统计: 1139
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Proxy
 HOST,ccmdl.adobe.com,Proxy
@@ -774,6 +774,7 @@ HOST-SUFFIX,pornoxo.com,Proxy
 HOST-SUFFIX,pornpics.com,Proxy
 HOST-SUFFIX,porntrex.com,Proxy
 HOST-SUFFIX,porntube.com,Proxy
+HOST-SUFFIX,postmarkapp.com,Proxy
 HOST-SUFFIX,precisionhydration.com,Proxy
 HOST-SUFFIX,prisma.io,Proxy
 HOST-SUFFIX,prismlauncher.org,Proxy
