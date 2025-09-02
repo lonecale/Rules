@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 169
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -33,6 +33,7 @@ DOMAIN,glotorrents.pw
 DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
+DOMAIN,ibksturm.synology.me
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
@@ -60,8 +61,10 @@ DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
+DOMAIN,t1.hloli.org
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
@@ -73,6 +76,8 @@ DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
+DOMAIN,tracker-udp.gbitt.info
+DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.alaskantf.com
@@ -96,6 +101,7 @@ DOMAIN,tracker.expli.top
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
@@ -119,7 +125,6 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
-DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
@@ -127,7 +132,6 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -137,25 +141,27 @@ DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.top
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
+DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
+DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve

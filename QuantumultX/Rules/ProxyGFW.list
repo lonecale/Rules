@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7446
+# 规则统计: 7447
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,ProxyGFW
 HOST,ccmdl.adobe.com,ProxyGFW
@@ -4938,6 +4938,7 @@ HOST-SUFFIX,post76.com,ProxyGFW
 HOST-SUFFIX,post852.com,ProxyGFW
 HOST-SUFFIX,postadult.com,ProxyGFW
 HOST-SUFFIX,postimg.org,ProxyGFW
+HOST-SUFFIX,postmarkapp.com,ProxyGFW
 HOST-SUFFIX,potato.im,ProxyGFW
 HOST-SUFFIX,potatso.com,ProxyGFW
 HOST-SUFFIX,potvpn.com,ProxyGFW
