@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 826
+# 规则统计: 828
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,acg.tv
@@ -694,6 +694,8 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tbcdn.cn
