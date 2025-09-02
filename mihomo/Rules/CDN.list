@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3901
+# 规则统计: 3904
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -516,6 +516,7 @@ DOMAIN,cdn.delight-vr.com
 DOMAIN,cdn.designerapp.osi.office.net
 DOMAIN,cdn.designsystem.arm.com
 DOMAIN,cdn.deta.space
+DOMAIN,cdn.devdojo.com
 DOMAIN,cdn.devolutions.net
 DOMAIN,cdn.dexscreener.com
 DOMAIN,cdn.dnsimple.com
@@ -1953,6 +1954,7 @@ DOMAIN,proxy.spigotmc.org
 DOMAIN,ps.w.org
 DOMAIN,psp-logos.uptimerobot.com
 DOMAIN,pub.creaders.net
+DOMAIN,public-assets.postmarkapp.com
 DOMAIN,public-assets.typeform.com
 DOMAIN,public-cdn.bblmw.com
 DOMAIN,public-files.gumroad.com
@@ -3669,6 +3671,7 @@ DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,stylexjs.com
 DOMAIN-SUFFIX,substackcdn.com
+DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,surrit.com
