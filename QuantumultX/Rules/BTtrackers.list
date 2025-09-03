@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 166
+# 规则统计: 162
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -11,7 +11,6 @@ HOST,3.tracker.eu.org,BTtrackers
 HOST,4.tracker.eu.org,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
-HOST,admin.52ywp.com,BTtrackers
 HOST,api.ipv4online.uk,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
@@ -33,7 +32,6 @@ HOST,glotorrents.pw,BTtrackers
 HOST,hificode.in,BTtrackers
 HOST,highteahop.top,BTtrackers
 HOST,home.yxgz.club,BTtrackers
-HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
@@ -116,7 +114,6 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
-HOST,tracker.netmap.top,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.plx.im,BTtrackers
@@ -128,7 +125,6 @@ HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skillindia.site,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
 HOST,tracker.startwork.cv,BTtrackers
-HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrust-demo.com,BTtrackers
