@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 103106
+# 规则统计: 103107
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -102795,6 +102795,7 @@ DOMAIN-WILDCARD,doc*-order*adobe.glitch.me
 DOMAIN-WILDCARD,download-wetransfer-*.vercel.app
 DOMAIN-WILDCARD,dualstack.adbert-web-lbs-*.elb.amazonaws.com
 DOMAIN-WILDCARD,dw-informer-*.newsru.com
+DOMAIN-WILDCARD,dwp-yous*.top
 DOMAIN-WILDCARD,e-interac-*.com
 DOMAIN-WILDCARD,e-navy*.weebly.com
 DOMAIN-WILDCARD,eclog*-*.cafe24.com

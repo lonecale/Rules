@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 103103
+# 规则统计: 103104
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -102795,6 +102795,7 @@ DOMAIN-REGEX,doc*-order*adobe.glitch.me
 DOMAIN-REGEX,download-wetransfer-*.vercel.app
 DOMAIN-REGEX,dualstack.adbert-web-lbs-*.elb.amazonaws.com
 DOMAIN-REGEX,dw-informer-*.newsru.com
+DOMAIN-REGEX,dwp-yous*.top
 DOMAIN-REGEX,e-interac-*.com
 DOMAIN-REGEX,e-navy*.weebly.com
 DOMAIN-REGEX,eclog*-*.cafe24.com
