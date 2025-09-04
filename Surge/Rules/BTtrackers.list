@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 161
+# 规则统计: 158
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -11,6 +11,7 @@ DOMAIN,3.tracker.eu.org
 DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
+DOMAIN,admin.52ywp.com
 DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -32,7 +33,6 @@ DOMAIN,glotorrents.pw
 DOMAIN,hificode.in
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
-DOMAIN,ibksturm.synology.me
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
@@ -60,7 +60,6 @@ DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
-DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,tk.greedland.net
@@ -81,7 +80,6 @@ DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -147,7 +145,6 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
-DOMAIN,trl-zhuqiy.dgj055.icu
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
