@@ -130,6 +130,7 @@ ali-safety-video.acfun.cn = server:quic://dns.alidns.com:853
 *.soso.com = server:https://doh.pub/dns-query
 *.sogo.com = server:https://doh.pub/dns-query
 *.qq.com = server:https://doh.pub/dns-query
+*.tencent-cloud.cn = server:https://doh.pub/dns-query
 *.tencentcs.cn = server:https://doh.pub/dns-query
 *.robloxdev.cn = server:https://doh.pub/dns-query
 *.codehub.cn = server:https://doh.pub/dns-query
