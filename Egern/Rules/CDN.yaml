@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3908
+# 规则统计: 3916
 
 domain_set:
   - 0x0.st
@@ -313,6 +313,8 @@ domain_set:
   - badges.frapsoft.com
   - badges.gitter.im
   - badges.greenkeeper.io
+  - barracuda-assets.zoovu.com
+  - barracuda-cdn.zoovu.com
   - bcdn.starapps.studio
   - bcmedia.bitchute.com
   - before.good-apps.co
@@ -343,6 +345,7 @@ domain_set:
   - bunnycdn-video-assets.b-cdn.net
   - businessunitprofile-cdn.trustpilot.net
   - busuanzi.ibruce.info
+  - c-bin.b-cdn.net
   - c.1password.com
   - c.animaapp.com
   - c.fantia.jp
@@ -397,6 +400,7 @@ domain_set:
   - cdn-fck.tnaflix.com
   - cdn-forum.networklessons.com
   - cdn-front.freepik.com
+  - cdn-icons-png.flaticon.com
   - cdn-images-1.medium.com
   - cdn-images.mailchimp.com
   - cdn-img2.iporntv.net
@@ -729,6 +733,7 @@ domain_set:
   - cdn.setapp.com
   - cdn.sheetjs.com
   - cdn.shopify.com
+  - cdn.shoplineapp.com
   - cdn.shoppinggives.com
   - cdn.sift.com
   - cdn.simpleicons.org
@@ -1977,6 +1982,7 @@ domain_set:
   - r.r10s.jp
   - r2.1hanime.com
   - r2.leadsy.ai
+  - r2cdn.myshopline.com
   - r2cdn.perplexity.ai
   - rapid-cdn.yottaa.com
   - raw.github.com
@@ -2591,6 +2597,7 @@ domain_set:
   - tourpic-vector.maps.komoot.net
   - townsquare.media
   - tracking.inflection.io
+  - trekcdnprod.azureedge.net
   - truth.bahamut.com.tw
   - tuf-repo-cdn.sigstore.dev
   - tuf-repo.github.com
@@ -3599,6 +3606,7 @@ domain_suffix_set:
   - shgcdn.com
   - shields.io
   - shopifycdn.com
+  - shoplineimg.com
   - shoppulse88.store
   - shortpixel.ai
   - simgbb.com
