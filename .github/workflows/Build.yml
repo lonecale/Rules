@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4.2.2
+      uses: actions/checkout@v5.0.0
       with:
         repository: lonecale/Rules
         path: Tool-repo
@@ -211,6 +211,16 @@ jobs:
                 curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/Ruleset/CDN.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/CDN.list
             done
+            # 合并 Download 规则
+            urls=(
+                "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Direct.list"
+            )
+            > Tool-repo/Ruleset/Direct.list
+            for url in "${urls[@]}"; do
+                echo "Downloading: $url"
+                curl -f -L -H "Accept-Language: en-us" "$url" >> Tool-repo/Ruleset/Direct.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Direct.list
+            done
             # 合并 GFW 规则
             urls=(
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
@@ -320,7 +330,6 @@ jobs:
                 "AdGuardChinese.list https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt"
                 # 自定义规则
                 "Crypto.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Crypto.list"
-                "Direct.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Direct.list"
                 "Emby.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Emby.list"
                 "Lan.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Lan.list"
                 "Porn.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Porn.list"
@@ -398,6 +407,7 @@ jobs:
             sed -i -e '/DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' "$file"
             sed -i -e '/DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe/d' "$file"
             sed -i -e '/DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe/d' "$file"
+            sed -i -e '/DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe/d' "$file"
             sed -i -e 's/,reject$//' "$file"
             # 修正格式
             sed -i 's/, */,/g' "$file"
@@ -438,19 +448,19 @@ jobs:
 
     - name: Copy files
       run: |
-        rm -rf Tool-repo/{Clash,Egern,Loon,QuantumultX,Shadowrocket,Stash,Surge,sing-box,mihomo}/Rules
+        rm -rf Tool-repo/{Egern,Loon,QuantumultX,Shadowrocket,Stash,Surge,sing-box,mihomo}/Rules
         
         #echo "Before mkdir:"
         #ls -l Tool-repo/  # 显示 Tool-repo 目录下的内容，用于比较
         
-        mkdir -p Tool-repo/{Clash,Egern,Loon,QuantumultX,Shadowrocket,Stash,Surge,sing-box,mihomo}/Rules
+        mkdir -p Tool-repo/{Egern,Loon,QuantumultX,Shadowrocket,Stash,Surge,sing-box,mihomo}/Rules
         
         echo "After mkdir:"
         ls -l Tool-repo/  # 再次显示 Tool-repo 目录下的内容，查看新创建的目录
 
         # 分别显示每个子目录，确保 Rules 目录已被创建
         #echo "Checking subdirectories and Rules folders:"
-        #for dir in Clash Egern Loon QuantumultX Shadowrocket Stash Surge; do
+        #for dir in Egern Loon QuantumultX Shadowrocket Stash Surge mihomo; do
         #    echo "$dir directory:"
         #    ls -l Tool-repo/$dir/
         #    echo "$dir/Rules directory:"
@@ -459,7 +469,7 @@ jobs:
 
         for file in Tool-repo/Ruleset/*.list; do
           filename=$(basename "$file")
-          for dir in Clash Loon QuantumultX Shadowrocket Stash Surge mihomo; do
+          for dir in Loon QuantumultX Shadowrocket Stash Surge mihomo; do
             cp "$file" "Tool-repo/$dir/Rules/$filename"
           done
           # 复制到Egern文件夹, 并将后缀改为.yaml
@@ -469,10 +479,10 @@ jobs:
         done
         echo "Files copied successfully."
 
-    - name: Clash/mihomo
+    - name: mihomo
       run: |
         rm -rf Tool-repo/Ruleset
-        for file in Tool-repo/{Clash,mihomo}/Rules/*.list; do
+        for file in Tool-repo/mihomo/Rules/*.list; do
           if [ -f "$file" ]; then
             sed -i -e '/^USER-AGENT/d' "$file"
             sed -i -e '/^URL-REGEX/d' "$file"
@@ -756,6 +766,8 @@ jobs:
         done
         rm -rf ${{ github.workspace }}/Tool-repo/sing-box/Rules/ChinaASN.{json,srs}
         rm -rf ${{ github.workspace }}/Tool-repo/sing-box/Rules/FILTER_REGION.{json,srs}
+      
+
     - name: Push Update
       run: |
         cd Tool-repo
