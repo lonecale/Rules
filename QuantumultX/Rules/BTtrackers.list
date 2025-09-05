@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 165
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -11,7 +11,6 @@ HOST,3.tracker.eu.org,BTtrackers
 HOST,4.tracker.eu.org,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
-HOST,admin.52ywp.com,BTtrackers
 HOST,api.ipv4online.uk,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
@@ -66,7 +65,6 @@ HOST,t.overflow.biz,BTtrackers
 HOST,t1.hloli.org,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
-HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
