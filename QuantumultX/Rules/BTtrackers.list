@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 172
+# 规则统计: 170
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -43,7 +43,6 @@ HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns-1.x-fins.com,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open.demonii.com,BTtrackers
-HOST,open.demonii.si,BTtrackers
 HOST,open.dstud.io,BTtrackers
 HOST,open.free-tracker.ga,BTtrackers
 HOST,open.stealth.si,BTtrackers
@@ -89,7 +88,6 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
-HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
