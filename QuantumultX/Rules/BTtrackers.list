@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 170
+# 规则统计: 171
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -11,8 +11,9 @@ HOST,3.tracker.eu.org,BTtrackers
 HOST,4.tracker.eu.org,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
-HOST,admin.52ywp.com,BTtrackers
 HOST,api.ipv4online.uk,BTtrackers
+HOST,asiatorrent.ddns.net,BTtrackers
+HOST,asiatorrent.giize.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.bontal.net,BTtrackers
@@ -78,6 +79,7 @@ HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
+HOST,tracker-zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker.23794.top,BTtrackers
 HOST,tracker.aburaya.live,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
@@ -108,7 +110,6 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
-HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.jdx3.org,BTtrackers
