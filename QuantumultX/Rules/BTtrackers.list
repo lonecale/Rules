@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 172
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -30,19 +30,20 @@ HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
 HOST,finbytes.org,BTtrackers
 HOST,glotorrents.pw,BTtrackers
+HOST,hificode.in,BTtrackers
 HOST,highteahop.top,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
-HOST,isk.richardsw.club,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns-1.x-fins.com,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open.demonii.com,BTtrackers
+HOST,open.demonii.si,BTtrackers
 HOST,open.dstud.io,BTtrackers
 HOST,open.free-tracker.ga,BTtrackers
 HOST,open.stealth.si,BTtrackers
@@ -50,6 +51,7 @@ HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
+HOST,passpulse.net,BTtrackers
 HOST,public.tracker.vraphim.com,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
@@ -60,14 +62,16 @@ HOST,servandroidkino.ru,BTtrackers
 HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
+HOST,speedtest.iperson.xyz,BTtrackers
 HOST,t.jaekr.sh,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,t1.hloli.org,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
+HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
-HOST,tr-rh-zhuqiy.dgj055.icu,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr.zukizuki.org,BTtrackers
@@ -90,6 +94,7 @@ HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
+HOST,tracker.darkness.services,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
 HOST,tracker.dmcomic.org,BTtrackers
@@ -105,6 +110,7 @@ HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
+HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.jdx3.org,BTtrackers
@@ -114,6 +120,7 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
+HOST,tracker.netmap.top,BTtrackers
 HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
@@ -158,6 +165,7 @@ HOST,www.all4nothin.net,BTtrackers
 HOST,www.genesis-sp.org,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers
+HOST,www.wareztorrent.com,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers
