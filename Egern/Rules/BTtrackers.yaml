@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 166
 
 no_resolve: true
 domain_set:
@@ -12,6 +12,8 @@ domain_set:
   - 3.tracker.eu.org
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
+  - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - api.ipv4online.uk
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -71,7 +73,6 @@ domain_set:
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
@@ -81,6 +82,7 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -105,7 +107,6 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
