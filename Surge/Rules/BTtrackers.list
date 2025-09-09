@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 168
+# 规则统计: 165
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -10,7 +10,6 @@ DOMAIN,2.tracker.eu.org
 DOMAIN,3.tracker.eu.org
 DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,admin.52ywp.com
 DOMAIN,api.ipv4online.uk
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -43,6 +42,7 @@ DOMAIN,martin-gebhardt.eu
 DOMAIN,ns-1.x-fins.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
+DOMAIN,open.demonii.si
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
@@ -80,7 +80,6 @@ DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -107,7 +106,6 @@ DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
@@ -115,7 +113,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
