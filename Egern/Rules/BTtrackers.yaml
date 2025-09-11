@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 159
+# 规则统计: 162
 
 no_resolve: true
 domain_set:
@@ -11,6 +11,8 @@ domain_set:
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - api.ipv4online.uk
+  - asiatorrent.ddns.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -36,13 +38,13 @@ domain_set:
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - isk.richardsw.club
+  - k.avc.cx
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
   - nyaa.tracker.wf
   - open.demonii.com
-  - open.demonii.si
   - open.dstud.io
   - open.free-tracker.ga
   - open.stealth.si
@@ -66,6 +68,7 @@ domain_set:
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
+  - tr-zhuqiy-1.dgj055.icu
   - tr.abiir.top
   - tr.abir.ga
   - tr.nyacat.pw
@@ -101,6 +104,7 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
+  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -133,7 +137,6 @@ domain_set:
   - tracker.valete.tf
   - tracker.vanitycore.co
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.top
   - tracker.zupix.online
