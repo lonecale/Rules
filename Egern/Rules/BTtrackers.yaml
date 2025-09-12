@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 157
+# 规则统计: 160
 
 no_resolve: true
 domain_set:
@@ -37,6 +37,7 @@ domain_set:
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - isk.richardsw.club
+  - k.avc.cx
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
@@ -81,8 +82,10 @@ domain_set:
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
+  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
+  - tracker.cutie.dating
   - tracker.cyberia.is
   - tracker.darkness.services
   - tracker.dler.com
@@ -95,6 +98,7 @@ domain_set:
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
+  - tracker.gigantino.net
   - tracker.gmi.gd
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
@@ -132,7 +136,6 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.top
   - tracker.zupix.online
