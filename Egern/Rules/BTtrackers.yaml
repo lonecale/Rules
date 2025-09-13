@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 156
+# 规则统计: 158
 
 no_resolve: true
 domain_set:
@@ -53,6 +53,7 @@ domain_set:
   - retracker01-msk-virt.corbina.net
   - seeders-paradise.org
   - servandroidkino.ru
+  - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
   - t.overflow.biz
@@ -102,6 +103,7 @@ domain_set:
   - tracker.hifitechindia.com
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
+  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kuroy.me
   - tracker.leechshield.link
