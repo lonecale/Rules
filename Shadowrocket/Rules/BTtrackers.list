@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 159
+# 规则统计: 156
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -32,7 +32,6 @@ DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
-DOMAIN,k.avc.cx
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
@@ -52,7 +51,6 @@ DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
-DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.overflow.biz
@@ -102,7 +100,6 @@ DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
