@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1141
+# 规则统计: 1142
 
 domain_set:
   - ccmdl.adobe.com
@@ -833,6 +833,7 @@ domain_suffix_set:
   - rferl.org
   - rip
   - ripe.net
+  - roboflow.com
   - rottentomatoes.com
   - rs
   - rtings.com
