@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 157
+# 规则统计: 156
 
 no_resolve: true
 domain_set:
@@ -13,8 +13,6 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - admin.52ywp.com
-  - asiatorrent.ddns.net
-  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -34,12 +32,10 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - nyaa.tracker.wf
   - open.demonii.com
-  - open.demonii.si
   - open.dstud.io
   - open.stealth.si
   - open.trackerlist.xyz
@@ -56,6 +52,7 @@ domain_set:
   - servandroidkino.ru
   - share.hkg-fansub.info
   - shubt.net
+  - t.overflow.biz
   - t1.hloli.org
   - tk.greedland.net
   - torrent.hificode.in
@@ -121,6 +118,7 @@ domain_set:
   - tracker.skillindia.site
   - tracker.srv00.com
   - tracker.startwork.cv
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.tnl.one
   - tracker.torrent.eu.org
@@ -132,6 +130,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top

@@ -6,8 +6,6 @@ steampp.net
 tgpro.top
 tgprocs.net
 wo1wan.com
-tiancity.com
-tiancitycdn.com
 3304399.com
 3304399.net
 3839.com
@@ -65,7 +63,6 @@ youba.com
 yxhhdl.com
 cowlevel.net
 cdncl.net
-tgbus.com
 vgtime.com
 vrzwk.cn
 vrzwk.com
@@ -82,15 +79,15 @@ taptap.cn
 taptap.com
 taptap.io
 taptapdada.com
+tgbus.com
+tiancity.com
+tiancitycdn.com
 bilibiligame.cn
 bilibiligame.co
 bilibiligame.net
 biligame.co
 biligame.com
 biligame.net
-sl916.com
-kurogames.com
-aki-game.com
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -107,6 +104,9 @@ themisweeps.com
 yuanshen.com
 juequling.com
 regexp:^.+-mihayo\.akamaized\.net$
+sl916.com
+kurogames.com
+aki-game.com
 battlecare.net
 gameitop.com
 gameloop.com
