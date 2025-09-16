@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 156
+# 规则统计: 153
 
 no_resolve: true
 domain_set:
@@ -39,7 +39,6 @@ domain_set:
   - open.dstud.io
   - open.stealth.si
   - open.trackerlist.xyz
-  - opentor.org
   - opentracker.io
   - p4p.arenabg.com
   - public.tracker.vraphim.com
@@ -98,7 +97,6 @@ domain_set:
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.ipv6tracker.org
-  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -147,7 +145,6 @@ domain_set:
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
   - wepzone.net
-  - www.all4nothin.net
   - www.genesis-sp.org
   - www.torrent.eu.org
   - www.torrentsnipe.info
