@@ -12,10 +12,10 @@ domain_set:
   - 3.tracker.eu.org
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
-  - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
+  - bt.bontal.net
   - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
@@ -113,6 +113,7 @@ domain_set:
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
+  - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.qu.ax
   - tracker.renfei.net
@@ -145,7 +146,6 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
-  - trl-zhuqiy.dgj055.icu
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
