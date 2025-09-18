@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 155
 
 no_resolve: true
 domain_set:
@@ -13,8 +13,7 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - admin.52ywp.com
-  - asiatorrent.ddns.net
-  - asiatorrent.giize.com
+  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -25,21 +24,17 @@ domain_set:
   - buny.uk
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - glotorrents.pw
-  - hificode.in
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
+  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
@@ -78,10 +73,10 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
-  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
   - tracker.cutie.dating
@@ -91,12 +86,12 @@ domain_set:
   - tracker.dler.com
   - tracker.dler.org
   - tracker.dmcomic.org
+  - tracker.ducks.party
   - tracker.filemail.com
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
-  - tracker.gigantino.net
   - tracker.gmi.gd
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
@@ -113,6 +108,7 @@ domain_set:
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
+  - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.qu.ax
   - tracker.renfei.net
@@ -154,6 +150,7 @@ domain_set:
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
