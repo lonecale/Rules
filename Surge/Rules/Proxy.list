@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1143
+# 规则统计: 1144
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
@@ -1132,6 +1132,7 @@ DOMAIN-SUFFIX,za
 DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-KEYWORD,blogspot

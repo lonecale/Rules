@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1142
+# 规则统计: 1143
 
 domain_set:
   - ccmdl.adobe.com
@@ -1134,6 +1134,7 @@ domain_suffix_set:
   - zbporn.com
   - zello.com
   - zendesk.com
+  - zenn.dev
   - zerochan.net
   - zndsk.com
 domain_keyword_set:

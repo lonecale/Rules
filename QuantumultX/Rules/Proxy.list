@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1143
+# 规则统计: 1144
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -1132,6 +1132,7 @@ HOST-SUFFIX,za,Proxy
 HOST-SUFFIX,zbporn.com,Proxy
 HOST-SUFFIX,zello.com,Proxy
 HOST-SUFFIX,zendesk.com,Proxy
+HOST-SUFFIX,zenn.dev,Proxy
 HOST-SUFFIX,zerochan.net,Proxy
 HOST-SUFFIX,zndsk.com,Proxy
 HOST-KEYWORD,blogspot,Proxy
