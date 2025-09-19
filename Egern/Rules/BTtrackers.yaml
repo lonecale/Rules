@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 157
+# 规则统计: 154
 
 no_resolve: true
 domain_set:
@@ -13,7 +13,6 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - admin.52ywp.com
-  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
@@ -35,9 +34,9 @@ domain_set:
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
-  - open.demonii.si
   - open.dstud.io
   - open.stealth.si
   - open.trackerlist.xyz
@@ -73,7 +72,6 @@ domain_set:
   - tracker.beeimg.com
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -94,7 +92,6 @@ domain_set:
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.healthcareindia.store
-  - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -130,6 +127,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top
@@ -142,7 +140,6 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
-  - trl-zhuqiy.dgj055.icu
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
