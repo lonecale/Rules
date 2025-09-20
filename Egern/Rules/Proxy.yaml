@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1143
+# 规则统计: 1144
 
 domain_set:
   - ccmdl.adobe.com
@@ -807,6 +807,7 @@ domain_suffix_set:
   - rawgit.com
   - re
   - readme.com
+  - readmoo.com
   - readthedocs.io
   - realgfporn.com
   - recaptcha.net

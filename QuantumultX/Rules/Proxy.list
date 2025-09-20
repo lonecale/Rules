@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1144
+# 规则统计: 1145
 
 HOST,ccmdl.adobe.com,Proxy
 HOST,community.oneplus.com,Proxy
@@ -805,6 +805,7 @@ HOST-SUFFIX,raspberrypi.com,Proxy
 HOST-SUFFIX,rawgit.com,Proxy
 HOST-SUFFIX,re,Proxy
 HOST-SUFFIX,readme.com,Proxy
+HOST-SUFFIX,readmoo.com,Proxy
 HOST-SUFFIX,readthedocs.io,Proxy
 HOST-SUFFIX,realgfporn.com,Proxy
 HOST-SUFFIX,recaptcha.net,Proxy
