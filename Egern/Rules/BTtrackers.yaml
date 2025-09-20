@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 154
+# 规则统计: 158
 
 no_resolve: true
 domain_set:
@@ -13,6 +13,7 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - admin.52ywp.com
+  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
@@ -22,22 +23,23 @@ domain_set:
   - buny.uk
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
   - hificode.in
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -60,6 +62,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -70,8 +73,10 @@ domain_set:
   - tracker.aburaya.live
   - tracker.alaskantf.com
   - tracker.beeimg.com
+  - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -92,6 +97,7 @@ domain_set:
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.healthcareindia.store
+  - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -123,11 +129,9 @@ domain_set:
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
-  - tracker.valete.tf
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top
