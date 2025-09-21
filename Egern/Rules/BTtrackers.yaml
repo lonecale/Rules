@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 159
 
 no_resolve: true
 domain_set:
@@ -36,6 +36,7 @@ domain_set:
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open.demonii.com
   - open.dstud.io
@@ -69,7 +70,6 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
-  - tracker-zhuqiy.dgj055.icu
   - tracker.23794.top
   - tracker.aburaya.live
   - tracker.alaskantf.com
@@ -133,10 +133,8 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
-  - tracker.zhuqiy.dgj055.icu
   - tracker.zhuqiy.top
   - tracker.zupix.online
   - tracker1.520.jp
@@ -147,7 +145,6 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
-  - trl-zhuqiy.dgj055.icu
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
