@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 165
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -29,6 +29,8 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
+DOMAIN,glotorrents.pw
+DOMAIN,hificode.in
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
