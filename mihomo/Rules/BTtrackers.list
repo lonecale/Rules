@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 161
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -19,12 +19,9 @@ DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
-DOMAIN,burmese.app
 DOMAIN,ch3oh.ru
-DOMAIN,cn.pcfreetime.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,discord.heihachi.pw
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -35,20 +32,21 @@ DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns-1.x-fins.com
+DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
+DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.demonii.com
+DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.demonoid.ch
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
@@ -66,6 +64,7 @@ DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -80,6 +79,7 @@ DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.belmult.online
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -110,7 +110,6 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
@@ -124,9 +123,7 @@ DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
-DOMAIN,tracker.tnl.one
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
@@ -158,7 +155,6 @@ DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
-DOMAIN,yuki.bt.bontal.net
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
