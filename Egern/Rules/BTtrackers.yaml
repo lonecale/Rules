@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 162
 
 no_resolve: true
 domain_set:
@@ -16,7 +16,6 @@ domain_set:
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
-  - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
@@ -31,15 +30,14 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - glotorrents.pw
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - isk.richardsw.club
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns-1.x-fins.com
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open-v6.demonoid.ch
@@ -63,16 +61,13 @@ domain_set:
   - share.hkg-fansub.info
   - shubt.net
   - t.overflow.biz
-  - t1.hloli.org
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.kxmp.cf
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
@@ -107,6 +102,7 @@ domain_set:
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.ipv6tracker.org
+  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -114,11 +110,11 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
+  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
   - tracker.pmman.tech
-  - tracker.privateseedbox.xyz
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
@@ -137,7 +133,9 @@ domain_set:
   - tracker.uraniumhexafluori.de
   - tracker.valete.tf
   - tracker.vanitycore.co
+  - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top
