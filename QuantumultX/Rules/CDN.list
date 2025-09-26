@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4007
+# 规则统计: 4008
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2593,6 +2593,7 @@ HOST,storage.gra.cloud.ovh.net,CDN
 HOST,storage.ko-fi.com,CDN
 HOST,storage.moegirl.tw,CDN
 HOST,storage.sciencecast.org,CDN
+HOST,storage.tally.so,CDN
 HOST,storage.windiscover.com,CDN
 HOST,storage.withfabric.xyz,CDN
 HOST,storageapi.fleek.co,CDN

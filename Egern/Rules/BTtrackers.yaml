@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 160
 
 no_resolve: true
 domain_set:
@@ -12,9 +12,7 @@ domain_set:
   - 3.tracker.eu.org
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
-  - admin.52ywp.com
   - anna.bt.bontal.net
-  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
@@ -27,10 +25,12 @@ domain_set:
   - ch3oh.ru
   - concen.org
   - d40969.acod.regrucolo.ru
+  - discord.heihachi.pw
   - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
+  - hificode.in
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
@@ -59,17 +59,15 @@ domain_set:
   - servandroidkino.ru
   - share.hkg-fansub.info
   - shubt.net
+  - t.213891.xyz
   - t.overflow.biz
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
-  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
@@ -101,6 +99,7 @@ domain_set:
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.healthcareindia.store
+  - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -135,7 +134,6 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top
