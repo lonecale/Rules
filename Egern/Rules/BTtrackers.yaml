@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 163
 
 no_resolve: true
 domain_set:
@@ -16,6 +16,7 @@ domain_set:
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
+  - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
@@ -30,6 +31,7 @@ domain_set:
   - explodie.org
   - extracker.dahrkael.net
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -60,6 +62,7 @@ domain_set:
   - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
+  - t.al.uy
   - t.overflow.biz
   - tk.greedland.net
   - torrent.hificode.in
@@ -80,7 +83,6 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -101,6 +103,7 @@ domain_set:
   - tracker.gmi.gd
   - tracker.healthcareindia.store
   - tracker.hifitechindia.com
+  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -122,9 +125,7 @@ domain_set:
   - tracker.srv00.com
   - tracker.startwork.cv
   - tracker.tamersunion.org
-  - tracker.theoks.net
   - tracker.therarbg.to
-  - tracker.tnl.one
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
   - tracker.tritan.gg
