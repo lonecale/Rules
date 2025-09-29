@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 163
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -10,6 +10,7 @@ HOST,2.tracker.eu.org,BTtrackers
 HOST,3.tracker.eu.org,BTtrackers
 HOST,4.tracker.eu.org,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
+HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
@@ -28,16 +29,15 @@ HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
 HOST,home.yxgz.club,BTtrackers
+HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
-HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.demonii.com,BTtrackers
-HOST,open.demonii.si,BTtrackers
 HOST,open.demonoid.ch,BTtrackers
 HOST,open.dstud.io,BTtrackers
 HOST,open.stealth.si,BTtrackers
@@ -125,7 +125,6 @@ HOST,tracker.startwork.cv,BTtrackers
 HOST,tracker.tamersunion.org,BTtrackers
 HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
-HOST,tracker.tnl.one,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrust-demo.com,BTtrackers
 HOST,tracker.tritan.gg,BTtrackers
