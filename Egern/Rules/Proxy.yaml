@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1607
+# 规则统计: 1609
 
 no_resolve: true
 domain_set:
@@ -188,6 +188,7 @@ domain_suffix_set:
   - aptoide.com
   - arc.net
   - archive-it.org
+  - archive.li
   - archive.md
   - archive.org
   - archive.today
@@ -637,6 +638,7 @@ domain_suffix_set:
   - googl.com
   - gooogle.com
   - gov
+  - gqhongkong.com
   - grammarly.com
   - grammarly.io
   - graph.org
