@@ -15,7 +15,6 @@ domain_set:
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
-  - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
@@ -39,7 +38,6 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
@@ -69,6 +67,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -83,12 +82,13 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
-  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
+  - tracker.cutie.dating
   - tracker.cyberia.is
   - tracker.dhitechnical.com
   - tracker.dler.com
@@ -104,7 +104,6 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -152,6 +151,7 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
+  - trl-zhuqiy.dgj055.icu
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
