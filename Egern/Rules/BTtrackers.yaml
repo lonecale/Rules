@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 166
 
 no_resolve: true
 domain_set:
@@ -13,6 +13,7 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -67,6 +68,7 @@ domain_set:
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
+  - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
   - tr.highstar.shop
@@ -75,7 +77,6 @@ domain_set:
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.alaskantf.com
@@ -98,6 +99,7 @@ domain_set:
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.fnix.net
+  - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
@@ -126,7 +128,6 @@ domain_set:
   - tracker.srv00.com
   - tracker.startwork.cv
   - tracker.tamersunion.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.tnl.one
   - tracker.torrent.eu.org
@@ -138,6 +139,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.top
