@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 168
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -25,12 +25,11 @@ DOMAIN,bvarf.tracker.sh
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,discord.heihachi.pw
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,hificode.in
+DOMAIN,glotorrents.pw
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
@@ -70,6 +69,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
@@ -126,10 +126,10 @@ DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tnl.one
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
@@ -146,6 +146,7 @@ DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
