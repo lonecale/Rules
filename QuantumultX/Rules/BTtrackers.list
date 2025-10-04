@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 168
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -138,6 +138,7 @@ HOST,tracker.valete.tf,BTtrackers
 HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
+HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
 HOST,tracker.zhuqiy.top,BTtrackers

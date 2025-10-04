@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 168
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -138,6 +138,7 @@ DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
+DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.top
