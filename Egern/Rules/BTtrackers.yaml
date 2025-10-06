@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 166
+# 规则统计: 167
 
 no_resolve: true
 domain_set:
@@ -43,6 +43,7 @@ domain_set:
   - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -91,6 +92,7 @@ domain_set:
   - tracker.corpscorp.online
   - tracker.cutie.dating
   - tracker.cyberia.is
+  - tracker.darkness.services
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
@@ -127,7 +129,6 @@ domain_set:
   - tracker.srv00.com
   - tracker.startwork.cv
   - tracker.tamersunion.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.tnl.one
   - tracker.torrent.eu.org
