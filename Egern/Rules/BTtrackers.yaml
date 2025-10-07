@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 169
+# 规则统计: 172
 
 no_resolve: true
 domain_set:
@@ -15,6 +15,7 @@ domain_set:
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anna.bt.bontal.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
@@ -36,7 +37,9 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - isk.richardsw.club
   - martin-gebhardt.eu
+  - ns-1.x-fins.com
   - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -44,6 +47,7 @@ domain_set:
   - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -51,6 +55,7 @@ domain_set:
   - p4p.arenabg.com
   - public.demonoid.ch
   - public.tracker.vraphim.com
+  - region.nl1.privex.cc
   - retracker.hotplug.ru
   - retracker.lanta.me
   - retracker.spark-rostov.ru
@@ -69,7 +74,6 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -77,7 +81,6 @@ domain_set:
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
-  - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.beeimg.com

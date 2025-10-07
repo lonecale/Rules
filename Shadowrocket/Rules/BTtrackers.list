@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 169
+# 规则统计: 172
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -13,6 +13,7 @@ DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anna.bt.bontal.net
+DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.okmp3.ru
@@ -34,7 +35,9 @@ DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
+DOMAIN,isk.richardsw.club
 DOMAIN,martin-gebhardt.eu
+DOMAIN,ns-1.x-fins.com
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
@@ -42,6 +45,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.demonii.si
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
@@ -49,6 +53,7 @@ DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.demonoid.ch
 DOMAIN,public.tracker.vraphim.com
+DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -67,7 +72,6 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -75,7 +79,6 @@ DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
-DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
