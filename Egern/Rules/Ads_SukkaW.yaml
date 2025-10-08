@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 106050
+# 规则统计: 106105
 
 no_resolve: true
 domain_set:
@@ -347,7 +347,6 @@ domain_set:
   - cdn.cr-relay.com
   - cdn.exp.xiaomi.com
   - cdn.fds-ssl.api.xiaomi.com
-  - cdn.getkoala.com
   - cdn.matomo.cloud
   - cdn.pocoiq.cn
   - ceuswatcab01.blob.core.windows.net
@@ -1108,6 +1107,7 @@ domain_set:
   - update.9mod.com
   - url8807.global.passport.xiaomi.com
   - us.l.qq.com
+  - user.ground.news
   - userid.xiaomi.com
   - userimg.qunar.com
   - uuidapi.yunos.com
@@ -4941,6 +4941,7 @@ domain_suffix_set:
   - ads-bidder-api.twitter.com
   - ads-blocker.app
   - ads-blocker.pro
+  - ads-bridge.pixocial.com
   - ads-cdn.hopper.com
   - ads-chunks.prod.ihrhls.com
   - ads-cloud.rovio.com
@@ -6028,6 +6029,7 @@ domain_suffix_set:
   - aggle.net
   - aggravatingoil.com
   - aggregateknowledge.com
+  - aggregationmodest.com
   - agguriceless.com
   - agi-static.indiatimes.com
   - agile-company-247.com
@@ -8035,6 +8037,7 @@ domain_suffix_set:
   - analytics.sannai.com.bd
   - analytics.sanoma.fi
   - analytics.santanselmo.it
+  - analytics.sayprimer.com
   - analytics.scalefair.com
   - analytics.scalemonk.com
   - analytics.schoolwires.com
@@ -11673,6 +11676,7 @@ domain_suffix_set:
   - avazu.net
   - avazutracking.net
   - avboypklwplkwk.com
+  - avbsqhunnykee.site
   - avbtkz.locknlockmall.com
   - avdhhztfpvxef.site
   - ave-caesar-mas.modivo.io
@@ -13939,6 +13943,7 @@ domain_suffix_set:
   - bomdukop-4.online
   - bonaciretwine.digital
   - bonad.io
+  - bonbomorpion.qpon
   - bondfondif.com
   - bonepa.com
   - bonertraffic13.info
@@ -14628,6 +14633,7 @@ domain_suffix_set:
   - btkbei.courir.com
   - btkdu.roundhouseprovisions.com
   - btkovrnejjrnb.com
+  - btlagkfxnypco.website
   - btloader.com
   - btm.breakthroughmaths.co.uk
   - btmean.cardosystems.com
@@ -16295,6 +16301,7 @@ domain_suffix_set:
   - cdn.fedsy.xyz
   - cdn.femgummies.eu
   - cdn.ftwpcn.com
+  - cdn.getkoala.com
   - cdn.goslates.com
   - cdn.haocaa.com
   - cdn.hotelbaiadidiamante.it
@@ -24835,6 +24842,7 @@ domain_suffix_set:
   - data.uatnews.deutsche-bank.de
   - data.uatnews.fyrst.de
   - data.uatnews.postbank.de
+  - data.ubi.com
   - data.ublock-browser.com
   - data.ubs.test.ajo.adobe.com
   - data.ucpa.se
@@ -24924,6 +24932,7 @@ domain_suffix_set:
   - datadog-service.mvfglobal.com
   - datadome.maisonsdumonde.com
   - datadrivens.protocolopumpgluteos.com.br
+  - datafinder-beacon.starii-rover.com
   - dataflow.biliapi.com
   - dataflow.mdrncapital.com
   - dataholics.tech
@@ -24975,6 +24984,7 @@ domain_suffix_set:
   - daugloalistaish.com
   - daujvq.cme-kaigojob.com
   - dauntonupclose.click
+  - dauphouloo.net
   - dauvjfxyp.com
   - dav.davrontech.com
   - davav.gentlemantoday.co
@@ -25096,6 +25106,7 @@ domain_suffix_set:
   - dc8na2hxrj29i.cloudfront.net
   - dc8xl0ndzn2cb.cloudfront.net
   - dcagup.feyenoordfanshop.nl
+  - dcazkddmpuwkw.website
   - dcbbwymp1bhlf.cloudfront.net
   - dcbpm.suning.cn
   - dccfog.petco.com
@@ -26903,6 +26914,7 @@ domain_suffix_set:
   - dqfhxv.paulcamper.de
   - dqfre.helloadorn.com
   - dqfzbnhbqeqox.space
+  - dqicwrwciokpigi.com
   - dqif5bl25s0bf.cloudfront.net
   - dqjrxj.icu
   - dqkovz.patatam.co.uk
@@ -27035,6 +27047,7 @@ domain_suffix_set:
   - dryfaxot.com
   - dryingfiuman.shop
   - drylnk.com
+  - dryrlsebjzcvb.site
   - dryvoa.cn
   - drzbe.agileoffroad.com
   - drzzg.mallet.com
@@ -29288,6 +29301,7 @@ domain_suffix_set:
   - emm.us.puma.com
   - emmamaranao.digital
   - emmz.4him4her.com
+  - emnurrtgmjcil.website
   - emogi.com
   - emon.glannz.com
   - emotional-efficiency.pro
@@ -29895,6 +29909,7 @@ domain_suffix_set:
   - estcp.vibekayaks.ca
   - esteemcountryside.com
   - esteemed-laugh.pro
+  - estnnslfpd.com
   - estore.biscoind.com
   - estore.interstatebatteries.com
   - estrumspatu.shop
@@ -30716,6 +30731,7 @@ domain_suffix_set:
   - explore-dev.agilent.com
   - explore-ft.agilent.com
   - explore-uat.agilent.com
+  - explore.agilent.com
   - explore.att.com
   - explore.broncos.com.au
   - explore.bytelab.uk
@@ -32101,6 +32117,7 @@ domain_suffix_set:
   - folsksjofpuum.online
   - folsomofay.qpon
   - fondstudy.com
+  - foneeckeexee.com
   - font.eletrolarshop.com
   - fonts.simoneferretti.net
   - food.informaengage.com
@@ -32286,6 +32303,7 @@ domain_suffix_set:
   - fovealkiters.com
   - fovissstejavercancun.com
   - fowl.teamyap.app
+  - fowoalroap.net
   - fox.visionaudiovisual.com
   - foxiclean-ss.olladeals.com
   - foxlikecometot.org
@@ -32595,6 +32613,7 @@ domain_suffix_set:
   - friwft.vox.pl
   - frizzyshocked.com
   - frjnnudnmborf.store
+  - frjrwixwogqjt.site
   - frkdu.minibardelivery.com
   - frlsabpxbilhs.com
   - frmebf.fratelligiacomel.it
@@ -32918,6 +32937,7 @@ domain_suffix_set:
   - fxfezg.bodylab24.de
   - fxgate.baidu.com
   - fxgkhf.ponroy.com
+  - fxgrscstakhxi.space
   - fxhdgisdunlxk.website
   - fxipca.americanexpress.ca
   - fxipreferral.americanexpress.com
@@ -33259,6 +33279,7 @@ domain_suffix_set:
   - garotas.info
   - garotemuruxi.com
   - garretchiders.com
+  - garthsdarwan.cfd
   - garuameshed.cyou
   - garvum.julesb.co.uk
   - gas-sensing.spec-sensors.com
@@ -34108,6 +34129,7 @@ domain_suffix_set:
   - gjaykx.omnibiz.com
   - gjc.gjirafa.com
   - gjesm.honeybirdette.com
+  - gjfyeghpsuxmx.space
   - gjgjl.1898leather.com
   - gjgyxk.ischgl.com
   - gjhjo.impactdogcrates.com
@@ -35441,6 +35463,7 @@ domain_suffix_set:
   - gratefulexamination.com
   - gratificationpotsstrode.com
   - gratificationpurpleladder.com
+  - gratinggutdeprive.com
   - gratisdescarga.xyz
   - gratpinkeen.rest
   - grauglak.com
@@ -40300,6 +40323,7 @@ domain_suffix_set:
   - hutchiecarpool.world
   - hutjfl.pennyblack.com
   - hutkse.wecandoo.fr
+  - huwndupbjlhk.com
   - huwqhqezemv.com
   - huxitsaise.net
   - huzjg.ancientnutrition.com
@@ -44751,6 +44775,7 @@ domain_suffix_set:
   - jollyspring.com
   - jombfyktowaqp.space
   - jomistress.com
+  - jomphoelubekg.site
   - joohugreene.net
   - joomxer.fun
   - joophaurimehech.com
@@ -44816,6 +44841,7 @@ domain_suffix_set:
   - jphcie.thelittlegreenbag.de
   - jphvuphqzgyak.icu
   - jphyjv.icu
+  - jpisoprhajjyx.space
   - jpjkhj.daviddanjewelry.com
   - jpjwir.annexx.com
   - jpluzr.autoc-one.jp
@@ -45226,6 +45252,7 @@ domain_suffix_set:
   - jzfwxo.perfumy.pl
   - jzgfhr.nordicnest.com
   - jzleekzaovyeq.top
+  - jzleekzaovyjw.top
   - jznits.igrotime.ru
   - jzoaubve.com
   - jzokkejvjbzby.top
@@ -45768,6 +45795,7 @@ domain_suffix_set:
   - kiykfux.icu
   - kiytmk.cannesyachtingfestival.com
   - kiywrxtfpvd.com
+  - kizllsirbnysc.space
   - kjcdk.kikidm.com
   - kjcdqm.noce.pl
   - kjcdr.lullabellz.com
@@ -46069,6 +46097,7 @@ domain_suffix_set:
   - kpsxmpevuhdwf.space
   - kptve.trualchemyskin.com
   - kpvilypxcybct.site
+  - kpxxmgxa.com
   - kq272lw4c.com
   - kq6mv8mpvs4m10r449nms6.xyz
   - kqbkkyqv.com
@@ -46235,6 +46264,7 @@ domain_suffix_set:
   - kulakiayme.com
   - kulroakonsu.net
   - kumihua.com
+  - kumkuminfang.help
   - kumpulblogger.com
   - kumteerg.com
   - kunde.danskespil.dk
@@ -47189,6 +47219,7 @@ domain_suffix_set:
   - letterboxtrail.com
   - lettermechanism.com
   - lettucex977.com
+  - letunseenprivacy.com
   - leuhnxasgbep.com
   - leungmyst.rest
   - levatoroboists.world
@@ -52820,6 +52851,7 @@ domain_suffix_set:
   - lybjfx.proffsmagasinet.se
   - lybyvv.gaitame.com
   - lydkuzntnhxim.website
+  - lyeburjvjfc.com
   - lyefirjhnhi.com
   - lyegyo.bluenile.com
   - lyerffbunvoud.website
@@ -52856,6 +52888,7 @@ domain_suffix_set:
   - lyzgwmwnjbazg.top
   - lz-pub-ads.com
   - lzadaq.hoonjaya.com
+  - lzazqroyklezr.top
   - lzazqroyklrkk.top
   - lzbdwl.twojemeble.pl
   - lzcmin.flunch-traiteur.fr
@@ -55208,6 +55241,7 @@ domain_suffix_set:
   - marriedbelief.com
   - marriedmailbox.com
   - marriedvalue.com
+  - marrieraration.qpon
   - marrowleaves.com
   - mars.msfin.at
   - mars1st.baby
@@ -55385,6 +55419,7 @@ domain_suffix_set:
   - mbns.bruker.com
   - mbohp.capouk.com
   - mbopt.bruker.com
+  - mbox.wegmans.com
   - mbox12.offermatica.com
   - mbox3.offermatica.com
   - mbox3e.offermatica.com
@@ -58576,6 +58611,7 @@ domain_suffix_set:
   - mk.appwebel.com
   - mk.convera.com
   - mk10ow7zoi.com
+  - mkamtrak.rest
   - mkcljppfkthiw.site
   - mkdhb.ramybrook.com
   - mkg.colfondos.co
@@ -59303,6 +59339,7 @@ domain_suffix_set:
   - mquwyx.engelhorn.de
   - mqvyob.vidaxl.fi
   - mqwqas.marketbio.pl
+  - mqxbtsawpuulc.store
   - mqzmpzvbvaojz.site
   - mqzoid.vintorte.com
   - mr-in-staging.beginlearning.com
@@ -62693,6 +62730,7 @@ domain_suffix_set:
   - omniture.yodlee.com
   - omniture443.partycity.ca
   - omniture443.partycity.com
+  - omns.americanexpress.com
   - omns.crackle.com
   - omns.murdoch.edu.au
   - omomku7r4n3vo55rp5k.xyz
@@ -66455,6 +66493,7 @@ domain_suffix_set:
   - pqkpmqrzrrjrb.vip
   - pqlcpm.kindoh.co.kr
   - pqlmae.lamaisonduchocolat.co.jp
+  - pqmdisqphvk.com
   - pqmqvnxwijmol.space
   - pqn7.cheque-dejeuner.fr
   - pqnnvegqkyadt.space
@@ -72046,6 +72085,7 @@ domain_suffix_set:
   - saishook.com
   - saizih.com
   - sajeb.ownabode.com
+  - sajldwpvqcikz.website
   - saju.wellbuybd.com
   - sakeretchry.life
   - saktuddo.com
@@ -73152,6 +73192,7 @@ domain_suffix_set:
   - seniorlifestyles.amica.ca
   - seniors.fairportbaptisthomes.org
   - senlvg.secretsdujeu.com
+  - sensationthigh.com
   - sense.cliexa.com
   - sense.wearerasa.com
   - sensesluckilyobey.com
@@ -77563,6 +77604,7 @@ domain_suffix_set:
   - ski1.skiset.com
   - skibidi.clash.gg
   - skigavdigmu.com
+  - skilfulsaturatematters.com
   - skill.officetechskill.com
   - skillcharging.com
   - skilledview.com
@@ -77682,6 +77724,7 @@ domain_suffix_set:
   - sliw.cn
   - slobbyaverted.world
   - slobendorsement.com
+  - slojzlqjvitwt.website
   - slopeac.com
   - slopesoap.com
   - slotabrosdev.zharev.com
@@ -79071,6 +79114,7 @@ domain_suffix_set:
   - sptga.laduree.com
   - sptrck.com
   - sptrkr.com
+  - spurieskangany.click
   - spuriousair.com
   - spurioussquirrel.com
   - spuriousstranger.com
@@ -86428,6 +86472,7 @@ domain_suffix_set:
   - stat.otazkyodpovedi.cz
   - stat.outrigger.com
   - stat.ovh
+  - stat.peng.you
   - stat.praceamzda.cz
   - stat.praetor-systems.cz
   - stat.pravdafrance.com
@@ -87543,6 +87588,7 @@ domain_suffix_set:
   - stats.sexemodel.com
   - stats.sexplore.app
   - stats.sfwmd.gov
+  - stats.sg-light-edge.com
   - stats.sgs.com
   - stats.shapeless.dev
   - stats.sharenet.co.za
@@ -92736,6 +92782,7 @@ domain_suffix_set:
   - tnxxtx.crepeerase.com
   - tnz3.carrefour-banque.fr
   - tnzrfvgzqjgtu.store
+  - tnzwltdwicqnw.space
   - to.4sq.com
   - to.5mins.ai
   - to.card.com
@@ -97599,6 +97646,7 @@ domain_suffix_set:
   - tropintech.com
   - trorqaeao.com
   - trotscheme.com
+  - troubled-pitch.pro
   - troubleshade.com
   - trout.openfpl.com
   - trout.travelmassive.com
@@ -98575,6 +98623,7 @@ domain_suffix_set:
   - ugdcxl.timeout.pt
   - ugdtimg.com
   - ugdturner.com
+  - uggrcyzcgkbfr.space
   - uggrianvo.com
   - ugheqrikui.com
   - ughesterurelanderp.org
@@ -102170,6 +102219,7 @@ domain_suffix_set:
   - wfnetwork.com
   - wfredir.net
   - wfs.euromatic-bvba.be
+  - wftoukfy.net
   - wfuymjaziioj.com
   - wfvjthtb.com
   - wfwrbo.fascar.com.br
@@ -102333,6 +102383,7 @@ domain_suffix_set:
   - whrwlxg.icu
   - whulsaux.com
   - whuzucot.net
+  - whvyhcvlszizp.online
   - whwiab.pamono.it
   - why.hdvest.com
   - why3.inseec.education
@@ -103955,6 +104006,7 @@ domain_suffix_set:
   - xudr8vwe.xyz
   - xue.zbyw.cn
   - xueaaaw.cn
+  - xuenpasqvdt.net
   - xuexi.hydcd.com
   - xufxscrmvwfysk.com
   - xufyxhiu.icu
@@ -103972,6 +104024,7 @@ domain_suffix_set:
   - xunzbx.mon-abri-de-jardin.com
   - xuojhr.mobly.com.br
   - xupd.cn
+  - xuptiwsibnpe.com
   - xuqujk.raven.nl
   - xutolr.mainichikirei.jp
   - xutolr.mantan-web.jp
@@ -105124,6 +105177,7 @@ domain_suffix_set:
   - zbmre.pitbarrelcooker.com
   - zbmzkxmensplm.club
   - zbphp.sqairz.com
+  - zbqcovoprjruz.website
   - zbqzwecfwjscq.store
   - zbrfde.ozmall.co.jp
   - zbrushcn.com
@@ -105425,6 +105479,7 @@ domain_suffix_set:
   - zkc5.fleurancenature.fr
   - zkdefuiz.icu
   - zkebwy.copenhagenstudios.com
+  - zkfjdxlwwcilg.website
   - zkgbkn.pinkwoman-fashion.com
   - zkgbp.fidodyrebutikk.com
   - zkhboq.veraandthebirds.com

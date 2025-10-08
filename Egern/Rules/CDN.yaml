@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4049
+# 规则统计: 4051
 
 domain_set:
   - 0x0.st
@@ -1292,6 +1292,7 @@ domain_set:
   - graph.facebook.com
   - gravatar.cat.net
   - gravatar.tapglb.com
+  - groundnews.b-cdn.net
   - gstatic.com
   - gstatic.olympics.com
   - gt1.onlyhentaistuff.com
@@ -2810,6 +2811,7 @@ domain_set:
   - wcpstatic.microsoft.com
   - wctour-images.worldchess.com
   - weather.istatmenus.app
+  - web-api-cdn.ground.news
   - web-assets.esetstatic.com
   - web-assets.ifttt.com
   - web-assets.otogi-frontier.com
