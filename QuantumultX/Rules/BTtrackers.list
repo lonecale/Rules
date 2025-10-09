@@ -1,11 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 163
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
-HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
@@ -26,12 +25,11 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
-HOST,hificode.in,BTtrackers
+HOST,glotorrents.pw,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
-HOST,ipv6.rer.lol,BTtrackers
-HOST,leet-tracker.moe,BTtrackers
+HOST,isk.richardsw.club,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
@@ -46,11 +44,11 @@ HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,public.demonoid.ch,BTtrackers
 HOST,public.tracker.vraphim.com,BTtrackers
-HOST,region.nl1.privex.cc,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
+HOST,run.publictracker.xyz,BTtrackers
 HOST,seeders-paradise.org,BTtrackers
 HOST,servandroidkino.ru,BTtrackers
 HOST,shahidrazi.online,BTtrackers
@@ -58,13 +56,13 @@ HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t-backup.213891.xyz,BTtrackers
 HOST,t.213891.xyz,BTtrackers
-HOST,t.overflow.biz,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
@@ -79,6 +77,7 @@ HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
+HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -112,6 +111,7 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
+HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.plx.im,BTtrackers
@@ -135,7 +135,6 @@ HOST,tracker.tvunderground.org.ru,BTtrackers
 HOST,tracker.uraniumhexafluori.de,BTtrackers
 HOST,tracker.valete.tf,BTtrackers
 HOST,tracker.vanitycore.co,BTtrackers
-HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
@@ -158,7 +157,6 @@ HOST,www.genesis-sp.org,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
-HOST,yuki.bt.bontal.net,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers
