@@ -260,6 +260,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.baidustatic.com = server:180.76.76.76
 *.zuoyebang.com = server:180.76.76.76
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
+upos-sz-mirrorbdb.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 *.xiaodutv.com = server:180.76.76.76
 *.iqiyipic.com = server:180.76.76.76
