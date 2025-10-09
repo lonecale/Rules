@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 167
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -29,6 +29,7 @@ HOST,glotorrents.pw,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
+HOST,ipv6.rer.lol,BTtrackers
 HOST,isk.richardsw.club,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns3109441.mypdns.org,BTtrackers
@@ -56,13 +57,13 @@ HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t-backup.213891.xyz,BTtrackers
 HOST,t.213891.xyz,BTtrackers
+HOST,t.overflow.biz,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
-HOST,tr.abir.ga,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
@@ -71,6 +72,7 @@ HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
+HOST,tracker-zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker.23794.top,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
@@ -81,6 +83,7 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
+HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
@@ -148,6 +151,7 @@ HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,tracker810.xyz,BTtrackers
+HOST,trl-zhuqiy.dgj055.icu,BTtrackers
 HOST,ttk2.nbaonlineservice.com,BTtrackers
 HOST,udp.tracker.projectk.org,BTtrackers
 HOST,v74853.hosted-by-vdsina.com,BTtrackers
