@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 164
 
 no_resolve: true
 domain_set:
@@ -8,7 +8,6 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -27,19 +26,20 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - glotorrents.pw
+  - hificode.in
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
   - martin-gebhardt.eu
   - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
+  - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -67,12 +67,11 @@ domain_set:
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
-  - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.alaskantf.com
@@ -104,6 +103,7 @@ domain_set:
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
+  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -128,6 +128,7 @@ domain_set:
   - tracker.tamersunion.org
   - tracker.theoks.net
   - tracker.therarbg.to
+  - tracker.tnl.one
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
   - tracker.tritan.gg
@@ -136,7 +137,9 @@ domain_set:
   - tracker.uraniumhexafluori.de
   - tracker.valete.tf
   - tracker.vanitycore.co
+  - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
@@ -148,16 +151,15 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
-  - trl-zhuqiy.dgj055.icu
   - ttk2.nbaonlineservice.com
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
-  - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
