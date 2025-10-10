@@ -2,11 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "loon Shadowrocket surge配置文件对立生成"
-      ]
-    },
-    {
       "domain_suffix": [
         "1500020991.vodplayer.wxamedia.com",
         "1500022744.vodplayer.wxamedia.com",

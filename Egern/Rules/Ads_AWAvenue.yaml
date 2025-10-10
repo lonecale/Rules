@@ -1,8 +1,6 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 855
+# 规则统计: 854
 
-domain_set:
-  - loon Shadowrocket surge配置文件对立生成
 domain_suffix_set:
   - 1500020991.vodplayer.wxamedia.com
   - 1500022744.vodplayer.wxamedia.com
