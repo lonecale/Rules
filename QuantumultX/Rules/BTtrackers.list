@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 163
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
+HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
@@ -26,7 +27,6 @@ HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
 HOST,glotorrents.pw,BTtrackers
 HOST,home.yxgz.club,BTtrackers
-HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
@@ -35,7 +35,6 @@ HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.demonii.com,BTtrackers
-HOST,open.demonii.si,BTtrackers
 HOST,open.demonoid.ch,BTtrackers
 HOST,open.dstud.io,BTtrackers
 HOST,open.stealth.si,BTtrackers
@@ -45,7 +44,6 @@ HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,public.demonoid.ch,BTtrackers
 HOST,public.tracker.vraphim.com,BTtrackers
-HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
@@ -70,7 +68,6 @@ HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr.zukizuki.org,BTtrackers
-HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.23794.top,BTtrackers
@@ -79,6 +76,7 @@ HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
+HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -98,12 +96,14 @@ HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.ghostchu-services.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
+HOST,tracker.guguan.000.pe,BTtrackers
 HOST,tracker.guguan.us.kg,BTtrackers
 HOST,tracker.healthcareindia.store,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
 HOST,tracker.hifitechindia.com,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
+HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.jdx3.org,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.leechshield.link,BTtrackers
@@ -136,7 +136,6 @@ HOST,tracker.valete.tf,BTtrackers
 HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
-HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
 HOST,tracker.zupix.online,BTtrackers

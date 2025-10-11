@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 163
 
 no_resolve: true
 domain_set:
@@ -8,6 +8,7 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -28,7 +29,6 @@ domain_set:
   - extracker.dahrkael.net
   - glotorrents.pw
   - home.yxgz.club
-  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -37,7 +37,6 @@ domain_set:
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
-  - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
@@ -47,7 +46,6 @@ domain_set:
   - p4p.arenabg.com
   - public.demonoid.ch
   - public.tracker.vraphim.com
-  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.lanta.me
   - retracker.spark-rostov.ru
@@ -72,7 +70,6 @@ domain_set:
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.23794.top
@@ -81,6 +78,7 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -100,12 +98,14 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
+  - tracker.guguan.000.pe
   - tracker.guguan.us.kg
   - tracker.healthcareindia.store
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
+  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -138,7 +138,6 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
