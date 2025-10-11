@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 157
 
 no_resolve: true
 domain_set:
@@ -10,6 +10,8 @@ domain_set:
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anna.bt.bontal.net
+  - asiatorrent.ddns.net
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -27,13 +29,11 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - glotorrents.pw
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
@@ -44,13 +44,12 @@ domain_set:
   - opentor.org
   - opentracker.io
   - p4p.arenabg.com
-  - public.demonoid.ch
   - public.tracker.vraphim.com
+  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - run.publictracker.xyz
   - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
@@ -58,6 +57,7 @@ domain_set:
   - shubt.net
   - t-backup.213891.xyz
   - t.213891.xyz
+  - t.al.uy
   - t.overflow.biz
   - tk.greedland.net
   - torrent.hificode.in
@@ -65,14 +65,15 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-udp.gbitt.info
+  - tracker-de-2.cutie.dating
   - tracker.23794.top
+  - tracker.aburaya.live
   - tracker.alaskantf.com
   - tracker.beeimg.com
   - tracker.belmult.online
@@ -98,11 +99,8 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.guguan.000.pe
   - tracker.guguan.us.kg
-  - tracker.healthcareindia.store
   - tracker.hifimarket.in
-  - tracker.hifitechindia.com
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -116,12 +114,10 @@ domain_set:
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
-  - tracker.pmman.tech
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
   - tracker.sbsub.com
-  - tracker.skillindia.site
   - tracker.srv00.com
   - tracker.startwork.cv
   - tracker.tamersunion.org
@@ -136,14 +132,12 @@ domain_set:
   - tracker.uraniumhexafluori.de
   - tracker.valete.tf
   - tracker.vanitycore.co
-  - tracker.waaa.moe
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
   - tracker1.520.jp
   - tracker1.bt.moack.co.kr
-  - tracker1.itzmx.com
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
