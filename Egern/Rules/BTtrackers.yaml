@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 158
+# 规则统计: 159
 
 no_resolve: true
 domain_set:
@@ -8,6 +8,7 @@ domain_set:
   - 1337.abcvg.info
   - 1c.premierzal.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -31,6 +32,7 @@ domain_set:
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
@@ -101,8 +103,8 @@ domain_set:
   - tracker.guguan.us.kg
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
+  - tracker.ipv6tracker.ru
   - tracker.jdx3.org
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -113,7 +115,6 @@ domain_set:
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
-  - tracker.pmman.tech
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
