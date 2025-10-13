@@ -30,11 +30,13 @@ domain_set:
   - extracker.dahrkael.net
   - hificode.in
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - martin-gebhardt.eu
   - ns-1.x-fins.com
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
@@ -74,7 +76,6 @@ domain_set:
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.alaskantf.com
@@ -82,7 +83,6 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -103,7 +103,6 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.guguan.us.kg
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
   - tracker.iperson.xyz
@@ -141,6 +140,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
