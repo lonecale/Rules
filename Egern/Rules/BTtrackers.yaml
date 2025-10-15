@@ -1,19 +1,23 @@
 # 规则名称: BTtrackers
-# 规则统计: 164
+# 规则统计: 168
 
 no_resolve: true
 domain_set:
   - 0123456789nonexistent.com
   - 0d.kebhana.mx
+  - 1.tracker.eu.org
   - 1337.abcvg.info
   - 1c.premierzal.ru
+  - 2.tracker.eu.org
+  - 3.tracker.eu.org
+  - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
-  - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
@@ -27,20 +31,21 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
+  - hificode.in
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - martin-gebhardt.eu
-  - ns-1.x-fins.com
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
-  - open.acgtracker.com
   - open.demonii.com
   - open.demonoid.ch
   - open.dstud.io
-  - open.free-tracker.ga
   - open.stealth.si
+  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
@@ -52,7 +57,6 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - run.publictracker.xyz
   - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
@@ -69,7 +73,6 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -140,6 +143,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
