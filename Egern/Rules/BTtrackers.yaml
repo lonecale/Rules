@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 165
+# 规则统计: 170
 
 no_resolve: true
 domain_set:
@@ -14,9 +14,11 @@ domain_set:
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
+  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
+  - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
@@ -40,6 +42,7 @@ domain_set:
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
+  - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
@@ -71,6 +74,7 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -90,6 +94,7 @@ domain_set:
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
+  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
   - tracker.cutie.dating
@@ -106,9 +111,9 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
+  - tracker.guguan.us.kg
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
