@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 168
+# 规则统计: 165
 
 no_resolve: true
 domain_set:
@@ -14,7 +14,6 @@ domain_set:
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
-  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
@@ -33,7 +32,6 @@ domain_set:
   - extracker.dahrkael.net
   - hificode.in
   - home.yxgz.club
-  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -110,6 +108,7 @@ domain_set:
   - tracker.gmi.gd
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
+  - tracker.internetwarriors.net
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -132,7 +131,6 @@ domain_set:
   - tracker.tamersunion.org
   - tracker.theoks.net
   - tracker.therarbg.to
-  - tracker.tnl.one
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
   - tracker.tritan.gg
@@ -143,7 +141,6 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1609
+# 规则统计: 1611
 
 no_resolve: true
 domain_set:
@@ -129,6 +129,8 @@ domain_suffix_set:
   - adguard-dns.io
   - adguard.com
   - adguard.org
+  - adguardaccount.com
+  - adguardcdn.com
   - adidas.com
   - adtidy.org
   - aex.com
