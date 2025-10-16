@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 166
+# 规则统计: 164
 
 no_resolve: true
 domain_set:
@@ -44,7 +44,6 @@ domain_set:
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
-  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
@@ -77,6 +76,7 @@ domain_set:
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
@@ -107,10 +107,8 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.guguan.us.kg
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
