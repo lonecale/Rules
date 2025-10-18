@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 169
+# 规则统计: 172
 
 no_resolve: true
 domain_set:
@@ -27,18 +27,20 @@ domain_set:
   - bvarf.tracker.sh
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - echostar.ddnsfree.com
   - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
+  - glotorrents.pw
+  - hificode.in
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - leet-tracker.moe
   - martin-gebhardt.eu
-  - ns-1.x-fins.com
   - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -47,7 +49,6 @@ domain_set:
   - open.dstud.io
   - open.free-tracker.ga
   - open.stealth.si
-  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
@@ -83,7 +84,8 @@ domain_set:
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
+  - tracker-udp.gbitt.info
+  - tracker.23794.top
   - tracker.aburaya.live
   - tracker.alaskantf.com
   - tracker.beeimg.com
@@ -121,7 +123,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
@@ -135,6 +136,7 @@ domain_set:
   - tracker.tamersunion.org
   - tracker.theoks.net
   - tracker.therarbg.to
+  - tracker.tnl.one
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
   - tracker.tritan.gg
@@ -145,6 +147,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
