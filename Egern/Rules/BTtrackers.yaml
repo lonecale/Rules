@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 161
+# 规则统计: 170
 
 no_resolve: true
 domain_set:
@@ -13,6 +13,7 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -26,6 +27,7 @@ domain_set:
   - bvarf.tracker.sh
   - concen.org
   - d40969.acod.regrucolo.ru
+  - discord.heihachi.pw
   - echostar.ddnsfree.com
   - evan.im
   - exodus.desync.com
@@ -37,12 +39,15 @@ domain_set:
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - ns-1.x-fins.com
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
-  - open.acgtracker.com
   - open.demonii.com
+  - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -77,6 +82,7 @@ domain_set:
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
+  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.23794.top
   - tracker.aburaya.live
@@ -85,6 +91,7 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
@@ -119,6 +126,7 @@ domain_set:
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
+  - tracker.pmman.tech
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
@@ -136,6 +144,7 @@ domain_set:
   - tracker.uraniumhexafluori.de
   - tracker.valete.tf
   - tracker.vanitycore.co
+  - tracker.waaa.moe
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
