@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 168
+# 规则统计: 169
 
 no_resolve: true
 domain_set:
@@ -13,6 +13,7 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -24,6 +25,7 @@ domain_set:
   - buny.uk
   - burmese.app
   - bvarf.tracker.sh
+  - cny.fan
   - concen.org
   - d40969.acod.regrucolo.ru
   - discord.heihachi.pw
@@ -39,7 +41,6 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
@@ -64,7 +65,6 @@ domain_set:
   - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
-  - t-backup.213891.xyz
   - t.213891.xyz
   - t.al.uy
   - t.overflow.biz
@@ -93,6 +93,7 @@ domain_set:
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
+  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
   - tracker.cutie.dating
