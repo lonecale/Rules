@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 170
+# 规则统计: 168
 
 no_resolve: true
 domain_set:
@@ -13,7 +13,6 @@ domain_set:
   - 4.tracker.eu.org
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -44,7 +43,6 @@ domain_set:
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.demonii.com
-  - open.demonii.si
   - open.demonoid.ch
   - open.dstud.io
   - open.free-tracker.ga
