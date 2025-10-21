@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 169
+# 规则统计: 170
 
 no_resolve: true
 domain_set:
@@ -28,7 +28,6 @@ domain_set:
   - cny.fan
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - echostar.ddnsfree.com
   - evan.im
   - exodus.desync.com
@@ -41,12 +40,13 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns-1.x-fins.com
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
+  - open.acgtracker.com
   - open.demonii.com
   - open.demonoid.ch
   - open.dstud.io
-  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -75,7 +75,9 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
+  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
@@ -121,7 +123,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.plx.im
