@@ -13,6 +13,9 @@ tgprocs.net
 winegame.net
 wo1wan.com
 ycgame.com
+tgbus.com
+tiancity.com
+tiancitycdn.com
 vgtime.com
 ro.com
 xd.cn
@@ -80,17 +83,12 @@ we4399.com
 webgame163.com
 youba.com
 yxhhdl.com
-cowlevel.net
-cdncl.net
-tiancity.com
-tiancitycdn.com
-tgbus.com
 vrzwk.cn
 vrzwk.com
 vrzwk.net
 vrzwk.top
-kurogames.com
-aki-game.com
+cowlevel.net
+cdncl.net
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -107,6 +105,9 @@ themisweeps.com
 yuanshen.com
 juequling.com
 regexp:^.+-mihayo\.akamaized\.net$
+sl916.com
+kurogames.com
+aki-game.com
 battlecare.net
 gameitop.com
 gameloop.com
@@ -199,4 +200,3 @@ bilibiligame.net
 biligame.co
 biligame.com
 biligame.net
-sl916.com
