@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 171
+# 规则统计: 173
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -49,6 +49,7 @@ HOST,open.demonoid.ch,BTtrackers
 HOST,open.dstud.io,BTtrackers
 HOST,open.free-tracker.ga,BTtrackers
 HOST,open.stealth.si,BTtrackers
+HOST,open.tracker.cl,BTtrackers
 HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.io,BTtrackers
@@ -84,7 +85,6 @@ HOST,tr.zukizuki.org,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
-HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.23794.top,BTtrackers
 HOST,tracker.aburaya.live,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
@@ -92,6 +92,7 @@ HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
+HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -131,6 +132,7 @@ HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.rescuecrew7.com,BTtrackers
 HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skillindia.site,BTtrackers
+HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
 HOST,tracker.startwork.cv,BTtrackers
 HOST,tracker.theoks.net,BTtrackers

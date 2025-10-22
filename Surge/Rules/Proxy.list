@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1614
+# 规则统计: 1615
 
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -1321,6 +1321,7 @@ DOMAIN-SUFFIX,thefreelibrary.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thenewstack.io
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,theregister.com
 DOMAIN-SUFFIX,thesaurus.com
