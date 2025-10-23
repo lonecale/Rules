@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 174
+# 规则统计: 173
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -39,7 +39,6 @@ DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
@@ -75,6 +74,7 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -112,7 +112,6 @@ DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
-DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.jdx3.org
@@ -126,6 +125,7 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
+DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.rescuecrew7.com
@@ -147,7 +147,6 @@ DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
-DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online

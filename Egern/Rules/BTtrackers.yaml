@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 174
+# 规则统计: 173
 
 no_resolve: true
 domain_set:
@@ -41,7 +41,6 @@ domain_set:
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.acgtracker.com
@@ -77,6 +76,7 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -114,7 +114,6 @@ domain_set:
   - tracker.gmi.gd
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.internetwarriors.net
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
@@ -128,6 +127,7 @@ domain_set:
   - tracker.openwebtorrent.com
   - tracker.plx.im
   - tracker.pmman.tech
+  - tracker.qingwa.pro
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.rescuecrew7.com
@@ -149,7 +149,6 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zupix.online
