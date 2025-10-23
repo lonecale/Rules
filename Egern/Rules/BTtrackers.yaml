@@ -36,12 +36,12 @@ domain_set:
   - extracker.dahrkael.net
   - glotorrents.pw
   - home.yxgz.club
-  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.acgtracker.com
@@ -49,7 +49,6 @@ domain_set:
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
-  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
@@ -78,7 +77,6 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -86,6 +84,7 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
+  - tracker.1h.is
   - tracker.23794.top
   - tracker.aburaya.live
   - tracker.alaskantf.com
@@ -93,6 +92,7 @@ domain_set:
   - tracker.belmult.online
   - tracker.bitcoinindia.space
   - tracker.bittor.pw
+  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
