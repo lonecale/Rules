@@ -465,6 +465,7 @@
 - [eastmoney](rules/eastmoney.txt)
 - [easylist](rules/easylist.txt)
 - [ebay](rules/ebay.txt)
+- [ebuyer](rules/ebuyer.txt)
 - [economist](rules/economist.txt)
 - [edx](rules/edx.txt)
 - [egghead](rules/egghead.txt)
@@ -535,6 +536,7 @@
 - [foundertype](rules/foundertype.txt)
 - [fox](rules/fox.txt)
 - [fqnovel](rules/fqnovel.txt)
+- [framer](rules/framer.txt)
 - [freecodecamp](rules/freecodecamp.txt)
 - [freenode](rules/freenode.txt)
 - [ft](rules/ft.txt)
@@ -825,6 +827,7 @@
 ## M
 - [madshi](rules/madshi.txt)
 - [mafengwo](rules/mafengwo.txt)
+- [mailcom](rules/mailcom.txt)
 - [mailru](rules/mailru.txt)
 - [mainichi](rules/mainichi.txt)
 - [manhuagui](rules/manhuagui.txt)
