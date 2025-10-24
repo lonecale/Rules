@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 175
+# 规则统计: 174
 
 no_resolve: true
 domain_set:
@@ -34,6 +34,7 @@ domain_set:
   - explodie.org
   - extracker.dahrkael.net
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -82,7 +83,6 @@ domain_set:
   - tr.nyacat.pw
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
   - tracker.23794.top
@@ -114,7 +114,6 @@ domain_set:
   - tracker.gmi.gd
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.jdx3.org
