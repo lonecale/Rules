@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1613
+# 规则统计: 1614
 
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -56,6 +56,7 @@ DOMAIN,ktpx.amazon.com
 DOMAIN,lab.skk.moe
 DOMAIN,login.alibaba.com
 DOMAIN,lookup-api.apple.com
+DOMAIN,merchant-rating.alibaba.com
 DOMAIN,new.c.mi.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client-search.apple.com

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1613
+# 规则统计: 1614
 
 no_resolve: true
 domain_set:
@@ -58,6 +58,7 @@ domain_set:
   - lab.skk.moe
   - login.alibaba.com
   - lookup-api.apple.com
+  - merchant-rating.alibaba.com
   - new.c.mi.com
   - news-assets.apple.com
   - news-client-search.apple.com
