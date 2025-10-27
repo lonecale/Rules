@@ -610,6 +610,7 @@
 - [hbo](rules/hbo.txt)
 - [hcaptcha](rules/hcaptcha.txt)
 - [hellofont](rules/hellofont.txt)
+- [hentaichen](rules/hentaichen.txt)
 - [hentaivn](rules/hentaivn.txt)
 - [heroku](rules/heroku.txt)
 - [hetzner](rules/hetzner.txt)
