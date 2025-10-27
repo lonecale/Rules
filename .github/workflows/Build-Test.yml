@@ -36,7 +36,7 @@ jobs:
           curl -f -L -A "Surge iOS/9527" "https://kelee.one/Tool/Loon/Lsr/ChinaDownloadCDN.lsr" -o Tool-repo/Ruleset/DownloadCDN_CN.list
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: remote-files
           path: |
