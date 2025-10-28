@@ -942,6 +942,7 @@
 - [nist](rules/nist.txt)
 - [nixos](rules/nixos.txt)
 - [nodejs](rules/nodejs.txt)
+- [nodeseek](rules/nodeseek.txt)
 - [nordstrom](rules/nordstrom.txt)
 - [notion](rules/notion.txt)
 - [now](rules/now.txt)
@@ -1401,6 +1402,7 @@
 ## X
 - [x](rules/x.txt)
 - [x315](rules/x315.txt)
+- [x5](rules/x5.txt)
 - [xai](rules/xai.txt)
 - [xbox](rules/xbox.txt)
 - [xd](rules/xd.txt)
