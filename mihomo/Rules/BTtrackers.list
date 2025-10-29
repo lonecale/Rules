@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 170
+# 规则统计: 171
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -32,6 +32,7 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
+DOMAIN,glotorrents.pw
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
@@ -80,7 +81,6 @@ DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
-DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
@@ -136,6 +136,7 @@ DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
