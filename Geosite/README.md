@@ -612,6 +612,7 @@
 - [hellofont](rules/hellofont.txt)
 - [hentaichen](rules/hentaichen.txt)
 - [hentaivn](rules/hentaivn.txt)
+- [herogame](rules/herogame.txt)
 - [heroku](rules/heroku.txt)
 - [hetzner](rules/hetzner.txt)
 - [heytea](rules/heytea.txt)
