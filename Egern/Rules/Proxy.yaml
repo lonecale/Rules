@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1616
+# 规则统计: 1617
 
 no_resolve: true
 domain_set:
@@ -196,6 +196,7 @@ domain_suffix_set:
   - archive.org
   - archive.today
   - archiveofourown.org
+  - armorgames.com
   - articles.sk
   - artstation.com
   - ashemaletube.com
