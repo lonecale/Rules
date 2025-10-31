@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 168
+# 规则统计: 171
 
 no_resolve: true
 domain_set:
@@ -33,11 +33,12 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
+  - glotorrents.pw
   - home.yxgz.club
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns3109441.mypdns.org
@@ -46,6 +47,7 @@ domain_set:
   - open.demonii.com
   - open.demonoid.ch
   - open.dstud.io
+  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -66,7 +68,6 @@ domain_set:
   - shubt.net
   - t-backup.213891.xyz
   - t.213891.xyz
-  - t.overflow.biz
   - threads.canofsocks.com
   - tk.greedland.net
   - torrent.hificode.in
@@ -79,6 +80,7 @@ domain_set:
   - tr.nyacat.pw
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
+  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
   - tracker.23794.top
@@ -112,6 +114,7 @@ domain_set:
   - tracker.hifitechindia.com
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
+  - tracker.ipv6tracker.ru
   - tracker.kmzs123.cn
   - tracker.kuroy.me
   - tracker.leechshield.link
