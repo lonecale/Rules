@@ -1129,6 +1129,7 @@
 - [segmentfault](rules/segmentfault.txt)
 - [sehuatang](rules/sehuatang.txt)
 - [sensorsdata-ads](rules/sensorsdata-ads.txt)
+- [sentry](rules/sentry.txt)
 - [setapp](rules/setapp.txt)
 - [setn](rules/setn.txt)
 - [sf-express](rules/sf-express.txt)
