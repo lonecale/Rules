@@ -38,6 +38,7 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - isk.richardsw.club
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - nyaa.tracker.wf
@@ -76,11 +77,11 @@ domain_set:
   - tr.abiir.top
   - tr.abir.ga
   - tr.highstar.shop
+  - tr.kxmp.cf
   - tr.nyacat.pw
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
-  - tracker-udp.gbitt.info
   - tracker.1h.is
   - tracker.23794.top
   - tracker.alaskantf.com
@@ -145,7 +146,6 @@ domain_set:
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
   - tracker.vanitycore.co
-  - tracker.waaa.moe
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
