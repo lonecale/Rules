@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1617
+# 规则统计: 1630
 
 no_resolve: true
 domain_set:
@@ -99,6 +99,7 @@ domain_suffix_set:
   - 1passwordservices.com
   - 1point3acres.com
   - 24.com
+  - 2ch.sc
   - 360ssh.com
   - 3movs.com
   - 4cdn.org
@@ -212,6 +213,7 @@ domain_suffix_set:
   - auth0.com
   - autodesk.com
   - autodraw.com
+  - av28.com
   - avg.com
   - avgle.com
   - avtoday.io
@@ -263,6 +265,7 @@ domain_suffix_set:
   - blizzard.com
   - blogblog.com
   - blogger.com
+  - blogjav.net
   - bloglovin.com
   - bloomberg.cn
   - bloomberg.com
@@ -302,8 +305,10 @@ domain_suffix_set:
   - cam4.com
   - camsoda.com
   - canarymail.io
+  - cangku.moe
   - capitalg.com
   - castbox.fm
+  - catbox.moe
   - cbs.com
   - cbslocal.com
   - cbsnews.com
@@ -656,6 +661,7 @@ domain_suffix_set:
   - grep.app
   - grindr.com
   - grok.com
+  - ground.news
   - gs
   - gstatic.com
   - gumroad.com
@@ -742,6 +748,7 @@ domain_suffix_set:
   - infoq.com
   - initiummall.com
   - inoreader.com
+  - instagr.am
   - instagram.com
   - instatus.com
   - intel.com
@@ -763,15 +770,18 @@ domain_suffix_set:
   - istockphoto.com
   - it
   - itasoftware.com
+  - itch.io
   - ixxx.com
   - j.mp
   - jav.pw
+  - jav321.com
   - java.com
   - javbus.com
   - javdb.com
   - javdove.com
   - javhd.com
   - javhd.today
+  - javhub.net
   - javlibrary.com
   - javmost.com
   - javtrailers.com
@@ -1081,6 +1091,7 @@ domain_suffix_set:
   - poe.com
   - poeditor.com
   - polymer-project.org
+  - pomf.cat
   - porn.com
   - porngo.com
   - pornhd.com
@@ -1444,6 +1455,7 @@ domain_suffix_set:
   - vrporn.com
   - vxtwitter.com
   - vzw.com
+  - w.wiki
   - w3schools.com
   - wa.me
   - waifu2x.net
@@ -1573,6 +1585,7 @@ domain_suffix_set:
   - zaobao.com
   - zaobao.com.sg
   - zbporn.com
+  - zdnet.com
   - zello.com
   - zendesk.com
   - zenn.dev
