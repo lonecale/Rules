@@ -153,6 +153,7 @@
 - [bestv](rules/bestv.txt)
 - [bethesda](rules/bethesda.txt)
 - [betterexplained](rules/betterexplained.txt)
+- [bilibili-cdn](rules/bilibili-cdn.txt)
 - [bilibili-game](rules/bilibili-game.txt)
 - [bilibili](rules/bilibili.txt)
 - [bilibili2](rules/bilibili2.txt)
