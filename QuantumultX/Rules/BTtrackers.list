@@ -1,13 +1,15 @@
 # 规则名称: BTtrackers
-# 规则统计: 169
+# 规则统计: 168
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
+HOST,1c.premierzal.ru,BTtrackers
 HOST,2.tracker.eu.org,BTtrackers
 HOST,3.tracker.eu.org,BTtrackers
 HOST,4.tracker.eu.org,BTtrackers
+HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
@@ -29,15 +31,13 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
-HOST,hificode.in,BTtrackers
 HOST,home.yxgz.club,BTtrackers
+HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
-HOST,leet-tracker.moe,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
-HOST,ns-1.x-fins.com,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.acgtracker.com,BTtrackers
@@ -71,7 +71,6 @@ HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
-HOST,tr-rh-zhuqiy.dgj055.icu,BTtrackers
 HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
@@ -118,6 +117,7 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
+HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.playground.ru,BTtrackers
@@ -136,7 +136,6 @@ HOST,tracker.t-1.org,BTtrackers
 HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
-HOST,tracker.torrust-demo.com,BTtrackers
 HOST,tracker.tritan.gg,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.tvunderground.org.ru,BTtrackers
@@ -146,6 +145,7 @@ HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
+HOST,tracker.zupix.online,BTtrackers
 HOST,tracker1.520.jp,BTtrackers
 HOST,tracker1.bt.moack.co.kr,BTtrackers
 HOST,tracker2.dler.org,BTtrackers
@@ -162,7 +162,6 @@ HOST,www.genesis-sp.org,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
-HOST,yuki.bt.bontal.net,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers
