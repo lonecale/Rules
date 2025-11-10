@@ -1259,6 +1259,7 @@
 - [tencent-games](rules/tencent-games.txt)
 - [tencent](rules/tencent.txt)
 - [tendcloud](rules/tendcloud.txt)
+- [terabox](rules/terabox.txt)
 - [termux](rules/termux.txt)
 - [tesla](rules/tesla.txt)
 - [test-ipv6](rules/test-ipv6.txt)
