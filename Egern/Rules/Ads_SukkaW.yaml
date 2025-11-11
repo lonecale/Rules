@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 110509
+# 规则统计: 110547
 
 no_resolve: true
 domain_set:
@@ -456,6 +456,7 @@ domain_set:
   - doh.iqiyi.com
   - doh.ptqy.gitv.tv
   - doh.zjurl.cn
+  - donate.wikimedia.org
   - download.wan.sohu.com
   - dp.im.weibo.cn
   - dp3.qq.com
@@ -8518,6 +8519,7 @@ domain_suffix_set:
   - anytimebananarecoil.com
   - anywaypossible.com
   - anz7.allianz-voyage.fr
+  - anzawqpfawi.com
   - anzaxffpetu.com
   - anzeretp.com
   - anzntibxddepf.website
@@ -13131,6 +13133,7 @@ domain_suffix_set:
   - bibbevgvdvlua.online
   - biberukalap.com
   - bibglj.timberland.fr
+  - bibuxnjisn.com
   - biconcave43.com
   - bicp-analytics.postscript.io
   - bicyclolures.click
@@ -14607,6 +14610,7 @@ domain_suffix_set:
   - buttonladybug.com
   - buttonsreliabletome.com
   - buukm.asarai.com
+  - buvkkecibaf.com
   - buvtctejad.com
   - bux1le001.com
   - buy.erasilk.com
@@ -24810,6 +24814,7 @@ domain_suffix_set:
   - data.uatnews.deutsche-bank.de
   - data.uatnews.fyrst.de
   - data.uatnews.postbank.de
+  - data.ubi.com
   - data.ublock-browser.com
   - data.ubs.test.ajo.adobe.com
   - data.uk-email.princess.com
@@ -25229,6 +25234,7 @@ domain_suffix_set:
   - ddqobjbnfmrd.com
   - ddqwdh.sofastyle.jp
   - ddr.donosderestaurantes.com
+  - ddrdotdzgzsjz.space
   - ddrfn.grazly.co
   - ddrqaq.superkul.no
   - ddrqd9eox.com
@@ -26236,6 +26242,7 @@ domain_suffix_set:
   - dit.whatsapp.net
   - dita6jhhqwoiz.cloudfront.net
   - ditaljukebox.click
+  - ditcbazcpqlm.com
   - dithodackee.com
   - divergentld.com
   - diverhaul.com
@@ -27241,6 +27248,7 @@ domain_suffix_set:
   - duiwai.baidu.com
   - dujgiq.trendhim.pl
   - dukasowse.com
+  - dukdgfanjdmgi.store
   - dukea.alice.camera
   - dukingdraon.com
   - duksomsy.com
@@ -29780,6 +29788,7 @@ domain_suffix_set:
   - erp.qwic.nl
   - erpapzpe.apothekary.com
   - erptruth.kronos.com
+  - erqnkptmllgwm.online
   - err.ifengcloud.ifeng.com
   - errandsracket.com
   - error-analytics-production.shopifysvc.com
@@ -30702,6 +30711,7 @@ domain_suffix_set:
   - explore-dev.agilent.com
   - explore-ft.agilent.com
   - explore-uat.agilent.com
+  - explore.agilent.com
   - explore.att.com
   - explore.broncos.com.au
   - explore.bytelab.uk
@@ -32263,6 +32273,7 @@ domain_suffix_set:
   - forooqso.tv
   - forpci3.siege-corp.com
   - forprimeapeon.com
+  - forrapenicil.help
   - forsakenburn.com
   - forscprts.com
   - forthdigestive.com
@@ -32487,6 +32498,7 @@ domain_suffix_set:
   - fracturebroadcastsaw.com
   - fragrantanger.com
   - frailfruit.com
+  - fraistfast.click
   - framebanana.com
   - framessemicolonought.com
   - france.alphabet.com
@@ -32594,6 +32606,7 @@ domain_suffix_set:
   - fresh-kind.com
   - fresh8.co
   - freshatl.azurewebsites.net
+  - freshlyhuman.com
   - freshpops.net
   - fresnel-events.vimeocdn.com
   - fresnelraggery.cyou
@@ -32624,6 +32637,7 @@ domain_suffix_set:
   - frms.fiserv.com
   - frocompactcountless.com
   - frodo.space
+  - froecyuihrykr.online
   - frog.borgs.app
   - frog.editorx.com
   - frog.yuanfudao.com
@@ -32902,6 +32916,7 @@ domain_suffix_set:
   - fvmpm.fromrebel.com
   - fvpcmlmpoyldc.space
   - fvrpgjewjakqo.site
+  - fvtlqmpcmgcxe.online
   - fvuhjhguxtytn.space
   - fvuitt.alibabuy.com
   - fvvpekpy.com
@@ -40702,6 +40717,7 @@ domain_suffix_set:
   - hpjeyfsbhxwxb.com
   - hpjmsw.inbagno.it
   - hpjyqjdnm.com
+  - hpkjdxjqea.com
   - hpkqulblm.com
   - hplkcs.emp-shop.no
   - hplrqg.interflora.fr
@@ -46066,6 +46082,7 @@ domain_suffix_set:
   - katylz.lojaspompeia.com
   - kaubapsy.com
   - kaushooptawo.net
+  - kaustoapti.com
   - kauvqr.schulteherenmode.nl
   - kavanga.ru
   - kawcwtuxb.net
@@ -53415,6 +53432,7 @@ domain_suffix_set:
   - lohhp.champion.com
   - loijtoottuleringv.info
   - loinpriestinfected.com
+  - loireigh.rest
   - lojusypsa.com
   - lojvicwu.com
   - lokalwerben.t-online.de
@@ -54678,6 +54696,7 @@ domain_suffix_set:
   - mapp.yesstyle.com
   - mapscu.fmservice.com
   - mapsoumpooroo.com
+  - maqdciah.com
   - maracaspeevers.click
   - marapcana.online
   - marazma.com
@@ -56774,6 +56793,7 @@ domain_suffix_set:
   - mbidpsh.com
   - mbidtg.com
   - mbjbs.thecoutureclub.com
+  - mbjqurkb.com
   - mbjrkm2.com
   - mblctr.sportfood-center.com
   - mbljpu9.com
@@ -56784,6 +56804,7 @@ domain_suffix_set:
   - mbohp.capouk.com
   - mbopt.bruker.com
   - mboqjiamopwraqm.com
+  - mbox.wegmans.com
   - mbox12.offermatica.com
   - mbox3.offermatica.com
   - mbox3e.offermatica.com
@@ -60601,6 +60622,7 @@ domain_suffix_set:
   - montelena.gmarket.co.kr
   - monthdisembroildisembroilhenrietta.com
   - monthfour0225.xyz
+  - monthlygain.pro
   - monthlyhat.com
   - monthlypatient.com
   - montkpl.top
@@ -60764,6 +60786,7 @@ domain_suffix_set:
   - mowvra.idlookmall.com
   - moxiplayer-ss.olladeals.com
   - moxxaxuptow.com
+  - mozillafoundation.org
   - mozoo.com
   - mp-api.afafb.com
   - mp.cwtv.com
@@ -64312,6 +64335,7 @@ domain_suffix_set:
   - omniture443.partycity.ca
   - omniture443.partycity.com
   - omnkukvzip.com
+  - omns.americanexpress.com
   - omns.crackle.com
   - omns.murdoch.edu.au
   - omomku7r4n3vo55rp5k.xyz
@@ -65546,6 +65570,7 @@ domain_suffix_set:
   - p3r44gnxnhllzm4mgme.cfd
   - p42roqq4uzt3qi1.rest
   - p4gdt4um6.com
+  - p4m57cxozweeyzh165whvfv.cfd
   - p4p.sina.com.cn
   - p4pl7u8vqerw6gn7nwzc9vyi.cfd
   - p543.inquirer.com
@@ -69846,6 +69871,7 @@ domain_suffix_set:
   - qojhc.unique-vintage.com
   - qojzvvcdmgwui.store
   - qolkekwuvcjvm.website
+  - qomg1mhlxx85nut49vw9xw.rest
   - qomqxzufyzmit.site
   - qonbibff.icu
   - qonwdq.helmexpress.com
@@ -70723,6 +70749,7 @@ domain_suffix_set:
   - rdfeesvsxhsyn.online
   - rdfine.camelbrown.com
   - rdfnq.etrgovinica.si
+  - rdglvviqbgmh.com
   - rdhag.sansmatin.co.uk
   - rdhzeagmyxdim.site
   - rdjpkunfu.com
@@ -71647,6 +71674,7 @@ domain_suffix_set:
   - rgecga.piary.jp
   - rgfdd.victoriarosepark.com
   - rggeolibxevzn.website
+  - rggkqhigsaivi.store
   - rghnkoxtxsdfi.online
   - rghpjl.tsuchiya-kaban.jp
   - rgiixp.sperry.com
@@ -72193,6 +72221,7 @@ domain_suffix_set:
   - routes.navibration.com
   - rouvoute.net
   - rouwhapt.com
+  - rovctmkdx.com
   - rovememoirs.com
   - rover.mypowerpeptides.com
   - rover.powerpeptides.com
@@ -72290,6 +72319,7 @@ domain_suffix_set:
   - rqvrbf.icu
   - rqvsws.carreblanc.com
   - rqwlvvkoqqvoj.top
+  - rqyebojzwakzk.top
   - rqyxdk.myanimelist.net
   - rqz4.supdigital.fr
   - rqzolelelmylj.top
@@ -74497,6 +74527,7 @@ domain_suffix_set:
   - sdgsheh.top
   - sdhfbvd.com
   - sdhnz.qualialife.com
+  - sdicbddapqbqq.space
   - sdjof.nadinemerabi.com
   - sdjthl.tvguide.dk
   - sdk-analytics-web.cloud.itau.com.br
@@ -81826,6 +81857,7 @@ domain_suffix_set:
   - squaretennis.pro
   - squarewave.top
   - squaryscurfs.cyou
+  - squawlbluest.cfd
   - squeakzinc.com
   - squealingturn.com
   - squeelgledes.rest
@@ -102751,6 +102783,7 @@ domain_suffix_set:
   - uexteqwr.com
   - ueykjfltxqsb.space
   - ueyuww.icu
+  - uezbiytinfnyn.site
   - uezeus.ueberbit.de
   - uezyps.bedario.hu
   - uf1t9www2p817v.cfd
@@ -103406,6 +103439,7 @@ domain_suffix_set:
   - upodaitie.net
   - uponomanytetor.com
   - uponsurskita.com
+  - upoqtcynyaikm.space
   - uporzu.prestashop.com
   - uposnmb.icu
   - uposz.procoffeegear.com
@@ -105766,6 +105800,7 @@ domain_suffix_set:
   - wearemiq.com
   - wearychallengeraise.com
   - weasel.madebytune.be
+  - weasonszymite.qpon
   - weatherplllatform.com
   - web-01-gbl.com
   - web-analytics.lastpass.com
@@ -106754,6 +106789,7 @@ domain_suffix_set:
   - wknd.ai
   - wkndiu.profi.ru
   - wkoeoarkqqywr.top
+  - wkoiubcvaimnn.store
   - wkpjgh.toysrus.pt
   - wkptzopfmmezc.space
   - wkpvtc.fluege.de
@@ -107498,6 +107534,7 @@ domain_suffix_set:
   - wwwstat.rz.uni-leipzig.de
   - wwwwzerbmoezr.top
   - wwyoyuutoudbf.space
+  - wwyujfttbpknx.website
   - wwzvxruceyuwh.online
   - wxaaqr.plusdental.de
   - wxbaal.ecosa.com.hk
@@ -108042,6 +108079,7 @@ domain_suffix_set:
   - xohhed.macway.com
   - xoilactvcj.cc
   - xoiz.cn
+  - xojsvfdexzpob.store
   - xokjyblabfmc.com
   - xolebe.footway.se
   - xopnqk.wconcept.co.kr
