@@ -1,10 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 163
+# 规则统计: 166
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,1c.premierzal.ru,BTtrackers
+HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
@@ -26,13 +27,15 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
+HOST,hificode.in,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
+HOST,isk.richardsw.club,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
-HOST,ns-1.x-fins.com,BTtrackers
+HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.acgtracker.com,BTtrackers
@@ -77,12 +80,10 @@ HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-zhuqiy.dgj055.icu,BTtrackers
-HOST,tracker.1h.is,BTtrackers
 HOST,tracker.23794.top,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
-HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
@@ -105,6 +106,7 @@ HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.ghostchu-services.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
+HOST,tracker.hifitechindia.com,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
@@ -122,11 +124,12 @@ HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwa.pro,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
-HOST,tracker.rescuecrew7.com,BTtrackers
 HOST,tracker.sbsub.com,BTtrackers
+HOST,tracker.skillindia.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
 HOST,tracker.startwork.cv,BTtrackers
+HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrust-demo.com,BTtrackers
