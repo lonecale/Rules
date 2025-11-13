@@ -200,6 +200,7 @@
 - [buypass](rules/buypass.txt)
 - [bybit](rules/bybit.txt)
 - [bytedance-ads](rules/bytedance-ads.txt)
+- [bytedance-ai-!cn](rules/bytedance-ai-!cn.txt)
 - [bytedance](rules/bytedance.txt)
 ## C
 - [c-span](rules/c-span.txt)
@@ -210,6 +211,7 @@
 - [camwhores](rules/camwhores.txt)
 - [canon](rules/canon.txt)
 - [canonical](rules/canonical.txt)
+- [canva](rules/canva.txt)
 - [capitalonline](rules/capitalonline.txt)
 - [cas](rules/cas.txt)
 - [casimages](rules/casimages.txt)

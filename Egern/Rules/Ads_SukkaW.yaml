@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 110667
+# 规则统计: 110717
 
 no_resolve: true
 domain_set:
@@ -807,6 +807,7 @@ domain_set:
   - nmobi.kuwo.cn
   - notice.iqiyi.com
   - ntp.api.bz
+  - o.send.now
   - oct.pocoiq.cn
   - offnavi.map.baidu.com
   - omgmta.play.ott.video.qq.com
@@ -2014,6 +2015,7 @@ domain_suffix_set:
   - 5f-hj8-5d2g.dnsdf.com
   - 5fm.985fm.ca
   - 5fyme6x6uy.com
+  - 5g92whipbmzmm856z1.rest
   - 5gg466kzv.com
   - 5gtb.com
   - 5h3oyhv838.com
@@ -5986,6 +5988,7 @@ domain_suffix_set:
   - agenteimmobiliare.info
   - agenter32.top
   - agexpo.americanexpress.com
+  - agfkvqruxx.com
   - aggalj.eloem.kr
   - aggawioqmptcw.site
   - aggle.net
@@ -5993,6 +5996,7 @@ domain_suffix_set:
   - aggregateknowledge.com
   - aggregationdestructoppression.com
   - aggressiveinformation.pro
+  - aggtizmals.com
   - agi-static.indiatimes.com
   - agile-company-247.com
   - agile-company-365.com
@@ -11525,6 +11529,7 @@ domain_suffix_set:
   - aumarketing.sedgwick.com
   - aumtoubsoas.com
   - aumumseethekis.com
+  - aunnnuvegyzfm.website
   - aunsaick.com
   - aunstollarinets.com
   - auntiealtogethertumor.com
@@ -13875,6 +13880,7 @@ domain_suffix_set:
   - borzjournal.ru
   - bosctrl32.com
   - bosrs.avenue.com
+  - bossy-conversation.com
   - bossyhearing.com
   - bossywake.pro
   - bot.asksyllable.com
@@ -18280,6 +18286,7 @@ domain_suffix_set:
   - conciergeeccentricstrained.com
   - concludedgrowlabdicate.com
   - concludelivingshowman.com
+  - concrete-occasion.com
   - concretetom.com
   - concurfortunes.com
   - conde.digital
@@ -19368,6 +19375,7 @@ domain_suffix_set:
   - crigroik.com
   - criitpoy.com
   - crimsonmeadow.com
+  - crinchallegro.com
   - criqai.com
   - criqkbrutuvahi.com
   - crisistuesdayartillery.com
@@ -24846,7 +24854,6 @@ domain_suffix_set:
   - data.uatnews.deutsche-bank.de
   - data.uatnews.fyrst.de
   - data.uatnews.postbank.de
-  - data.ubi.com
   - data.ublock-browser.com
   - data.ubs.test.ajo.adobe.com
   - data.uk-email.princess.com
@@ -26103,6 +26110,7 @@ domain_suffix_set:
   - diocgn.biltorvet.dk
   - diomateneums.click
   - dioqto.totaljobs.com
+  - dipperflightrecommend.com
   - dippergeologyprescribe.com
   - dippingearlier.com
   - direcompulsion.com
@@ -28053,6 +28061,7 @@ domain_suffix_set:
   - echoinghaven.com
   - echopixelwave.net
   - ecinvdw.top
+  - ecinw7ux5nyzcoy4ef8.cfd
   - eck.brettspieleck.de
   - eckbu.santascoffee.com
   - eckje.furking.com.au
@@ -29768,6 +29777,7 @@ domain_suffix_set:
   - eqingl.ivet.bg
   - eqkwat.histoiredor.com
   - eqltxthw.com
+  - eqlzbrictopyi.space
   - eqmrfnyrrf.com
   - eqnhdlauuuz.com
   - eqothv.degrenne.fr
@@ -30756,7 +30766,6 @@ domain_suffix_set:
   - explore-dev.agilent.com
   - explore-ft.agilent.com
   - explore-uat.agilent.com
-  - explore.agilent.com
   - explore.att.com
   - explore.broncos.com.au
   - explore.bytelab.uk
@@ -31292,6 +31301,7 @@ domain_suffix_set:
   - fc.vodafone.de
   - fc.webmasterpro.de
   - fc09u3zfm.com
+  - fc2ppvdb.live
   - fc5d7c4624.com
   - fcapi.afsaramart.com
   - fcapi.auradecorbd.com
@@ -31619,6 +31629,7 @@ domain_suffix_set:
   - fijekone.com
   - fijipic.xyz
   - fijzm.rarecarat.com
+  - fikcumtafxat.com
   - fiko.cpm-toohigh.click
   - fiko2.skin-squad.click
   - fiksu.com
@@ -31909,6 +31920,7 @@ domain_suffix_set:
   - flakinggraces.rest
   - flaky-comment.com
   - flakyfeast.com
+  - flamesgleamed.com
   - flameuncle.com
   - flamingo.abihome.de
   - flamingo.podcast.taxi
@@ -32047,6 +32059,7 @@ domain_suffix_set:
   - flutteringfireman.com
   - flux.gameboost.com
   - fluxads.com
+  - fluxivebinous.cyou
   - fluxo.drluizsegundo.com
   - flvpzm.pexo.cz
   - flxr.myplan-c.com
@@ -32185,6 +32198,7 @@ domain_suffix_set:
   - food.pentonmarketingsvcs.com
   - food9wave.com
   - foodbrochure.advancedtech.com
+  - foodczar.com
   - foodfunfestivals.com
   - foodieblogroll.com
   - foodpackaging.kpfilms.com
@@ -32579,6 +32593,7 @@ domain_suffix_set:
   - fraudandcyberawareness.safeguard.hsbc.com
   - fraudmetrix.cn
   - frayhalfyear.com
+  - fraysystems.com
   - frbdzc.goguynet.jp
   - frbmdx.fwrd.com
   - frc.redcross.fi
@@ -32815,6 +32830,7 @@ domain_suffix_set:
   - ftvmvbzsaqizd.space
   - ftwo-feedback.autohome.com.cn
   - ftwo-receiver.autohome.com.cn
+  - ftyspctyrjenw.space
   - ftysya.aboutyou.de
   - ftzets.silkfred.com
   - fuaeamtdwbodj.website
@@ -32978,6 +32994,7 @@ domain_suffix_set:
   - fwbothkacrw.com
   - fwd-mtg.jobrad-loop.com
   - fwefafajrjaz.com
+  - fwhiygzlhmklt.website
   - fwjyxwdkot.com
   - fwkwtw.amorossa.com
   - fwmknvveyfahw.site
@@ -33356,6 +33373,7 @@ domain_suffix_set:
   - gardenovens.com
   - gargleearnest.com
   - garglingably.com
+  - garlandshooing.click
   - garlicice.store
   - garm9yuma.com
   - garmentcivilizepitcher.com
@@ -39400,6 +39418,7 @@ domain_suffix_set:
   - gxfctjvbewis.com
   - gxiacapeptyos.club
   - gximqn.lojamundi.com.br
+  - gxj3c7zzx1nyt2teg4ofwq12jwm4nwlul7fk.rest
   - gxjajt.com
   - gxjekl.hdsupplysolutions.com
   - gxjnyy.contorion.fr
@@ -44382,6 +44401,7 @@ domain_suffix_set:
   - ipt.versusarthritis.org
   - iptmgi.akan.co.kr
   - iptmih.hifi-regler.de
+  - iptouglaufaiglo.com
   - iptrauaktnua.com
   - ipummv.pharao24.de
   - ipuqsk.mistral.com.br
@@ -45084,6 +45104,7 @@ domain_suffix_set:
   - jewelryforest.com
   - jewelrysprings.com
   - jewuiaqsufaztj.com
+  - jewyercqcdjee.com
   - jexncruibcvjc.store
   - jexxbnubkymi.com
   - jeyd.cn
@@ -45820,6 +45841,7 @@ domain_suffix_set:
   - juicycash.net
   - juicymortgage.com
   - jujtcq.amnibus.com
+  - julfajotgw.com
   - jullyambery.net
   - julpo.precise.credit
   - julrdr.com
@@ -45922,6 +45944,7 @@ domain_suffix_set:
   - jwlvlo.icaniwill.dk
   - jwmhqs.fsk.ru
   - jwmzdm.piccadilly.com.br
+  - jwp4th9kj1i89ce.cfd
   - jwpltx.com
   - jwqzhlgu.com
   - jwskmcdwbdocq.com
@@ -46314,6 +46337,7 @@ domain_suffix_set:
   - keras.ohtpro.com
   - keresanheliums.rest
   - keresgrab.shop
+  - kernelbudstwig.com
   - kernellife.com
   - kernenergie.efscle.com
   - kernh41.com
@@ -49174,6 +49198,7 @@ domain_suffix_set:
   - livecounter.theyosh.nl
   - livelumber.com
   - livelylaugh.com
+  - livelymatter.com
   - livemonitor.huan.tv
   - livenmahomet.help
   - liverstopped.com
@@ -54128,6 +54153,7 @@ domain_suffix_set:
   - lv.myapks.com
   - lv6od3a4sz12.www.logology.co
   - lv6ulyf7nmc7whvuuhrrn.cfd
+  - lvaazvwzylbav.top
   - lvakowxfzgnoo.online
   - lvbdml.avantajosul.ro
   - lvbeybbrwlzzv.top
@@ -56860,7 +56886,6 @@ domain_suffix_set:
   - mbohp.capouk.com
   - mbopt.bruker.com
   - mboqjiamopwraqm.com
-  - mbox.wegmans.com
   - mbox12.offermatica.com
   - mbox3.offermatica.com
   - mbox3e.offermatica.com
@@ -63845,6 +63870,7 @@ domain_suffix_set:
   - offchatotor.com
   - offenceperiod.com
   - offensive-park.com
+  - offensivefountainrabbit.com
   - offer.barakatiya.com
   - offer.coface.com
   - offer.fmservice.com
@@ -63976,6 +64002,7 @@ domain_suffix_set:
   - ohjmhuoknq.com
   - ohjrxj.personalizationmall.com
   - ohkcn.hotelcollectionofficial.se
+  - ohkkmatizrw.com
   - ohm-dot-hackster-io.appspot.com
   - ohmy.bid
   - ohooftaux.net
@@ -64412,7 +64439,6 @@ domain_suffix_set:
   - omniture443.partycity.ca
   - omniture443.partycity.com
   - omnkukvzip.com
-  - omns.americanexpress.com
   - omns.crackle.com
   - omns.murdoch.edu.au
   - omomku7r4n3vo55rp5k.xyz
@@ -65011,6 +65037,7 @@ domain_suffix_set:
   - oriencypant.shop
   - orientationphotographicmanslaughter.com
   - orientedargument.com
+  - orientsweptautopsy.com
   - origin-target.humana.com
   - origin.tst.healthsystems.philips.com
   - origin.tst.healthtechproducts.philips.com
@@ -67737,6 +67764,7 @@ domain_suffix_set:
   - ploughplbroch.com
   - plowh.com
   - ploy.batmobi.net
+  - ployimmediately.com
   - plp.linxio.com
   - plqbxvnjxq92.com
   - plrjs.org
@@ -68120,6 +68148,7 @@ domain_suffix_set:
   - powerup.rsaworks.com
   - powferads.com
   - poyc.cn
+  - poyoualas.click
   - pozdl.bigfigmattress.com
   - pp-lfekpkr.buzz
   - pp.fitnesshubbd.xyz
@@ -70158,6 +70187,7 @@ domain_suffix_set:
   - qtjqxpmynsjtg.online
   - qtkxbm.danguitar.dk
   - qtljl.hopwtr.com
+  - qtluqhjqyxyogc.com
   - qtmcctlezxmvt.online
   - qtmqwnrvcfhg.com
   - qtmvp.roamans.com
@@ -70369,6 +70399,7 @@ domain_suffix_set:
   - qxerzu.dona-d.com
   - qxeymg.icu
   - qxgfdq.maiutazas.hu
+  - qxgoqksqhipkgx.com
   - qxibrn.enviedefraise.fr
   - qxjfpz.hoop-mall.co.kr
   - qxkous.sweet-mommy.com
@@ -71020,6 +71051,7 @@ domain_suffix_set:
   - recognisetorchfreeway.com
   - recognize04.top
   - recommendationbredshrimp.com
+  - recommendedcasualtymysterious.com
   - reconditeprison.com
   - reconditerake.com
   - reconditerespect.com
@@ -71871,6 +71903,7 @@ domain_suffix_set:
   - rickywhence.com
   - ricxxtkkpnadaj.com
   - rid.waizbd.com
+  - riddamreserve.help
   - riddenlernaea.com
   - ride.playkinetix.nl
   - rideblackbird.com
@@ -74379,6 +74412,7 @@ domain_suffix_set:
   - scenicdrops.com
   - scent.noseandpartners.com
   - scented-leather.com
+  - scentedassociation.pro
   - scesqoikq.com
   - scevoo.alinda.hu
   - scfhwp.ski-express.com
@@ -74683,6 +74717,7 @@ domain_suffix_set:
   - seahorseinfo.agilent.com
   - sealingidlemen.click
   - sealsteroid.com
+  - sealtravels.com
   - seamless.analyticainvestor.com
   - seamless.cocoaveloria.com
   - seamless.dehippetrouwambtenaar.com
@@ -80645,6 +80680,7 @@ domain_suffix_set:
   - smeerconvexo.rest
   - smelel.icu
   - smelt.allenpike.com
+  - smeofmam.com
   - smess.ruggable.co.uk
   - smet.jaspersoft.com
   - smetc.banfield.com
@@ -91912,6 +91948,7 @@ domain_suffix_set:
   - steamers77.com
   - steamjaws.com
   - stedallthrought.com
+  - steehouque.net
   - steel.newmill.com
   - steelmaiden.com
   - steelreproach.com
@@ -92766,6 +92803,7 @@ domain_suffix_set:
   - supportsentparticle.com
   - supportwaves.com
   - suppose84.com
+  - supposecrummystorm.com
   - supposedsite.com
   - suppressedbottlesenjoyable.com
   - suppresseduphousing.com
@@ -95283,6 +95321,7 @@ domain_suffix_set:
   - tauzo.xyz
   - tavslbpumuzab.com
   - tawdryson.com
+  - tawhizlirtzo.com
   - tawmbg.tower-london.com
   - taxility.com
   - taxissunroom.com
@@ -95603,6 +95642,7 @@ domain_suffix_set:
   - techads.nazifshop.com
   - techconverter.com
   - techdoor.com
+  - techfrenal.click
   - techiteration.com
   - techneparlous.com
   - technical.kyzen.com
@@ -101141,6 +101181,7 @@ domain_suffix_set:
   - treadhospitality.com
   - treasonfinding.com
   - treasonmason.com
+  - treasurerchord.com
   - treatedscale.com
   - treatjayworkman.com
   - treatment.grammarly.com
@@ -102863,6 +102904,7 @@ domain_suffix_set:
   - ueedg.maximinfra.in
   - ueefnr.roan.de
   - uefyhv.licila.si
+  - uegonhnxbiyrc.website
   - ueivh.greenllamaclean.com
   - uektedsni.com
   - uektouluarthe.site
@@ -103054,6 +103096,7 @@ domain_suffix_set:
   - ujgac.quithero.com.au
   - ujgjrajahqcpv.website
   - ujgobywxexkti.website
+  - ujhmwfajzdsvu.space
   - ujimtyt.top
   - ujivs.robertdyas.co.uk
   - ujkoff.revcook.com
@@ -103294,6 +103337,7 @@ domain_suffix_set:
   - unfancyvergers.cfd
   - unfinished-apple.com
   - unfitstrain.pro
+  - unflushunsee.cfd
   - unfolded-plane.com
   - unfoolvenines.cfd
   - unfortunatelyemotion.com
@@ -104300,6 +104344,7 @@ domain_suffix_set:
   - velvet.eliteelegance.xyz
   - velvetdock.com
   - velvetquasar.com
+  - velvzzjayrozj.top
   - vempeeda.com
   - vemqkbaqyjzlm.top
   - vemtoutcheeg.com
@@ -107140,6 +107185,7 @@ domain_suffix_set:
   - worriedwine.com
   - worryinginadmissible.com
   - worsesteal.pro
+  - worstpacifyflames.com
   - worthless-news.com
   - worthlessbend.com
   - worthyboxersympathy.com
@@ -107245,6 +107291,7 @@ domain_suffix_set:
   - wrhjxwsghxlcr.online
   - wrhv.education.gouv.fr
   - wringbible.com
+  - wristicalit.com
   - wristseeingscald.com
   - writerhubs.com
   - writewealth.com
@@ -108507,6 +108554,7 @@ domain_suffix_set:
   - xxxx68xxxx.com
   - xxxzbkhpjxzry.store
   - xxytrj.superdown.com
+  - xy.fbcdn.net
   - xy33.smallable.com
   - xya4.groupefsc.com
   - xyahug.luxuryonly.com
@@ -108543,6 +108591,7 @@ domain_suffix_set:
   - xyz.rayssbus.shop
   - xyz0k4gfs.xyz
   - xyzznt.uterque.com
+  - xz.fbcdn.net
   - xz0wefju.fun
   - xzbyhyxkzfbpa.space
   - xzdagpywxkozq.online
@@ -108819,6 +108868,7 @@ domain_suffix_set:
   - yghalathio.com
   - yghhhn.frishop.dk
   - ygilvn.fietsenopfietsen.nl
+  - ygjfzkrpr.com
   - ygmpia.worten.pt
   - ygopvz.windsorstore.com
   - ygqeik.ecosa.com

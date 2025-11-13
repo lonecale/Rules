@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 166
+# 规则统计: 167
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -27,12 +27,10 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
-HOST,hificode.in,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
-HOST,isk.richardsw.club,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns3109441.mypdns.org,BTtrackers
@@ -84,6 +82,7 @@ HOST,tracker.23794.top,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
+HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
@@ -116,6 +115,7 @@ HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
+HOST,tracker.ololosh.space,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.playground.ru,BTtrackers
@@ -124,6 +124,7 @@ HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwa.pro,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
+HOST,tracker.rescuecrew7.com,BTtrackers
 HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skillindia.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
