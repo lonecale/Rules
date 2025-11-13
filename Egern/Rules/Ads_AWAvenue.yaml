@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 854
+# 规则统计: 843
 
 domain_suffix_set:
   - 1500020991.vodplayer.wxamedia.com
@@ -102,7 +102,6 @@ domain_suffix_set:
   - adsebs.ximalaya.com
   - adsense.google.cn
   - adserver.unityads.unity3d.com
-  - adservice.google.cn
   - adservice.google.com
   - adservice.sigmob.cn
   - adserviceretry.kugou.com
@@ -259,7 +258,6 @@ domain_suffix_set:
   - cbjs.baidu.com
   - ccc-x.jd.com
   - ccs.umeng.com
-  - cctv.adsunion.com
   - cdn-ad.wtzw.com
   - cdn-ads.oss-cn-shanghai.aliyuncs.com
   - cdn-f.adsmoloco.com
@@ -273,7 +271,6 @@ domain_suffix_set:
   - cfg.imtt.qq.com
   - chat1.jd.com
   - chiq-cloud.com
-  - cj.qidian.com
   - ck.ads.oppomobile.com
   - click.chinaliftoff.io
   - click.googleanalytics.com
@@ -296,7 +293,6 @@ domain_suffix_set:
   - crash2.zhihu.com
   - crashlyticsreports-pa.googleapis.com
   - csjplatform.com
-  - cws-cctv.conviva.com
   - d.applovin.com
   - d.applvn.com
   - da.anythinktech.com
@@ -339,7 +335,6 @@ domain_suffix_set:
   - events.reddit.com
   - events.redditmedia.com
   - fclog.baidu.com
-  - feed-image.baidu.com
   - file.daihuo.qq.com
   - firebaselogging-pa.googleapis.com
   - flurry.com
@@ -362,7 +357,6 @@ domain_suffix_set:
   - globalapi.ad.xiaomi.com
   - google-analytics.com
   - googleads.g.doubleclick-cn.net
-  - googleads.g.doubleclick.com
   - googleads.g.doubleclick.net
   - googleadservices-cn.com
   - googleadservices.com
@@ -428,7 +422,6 @@ domain_suffix_set:
   - iot-logser.realme.com
   - ipv4.kkmh.com
   - irc.qubiankeji.com
-  - itv2-up.openspeech.cn
   - ixav-cse.avlyun.com
   - iyfbodn.com
   - janapi.jd.com
@@ -616,7 +609,6 @@ domain_suffix_set:
   - res2.hubcloud.com.cn
   - res3.hubcloud.com.cn
   - resolve.umeng.com
-  - rev.aiclk.com
   - review.gdtimg.com
   - rlog.popin.cc
   - rms-drcn.platform.dbankcloud.cn
@@ -633,7 +625,6 @@ domain_suffix_set:
   - saas.hpplay.cn
   - samsung-com.112.2o7.net
   - samsungads.com
-  - sanme2.taisantech.com
   - saxysec.com
   - scs.openspeech.cn
   - sdk-ab-config.qquanquan.com
@@ -669,13 +660,11 @@ domain_suffix_set:
   - sf16-static.i18n-pglstatp.com
   - sf3-fe-tos.pglstatp-toutiao.com
   - shouji.sogou.com
-  - sigmob.cn
   - sigmob.com
   - skdisplay.jd.com
   - sl.hpplay.cn
   - slb-p2p.vcloud.ks-live.com
   - smad.ms.zhangyue.net
-  - smart-tv.cn
   - smartad.10010.com
   - smetrics.samsung.com
   - sms.ads.oppomobile.com

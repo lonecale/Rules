@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 854
+# 规则统计: 843
 
 DOMAIN-SUFFIX,1500020991.vodplayer.wxamedia.com
 DOMAIN-SUFFIX,1500022744.vodplayer.wxamedia.com
@@ -101,7 +101,6 @@ DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,adsebs.ximalaya.com
 DOMAIN-SUFFIX,adsense.google.cn
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com
-DOMAIN-SUFFIX,adservice.google.cn
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
@@ -258,7 +257,6 @@ DOMAIN-SUFFIX,catalog.fjwhcbsh.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,ccc-x.jd.com
 DOMAIN-SUFFIX,ccs.umeng.com
-DOMAIN-SUFFIX,cctv.adsunion.com
 DOMAIN-SUFFIX,cdn-ad.wtzw.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cdn-f.adsmoloco.com
@@ -272,7 +270,6 @@ DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,cfg.imtt.qq.com
 DOMAIN-SUFFIX,chat1.jd.com
 DOMAIN-SUFFIX,chiq-cloud.com
-DOMAIN-SUFFIX,cj.qidian.com
 DOMAIN-SUFFIX,ck.ads.oppomobile.com
 DOMAIN-SUFFIX,click.chinaliftoff.io
 DOMAIN-SUFFIX,click.googleanalytics.com
@@ -295,7 +292,6 @@ DOMAIN-SUFFIX,cpro.baidustatic.com
 DOMAIN-SUFFIX,crash2.zhihu.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,csjplatform.com
-DOMAIN-SUFFIX,cws-cctv.conviva.com
 DOMAIN-SUFFIX,d.applovin.com
 DOMAIN-SUFFIX,d.applvn.com
 DOMAIN-SUFFIX,da.anythinktech.com
@@ -338,7 +334,6 @@ DOMAIN-SUFFIX,events-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,fclog.baidu.com
-DOMAIN-SUFFIX,feed-image.baidu.com
 DOMAIN-SUFFIX,file.daihuo.qq.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,flurry.com
@@ -361,7 +356,6 @@ DOMAIN-SUFFIX,ggx03.miguvideo.com
 DOMAIN-SUFFIX,globalapi.ad.xiaomi.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
-DOMAIN-SUFFIX,googleads.g.doubleclick.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,googleadservices-cn.com
 DOMAIN-SUFFIX,googleadservices.com
@@ -427,7 +421,6 @@ DOMAIN-SUFFIX,iot-eu-logser.realme.com
 DOMAIN-SUFFIX,iot-logser.realme.com
 DOMAIN-SUFFIX,ipv4.kkmh.com
 DOMAIN-SUFFIX,irc.qubiankeji.com
-DOMAIN-SUFFIX,itv2-up.openspeech.cn
 DOMAIN-SUFFIX,ixav-cse.avlyun.com
 DOMAIN-SUFFIX,iyfbodn.com
 DOMAIN-SUFFIX,janapi.jd.com
@@ -615,7 +608,6 @@ DOMAIN-SUFFIX,res1.hubcloud.com.cn
 DOMAIN-SUFFIX,res2.hubcloud.com.cn
 DOMAIN-SUFFIX,res3.hubcloud.com.cn
 DOMAIN-SUFFIX,resolve.umeng.com
-DOMAIN-SUFFIX,rev.aiclk.com
 DOMAIN-SUFFIX,review.gdtimg.com
 DOMAIN-SUFFIX,rlog.popin.cc
 DOMAIN-SUFFIX,rms-drcn.platform.dbankcloud.cn
@@ -632,7 +624,6 @@ DOMAIN-SUFFIX,saad.ms.zhangyue.net
 DOMAIN-SUFFIX,saas.hpplay.cn
 DOMAIN-SUFFIX,samsung-com.112.2o7.net
 DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,sanme2.taisantech.com
 DOMAIN-SUFFIX,saxysec.com
 DOMAIN-SUFFIX,scs.openspeech.cn
 DOMAIN-SUFFIX,sdk-ab-config.qquanquan.com
@@ -668,13 +659,11 @@ DOMAIN-SUFFIX,service.vmos.cn
 DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
 DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN-SUFFIX,shouji.sogou.com
-DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,skdisplay.jd.com
 DOMAIN-SUFFIX,sl.hpplay.cn
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,smad.ms.zhangyue.net
-DOMAIN-SUFFIX,smart-tv.cn
 DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,smetrics.samsung.com
 DOMAIN-SUFFIX,sms.ads.oppomobile.com
