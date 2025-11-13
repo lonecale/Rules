@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 843
+# 规则统计: 862
 
 domain_suffix_set:
   - 1500020991.vodplayer.wxamedia.com
@@ -31,6 +31,7 @@ domain_suffix_set:
   - ad.qingting.fm
   - ad.qq.com
   - ad.richmob.cn
+  - ad.shunchangzhixing.com
   - ad.tencentmusic.com
   - ad.toutiao.com
   - ad.v3mh.com
@@ -195,6 +196,7 @@ domain_suffix_set:
   - api-htp.beizi.biz
   - api.ad.xiaomi.com
   - api.anythinktech.com
+  - api.aqyad.com
   - api.e.kuaishou.com
   - api.fu.xcultur.com
   - api.htp.hubcloud.com.cn
@@ -202,6 +204,7 @@ domain_suffix_set:
   - api.installer.xiaomi.com
   - api.jietuhb.com
   - api.kingdata.ksyun.com
+  - api.shanghailingye.cn
   - api.ssp.xcultur.com
   - api.statsig.com
   - api.touch-moblie.com
@@ -215,6 +218,7 @@ domain_suffix_set:
   - applog.zijieapi.com
   - applovin.com
   - appversion.115.com
+  - aqyad.com
   - aspect-upush.umeng.com
   - auction.unityads.unity3d.com
   - audid-api.taobao.com
@@ -278,6 +282,7 @@ domain_suffix_set:
   - click.oneplus.cn
   - click4.chinaliftoff.io
   - clog.miguvideo.com
+  - cloooud.com
   - cn-api.anythinktech.com
   - cnlogs.umeng.com
   - cnlogs.umengcloud.com
@@ -334,7 +339,9 @@ domain_suffix_set:
   - events-drcn.op.dbankcloud.cn
   - events.reddit.com
   - events.redditmedia.com
+  - fancyapi.com
   - fclog.baidu.com
+  - feed-image.baidu.com
   - file.daihuo.qq.com
   - firebaselogging-pa.googleapis.com
   - flurry.com
@@ -344,6 +351,7 @@ domain_suffix_set:
   - g-adnet.hiaiabc.com
   - g-staic.ganjingworld.com
   - g.dtv.cn.miaozhen.com
+  - g.fancyapi.com
   - g2.ganjing.world
   - game.loveota.com
   - gdfp.gifshow.com
@@ -439,10 +447,12 @@ domain_suffix_set:
   - ks-p2p.pull.yximgs.com
   - ks.ferlytc.com
   - ks.pull.yximgs.com
+  - l6.fancyapi.com
   - launcher.smart-tv.cn
   - launcherimg.smart-tv.cn
   - lf3-ad-union-sdk.pglstatp-toutiao.com
   - lf6-ad-union-sdk.pglstatp-toutiao.com
+  - lftxali.fancyapi.com
   - lh3.googleadsserving.cn
   - litchiads.com
   - live-api.hktvmall.com
@@ -551,6 +561,7 @@ domain_suffix_set:
   - open.kuaishouzt.com
   - open.kwaizt.com
   - open.snssdk.com
+  - openadapi.fancydsp.com
   - optimus-ads.amap.com
   - orbit.jd.com
   - oss.cdn.aiclk.com
@@ -632,12 +643,14 @@ domain_suffix_set:
   - sdk.1rtb.net
   - sdk.ad.smaato.net
   - sdk.adx.adwangmai.com
+  - sdk.aqyad.com
   - sdk.beizi.biz
   - sdk.cferw.com
   - sdk.e.qq.com
   - sdk.hzsanjiaomao.com
   - sdk.markmedia.com.cn
   - sdk.mobads.adwangmai.com
+  - sdkapi.cloooud.com
   - sdkauth.hpplay.cn
   - sdkconf.avlyun.com
   - sdkconfig.ad.intl.xiaomi.com
@@ -670,11 +683,13 @@ domain_suffix_set:
   - sms.ads.oppomobile.com
   - sngmta.qq.com
   - snowflake.qq.com
+  - ssp.cloooud.com
   - staging-notify.sec.miui.com
   - stat.dongqiudi.com
   - stat.y.qq.com
   - static-s.iqiyi.com
   - static.ads-twitter.com
+  - statichf.shihuocdn.cn
   - statics.woozooo.com
   - stats.wp.com
   - statsigapi.net
@@ -694,6 +709,7 @@ domain_suffix_set:
   - t1.a.market.xiaomi.com
   - t1.teads.tv
   - t2.a.market.xiaomi.com
+  - t2.fancyapi.com
   - t3.a.market.xiaomi.com
   - t7z.cupid.iqiyi.com
   - t7z.cupid.ptqy.gitv.tv
@@ -722,6 +738,7 @@ domain_suffix_set:
   - tnc3-aliec2.bytedance.com
   - tnc3-aliec2.snssdk.com
   - tnc3-aliec2.toutiaoapi.com
+  - tnc3-aliec2.zijieapi.com
   - tnc3-alisc1.bytedance.com
   - tnc3-alisc1.snssdk.com
   - tnc3-alisc1.toutiaoapi.com
@@ -736,6 +753,7 @@ domain_suffix_set:
   - tpc.googlesyndication-cn.com
   - tpc.googlesyndication.com
   - tr-asia.adsmoloco.com
+  - trace.aqyad.com
   - trace.qq.com
   - tracelog-debug.aiclk.com
   - tracelog-debug.qquanquan.com
@@ -776,6 +794,7 @@ domain_suffix_set:
   - uranus.jd.com
   - us.l.qq.com
   - usr-api.aiclk.com
+  - utoken.umeng.com
   - v.110route.cn
   - v.adintl.cn
   - v.adx.hubcloud.com.cn
