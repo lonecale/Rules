@@ -1,12 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 165
 
 no_resolve: true
 domain_set:
   - 0123456789nonexistent.com
   - 0d.kebhana.mx
   - 1337.abcvg.info
-  - 1c.premierzal.ru
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
@@ -35,7 +34,6 @@ domain_set:
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.acgtracker.com
@@ -76,6 +74,7 @@ domain_set:
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
+  - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
@@ -117,7 +116,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.playground.ru
@@ -128,7 +126,6 @@ domain_set:
   - tracker.renfei.net
   - tracker.rescuecrew7.com
   - tracker.sbsub.com
-  - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.startwork.cv
@@ -163,6 +160,7 @@ domain_set:
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
