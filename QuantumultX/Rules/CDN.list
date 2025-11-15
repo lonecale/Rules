@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4129
+# 规则统计: 4131
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -680,6 +680,7 @@ HOST,cdn.moeload.com,CDN
 HOST,cdn.music.com,CDN
 HOST,cdn.myanimelist.net,CDN
 HOST,cdn.myfonts.net,CDN
+HOST,cdn.myfutanari.com,CDN
 HOST,cdn.myportfolio.com,CDN
 HOST,cdn.nba.com,CDN
 HOST,cdn.ndtv.com,CDN
@@ -2397,6 +2398,7 @@ HOST,static-us.afterpay.com,CDN
 HOST,static-web-prod.skillshare.com,CDN
 HOST,static-web.grammarly.com,CDN
 HOST,static-www.onlyoffice.com,CDN
+HOST,static.3dporndude.com,CDN
 HOST,static.4shared.com,CDN
 HOST,static.ada.support,CDN
 HOST,static.addtoany.com,CDN

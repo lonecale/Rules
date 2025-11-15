@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4129
+# 规则统计: 4131
 
 domain_set:
   - 0x0.st
@@ -681,6 +681,7 @@ domain_set:
   - cdn.music.com
   - cdn.myanimelist.net
   - cdn.myfonts.net
+  - cdn.myfutanari.com
   - cdn.myportfolio.com
   - cdn.nba.com
   - cdn.ndtv.com
@@ -2398,6 +2399,7 @@ domain_set:
   - static-web-prod.skillshare.com
   - static-web.grammarly.com
   - static-www.onlyoffice.com
+  - static.3dporndude.com
   - static.4shared.com
   - static.ada.support
   - static.addtoany.com
