@@ -708,6 +708,7 @@
 - [intel](rules/intel.txt)
 - [intercom](rules/intercom.txt)
 - [intsig](rules/intsig.txt)
+- [intuit](rules/intuit.txt)
 - [ipip](rules/ipip.txt)
 - [iqiyi-ads](rules/iqiyi-ads.txt)
 - [iqiyi](rules/iqiyi.txt)
