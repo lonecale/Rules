@@ -1,15 +1,13 @@
 # 规则名称: BTtrackers
-# 规则统计: 172
+# 规则统计: 166
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
-HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
-HOST,bittracker.nekosunevr.co.uk,BTtrackers
 HOST,bt.bontal.net,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
@@ -26,7 +24,6 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
-HOST,hificode.in,BTtrackers
 HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
@@ -37,10 +34,10 @@ HOST,ns-1.x-fins.com,BTtrackers
 HOST,ns3109441.mypdns.org,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open-tracker.demonoid.ch,BTtrackers
+HOST,open.acgtracker.com,BTtrackers
 HOST,open.demonii.com,BTtrackers
 HOST,open.demonoid.ch,BTtrackers
 HOST,open.dstud.io,BTtrackers
-HOST,open.free-tracker.ga,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
@@ -60,13 +57,13 @@ HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t-backup.213891.xyz,BTtrackers
 HOST,t.213891.xyz,BTtrackers
-HOST,t.overflow.biz,BTtrackers
 HOST,threads.canofsocks.com,BTtrackers
 HOST,tk.greedland.net,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
+HOST,tr-rh-zhuqiy.dgj055.icu,BTtrackers
 HOST,tr-zhuqiy-1.dgj055.icu,BTtrackers
 HOST,tr-zhuqiy-2.dgj055.icu,BTtrackers
 HOST,tr.abiir.top,BTtrackers
@@ -86,11 +83,9 @@ HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.belmult.online,BTtrackers
 HOST,tracker.bitcoinindia.space,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
-HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
-HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
@@ -107,7 +102,6 @@ HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.ghostchu-services.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.hifimarket.in,BTtrackers
-HOST,tracker.hifitechindia.com,BTtrackers
 HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers

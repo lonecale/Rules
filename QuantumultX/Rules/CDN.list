@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4139
+# 规则统计: 4143
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -544,6 +544,7 @@ HOST,cdn.datdota.com,CDN
 HOST,cdn.db-ip.com,CDN
 HOST,cdn.db.io,CDN
 HOST,cdn.decrypt.co,CDN
+HOST,cdn.decrypt.day,CDN
 HOST,cdn.delight-vr.com,CDN
 HOST,cdn.designerapp.osi.office.net,CDN
 HOST,cdn.designsystem.arm.com,CDN
@@ -1346,6 +1347,7 @@ HOST,i.dailymail.co.uk,CDN
 HOST,i.gawby.com,CDN
 HOST,i.geekflare.com,CDN
 HOST,i.giphy.com,CDN
+HOST,i.git99.com,CDN
 HOST,i.guim.co.uk,CDN
 HOST,i.gzn.jp,CDN
 HOST,i.hamreus.com,CDN
@@ -2277,6 +2279,7 @@ HOST,secure.fanboy.co.nz,CDN
 HOST,secure.telegraph.co.uk,CDN
 HOST,segapi.clerk.com,CDN
 HOST,segment.digitalocean.com,CDN
+HOST,sellon.shiprocket.in,CDN
 HOST,sentry.ainopara.com,CDN
 HOST,seo-wp.airdroid.com,CDN
 HOST,sequoia.cdn-apple.com,CDN
@@ -2326,6 +2329,7 @@ HOST,speedmedia2.jfrog.com,CDN
 HOST,spoprod-a.akamaihd.net,CDN
 HOST,spotlightimage.biggo.com,CDN
 HOST,sprig.figma.com,CDN
+HOST,sr-cdn-1.shiprocket.in,CDN
 HOST,ss7.vzw.com,CDN
 HOST,ssl.gstatic.com,CDN
 HOST,st-eu.dynamicyield.com,CDN

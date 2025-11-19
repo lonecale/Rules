@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4139
+# 规则统计: 4143
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -544,6 +544,7 @@ DOMAIN,cdn.datdota.com
 DOMAIN,cdn.db-ip.com
 DOMAIN,cdn.db.io
 DOMAIN,cdn.decrypt.co
+DOMAIN,cdn.decrypt.day
 DOMAIN,cdn.delight-vr.com
 DOMAIN,cdn.designerapp.osi.office.net
 DOMAIN,cdn.designsystem.arm.com
@@ -1346,6 +1347,7 @@ DOMAIN,i.dailymail.co.uk
 DOMAIN,i.gawby.com
 DOMAIN,i.geekflare.com
 DOMAIN,i.giphy.com
+DOMAIN,i.git99.com
 DOMAIN,i.guim.co.uk
 DOMAIN,i.gzn.jp
 DOMAIN,i.hamreus.com
@@ -2277,6 +2279,7 @@ DOMAIN,secure.fanboy.co.nz
 DOMAIN,secure.telegraph.co.uk
 DOMAIN,segapi.clerk.com
 DOMAIN,segment.digitalocean.com
+DOMAIN,sellon.shiprocket.in
 DOMAIN,sentry.ainopara.com
 DOMAIN,seo-wp.airdroid.com
 DOMAIN,sequoia.cdn-apple.com
@@ -2326,6 +2329,7 @@ DOMAIN,speedmedia2.jfrog.com
 DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,spotlightimage.biggo.com
 DOMAIN,sprig.figma.com
+DOMAIN,sr-cdn-1.shiprocket.in
 DOMAIN,ss7.vzw.com
 DOMAIN,ssl.gstatic.com
 DOMAIN,st-eu.dynamicyield.com
