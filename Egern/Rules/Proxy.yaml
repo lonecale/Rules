@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1649
+# 规则统计: 1681
 
 no_resolve: true
 domain_set:
@@ -214,6 +214,7 @@ domain_suffix_set:
   - auth0.com
   - autodesk.com
   - autodraw.com
+  - av-wiki.net
   - av28.com
   - avg.com
   - avgle.com
@@ -239,7 +240,9 @@ domain_suffix_set:
   - beacondb.net
   - behance.net
   - bestbuy.com
+  - bet
   - bet365.com
+  - bg
   - bgp.tools
   - bibox.com
   - bikaa.xyz
@@ -465,6 +468,7 @@ domain_suffix_set:
   - dnsleaktest.com
   - dnsleaktest.org
   - docker.com
+  - dockerstatus.com
   - docofcard.com
   - doujins.com
   - dowjones.com
@@ -489,6 +493,7 @@ domain_suffix_set:
   - e621.net
   - earthcam.com
   - easylist.to
+  - ec
   - economist.com
   - edgeapp.net
   - edgecastcdn.net
@@ -540,6 +545,7 @@ domain_suffix_set:
   - feedburner.com
   - feeder.co
   - feedly.com
+  - ff.im
   - ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - fide.com
   - figma.com
@@ -547,6 +553,7 @@ domain_suffix_set:
   - firebase.com
   - firebaseio.com
   - firefox.com
+  - fish.audio
   - fixupx.com
   - fixvx.com
   - flickr.com
@@ -564,6 +571,9 @@ domain_suffix_set:
   - fosshub.com
   - foxnews.com
   - fr
+  - framer.com
+  - freebeacon.com
+  - freecodecamp.org
   - freedownloadmanager.org
   - freemacsoft.net
   - freepik.com
@@ -709,6 +719,7 @@ domain_suffix_set:
   - hsex.men
   - hsforms.com
   - hsforms.net
+  - html5rocks.com
   - hubspotlinksstarter.com
   - hubspotstarter.net
   - huffpost.com
@@ -728,11 +739,13 @@ domain_suffix_set:
   - iconfinder.com
   - id
   - idrive.com
+  - ie
   - ietf.org
   - ifixit.com
   - ifttt.com
   - iheart.com
   - iina.io
+  - il
   - iloveimg.com
   - imagefap.com
   - imageglass.org
@@ -766,6 +779,7 @@ domain_suffix_set:
   - ipleak.net
   - iporntv.net
   - ipv4.surfsharkdns.com
+  - ir
   - is
   - is.gd
   - issuu.com
@@ -791,6 +805,7 @@ domain_suffix_set:
   - javtsunami.com
   - javwind.com
   - javynow.com
+  - jiji.com
   - jirachecklist.com
   - jkforum.net
   - joinclubhouse.com
@@ -828,6 +843,7 @@ domain_suffix_set:
   - kodif.io
   - komoot.com
   - komoot.net
+  - konachan.com
   - kr
   - kraken.com
   - kucoin.com
@@ -884,11 +900,13 @@ domain_suffix_set:
   - malwarebytes.com
   - mangafox.me
   - manhuabika.com
+  - manhuagui.com
   - mapbox.com
   - maptiler.com
   - material.io
   - matrix.org
   - matters.town
+  - maxjav.com
   - mayoclinic.org
   - md
   - medallia.com
@@ -907,6 +925,8 @@ domain_suffix_set:
   - metacritic.com
   - metamask.io
   - mexc.com
+  - mg
+  - micro.blog
   - mikrotik.com
   - mil
   - minecraft-services.net
@@ -1009,6 +1029,7 @@ domain_suffix_set:
   - nsloon.app
   - nsloon.com
   - nssurge.com
+  - ny1.com
   - nyaa.land
   - nypost.com
   - nyt.com
@@ -1043,6 +1064,7 @@ domain_suffix_set:
   - openai.com
   - opencollective.com
   - openfreemap.org
+  - openlibrary.org
   - opensea.io
   - openstreetmap.org
   - opentable.com
@@ -1066,6 +1088,7 @@ domain_suffix_set:
   - pastebin.com
   - pastie.org
   - patreon.com
+  - pawoo.net
   - pcloud.com
   - pe
   - peeringdb.com
@@ -1092,6 +1115,7 @@ domain_suffix_set:
   - pixiv.net
   - pixiv.org
   - pixivsketch.net
+  - pk
   - pl
   - playboy.com
   - player.fm
@@ -1110,6 +1134,7 @@ domain_suffix_set:
   - pornhost.com
   - pornhub.com
   - pornhub.org
+  - pornmate.com
   - pornmd.com
   - pornoxo.com
   - pornpics.com
@@ -1186,7 +1211,10 @@ domain_suffix_set:
   - rferl.org
   - rip
   - ripe.net
+  - riseup.net
+  - ro
   - roboflow.com
+  - rocks
   - rocksdb.org
   - rottentomatoes.com
   - rs
@@ -1355,6 +1383,7 @@ domain_suffix_set:
   - themoviedb.org
   - thenewstack.io
   - thepiratebay.org
+  - theporndude.com
   - theregister.com
   - thesaurus.com
   - thetvdb.com
@@ -1424,6 +1453,7 @@ domain_suffix_set:
   - ui.com
   - uk
   - umblr.com
+  - underhentai.net
   - uniswap.org
   - unpkg.com
   - unsplash.com
@@ -1560,6 +1590,7 @@ domain_suffix_set:
   - x.co
   - x.com
   - x.company
+  - xbooru.com
   - xchina.co
   - xdaforums.com
   - xfinity.com
@@ -1577,6 +1608,7 @@ domain_suffix_set:
   - xnxx.com
   - xpressunblock.com
   - xquartz.org
+  - xvideo-jp.com
   - xvideos-cdn.com
   - xvideos.com
   - xxx
