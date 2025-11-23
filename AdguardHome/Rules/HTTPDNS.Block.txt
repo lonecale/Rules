@@ -112,5 +112,7 @@
 ||twns.p2ptun.qq.com^
 ||union-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||union-httpdns.gslb.yy.com^
+||yuyin-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||yuyin-httpdns.gslb.yy.com^
 ||yyapp-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||yyapp-httpdns.gslb.yy.com^
