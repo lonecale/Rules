@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 88458
+# 规则统计: 88514
 
 no_resolve: true
 domain_set:
@@ -272,6 +272,8 @@ domain_set:
   - api.waptest.taobao.com
   - api.yuedu.iqiyi.com
   - api2.e.kuaishou.com
+  - apidns-js.kwd.inkuai.com
+  - apidns.kwd.inkuai.com
   - apiv4-iyes.youku.com
   - app-monitor.ele.me
   - app.aplus.pptv.com
@@ -448,17 +450,21 @@ domain_set:
   - dl.kjava.sina.cn
   - dlogs.bwton.com
   - dmapp.youku.com
+  - dns.iqiyi.com
   - dns.jd.com
   - dns.m.sm.cn
+  - dns.qiyipic.iqiyi.com
   - dns.wechat.com
   - dns.weibo.cn
   - dns.weixin.qq.com
   - dns.weixin.qq.com.cn
   - dns.ximalaya.com
+  - dns2.q2cdn.com
   - doh.iqiyi.com
   - doh.ptqy.gitv.tv
   - doh.zjurl.cn
   - donate.wikimedia.org
+  - dotserver.douyucdn.cn
   - download.wan.sohu.com
   - dp.im.weibo.cn
   - dp3.qq.com
@@ -584,7 +590,6 @@ domain_set:
   - httpdns-push.heytapmobile.com
   - httpdns-sc.aliyuncs.com
   - httpdns-sdk.n.netease.com
-  - httpdns-v6.gslb.yy.com
   - httpdns.alicdn.com
   - httpdns.baidu.com
   - httpdns.baidubce.com
@@ -595,7 +600,6 @@ domain_set:
   - httpdns.calorietech.com
   - httpdns.cctv.com
   - httpdns.danuoyi.tbcache.com
-  - httpdns.gslb.yy.com
   - httpdns.huaweicloud.com
   - httpdns.kg.qq.com
   - httpdns.kwd.inkuai.com
@@ -604,6 +608,7 @@ domain_set:
   - httpdns.n.shifen.com
   - httpdns.ocloud.heytapmobi.com
   - httpdns.ocloud.oppomobile.com
+  - httpdns.platform.dbankcloud.cn
   - httpdns.platform.dbankcloud.com
   - httpdns.push.heytapmobi.com
   - httpdns.push.oppomobile.com
@@ -958,6 +963,7 @@ domain_set:
   - sdkinit.taobao.com
   - secode2.hd.xiaomi.com
   - sentry.d.mi.com
+  - serveraddr.service.kugou.com
   - sf0.market.xiaomi.com
   - sfsapi.micloud.xiaomi.net
   - sg.a.stat.mi.com
@@ -1078,6 +1084,7 @@ domain_set:
   - topapi.cp12.ott.cibntv.net
   - topapi.cp12.wasu.tv
   - toutiao-frontier.snssdk.com
+  - tp2p.kg.qq.com
   - tpns.qq.com
   - trace2.rtbasia.com
   - track.58.com
@@ -1109,7 +1116,6 @@ domain_set:
   - umami.ubports.com
   - umdc.aliapp.org
   - umm.html.zone
-  - union-httpdns.gslb.yy.com
   - union.gdtimg.com
   - update.9mod.com
   - url8807.global.passport.xiaomi.com
@@ -1197,7 +1203,6 @@ domain_set:
   - yt-adv.bn.netease.com
   - yuedu.iqiyi.com
   - yun.rili.cn
-  - yyapp-httpdns.gslb.yy.com
   - zuimeitianqi.inveno.com
   - zzy1.quyaoya.com
 domain_suffix_set:
@@ -2199,6 +2204,7 @@ domain_suffix_set:
   - 6tip.com
   - 6tnpqnytyolllykq.cfd
   - 6u2h.cn
+  - 6u3tyip7l4tqvzh6ec7i1xfjq.rest
   - 6ujk8x9soxhm.com
   - 6v2wkfw6pc.com
   - 6v41p4bsq.com
@@ -5515,6 +5521,7 @@ domain_suffix_set:
   - aeisqs.icu
   - aejdn.vitamed-health.hr
   - aekpzxaghjyxa.global
+  - aelyjabjzxcrg.online
   - aem-collector.daumkakao.io
   - aem-kakao-collector.onkakao.net
   - aem.dickssportinggoods.com
@@ -6083,6 +6090,7 @@ domain_suffix_set:
   - agvshn.emagister.it
   - agxwhz.bloomingdales.sa
   - agyriacletch.cyou
+  - agzzpjnyx.com
   - ah.pricegrabber.com
   - ahachi.dietnavi.com
   - ahachi.dreamdenki.jp
@@ -6136,6 +6144,7 @@ domain_suffix_set:
   - ahupio.icu
   - ahuvjy.design-market.fr
   - ahvthkkjbmacr.com
+  - ahvxmwukrdlkk.website
   - ahvyxxrenvicpr.com
   - ahxpudoydaraw.site
   - ahzkn.manduka.com
@@ -12210,6 +12219,7 @@ domain_suffix_set:
   - baohkgpwemaur.store
   - baphullpet.com
   - bapoomsupurooph.net
+  - baqczoryagbvi.online
   - baqwo74y8.com
   - barakashucked.rest
   - barbadoshello.com
@@ -12931,6 +12941,7 @@ domain_suffix_set:
   - bhfrnzxxcxhbn.store
   - bhfrttttyyruo.store
   - bhgbqh.crocs.de
+  - bhgqghtitr.com
   - bhhgvedfr.com
   - bhhqvf.theway9.co.kr
   - bhhsg.superstarcarwashaz.com
@@ -16783,6 +16794,7 @@ domain_suffix_set:
   - cnpxwl.cheapcaribbean.com
   - cnqsmekgjmgrp.site
   - cnqsocfzpdfkp.space
+  - cnrsyxxkcjlor.online
   - cnstats.cdev.eu
   - cnt-tm-1.com
   - cnt.3dmy.net
@@ -22837,6 +22849,7 @@ domain_suffix_set:
   - dbh5.milb.com
   - dbhbgz.suitableshop.nl
   - dbhtk.orlybeauty.co.uk
+  - dbhtyjnfsv.com
   - dbigboq.top
   - dbj.quebecregion.com
   - dbl.cadriamarketing.com
@@ -28682,6 +28695,7 @@ domain_suffix_set:
   - ficchemoulted.click
   - fidar.site
   - fiddleyhigdon.com
+  - fidibusbezzlerefaces.cfd
   - fidk.cn
   - fidruqwny.com
   - fidxillyibuxe.space
@@ -30120,6 +30134,7 @@ domain_suffix_set:
   - gadspmz.com
   - gae.karte.io
   - gaetheydeys.rest
+  - gaflphlwqqhch.site
   - gagysn.floward.com
   - gahhfg.bobo.com.br
   - gahkj.zomasleep.com
@@ -30409,6 +30424,7 @@ domain_suffix_set:
   - geekbackyard.com
   - gefkkw.cyberport.de
   - gegeoq.icu
+  - gegqyfewpclyb.site
   - geguj.jackstillman.com.au
   - geih.cn
   - geinkroll.com
@@ -34209,6 +34225,7 @@ domain_suffix_set:
   - gvdmkf.major-expert.ru
   - gvdqzy.milanoo.com
   - gvepgfdjnbk.com
+  - gvertxvxazd.com
   - gvfbpo.diafer.com.br
   - gvjcry.grafen.co.kr
   - gvlme.emango.si
@@ -34327,6 +34344,7 @@ domain_suffix_set:
   - gznaeo.golfperformance.jp
   - gzomjiuoedpnu.website
   - gzpli.cannovia.com
+  - gzqfpkponqief.space
   - gzsmzfafszuih.website
   - gzuvq.sanitairkamer.nl
   - gzyznuiaeqzlv.website
@@ -35287,6 +35305,7 @@ domain_suffix_set:
   - hmzxoegngasft.site
   - hnecr.herbaloasis.com
   - hneqei.mytrendyphone.dk
+  - hnetdybpikax.com
   - hnfnd.thehouseofnoa.com
   - hnh9qzv5x6qcxr82b.rest
   - hnhmxj.icu
@@ -35527,6 +35546,7 @@ domain_suffix_set:
   - hpilzison-r.online
   - hpinm.runwayroguebeauty.com
   - hpiup.littlesleepies.com
+  - hpixajguwomwn.online
   - hpjhknrhmzzlp.space
   - hpkjdxjqea.com
   - hplkcs.emp-shop.no
@@ -36004,6 +36024,7 @@ domain_suffix_set:
   - i73u6dnnh.com
   - i7mfm1hl44.com
   - i867.journal-advocate.com
+  - i8gvqybn8q6uwrw.cfd
   - i8m6.com
   - i8xkjci7nd.com
   - i90ptshd.top
@@ -36428,6 +36449,7 @@ domain_suffix_set:
   - ikimdcomuxawh.online
   - ikkms.blkandbold.com
   - ikkru.bearaby.com
+  - iklzkvvbogjsi.space
   - ikmxmgksuuuxpgs.com
   - ikneio.aquantindia.com
   - iknrgmkxq.com
@@ -39230,6 +39252,7 @@ domain_suffix_set:
   - jads.cc
   - jads.co
   - jagatpolary.qpon
+  - jaglessberendo.rest
   - jahmwv.not4u.kr
   - jaibizeenaiphe.com
   - jailbulb.com
@@ -39429,6 +39452,7 @@ domain_suffix_set:
   - jekvc.losethebackpain.com
   - jekzyyyljvjbw.top
   - jelcp.igloocoolers.com
+  - jellabtravest.help
   - jellyfinstream.com
   - jellyfish.therapieplatz-finden.de
   - jelndb.truereligion.com
@@ -39895,6 +39919,7 @@ domain_suffix_set:
   - jpjwir.annexx.com
   - jplmzaksiplng.com
   - jpluzr.autoc-one.jp
+  - jpmcqouplqkrwh.com
   - jpmkbcgx-o.buzz
   - jpoaih.theyufit.co.kr
   - jppeqz.ishin.jp
@@ -40691,6 +40716,7 @@ domain_suffix_set:
   - kincobloggats.cyou
   - kind-lecture.com
   - kindasingle.com
+  - kindhearted-member.pro
   - kindhearted-side.pro
   - kindhush.com
   - kindlaundry.rdtrke.com
@@ -41135,6 +41161,7 @@ domain_suffix_set:
   - ksoqhcvec.com
   - kspjjraqnfyqq.site
   - kspotson.de
+  - kspyqwogczssl.website
   - ksro.cn
   - ksseot.europcar.pt
   - kssmon.voga.co.kr
@@ -45190,6 +45217,7 @@ domain_suffix_set:
   - ls.srvcs.tumblr.com
   - lsbeim.mediamart.vn
   - lsbsg.entertainmentearth.com
+  - lscudygcxiqnn.online
   - lsdm.co
   - lsgrpe.rodeodrive.co.jp
   - lshovs.matrizauto.pt
@@ -50669,6 +50697,7 @@ domain_suffix_set:
   - miqbqh.mizunomori.com
   - miqdigital.com
   - miqeuu.timberland.it
+  - miqoplraxov.com
   - miqznq.eszonyeg.hu
   - mirabelanalytics.com
   - miraclethisaddicted.com
@@ -50809,6 +50838,7 @@ domain_suffix_set:
   - mkosiw.sumai1.com
   - mkpzmq.crocs.ru
   - mkrfj.innasegal.com
+  - mkrplsblistuf.website
   - mksogv.oneclickdrive.com
   - mkt-server.weenect.com
   - mkt-tracking.cloudmargin.com
@@ -51294,6 +51324,7 @@ domain_suffix_set:
   - mopub.com
   - mopvr.theadventurechallenge.com
   - moqap.goodevas.ca
+  - moralessuther.rest
   - morallyfitful.com
   - morapope.shop
   - mordeegroo.net
@@ -51764,6 +51795,7 @@ domain_suffix_set:
   - mutualhappy.com
   - muure.jordancraig.com
   - muwyib.lettuce.co.jp
+  - muxzipacympze.website
   - muzikguide.com
   - mv.treehousei.com
   - mv9remrffvtxk2jw1pq7rh.cfd
@@ -52707,6 +52739,7 @@ domain_suffix_set:
   - neyandfartooma.com
   - neykax.tappwater.co
   - neyohz.urbanstaroma.com
+  - neztlwbosrksr.online
   - nezygmobha.com
   - nf1nknlw.mateforevents.com
   - nf2r18mdu.com
@@ -53372,6 +53405,7 @@ domain_suffix_set:
   - nsm.dell.com
   - nsm.sungardas.com
   - nsm.tr.netsalesmedia.pl
+  - nsmakurrecuhk.website
   - nsmartad.com
   - nsmeasure.jstor.org
   - nsmha.happymammoth.com
@@ -55296,6 +55330,7 @@ domain_suffix_set:
   - out.trkrabb.com
   - out.velpa.pl
   - outal.origo.hu
+  - outbakecalaber.click
   - outbidplacardshowman.com
   - outbrain.com
   - outdoor.theres.co
@@ -55577,6 +55612,7 @@ domain_suffix_set:
   - p2h08fn94d.com
   - p2l.info
   - p2perrorlog.douyucdn.cn
+  - p2ptun.qq.com
   - p2trc.emv2.com
   - p2v.fun
   - p2yn.com
@@ -56797,6 +56833,7 @@ domain_suffix_set:
   - permissiblesuspicious.com
   - permittedcenterrevolve.com
   - permutive.app
+  - peronesutoria.qpon
   - perpetratoralimony.com
   - perpetual.tracking.01alarme.fr
   - perpetualtracking.lytess.com
@@ -57516,6 +57553,7 @@ domain_suffix_set:
   - plkhvn.keibi-baito.com
   - pll.pearlinsurance.com
   - pllsadrp.net
+  - plmmekjxsqyjsh.com
   - plmqlbihwqket.top
   - plnhn.littlemindsatwork.in
   - plnmf.lovebyemi.com
@@ -57882,6 +57920,7 @@ domain_suffix_set:
   - powferads.com
   - poyc.cn
   - poyoualas.click
+  - poysxaeyarmw.com
   - pozdl.bigfigmattress.com
   - pp-lfekpkr.buzz
   - pp.fitnesshubbd.xyz
@@ -60252,6 +60291,7 @@ domain_suffix_set:
   - rbone.link
   - rbosr.lull.com
   - rboss.redboostonlineshop.site
+  - rboundpacked.click
   - rboyqkyojrwky.top
   - rbp-gen1.site
   - rbp63841.ru
@@ -61576,6 +61616,7 @@ domain_suffix_set:
   - rodent.kevindendievel.com
   - rodent.livelinor.dk
   - rodesquad.com
+  - rodlikemortal.com
   - rodsmenrainer.help
   - roduster.com
   - roedwy.imidapeptide.com
@@ -62286,6 +62327,7 @@ domain_suffix_set:
   - rwohdj.motocard.com
   - rwpbwwodnh.com
   - rwpuqm.underarmour.es
+  - rwqovmoezrerk.top
   - rwrnkb.lifelongcollectibles.com
   - rwryla.theblockshop.com.au
   - rwtezd.icu
@@ -75490,6 +75532,7 @@ domain_suffix_set:
   - thoughtleadr.com
   - thoughtlessknot.com
   - thoupsuk.net
+  - thowhr.rest
   - thragmoth.com
   - thrailrepin.help
   - thraittidz.com
@@ -75904,6 +75947,7 @@ domain_suffix_set:
   - tkij.cn
   - tkjcqb.forrent.com
   - tkkjh.thewanderclub.com
+  - tkliwyxp.com
   - tklsxniuurtqa.online
   - tklto.drinkag1.com
   - tkmedia-cache.aotter.net
@@ -76153,6 +76197,7 @@ domain_suffix_set:
   - togenron.com
   - toglooman.com
   - togmoxwnw.com
+  - tognousseegije.com
   - togothermany.com
   - toiknxtfiyaht.site
   - toiletpaper.life
@@ -80968,7 +81013,6 @@ domain_suffix_set:
   - twjrxo.top
   - twkbui.mansion-review.jp
   - twlcyc.cn
-  - twns.p2ptun.qq.com
   - two.betterdomino.com
   - two.cm.com
   - two.fsylr.com
@@ -81282,6 +81326,7 @@ domain_suffix_set:
   - ucnkxbirf.com
   - ucounter.ucoz.net
   - ucppeo.silux.hr
+  - ucqvrreziifwz.website
   - ucriqupq.com
   - ucs.betwaygroup.com
   - ucscaik.gardencup.com
@@ -81819,6 +81864,7 @@ domain_suffix_set:
   - unnaturalcontradictblossom.com
   - unnaturallead.com
   - unnaturalred.pro
+  - unoptedtapuyan.cfd
   - unpanchamon.com
   - unplaidyoven.cyou
   - unpufframpler.com
@@ -82418,6 +82464,7 @@ domain_suffix_set:
   - v225.ksbw.com
   - v2cigs.com
   - v3g682uyzu6kp1n9.cfd
+  - v3pnvck24.com
   - v402.canoncitydailyrecord.com
   - v46uj91gh.com
   - v476.reporterherald.com
@@ -82853,6 +82900,7 @@ domain_suffix_set:
   - vhsea.smokingjackets.com
   - vhsrwd.aip24.pl
   - vhuzia.primamoda.com.pl
+  - vhwmscbmuopmm.space
   - vhxzfz.icu
   - vhzmtq35puq5b9ph81lmbp5w7q.cfd
   - vi-serve.com
@@ -83408,6 +83456,7 @@ domain_suffix_set:
   - vqta.cn
   - vqvuid.kobetsu.co.jp
   - vqxlbd.billyreid.com
+  - vqzoqqnjolnbl.site
   - vr.mttr.pt
   - vr.vivareal.com
   - vraataidz.com
@@ -85535,6 +85584,7 @@ domain_suffix_set:
   - wwdhgevpmxmvs.online
   - wweisie.top
   - wweizae.top
+  - wwewuqdsxgcei.space
   - wwija.com
   - wwilmie.top
   - wwjdxc.pixartprinting.it
@@ -85878,6 +85928,7 @@ domain_suffix_set:
   - xckxrn.endriss.de
   - xcmhaurthhfar.online
   - xcojhb.unitysquare.co.kr
+  - xcqfaclqifemm.site
   - xctoquhnalqgn.vip
   - xcultur.com
   - xcwdcynb.icu
@@ -86043,6 +86094,7 @@ domain_suffix_set:
   - xjx11240ts.com
   - xjx11241ts.com
   - xjx11250ts.com
+  - xjx11251ts.com
   - xjzize.maeva.com
   - xjztuj.kbwine.com
   - xk3ny3758tvvbj2oozljxppympwh.rest
@@ -88366,6 +88418,8 @@ domain_keyword_set:
   - flightsy
   - gettate
   - hostingcloud
+  - httpdns-v6.gslb.yy.com
+  - httpdns.gslb.yy.com
   - insights-collector.
   - iqmetrics.
   - jshosting
@@ -88441,7 +88495,9 @@ ip_cidr_set:
   - 118.89.204.198/32
   - 119.29.29.98/31
   - 123.151.54.50/32
+  - 180.76.76.112/32
   - 180.76.76.200/32
+  - 180.76.76.220/32
   - 182.254.116.117/32
   - 182.254.118.119/32
   - 202.90.108.13/32
