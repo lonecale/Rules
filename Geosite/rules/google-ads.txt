@@ -12,6 +12,8 @@ advertiserscommunity.com
 adwords-community.com
 adwords.com
 adwordsexpress.com
+app-analytics-services.com
+app-analytics-services-att.com
 app-measurement-cn.com
 app-measurement.com
 doubleclick-cn.net
@@ -21,6 +23,7 @@ doubleclick.net
 google-analytics-cn.com
 google-analytics.com
 googleadapis.com
+googleadapis.l.google.com
 googleads-cn.com
 googleads.com
 googleadservices-cn.com
@@ -39,7 +42,11 @@ googletraveladservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
 mail-ads.google.com
+mobileads.google.com
 marketingplatform.google.com
+pagead.l.google.com
+partnerad.l.google.com
 urchin.com
 full:analytics.google.com
+full:fundingchoicesmessages.google.com
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

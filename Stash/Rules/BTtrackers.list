@@ -1,12 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 165
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
-DOMAIN,admin.52ywp.com
 DOMAIN,anna.bt.bontal.net
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -18,7 +17,6 @@ DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
-DOMAIN,cny.fan
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,echostar.ddnsfree.com
@@ -58,6 +56,7 @@ DOMAIN,shubt.net
 DOMAIN,t-backup.213891.xyz
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
+DOMAIN,threads.canofsocks.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
@@ -72,6 +71,7 @@ DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -137,7 +137,6 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.vanitycore.co
-DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
@@ -155,7 +154,6 @@ DOMAIN,tracker810.xyz
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
-DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
