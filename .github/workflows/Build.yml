@@ -20,7 +20,7 @@ jobs:
         path: Tool-repo
 
     - name: Checkout v2dat repository
-      uses: actions/checkout@v4.2.2
+      uses: actions/checkout@v6.0.0
       with:
         repository: urlesistiana/v2dat
         path: Tool-repo/v2dat
