@@ -346,6 +346,7 @@
 - [ck101](rules/ck101.txt)
 - [clarivate](rules/clarivate.txt)
 - [clearasil](rules/clearasil.txt)
+- [clearbit-ads](rules/clearbit-ads.txt)
 - [clearbitjs-ads](rules/clearbitjs-ads.txt)
 - [clips4sale](rules/clips4sale.txt)
 - [cloudcone](rules/cloudcone.txt)
