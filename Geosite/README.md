@@ -982,6 +982,7 @@
 - [ok](rules/ok.txt)
 - [okaapps](rules/okaapps.txt)
 - [okjike](rules/okjike.txt)
+- [okko](rules/okko.txt)
 - [okx](rules/okx.txt)
 - [olevod](rules/olevod.txt)
 - [onedrive](rules/onedrive.txt)
