@@ -27,6 +27,7 @@
 - [6park](rules/6park.txt)
 ## 7
 - [75team](rules/75team.txt)
+- [7tv](rules/7tv.txt)
 ## 8
 - [800best](rules/800best.txt)
 - [8btc](rules/8btc.txt)
@@ -613,6 +614,7 @@
 - [guo](rules/guo.txt)
 - [guokr](rules/guokr.txt)
 ## H
+- [habr](rules/habr.txt)
 - [hacpai](rules/hacpai.txt)
 - [haier](rules/haier.txt)
 - [hainanairlines](rules/hainanairlines.txt)
@@ -876,6 +878,7 @@
 - [meta-ads](rules/meta-ads.txt)
 - [meta](rules/meta.txt)
 - [metabrainz](rules/metabrainz.txt)
+- [metacritic](rules/metacritic.txt)
 - [metart](rules/metart.txt)
 - [mfuns](rules/mfuns.txt)
 - [miaomiaozhe](rules/miaomiaozhe.txt)
@@ -899,6 +902,7 @@
 - [mixpanel-ads](rules/mixpanel-ads.txt)
 - [mobile01](rules/mobile01.txt)
 - [mocha](rules/mocha.txt)
+- [modrinth](rules/modrinth.txt)
 - [mogujie](rules/mogujie.txt)
 - [mojang](rules/mojang.txt)
 - [moji](rules/moji.txt)
@@ -1129,6 +1133,7 @@
 - [rust](rules/rust.txt)
 - [ruten](rules/ruten.txt)
 - [rutracker](rules/rutracker.txt)
+- [rutube](rules/rutube.txt)
 ## S
 - [sakurafrp](rules/sakurafrp.txt)
 - [salesforce](rules/salesforce.txt)
@@ -1267,6 +1272,7 @@
 - [telegram](rules/telegram.txt)
 - [telekom](rules/telekom.txt)
 - [television-ads](rules/television-ads.txt)
+- [temp-mail](rules/temp-mail.txt)
 - [tencent-ads](rules/tencent-ads.txt)
 - [tencent-dev](rules/tencent-dev.txt)
 - [tencent-games](rules/tencent-games.txt)
@@ -1364,6 +1370,7 @@
 - [verisign](rules/verisign.txt)
 - [verizon](rules/verizon.txt)
 - [vgtime](rules/vgtime.txt)
+- [viber](rules/viber.txt)
 - [vilavpn](rules/vilavpn.txt)
 - [vim](rules/vim.txt)
 - [vimeo](rules/vimeo.txt)
