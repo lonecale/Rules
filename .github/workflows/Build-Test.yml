@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v6.0.1
         with:
           repository: lonecale/Rules
           path: Tool-repo
@@ -53,13 +53,13 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4.2.2
+      uses: actions/checkout@v6.0.1
       with:
         repository: lonecale/Rules
         path: Tool-repo
 
     - name: Checkout v2dat repository
-      uses: actions/checkout@v4.2.2
+      uses: actions/checkout@v6.0.1
       with:
         repository: urlesistiana/v2dat
         path: Tool-repo/v2dat
