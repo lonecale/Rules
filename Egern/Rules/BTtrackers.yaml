@@ -21,16 +21,16 @@ domain_set:
   - bvarf.tracker.sh
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - echostar.ddnsfree.com
   - evan.im
   - exodus.desync.com
+  - explodie.org
   - extracker.dahrkael.net
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
+  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - ns3109441.mypdns.org
@@ -59,12 +59,14 @@ domain_set:
   - t-backup.213891.xyz
   - t.213891.xyz
   - t.overflow.biz
+  - threads.canofsocks.com
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr-zhuqiy-1.dgj055.icu
+  - tr-zhuqiy-2.dgj055.icu
   - tr.abiir.top
   - tr.abir.ga
   - tr.highstar.shop
@@ -75,6 +77,7 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
+  - tracker-zhuqiy.dgj055.icu
   - tracker.0x7c0.com
   - tracker.1h.is
   - tracker.23794.top
@@ -107,7 +110,6 @@ domain_set:
   - tracker.guguan.dpdns.org
   - tracker.hifimarket.in
   - tracker.hifitechindia.com
-  - tracker.iochimari.moe
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
@@ -118,6 +120,7 @@ domain_set:
   - tracker.moeking.me
   - tracker.moxing.party
   - tracker.mywaifu.best
+  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.playground.ru
@@ -135,7 +138,6 @@ domain_set:
   - tracker.t-1.org
   - tracker.therarbg.to
   - tracker.torrent.eu.org
-  - tracker.torrust-demo.com
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
@@ -152,7 +154,6 @@ domain_set:
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
-  - tracker3.t-1.org
   - tracker4.itzmx.com
   - tracker810.xyz
   - udp.tracker.projectk.org
@@ -162,7 +163,6 @@ domain_set:
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
-  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
