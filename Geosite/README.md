@@ -472,6 +472,7 @@
 - [dwion](rules/dwion.txt)
 - [dyna](rules/dyna.txt)
 - [dynu](rules/dynu.txt)
+- [dzen](rules/dzen.txt)
 ## E
 - [ea](rules/ea.txt)
 - [eastmoney](rules/eastmoney.txt)
@@ -851,6 +852,7 @@
 - [madshi](rules/madshi.txt)
 - [mafengwo](rules/mafengwo.txt)
 - [mailcom](rules/mailcom.txt)
+- [mailru-group](rules/mailru-group.txt)
 - [mailru](rules/mailru.txt)
 - [mainichi](rules/mainichi.txt)
 - [manhuagui](rules/manhuagui.txt)
