@@ -245,6 +245,7 @@
 - [category-dev-cn](rules/category-dev-cn.txt)
 - [category-dev](rules/category-dev.txt)
 - [category-documents-cn](rules/category-documents-cn.txt)
+- [category-doh](rules/category-doh.txt)
 - [category-ecommerce](rules/category-ecommerce.txt)
 - [category-education-cn](rules/category-education-cn.txt)
 - [category-education-ir](rules/category-education-ir.txt)
