@@ -1510,6 +1510,7 @@
 - [ziroom](rules/ziroom.txt)
 - [zoho](rules/zoho.txt)
 - [zoom](rules/zoom.txt)
+- [zotero](rules/zotero.txt)
 - [zte](rules/zte.txt)
 - [zto-express](rules/zto-express.txt)
 - [zuoyebang](rules/zuoyebang.txt)
