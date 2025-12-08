@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 162
 
 no_resolve: true
 domain_set:
@@ -11,6 +11,7 @@ domain_set:
   - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
+  - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.bontal.net
   - bt.okmp3.ru
   - bt.poletracker.org
@@ -19,8 +20,10 @@ domain_set:
   - buny.uk
   - burmese.app
   - bvarf.tracker.sh
+  - cny.fan
   - concen.org
   - d40969.acod.regrucolo.ru
+  - discord.heihachi.pw
   - echostar.ddnsfree.com
   - evan.im
   - exodus.desync.com
@@ -30,11 +33,9 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - isk.richardsw.club
-  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
+  - ns-1.x-fins.com
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.acgtracker.com
@@ -51,6 +52,7 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
+  - run.publictracker.xyz
   - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
@@ -59,12 +61,12 @@ domain_set:
   - t-backup.213891.xyz
   - t.213891.xyz
   - t.overflow.biz
+  - threads.canofsocks.com
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
-  - tr-zhuqiy-1.dgj055.icu
   - tr.abiir.top
   - tr.highstar.shop
   - tr.kxmp.cf
@@ -79,8 +81,6 @@ domain_set:
   - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.beeimg.com
-  - tracker.belmult.online
-  - tracker.bitcoinindia.space
   - tracker.bittor.pw
   - tracker.breizh.pm
   - tracker.bt-hash.com
@@ -100,7 +100,6 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
-  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.hifimarket.in
@@ -115,7 +114,6 @@ domain_set:
   - tracker.moeking.me
   - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.playground.ru
@@ -124,12 +122,9 @@ domain_set:
   - tracker.qingwa.pro
   - tracker.qu.ax
   - tracker.renfei.net
-  - tracker.rescuecrew7.com
   - tracker.sbsub.com
-  - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
-  - tracker.startwork.cv
   - tracker.t-1.org
   - tracker.therarbg.to
   - tracker.torrent.eu.org
@@ -145,7 +140,6 @@ domain_set:
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
-  - tracker.zhuqiy.dgj055.icu
   - tracker.zupix.online
   - tracker1.520.jp
   - tracker1.myporn.club
@@ -156,6 +150,7 @@ domain_set:
   - tracker3.t-1.org
   - tracker4.itzmx.com
   - tracker810.xyz
+  - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
   - wepzone.net
   - www.all4nothin.net
