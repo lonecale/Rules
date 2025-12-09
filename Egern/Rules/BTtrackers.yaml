@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 162
+# 规则统计: 161
 
 no_resolve: true
 domain_set:
@@ -23,9 +23,7 @@ domain_set:
   - cny.fan
   - concen.org
   - d40969.acod.regrucolo.ru
-  - discord.heihachi.pw
   - echostar.ddnsfree.com
-  - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
@@ -35,13 +33,12 @@ domain_set:
   - ipv6.rer.lol
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - ns-1.x-fins.com
+  - ns3109441.mypdns.org
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
   - open.acgtracker.com
   - open.demonii.com
   - open.demonoid.ch
-  - open.dstud.io
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -52,7 +49,6 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - run.publictracker.xyz
   - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
@@ -60,14 +56,13 @@ domain_set:
   - shubt.net
   - t-backup.213891.xyz
   - t.213891.xyz
-  - t.overflow.biz
-  - threads.canofsocks.com
   - tk.greedland.net
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -81,6 +76,7 @@ domain_set:
   - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.beeimg.com
+  - tracker.bitcoinindia.space
   - tracker.bittor.pw
   - tracker.breizh.pm
   - tracker.bt-hash.com
@@ -100,6 +96,7 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.hifimarket.in
@@ -114,6 +111,7 @@ domain_set:
   - tracker.moeking.me
   - tracker.moxing.party
   - tracker.mywaifu.best
+  - tracker.ololosh.space
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.playground.ru
@@ -122,9 +120,12 @@ domain_set:
   - tracker.qingwa.pro
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.rescuecrew7.com
   - tracker.sbsub.com
+  - tracker.skillindia.site
   - tracker.skyts.net
   - tracker.srv00.com
+  - tracker.startwork.cv
   - tracker.t-1.org
   - tracker.therarbg.to
   - tracker.torrent.eu.org
@@ -136,7 +137,6 @@ domain_set:
   - tracker.uraniumhexafluori.de
   - tracker.vanitycore.co
   - tracker.waaa.moe
-  - tracker.wepzone.net
   - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
@@ -152,7 +152,6 @@ domain_set:
   - tracker810.xyz
   - udp.tracker.projectk.org
   - v74853.hosted-by-vdsina.com
-  - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
   - www.torrent.eu.org
