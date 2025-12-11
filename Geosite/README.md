@@ -1070,6 +1070,7 @@
 - [pptv](rules/pptv.txt)
 - [primevideo](rules/primevideo.txt)
 - [private](rules/private.txt)
+- [projectpoi](rules/projectpoi.txt)
 - [projectsekai](rules/projectsekai.txt)
 - [proquest](rules/proquest.txt)
 - [protonmail](rules/protonmail.txt)
