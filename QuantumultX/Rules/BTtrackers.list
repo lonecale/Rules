@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 160
+# 规则统计: 164
 
 HOST,0123456789nonexistent.com,BTtrackers
 HOST,0d.kebhana.mx,BTtrackers
@@ -20,6 +20,7 @@ HOST,bvarf.tracker.sh,BTtrackers
 HOST,cny.fan,BTtrackers
 HOST,concen.org,BTtrackers
 HOST,d40969.acod.regrucolo.ru,BTtrackers
+HOST,discord.heihachi.pw,BTtrackers
 HOST,echostar.ddnsfree.com,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
@@ -30,6 +31,7 @@ HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
+HOST,isk.richardsw.club,BTtrackers
 HOST,laestrygonian.ooguy.com,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -71,7 +73,6 @@ HOST,tr.nyacat.pw,BTtrackers
 HOST,tr.zukizuki.org,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
-HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.0x7c0.com,BTtrackers
 HOST,tracker.1h.is,BTtrackers
 HOST,tracker.23794.top,BTtrackers
@@ -83,6 +84,7 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bz,BTtrackers
+HOST,tracker.cloudbase.store,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
@@ -116,12 +118,14 @@ HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
 HOST,tracker.playground.ru,BTtrackers
 HOST,tracker.plx.im,BTtrackers
+HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwa.pro,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
+HOST,tracker.startwork.cv,BTtrackers
 HOST,tracker.t-1.org,BTtrackers
 HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
