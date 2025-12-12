@@ -30,3 +30,5 @@ npm.community
 npmjs.com
 blob.core.windows.net
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+collector.github.com
+copilot-telemetry.githubusercontent.com
