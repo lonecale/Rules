@@ -33,6 +33,7 @@
 - [8btc](rules/8btc.txt)
 ## 9
 - [928plus](rules/928plus.txt)
+- [9game](rules/9game.txt)
 - [9news](rules/9news.txt)
 - [9to5](rules/9to5.txt)
 ## A
@@ -138,6 +139,7 @@
 - [baidu-ads](rules/baidu-ads.txt)
 - [baidu](rules/baidu.txt)
 - [baijiayun](rules/baijiayun.txt)
+- [baishancloud](rules/baishancloud.txt)
 - [baltamatica](rules/baltamatica.txt)
 - [bamtech](rules/bamtech.txt)
 - [bandcamp](rules/bandcamp.txt)
