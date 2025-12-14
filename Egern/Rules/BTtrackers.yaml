@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 161
+# 规则统计: 156
 
 no_resolve: true
 domain_set:
@@ -8,7 +8,6 @@ domain_set:
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - admin.52ywp.com
   - anna.bt.bontal.net
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -26,12 +25,12 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - glotorrents.pw
   - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
   - laestrygonian.ooguy.com
+  - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - nyaa.tracker.wf
@@ -39,8 +38,6 @@ domain_set:
   - open.acgtracker.com
   - open.demonii.com
   - open.demonoid.ch
-  - open.dstud.io
-  - open.free-tracker.ga
   - open.stealth.si
   - open.trackerlist.xyz
   - opentor.org
@@ -51,7 +48,6 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - run.publictracker.xyz
   - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
@@ -78,11 +74,12 @@ domain_set:
   - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.beeimg.com
+  - tracker.bitcoinindia.space
   - tracker.bittor.pw
-  - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
+  - tracker.cangku.moe
   - tracker.cloudbase.store
   - tracker.corpscorp.online
   - tracker.cutie.dating
@@ -100,7 +97,6 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.hifitechindia.com
   - tracker.iochimari.moe
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
@@ -126,11 +122,9 @@ domain_set:
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
-  - tracker.tricitytorrents.com
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
@@ -157,6 +151,7 @@ domain_set:
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32

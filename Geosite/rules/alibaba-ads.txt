@@ -8,7 +8,6 @@ adash.man.aliyuncs.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adashx.m.taobao.com
-adashx.ut.amap.com
 adashx.ut.ele.me
 adashx4ae.ut.taobao.com
 adashx4yt.m.taobao.com
@@ -36,10 +35,14 @@ retcode.taobao.com
 tce.alicdn.com
 tns.simba.taobao.com
 track.lc.quark.cn
-v6-adashx.ut.amap.com
 v6-adashx.ut.cainiao.com
 v6-adashx.ut.ele.me
 v6-adashx.ut.taobao.com
+adashx.ut.amap.com
+dualstack-logs.amap.com
+logs.amap.com
+optimus-ads.amap.com
+v6-adashx.ut.amap.com
 ad.api.3g.youku.com
 ad.api.mobile.youku.com
 ad.mobile.youku.com
