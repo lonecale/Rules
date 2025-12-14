@@ -184,6 +184,7 @@ acg.tv = server:https://doh.pub/dns-query
 *.mifile.cn = server:https://doh.pub/dns-query
 
 *.feishu.net = server:180.184.2.2
+*.bdurl.net = server:180.184.2.2
 *.toutiaostatic.com = server:180.184.2.2
 *.huoshanstatic.com = server:180.184.2.2
 *.byteeffecttos.com = server:180.184.2.2
@@ -226,7 +227,9 @@ acg.tv = server:https://doh.pub/dns-query
 *.dcarvod.com = server:180.184.2.2
 *.dcarimg.com = server:180.184.2.2
 *.dcarapi.com = server:180.184.2.2
+*.bytetos.com = server:180.184.2.2
 *.bytetcc.com = server:180.184.2.2
+*.bytescm.com = server:180.184.2.2
 *.byteimg.com = server:180.184.2.2
 *.wukong.com = server:180.184.2.2
 *.volces.com = server:180.184.2.2
