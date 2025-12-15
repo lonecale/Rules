@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 89957
+# 规则统计: 89958
 
 HOST,03.lzzncm.com,Ads_SukkaW
 HOST,04.lzzncm.com,Ads_SukkaW
@@ -7390,6 +7390,7 @@ HOST-SUFFIX,analytics.gesslimited.com,Ads_SukkaW
 HOST-SUFFIX,analytics.gestore.com,Ads_SukkaW
 HOST-SUFFIX,analytics.get-visible.be,Ads_SukkaW
 HOST-SUFFIX,analytics.getshogun.com,Ads_SukkaW
+HOST-SUFFIX,analytics.getsnworks.com,Ads_SukkaW
 HOST-SUFFIX,analytics.gewaterheater.com,Ads_SukkaW
 HOST-SUFFIX,analytics.ghamieh.com,Ads_SukkaW
 HOST-SUFFIX,analytics.githubassets.com,Ads_SukkaW

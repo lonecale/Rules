@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 89954
+# 规则统计: 89955
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -7390,6 +7390,7 @@ DOMAIN-SUFFIX,analytics.gesslimited.com
 DOMAIN-SUFFIX,analytics.gestore.com
 DOMAIN-SUFFIX,analytics.get-visible.be
 DOMAIN-SUFFIX,analytics.getshogun.com
+DOMAIN-SUFFIX,analytics.getsnworks.com
 DOMAIN-SUFFIX,analytics.gewaterheater.com
 DOMAIN-SUFFIX,analytics.ghamieh.com
 DOMAIN-SUFFIX,analytics.githubassets.com

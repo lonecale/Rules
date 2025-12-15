@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 89957
+# 规则统计: 89958
 
 no_resolve: true
 domain_set:
@@ -7393,6 +7393,7 @@ domain_suffix_set:
   - analytics.gestore.com
   - analytics.get-visible.be
   - analytics.getshogun.com
+  - analytics.getsnworks.com
   - analytics.gewaterheater.com
   - analytics.ghamieh.com
   - analytics.githubassets.com
