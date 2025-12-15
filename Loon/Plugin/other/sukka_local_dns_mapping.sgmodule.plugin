@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2025-09-19T15:07:38.315Z
+#!desc=Last Updated: 2025-12-15T08:31:04.003Z
 #!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 #!author=Sukka
@@ -318,6 +318,7 @@ captive.apple.com = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
 *.bogon = server:system
+*.local = server:null
 127.0.0.1.sslip.io = 127.0.0.1
 127.atlas.skk.moe = 127.0.0.1
 mobile.hotspot = server:system
@@ -367,7 +368,6 @@ aterm.me = server:system
 
 *.localdomain = server:system
 *.internal = server:system
-*.local = server:system
 *.home.arpa = server:system
 *.127.atlas.skk.moe = server:system
 *.lan = server:system
