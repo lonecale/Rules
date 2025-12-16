@@ -8,3 +8,6 @@ picacn.xyz
 picacomic.com
 picacomic.xyz
 wikawika.xyz
+regexp:^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
+ad-channel.diwodiwo.xyz
+ad-display.diwodiwo.xyz

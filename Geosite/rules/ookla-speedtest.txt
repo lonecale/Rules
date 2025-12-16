@@ -10,4 +10,5 @@ speedtest.co
 speedtest.net
 speedtestcustom.com
 webtest.net
+ookla-speedtest-central.hgconair.hgc.com.hk
 regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
