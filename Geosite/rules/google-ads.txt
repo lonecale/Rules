@@ -48,5 +48,4 @@ pagead.l.google.com
 partnerad.l.google.com
 urchin.com
 full:analytics.google.com
-full:fundingchoicesmessages.google.com
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
