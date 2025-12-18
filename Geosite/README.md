@@ -1464,6 +1464,7 @@
 - [xiaoheihe](rules/xiaoheihe.txt)
 - [xiaohongshu](rules/xiaohongshu.txt)
 - [xiaomi-ads](rules/xiaomi-ads.txt)
+- [xiaomi-ai](rules/xiaomi-ai.txt)
 - [xiaomi](rules/xiaomi.txt)
 - [xiaoyuzhou](rules/xiaoyuzhou.txt)
 - [ximalaya-ads](rules/ximalaya-ads.txt)
