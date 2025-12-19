@@ -923,6 +923,7 @@
 - [momo](rules/momo.txt)
 - [mongodb](rules/mongodb.txt)
 - [monotype](rules/monotype.txt)
+- [moonvy](rules/moonvy.txt)
 - [mopub-ads](rules/mopub-ads.txt)
 - [morisawa](rules/morisawa.txt)
 - [mortein](rules/mortein.txt)
