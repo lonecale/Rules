@@ -1529,5 +1529,6 @@
 - [zotero](rules/zotero.txt)
 - [zte](rules/zte.txt)
 - [zto-express](rules/zto-express.txt)
+- [zuoyebang-ads](rules/zuoyebang-ads.txt)
 - [zuoyebang](rules/zuoyebang.txt)
 - [zynga-ads](rules/zynga-ads.txt)
