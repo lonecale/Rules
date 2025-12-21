@@ -1,10 +1,9 @@
 # 规则名称: BTtrackers
-# 规则统计: 167
+# 规则统计: 145
 
 no_resolve: true
 domain_set:
   - 0123456789nonexistent.com
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -17,7 +16,6 @@ domain_set:
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
-  - buny.uk
   - burmese.app
   - bvarf.tracker.sh
   - cny.fan
@@ -35,6 +33,7 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - node01.torrentonline.cc
+  - node01.trackerstatus.live
   - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
@@ -45,17 +44,12 @@ domain_set:
   - open.dstud.io
   - open.stealth.si
   - open.tracker.cl
-  - open.trackerlist.xyz
-  - opentor.org
   - opentracker.io
   - p4p.arenabg.com
-  - public.demonoid.ch
   - retracker.hotplug.ru
   - retracker.lanta.me
-  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - run.publictracker.xyz
-  - seeders-paradise.org
   - shahidrazi.online
   - share.hkg-fansub.info
   - t.213891.xyz
@@ -66,7 +60,6 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr-zhuqiy-1.dgj055.icu
-  - tr-zhuqiy-2.dgj055.icu
   - tr.abiir.top
   - tr.abir.ga
   - tr.highstar.shop
@@ -74,8 +67,8 @@ domain_set:
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr4ck3r.duckdns.org
+  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
-  - tracker-zhuqiy.dgj055.icu
   - tracker.0x7c0.com
   - tracker.1h.is
   - tracker.23794.top
@@ -85,7 +78,6 @@ domain_set:
   - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
-  - tracker.bz
   - tracker.cloudbase.store
   - tracker.corpscorp.online
   - tracker.cutie.dating
@@ -106,19 +98,13 @@ domain_set:
   - tracker.hifitechindia.com
   - tracker.internetwarriors.net
   - tracker.iochimari.moe
-  - tracker.iperson.xyz
-  - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.kuroy.me
   - tracker.leechshield.link
-  - tracker.lintk.me
   - tracker.moeblog.cn
   - tracker.moeking.me
-  - tracker.moxing.party
   - tracker.mywaifu.best
-  - tracker.opentorrent.top
   - tracker.opentrackr.org
-  - tracker.openwebtorrent.com
   - tracker.playground.ru
   - tracker.plx.im
   - tracker.pmman.tech
@@ -126,11 +112,8 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.sbsub.com
-  - tracker.skillindia.site
-  - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -139,12 +122,11 @@ domain_set:
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wepzone.net
-  - tracker.xiaoduola.xyz
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
+  - tracker.zhuqiy.dgj055.icu
   - tracker.zupix.online
   - tracker1.520.jp
   - tracker1.t-1.org
@@ -153,16 +135,12 @@ domain_set:
   - tracker3.itzmx.com
   - tracker3.t-1.org
   - tracker4.itzmx.com
-  - tracker810.xyz
   - udp.tracker.projectk.org
-  - v74853.hosted-by-vdsina.com
   - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
-  - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
-  - yuki.bt.bontal.net
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
