@@ -131,6 +131,7 @@
 - [authy](rules/authy.txt)
 - [autodesk](rules/autodesk.txt)
 - [avaxhome](rules/avaxhome.txt)
+- [avito](rules/avito.txt)
 - [avmoo](rules/avmoo.txt)
 - [awempire](rules/awempire.txt)
 - [aws-cn](rules/aws-cn.txt)
