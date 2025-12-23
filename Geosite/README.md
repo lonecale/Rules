@@ -1411,6 +1411,8 @@
 - [volvo](rules/volvo.txt)
 - [voxmedia](rules/voxmedia.txt)
 - [vpngate](rules/vpngate.txt)
+- [vrcdn](rules/vrcdn.txt)
+- [vrchat](rules/vrchat.txt)
 - [vrzwk](rules/vrzwk.txt)
 - [vultr](rules/vultr.txt)
 ## W
