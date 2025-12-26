@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4247
+# 规则统计: 4248
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1985,7 +1985,6 @@ HOST,nav.yumenosora.co.jp,CDN
 HOST,navismithapis-cdn.com,CDN
 HOST,nbcnewsdigital-static.nbcuni.com,CDN
 HOST,nel.heroku.com,CDN
-HOST,nel.teo-rum.com,CDN
 HOST,net-fe-static-assets.network-controller.svc.ui.com,CDN
 HOST,netlify.apollo.io,CDN
 HOST,newassets.hcaptcha.com,CDN
@@ -3875,6 +3874,7 @@ HOST-SUFFIX,redditmedia.com,CDN
 HOST-SUFFIX,redditstatic.com,CDN
 HOST-SUFFIX,registry.gitplac.si,CDN
 HOST-SUFFIX,replicate.delivery,CDN
+HOST-SUFFIX,replicateassets.com,CDN
 HOST-SUFFIX,report-uri.com,CDN
 HOST-SUFFIX,res.office365.com,CDN
 HOST-SUFFIX,rescript-lang.org,CDN
@@ -4018,6 +4018,7 @@ HOST-SUFFIX,tauri.app,CDN
 HOST-SUFFIX,teamtailor-cdn.com,CDN
 HOST-SUFFIX,tedcdn.com,CDN
 HOST-SUFFIX,telemetry.services.yofi.ai,CDN
+HOST-SUFFIX,teo-rum.com,CDN
 HOST-SUFFIX,teraboxcdn.com,CDN
 HOST-SUFFIX,thesourcemediaassets.com,CDN
 HOST-SUFFIX,thirdwebcdn.com,CDN

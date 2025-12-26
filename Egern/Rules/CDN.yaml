@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4247
+# 规则统计: 4248
 
 domain_set:
   - 0x0.st
@@ -1986,7 +1986,6 @@ domain_set:
   - navismithapis-cdn.com
   - nbcnewsdigital-static.nbcuni.com
   - nel.heroku.com
-  - nel.teo-rum.com
   - net-fe-static-assets.network-controller.svc.ui.com
   - netlify.apollo.io
   - newassets.hcaptcha.com
@@ -3877,6 +3876,7 @@ domain_suffix_set:
   - redditstatic.com
   - registry.gitplac.si
   - replicate.delivery
+  - replicateassets.com
   - report-uri.com
   - res.office365.com
   - rescript-lang.org
@@ -4020,6 +4020,7 @@ domain_suffix_set:
   - teamtailor-cdn.com
   - tedcdn.com
   - telemetry.services.yofi.ai
+  - teo-rum.com
   - teraboxcdn.com
   - thesourcemediaassets.com
   - thirdwebcdn.com
