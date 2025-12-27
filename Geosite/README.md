@@ -653,6 +653,7 @@
 - [heytea](rules/heytea.txt)
 - [heyzo](rules/heyzo.txt)
 - [hiido-ads](rules/hiido-ads.txt)
+- [hikvision](rules/hikvision.txt)
 - [hinet-eca](rules/hinet-eca.txt)
 - [hinet](rules/hinet.txt)
 - [hitun](rules/hitun.txt)

@@ -2,15 +2,14 @@
 # 规则统计: 135
 
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
+DOMAIN,anna.bt.bontal.net
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
-DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,concen.org
@@ -26,7 +25,6 @@ DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,node01.trackerstatus.live
-DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
@@ -52,6 +50,7 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -60,10 +59,8 @@ DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
-DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
@@ -82,11 +79,10 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.hifimarket.in
-DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
+DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.moeblog.cn
@@ -101,7 +97,8 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.rescuecrew7.com
+DOMAIN,tracker.skillindia.site
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
@@ -110,12 +107,14 @@ DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tricitytorrents.com
+DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
+DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.t-1.org
 DOMAIN,tracker2.dler.org
@@ -129,6 +128,7 @@ DOMAIN,www.2600.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
+DOMAIN,yuki.bt.bontal.net
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
