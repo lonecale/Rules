@@ -1,7 +1,8 @@
 # 规则名称: BTtrackers
-# 规则统计: 135
+# 规则统计: 142
 
 DOMAIN,1337.abcvg.info
+DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anna.bt.bontal.net
@@ -10,6 +11,7 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
+DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,concen.org
@@ -25,13 +27,13 @@ DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
-DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,opentor.org
@@ -57,8 +59,10 @@ DOMAIN,tr.nyacat.pw
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
+DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
@@ -79,6 +83,7 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
@@ -97,6 +102,7 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
@@ -112,7 +118,7 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
-DOMAIN,tracker.yemekyedim.com
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
@@ -124,6 +130,7 @@ DOMAIN,tracker3.t-1.org
 DOMAIN,tracker4.itzmx.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,v74853.hosted-by-vdsina.com
+DOMAIN,wepzone.net
 DOMAIN,www.2600.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.torrent.eu.org

@@ -1,12 +1,13 @@
 full:connectivitycheck.platform.hihonorcloud.com
 full:connectivitycheck.platform.hicloud.com
 full:connect.rom.miui.com
+full:connectivity-check.ubuntu.com
 msftconnecttest.com
 msftncsi.com
-ping.archlinux.org
 captive.apple.com
-connectivitycheck.gstatic.com
+ping.archlinux.org
 cp.cloudflare.com
 network-test.debian.org
 detectportal.firefox.com
+connectivitycheck.gstatic.com
 networkcheck.kde.org
