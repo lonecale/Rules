@@ -110,6 +110,8 @@
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||twns.p2ptun.qq.com^
+||ucdc.upaas.quark.cn^$dnstype=AAAA,dnsrewrite=NOERROR
+||ucdc.upaas.quark.cn^
 ||union-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||union-httpdns.gslb.yy.com^
 ||yuyin-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
