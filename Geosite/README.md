@@ -242,6 +242,8 @@
 - [category-bourse-ir](rules/category-bourse-ir.txt)
 - [category-browser-!cn](rules/category-browser-!cn.txt)
 - [category-cas](rules/category-cas.txt)
+- [category-cdn-!cn](rules/category-cdn-!cn.txt)
+- [category-cdn-cn](rules/category-cdn-cn.txt)
 - [category-collaborate-cn](rules/category-collaborate-cn.txt)
 - [category-communication](rules/category-communication.txt)
 - [category-companies](rules/category-companies.txt)
