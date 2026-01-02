@@ -203,6 +203,7 @@
 - [broadcom](rules/broadcom.txt)
 - [btdig](rules/btdig.txt)
 - [bttzyw](rules/bttzyw.txt)
+- [bushiroad](rules/bushiroad.txt)
 - [buymeacoffee](rules/buymeacoffee.txt)
 - [buypass](rules/buypass.txt)
 - [bybit](rules/bybit.txt)
