@@ -1443,6 +1443,7 @@
 - [wikidot](rules/wikidot.txt)
 - [wikihow](rules/wikihow.txt)
 - [wikimedia](rules/wikimedia.txt)
+- [wildberries](rules/wildberries.txt)
 - [win-extra](rules/win-extra.txt)
 - [win-spy](rules/win-spy.txt)
 - [win-update](rules/win-update.txt)

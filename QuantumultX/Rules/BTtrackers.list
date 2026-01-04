@@ -1,10 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 130
+# 规则统计: 125
 
 HOST,1337.abcvg.info,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
+HOST,admin.52ywp.com,BTtrackers
 HOST,anna.bt.bontal.net,BTtrackers
+HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.bontal.net,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
@@ -17,7 +19,6 @@ HOST,d40969.acod.regrucolo.ru,BTtrackers
 HOST,echostar.ddnsfree.com,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
-HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
@@ -29,16 +30,15 @@ HOST,node01.trackerstatus.live,BTtrackers
 HOST,node02.torrentonline.cc,BTtrackers
 HOST,ns575949.ip-51-222-82.net,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
+HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.acgtracker.com,BTtrackers
 HOST,open.demonii.com,BTtrackers
 HOST,open.demonoid.ch,BTtrackers
-HOST,open.dstud.io,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.cl,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
-HOST,public.demonoid.ch,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
@@ -54,11 +54,9 @@ HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
-HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.0x7c0.com,BTtrackers
 HOST,tracker.1h.is,BTtrackers
-HOST,tracker.23794.top,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
@@ -75,7 +73,6 @@ HOST,tracker.filemail.com,BTtrackers
 HOST,tracker.flatuslifir.is,BTtrackers
 HOST,tracker.fnix.net,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
-HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.ghostchu-services.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.internetwarriors.net,BTtrackers
@@ -96,7 +93,6 @@ HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwa.pro,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
-HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.soshifanclub.com,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
@@ -104,7 +100,6 @@ HOST,tracker.t-1.org,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrust-demo.com,BTtrackers
-HOST,tracker.tricitytorrents.com,BTtrackers
 HOST,tracker.tritan.gg,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.tvunderground.org.ru,BTtrackers
