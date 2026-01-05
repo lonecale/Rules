@@ -1,11 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 125
+# 规则统计: 127
 
 HOST,1337.abcvg.info,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
-HOST,anna.bt.bontal.net,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.bontal.net,BTtrackers
@@ -14,11 +13,12 @@ HOST,bt.rer.lol,BTtrackers
 HOST,burmese.app,BTtrackers
 HOST,bvarf.tracker.sh,BTtrackers
 HOST,cny.fan,BTtrackers
+HOST,colivioo.com,BTtrackers
 HOST,concen.org,BTtrackers
 HOST,d40969.acod.regrucolo.ru,BTtrackers
 HOST,echostar.ddnsfree.com,BTtrackers
-HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
+HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
@@ -30,7 +30,6 @@ HOST,node01.trackerstatus.live,BTtrackers
 HOST,node02.torrentonline.cc,BTtrackers
 HOST,ns575949.ip-51-222-82.net,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
-HOST,open-tracker.demonoid.ch,BTtrackers
 HOST,open.acgtracker.com,BTtrackers
 HOST,open.demonii.com,BTtrackers
 HOST,open.demonoid.ch,BTtrackers
@@ -39,6 +38,7 @@ HOST,open.tracker.cl,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
+HOST,public.demonoid.ch,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
@@ -54,13 +54,14 @@ HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
+HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.0x7c0.com,BTtrackers
 HOST,tracker.1h.is,BTtrackers
+HOST,tracker.23794.top,BTtrackers
 HOST,tracker.beeimg.com,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
-HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.cutie.dating,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers
@@ -115,6 +116,7 @@ HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker3.t-1.org,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,udp.tracker.projectk.org,BTtrackers
+HOST,utracker.ghostchu-services.top,BTtrackers
 HOST,v74853.hosted-by-vdsina.com,BTtrackers
 HOST,www.all4nothin.net,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers

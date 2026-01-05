@@ -1,11 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 125
+# 规则统计: 127
 
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
-DOMAIN,anna.bt.bontal.net
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -14,11 +13,12 @@ DOMAIN,bt.rer.lol
 DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
+DOMAIN,colivioo.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,echostar.ddnsfree.com
-DOMAIN,evan.im
 DOMAIN,exodus.desync.com
+DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
@@ -30,7 +30,6 @@ DOMAIN,node01.trackerstatus.live
 DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
-DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
@@ -39,6 +38,7 @@ DOMAIN,open.tracker.cl
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.demonoid.ch
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -54,13 +54,14 @@ DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.cyberia.is
@@ -115,6 +116,7 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker3.t-1.org
 DOMAIN,tracker4.itzmx.com
 DOMAIN,udp.tracker.projectk.org
+DOMAIN,utracker.ghostchu-services.top
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.torrent.eu.org
