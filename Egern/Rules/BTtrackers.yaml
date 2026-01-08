@@ -1,7 +1,6 @@
 # 规则名称: BTtrackers
-# 规则统计: 148
+# 规则统计: 142
 
-no_resolve: true
 domain_set:
   - 0123456789nonexistent.com
   - 0d.kebhana.mx
@@ -23,6 +22,7 @@ domain_set:
   - colivioo.com
   - concen.org
   - d40969.acod.regrucolo.ru
+  - echostar.ddnsfree.com
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
@@ -34,6 +34,7 @@ domain_set:
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - node01.trackerstatus.live
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -41,16 +42,16 @@ domain_set:
   - open.demonii.com
   - open.demonoid.ch
   - open.stealth.si
+  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
   - p4p.arenabg.com
-  - retracker.hotplug.ru
+  - public.demonoid.ch
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - run.publictracker.xyz
-  - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
   - share.hkg-fansub.info
@@ -60,14 +61,18 @@ domain_set:
   - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
+  - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr4ck3r.duckdns.org
+  - tracker-de-2.cutie.dating
+  - tracker-udp.gbitt.info
   - tracker.0x7c0.com
   - tracker.1h.is
+  - tracker.beeimg.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
@@ -76,12 +81,10 @@ domain_set:
   - tracker.bz
   - tracker.corpscorp.online
   - tracker.cutie.dating
-  - tracker.cyberia.is
   - tracker.darkness.services
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -91,6 +94,7 @@ domain_set:
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
+  - tracker.iperson.xyz
   - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
@@ -129,27 +133,14 @@ domain_set:
   - tracker1.myporn.club
   - tracker1.t-1.org
   - tracker2.dler.org
-  - tracker2.itzmx.com
-  - tracker3.itzmx.com
   - tracker3.t-1.org
-  - tracker4.itzmx.com
   - tracker810.xyz
+  - trackr.appolon.dev
   - udp.tracker.projectk.org
   - utracker.ghostchu-services.top
-  - v74853.hosted-by-vdsina.com
   - wepzone.net
   - www.all4nothin.net
   - www.genesis-sp.org
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
-  - yuki.bt.bontal.net
-ip_cidr_set:
-  - 207.241.226.111/32
-  - 207.241.231.226/32
-  - 52.58.128.163/32
-  - 89.110.76.229/32
-ip_cidr6_set:
-  - 2a03:7220:8083:cd00::1/128
-  - 2a04:ac00:1:3dd8::1:2710/128
-  - 2a0f:e586:f:f::81/128
