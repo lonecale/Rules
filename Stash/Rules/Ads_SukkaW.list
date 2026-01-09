@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 90362
+# 规则统计: 90364
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -747,6 +747,7 @@ DOMAIN,promote.biz.weibo.cn
 DOMAIN,proxyhog.prisma-data.net
 DOMAIN,prt-stsdk.vivo.com.cn
 DOMAIN,ps.map.baidu.com
+DOMAIN,pub.elevate14r.com
 DOMAIN,puma-api.iqiyi.com
 DOMAIN,puma.api.iqiyi.com
 DOMAIN,push.m.youku.com
@@ -17323,6 +17324,7 @@ DOMAIN-SUFFIX,collector.moderntv.eu
 DOMAIN-SUFFIX,collector.net-logger.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.plarium.com
+DOMAIN-SUFFIX,collector.pmc.com
 DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector.quillbot.com
 DOMAIN-SUFFIX,collector.reelevant.com

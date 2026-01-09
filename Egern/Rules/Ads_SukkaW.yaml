@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 90365
+# 规则统计: 90367
 
 no_resolve: true
 domain_set:
@@ -749,6 +749,7 @@ domain_set:
   - proxyhog.prisma-data.net
   - prt-stsdk.vivo.com.cn
   - ps.map.baidu.com
+  - pub.elevate14r.com
   - puma-api.iqiyi.com
   - puma.api.iqiyi.com
   - push.m.youku.com
@@ -17326,6 +17327,7 @@ domain_suffix_set:
   - collector.net-logger.com
   - collector.pi.spectrum.net
   - collector.plarium.com
+  - collector.pmc.com
   - collector.prod.expedia.com
   - collector.quillbot.com
   - collector.reelevant.com
