@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 90363
+# 规则统计: 90365
 
 no_resolve: true
 domain_set:
@@ -57317,6 +57317,7 @@ domain_suffix_set:
   - pig.pupuapi.com
   - pigeon.thankyuu.com
   - pigeoncontentmentcotton.com
+  - pigeonkit.com
   - pigeonsetc.com
   - piggeryenguard.cfd
   - pigmentpaper.com
@@ -60013,6 +60014,7 @@ domain_suffix_set:
   - quickpcfixer.click
   - quicksandear.com
   - quickshare.cfd
+  - quicktrick.net
   - quiddity.goguardian.com
   - quietknowledge.com
   - quietleaffield.com
