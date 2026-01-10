@@ -1178,6 +1178,7 @@
 - [scala](rules/scala.txt)
 - [scaleflex](rules/scaleflex.txt)
 - [scenesource](rules/scenesource.txt)
+- [schoopia](rules/schoopia.txt)
 - [schwab](rules/schwab.txt)
 - [sci-hub](rules/sci-hub.txt)
 - [sci](rules/sci.txt)
