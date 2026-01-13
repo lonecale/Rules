@@ -1,10 +1,8 @@
 # 规则名称: BTtrackers
-# 规则统计: 146
+# 规则统计: 142
 
 no_resolve: true
 domain_set:
-  - 0123456789nonexistent.com
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -15,13 +13,14 @@ domain_set:
   - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
-  - buny.uk
   - burmese.app
   - bvarf.tracker.sh
   - cny.fan
   - concen.org
   - d40969.acod.regrucolo.ru
+  - evan.im
   - exodus.desync.com
+  - explodie.org
   - extracker.dahrkael.net
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
@@ -29,6 +28,7 @@ domain_set:
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -48,8 +48,8 @@ domain_set:
   - retracker.lanta.me
   - retracker01-msk-virt.corbina.net
   - run.publictracker.xyz
+  - seeders-paradise.org
   - shahidrazi.online
-  - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
   - t.overflow.biz
@@ -64,10 +64,10 @@ domain_set:
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr4ck3r.duckdns.org
+  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.0x7c0.com
   - tracker.1h.is
-  - tracker.23794.top
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
@@ -89,13 +89,10 @@ domain_set:
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
-  - tracker.iperson.xyz
-  - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
   - tracker.kuroy.me
   - tracker.leechshield.link
-  - tracker.lintk.me
   - tracker.moeblog.cn
   - tracker.moeking.me
   - tracker.mywaifu.best
@@ -113,7 +110,6 @@ domain_set:
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -121,8 +117,8 @@ domain_set:
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
-  - tracker.vanitycore.co
   - tracker.waaa.moe
+  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker1.520.jp
@@ -139,8 +135,8 @@ domain_set:
   - utracker.ghostchu-services.top
   - v74853.hosted-by-vdsina.com
   - www.all4nothin.net
+  - www.genesis-sp.org
   - www.torrent.eu.org
-  - www.torrentsnipe.info
   - www.wareztorrent.com
 ip_cidr_set:
   - 207.241.226.111/32

@@ -1,8 +1,6 @@
 # 规则名称: BTtrackers
-# 规则统计: 146
+# 规则统计: 142
 
-DOMAIN,0123456789nonexistent.com
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -13,13 +11,14 @@ DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
-DOMAIN,buny.uk
 DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
+DOMAIN,evan.im
 DOMAIN,exodus.desync.com
+DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
@@ -27,6 +26,7 @@ DOMAIN,ipv6.rer.lol
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
+DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
@@ -46,8 +46,8 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz
+DOMAIN,seeders-paradise.org
 DOMAIN,shahidrazi.online
-DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
@@ -62,10 +62,10 @@ DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
@@ -87,13 +87,10 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.iochimari.moe
-DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
@@ -111,7 +108,6 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -119,8 +115,8 @@ DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
-DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
@@ -137,8 +133,8 @@ DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,www.all4nothin.net
+DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
-DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
