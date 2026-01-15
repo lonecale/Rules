@@ -1,19 +1,16 @@
 # 规则名称: BTtrackers
-# 规则统计: 146
+# 规则统计: 130
 
 no_resolve: true
 domain_set:
-  - 0123456789nonexistent.com
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
+  - admin.52ywp.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
-  - bt.poletracker.org
   - bt.rer.lol
-  - bt1.xxxxbt.cc
-  - buny.uk
   - burmese.app
   - bvarf.tracker.sh
   - cny.fan
@@ -26,10 +23,10 @@ domain_set:
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
-  - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
+  - node01.trackerstatus.live
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -39,7 +36,6 @@ domain_set:
   - open.dstud.io
   - open.stealth.si
   - open.tracker.cl
-  - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
   - opentracker.xyz
@@ -47,19 +43,16 @@ domain_set:
   - public.demonoid.ch
   - retracker.hotplug.ru
   - retracker.lanta.me
-  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - run.publictracker.xyz
-  - seeders-paradise.org
-  - servandroidkino.ru
   - shahidrazi.online
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -67,20 +60,18 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
+  - tracker-zhuqiy.dgj055.icu
   - tracker.1h.is
   - tracker.23794.top
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
-  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.corpscorp.online
   - tracker.cutie.dating
-  - tracker.darkness.services
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -89,17 +80,14 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.internetwarriors.net
   - tracker.iochimari.moe
   - tracker.iperson.xyz
-  - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.moeblog.cn
   - tracker.moeking.me
-  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.opentorrent.top
   - tracker.opentrackr.org
@@ -111,7 +99,6 @@ domain_set:
   - tracker.qingwa.pro
   - tracker.qu.ax
   - tracker.renfei.net
-  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
@@ -122,10 +109,8 @@ domain_set:
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wepzone.net
-  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker1.520.jp
@@ -141,7 +126,6 @@ domain_set:
   - utracker.ghostchu-services.top
   - wepzone.net
   - www.all4nothin.net
-  - www.genesis-sp.org
   - www.torrent.eu.org
   - www.wareztorrent.com
 ip_cidr_set:

@@ -1263,6 +1263,7 @@
 - [starworld](rules/starworld.txt)
 - [staticfile](rules/staticfile.txt)
 - [steam](rules/steam.txt)
+- [steaminventoryhelper](rules/steaminventoryhelper.txt)
 - [steamunlocked](rules/steamunlocked.txt)
 - [steemit](rules/steemit.txt)
 - [sto-express](rules/sto-express.txt)
