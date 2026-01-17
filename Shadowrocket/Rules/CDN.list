@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4309
+# 规则统计: 4310
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1168,6 +1168,7 @@ DOMAIN,design.keyoxide.org
 DOMAIN,design.mayoclinic.org
 DOMAIN,designsystem.brevo.com
 DOMAIN,detectportal.firefox.com
+DOMAIN,devicons.railway.com
 DOMAIN,devnull.perfops.net
 DOMAIN,dh-site.b-cdn.net
 DOMAIN,dims.apnews.com

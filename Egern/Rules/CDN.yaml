@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4309
+# 规则统计: 4310
 
 domain_set:
   - 0x0.st
@@ -1169,6 +1169,7 @@ domain_set:
   - design.mayoclinic.org
   - designsystem.brevo.com
   - detectportal.firefox.com
+  - devicons.railway.com
   - devnull.perfops.net
   - dh-site.b-cdn.net
   - dims.apnews.com

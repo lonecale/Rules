@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4309
+# 规则统计: 4310
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1168,6 +1168,7 @@ HOST,design.keyoxide.org,CDN
 HOST,design.mayoclinic.org,CDN
 HOST,designsystem.brevo.com,CDN
 HOST,detectportal.firefox.com,CDN
+HOST,devicons.railway.com,CDN
 HOST,devnull.perfops.net,CDN
 HOST,dh-site.b-cdn.net,CDN
 HOST,dims.apnews.com,CDN
