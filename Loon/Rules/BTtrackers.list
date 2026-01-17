@@ -1,6 +1,8 @@
 # 规则名称: BTtrackers
-# 规则统计: 128
+# 规则统计: 140
 
+DOMAIN,0123456789nonexistent.com
+DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -8,8 +10,9 @@ DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.okmp3.ru
+DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
-DOMAIN,burmese.app
+DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,concen.org
@@ -18,12 +21,16 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
+DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
+DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
+DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
@@ -33,6 +40,7 @@ DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
+DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,opentracker.xyz
@@ -40,10 +48,13 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,public.demonoid.ch
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
+DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz
+DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
-DOMAIN,t.213891.xyz
+DOMAIN,share.hkg-fansub.info
+DOMAIN,shubt.net
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
@@ -58,10 +69,13 @@ DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
+DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.bz
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.darkness.services
@@ -81,6 +95,7 @@ DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
+DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
@@ -94,21 +109,18 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
-DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.t-1.org
 DOMAIN,tracker2.dler.org
@@ -122,8 +134,8 @@ DOMAIN,utracker.ghostchu-services.top
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.torrent.eu.org
+DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
-DOMAIN,yuki.bt.bontal.net
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
