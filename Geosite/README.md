@@ -1104,6 +1104,7 @@
 - [protonmail](rules/protonmail.txt)
 - [pstorage](rules/pstorage.txt)
 - [ptt](rules/ptt.txt)
+- [pubg](rules/pubg.txt)
 - [pubmatic-ads](rules/pubmatic-ads.txt)
 - [pubmatic](rules/pubmatic.txt)
 - [pugpig](rules/pugpig.txt)
