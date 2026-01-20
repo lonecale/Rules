@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 128
+# 规则统计: 123
 
 no_resolve: true
 domain_set:
@@ -12,14 +12,12 @@ domain_set:
   - bt.bontal.net
   - bt.okmp3.ru
   - bt.rer.lol
-  - burmese.app
   - bvarf.tracker.sh
   - cny.fan
   - colivioo.com
   - d40969.acod.regrucolo.ru
   - evan.im
   - exodus.desync.com
-  - explodie.org
   - extracker.dahrkael.net
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
@@ -27,8 +25,6 @@ domain_set:
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - node01.trackerstatus.live
-  - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -37,7 +33,6 @@ domain_set:
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
-  - open.tracker.cl
   - opentor.org
   - opentracker.io
   - opentracker.xyz
@@ -49,27 +44,24 @@ domain_set:
   - run.publictracker.xyz
   - shahidrazi.online
   - t.213891.xyz
-  - t.overflow.biz
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
-  - tr-rh-zhuqiy.dgj055.icu
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
+  - tr.kxmp.cf
+  - tr.nyacat.pw
   - tr.zukizuki.org
   - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
-  - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
   - tracker.bt4g.com
   - tracker.corpscorp.online
-  - tracker.cutie.dating
   - tracker.darkness.services
   - tracker.dhitechnical.com
   - tracker.dler.com
@@ -79,6 +71,7 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
@@ -101,10 +94,10 @@ domain_set:
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
@@ -112,7 +105,9 @@ domain_set:
   - tracker.wepzone.net
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
+  - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
+  - tracker1.myporn.club
   - tracker1.t-1.org
   - tracker2.dler.org
   - tracker2.itzmx.com
