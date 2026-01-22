@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 136
+# 规则统计: 143
 
 no_resolve: true
 domain_set:
@@ -7,27 +7,28 @@ domain_set:
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - admin.52ywp.com
   - bandito.byterunner.io
   - bt.bontal.net
   - bt.okmp3.ru
+  - bt.poletracker.org
   - bt.rer.lol
-  - buny.uk
+  - bt1.xxxxbt.cc
   - bvarf.tracker.sh
   - cny.fan
   - colivioo.com
   - d40969.acod.regrucolo.ru
   - evan.im
   - exodus.desync.com
-  - explodie.org
   - extracker.dahrkael.net
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - node01.trackerstatus.live
+  - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -36,6 +37,7 @@ domain_set:
   - open.demonoid.ch
   - open.dstud.io
   - open.stealth.si
+  - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
   - opentracker.xyz
@@ -69,6 +71,7 @@ domain_set:
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.corpscorp.online
   - tracker.darkness.services
@@ -81,14 +84,15 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
-  - tracker.iperson.xyz
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
   - tracker.kuroy.me
   - tracker.leechshield.link
+  - tracker.lintk.me
   - tracker.moeblog.cn
   - tracker.moeking.me
   - tracker.moxing.party
@@ -101,20 +105,23 @@ domain_set:
   - tracker.pmman.tech
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
+  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wepzone.net
+  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
+  - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.myporn.club
   - tracker1.t-1.org
