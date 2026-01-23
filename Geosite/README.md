@@ -511,6 +511,7 @@
 - [embl](rules/embl.txt)
 - [emogi-ads](rules/emogi-ads.txt)
 - [emojipedia](rules/emojipedia.txt)
+- [eneba](rules/eneba.txt)
 - [enfa](rules/enfa.txt)
 - [entermediadb](rules/entermediadb.txt)
 - [entrust](rules/entrust.txt)
