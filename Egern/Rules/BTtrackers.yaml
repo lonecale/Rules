@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 125
+# 规则统计: 123
 
 no_resolve: true
 domain_set:
@@ -7,13 +7,13 @@ domain_set:
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
+  - anna.bt.bontal.net
   - bandito.byterunner.io
   - bt.bontal.net
   - bt.okmp3.ru
   - bt.rer.lol
   - bvarf.tracker.sh
   - cny.fan
-  - colivioo.com
   - d40969.acod.regrucolo.ru
   - evan.im
   - exodus.desync.com
@@ -26,6 +26,7 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - node01.trackerstatus.live
+  - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open-tracker.demonoid.ch
@@ -36,7 +37,6 @@ domain_set:
   - open.stealth.si
   - opentor.org
   - opentracker.io
-  - opentracker.xyz
   - p4p.arenabg.com
   - public.demonoid.ch
   - retracker.hotplug.ru
@@ -49,22 +49,21 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
+  - tr-zhuqiy-2.dgj055.icu
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
-  - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
   - tracker.bt4g.com
+  - tracker.cangku.moe
   - tracker.corpscorp.online
   - tracker.darkness.services
   - tracker.dhitechnical.com
@@ -75,6 +74,7 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
@@ -96,11 +96,9 @@ domain_set:
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
-  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
