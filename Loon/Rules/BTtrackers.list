@@ -1,16 +1,15 @@
 # 规则名称: BTtrackers
-# 规则统计: 123
+# 规则统计: 124
 
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
-DOMAIN,anna.bt.bontal.net
 DOMAIN,bandito.byterunner.io
-DOMAIN,bt.bontal.net
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
 DOMAIN,bvarf.tracker.sh
+DOMAIN,cn.pcfreetime.com
 DOMAIN,cny.fan
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,evan.im
@@ -33,6 +32,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
@@ -47,21 +47,22 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
-DOMAIN,tr-zhuqiy-2.dgj055.icu
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dhitechnical.com
@@ -72,7 +73,6 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
-DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.iochimari.moe
@@ -81,7 +81,6 @@ DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.moeblog.cn
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
@@ -94,6 +93,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.t-1.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -105,6 +105,7 @@ DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
+DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker1.t-1.org
