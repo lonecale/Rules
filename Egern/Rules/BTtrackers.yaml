@@ -1,23 +1,26 @@
 # 规则名称: BTtrackers
-# 规则统计: 124
+# 规则统计: 133
 
 no_resolve: true
 domain_set:
+  - 0123456789nonexistent.com
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - bandito.byterunner.io
   - bt.okmp3.ru
+  - bt.poletracker.org
   - bt.rer.lol
+  - buny.uk
   - bvarf.tracker.sh
   - cn.pcfreetime.com
   - cny.fan
   - d40969.acod.regrucolo.ru
   - evan.im
   - exodus.desync.com
-  - explodie.org
   - extracker.dahrkael.net
+  - home.yxgz.club
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -44,6 +47,8 @@ domain_set:
   - retracker01-msk-virt.corbina.net
   - run.publictracker.xyz
   - shahidrazi.online
+  - share.hkg-fansub.info
+  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
   - torrent.tracker.durukanbal.com
@@ -59,7 +64,6 @@ domain_set:
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
-  - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
@@ -70,11 +74,13 @@ domain_set:
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
+  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
@@ -92,6 +98,7 @@ domain_set:
   - tracker.pmman.tech
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
@@ -116,11 +123,13 @@ domain_set:
   - tracker3.itzmx.com
   - tracker3.t-1.org
   - tracker4.itzmx.com
+  - tracker810.xyz
   - udp.tracker.projectk.org
   - utracker.ghostchu-services.top
   - wepzone.net
   - www.all4nothin.net
   - www.torrent.eu.org
+  - www.torrentsnipe.info
   - www.wareztorrent.com
 ip_cidr_set:
   - 207.241.226.111/32
