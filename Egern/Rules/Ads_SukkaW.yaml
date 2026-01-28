@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 103227
+# 规则统计: 103269
 
 no_resolve: true
 domain_set:
@@ -176,6 +176,7 @@ domain_set:
   - amap-aos-info-nogw.amap.com
   - amdc-sibling.alipay.com.cn
   - amdc.m.youku.com
+  - amp.thehackernews.com
   - ana.masky.biddingx.com
   - analytics-js-cdn.liferay.com
   - analytics-pilot.kaggle.com
@@ -1529,6 +1530,7 @@ domain_suffix_set:
   - 22-trk-srv.com
   - 2217ce7adf.com
   - 222aa333bb.com
+  - 224oztn8dq.com
   - 22b664d9ce.com
   - 22hgc.com
   - 22lmsi1t5.de
@@ -2485,6 +2487,7 @@ domain_suffix_set:
   - 8bnouo6r6.com
   - 8bof9b338zyx6vq1221jqi4.rest
   - 8clkggoo62.com
+  - 8crocoeukq9p2f3.rest
   - 8digits.com
   - 8ea1272194.com
   - 8ecc2aee4f.com
@@ -6600,6 +6603,7 @@ domain_suffix_set:
   - aiqx.www.ghostbusters.com
   - airabreeze-ss.zavydeals.com
   - airairgu.com
+  - airampopsykter.shop
   - airateedrawhelu.com
   - airclairu-ss.olladeals.com
   - aircraftairliner.com
@@ -7206,6 +7210,7 @@ domain_suffix_set:
   - ametrics.lumen.com
   - ametrics.mheducation.com
   - ametrics.web.dnbbank.no
+  - amewtoehwajro.site
   - amezqu.fabrykaform.pl
   - amftsawknf.com
   - amgdgt.com
@@ -10974,6 +10979,7 @@ domain_suffix_set:
   - aqcmpahibdxsy.xyz
   - aqcolwxuzyjyg.space
   - aqcutwom.xyz
+  - aqcvcirudo.com
   - aqdldytbloxx.com
   - aqdwkq.hihometech.net
   - aqedsw4.com
@@ -13074,6 +13080,7 @@ domain_suffix_set:
   - benzoxyupstirs.qpon
   - beoecomapim.bang-olufsen.com
   - beoofo.pairs.lv
+  - beowulffeoffs.qpon
   - bepaidupcome.qpon
   - bepartof.wechain.eu
   - bepillalgesicnonary.cfd
@@ -13976,6 +13983,7 @@ domain_suffix_set:
   - bolfep.prospin.com.br
   - bolha.rxmaq.com
   - bolha.shopzinho.online
+  - bollieswhities.cfd
   - bollyocean.com
   - bolognasaucers.com
   - boloptrex.com
@@ -14078,6 +14086,7 @@ domain_suffix_set:
   - bot.streaktrivia.com
   - botb.rtl2.de
   - botdetection.hbrsd.com
+  - bothersmoanful.com
   - bothoorgoamsab.net
   - botradar.tech
   - botta.hostnin.com
@@ -14108,6 +14117,7 @@ domain_suffix_set:
   - bovmkbuiaddbb.website
   - bowersorgamy.com
   - bowerywill.com
+  - bowkbidens.cfd
   - bowlegvervain.cfd
   - bowlerscoaster.com
   - bowlingprosperhalfbrother.com
@@ -14174,6 +14184,7 @@ domain_suffix_set:
   - bqcmk.gardenofmemoriesmetairie.com
   - bqdhrr.top
   - bqdisnocj.com
+  - bqenzxdijbdov.space
   - bqfdp.stringsandsol.com
   - bqgab.rainbowshops.com
   - bqhkix.mosmexa.ru
@@ -16848,6 +16859,7 @@ domain_suffix_set:
   - ciqtracking.com
   - circlejavgg124.fun
   - circlelevel.com
+  - circulardefinition.pro
   - circumscribeswear.com
   - cirqueupstandshotgun.cyou
   - cis.schibsted.com
@@ -21013,6 +21025,7 @@ domain_suffix_set:
   - darkandlight.ru
   - darki.sokolovelaw.com
   - darkmfbipedjt.space
+  - darkvisitors.com
   - darnobedienceupscale.com
   - darnuid.netflix.com
   - darren01.oss-cn-beijing.aliyuncs.com
@@ -24220,6 +24233,7 @@ domain_suffix_set:
   - dbmgc.marleylilly.com
   - dbmyvl.apartmentfinder.com
   - dbpbyh.americanas.com.br
+  - dbpjegtrlbmzp.space
   - dbqepyut.com
   - dbqst.hercasematters.com
   - dbquery-intake.datadoghq.com
@@ -25456,6 +25470,7 @@ domain_suffix_set:
   - dkmvyl.kidsahoi.ch
   - dkngfkgbc.com
   - dkno.netpartnering.com
+  - dknzgafyc.com
   - dko.vente-unique.nl
   - dkomm.westcoastkids.ca
   - dkonto.pl
@@ -26055,6 +26070,7 @@ domain_suffix_set:
   - dragonfly.jala-one.com
   - dragonparking.com
   - dragstergibletshaded.com
+  - drailtugs.shop
   - drainpaste.com
   - drakerecitalpraised.com
   - draktash.com
@@ -26382,6 +26398,7 @@ domain_suffix_set:
   - dunnageverbene.cfd
   - dunnepawls.qpon
   - dunnocksnubber.cfd
+  - duntletrucker.cyou
   - duolxovdwnnpi.com
   - duomai.com
   - duomeng.cn
@@ -29916,6 +29933,7 @@ domain_suffix_set:
   - fakrul.bazarsarabela.com
   - fakxqq.cn
   - fal2.carrefour-banque.fr
+  - falangesunbowsbingle.cyou
   - falcatagerman.shop
   - falcon.designed.org
   - falcon.executeprogram.com
@@ -30542,6 +30560,7 @@ domain_suffix_set:
   - files.xtpag.top
   - filetarget.com
   - filetarget.net
+  - filipposubg.cyou
   - filitenumdah.cfd
   - filletfiguredconstrain.com
   - fillthemap.com
@@ -32830,6 +32849,7 @@ domain_suffix_set:
   - gfnokk.natro.com
   - gfnpuxuwhegea.space
   - gfnulonelb.com
+  - gfogjmvuwobroew.com
   - gforat.grahambrown.com
   - gfosegguevk.com
   - gfpro.grammofood.com.bd
@@ -34592,6 +34612,7 @@ domain_suffix_set:
   - gsk801270hh.com
   - gsk801271hh.com
   - gsk801280hh.com
+  - gsk801281hh.com
   - gskvvpbhyhwitjg.com
   - gskwai.com
   - gslb.hpplay.cn
@@ -43109,6 +43130,7 @@ domain_suffix_set:
   - jelr1.dili.fr
   - jembut.lanciaumo.com
   - jemonews.com
+  - jeneirlidqrms.website
   - jenonaw.com
   - jensonrasprelim.cyou
   - jenxsw21lb.com
@@ -43160,6 +43182,7 @@ domain_suffix_set:
   - jfdfvprfq.lareira-bioetanol.pt
   - jfdfvprfq.wine-store.dk
   - jfdiu.saskatoonberriesbaseballclub.ca
+  - jfdokxkiarufi.website
   - jfeio.mavi.com
   - jfellnuo.com
   - jfgvom.maatila.co.kr
@@ -45639,6 +45662,7 @@ domain_suffix_set:
   - laxativestuckunclog.com
   - laybacktear.cyou
   - layer-ad.org
+  - laymanesprit.com
   - layout08062025.shop
   - laypi.odontolyds.com.br
   - laytroops.com
@@ -46085,6 +46109,7 @@ domain_suffix_set:
   - lgzkzp.bauhaus.at
   - lh.bigcrunch.com
   - lh1dki82.com
+  - lh64fybpjcpiko71zp.cfd
   - lhacuwpfjscds.online
   - lhaekpba.dagsmejan.de
   - lhaqtn.lyst.ca
@@ -51343,6 +51368,7 @@ domain_suffix_set:
   - lokalwerben.t-online.de
   - loki8lave.com
   - lokizaurak.cyou
+  - lokpcljgeb.xyz
   - lolco.net
   - loleteal.com
   - lolhk.shopfurme.com
@@ -54276,6 +54302,7 @@ domain_suffix_set:
   - marketreports.autovistagroup.com
   - marketresearch.jacksonhealthcare.com
   - marketspiders.com
+  - markkaaplosion.cyou
   - markkinointi.igopost.fi
   - markkinointi.kespro.com
   - markreptiloid.com
@@ -58362,6 +58389,7 @@ domain_suffix_set:
   - mssdk16-normal-us-ttp.capcutapi.us
   - mssfv.aspinaloflondon.com
   - msslwa.icu
+  - mssuzyhqlqjwj.site
   - mst.physiotherapie-mobili.de
   - mst.rnd.de
   - mstat.acestream.net
@@ -60472,6 +60500,7 @@ domain_suffix_set:
   - nuctok.topten10mall.com
   - nudgedjoss.qpon
   - nudgeduck.com
+  - nudgeflutterrechain.cyou
   - nuffrsfx.sideaita.it
   - nug07300lu.com
   - nug07301lu.com
@@ -60999,6 +61028,7 @@ domain_suffix_set:
   - oesonx.10000recipe.com
   - oessbi.yves-rocher.ru
   - oesxlp.atlasformen.co.uk
+  - oeszxeerssjsn.site
   - oevhapajlqi.com
   - oexcmv.concent.co.jp
   - oexk.cn
@@ -64975,6 +65005,7 @@ domain_suffix_set:
   - polyfill.top
   - polyfillcache.com
   - polymorphicads.jp
+  - pomakprosist.qpon
   - pomegranatestaff.com
   - ponchogutnicderah.cfd
   - ponderliquidate.com
@@ -67180,6 +67211,7 @@ domain_suffix_set:
   - qvnsac.aloehonpo.co.jp
   - qvqtga.barenecessities.com
   - qvrjg.coach.com
+  - qvrnatsauhini.website
   - qvsfrk.stephane-christian.com
   - qvtsz.jeromealexander.com
   - qvvep.minimlrefills.co.uk
@@ -75725,6 +75757,7 @@ domain_suffix_set:
   - sjryno.fullyloadedchew.com
   - sjrzq.oilperfumery.com
   - sjtactic.com
+  - sjuyhccsxaoqnwk.com
   - sjw.stanfordjazz.org
   - sjyskm.litres.ru
   - sjyzsm.danjohn.com
@@ -85308,6 +85341,7 @@ domain_suffix_set:
   - stedallthrought.com
   - steeftousseebs.com
   - steel.newmill.com
+  - steelenconfix.cfd
   - steelmaiden.com
   - steelreproach.com
   - steep-aside.pro
@@ -90326,6 +90360,7 @@ domain_suffix_set:
   - toldyouso.lol
   - tolerancewarily.com
   - tolerantignorancepicturesque.com
+  - tolidinchalana.cyou
   - toll6kerb.com
   - tolxoqhobcdab.com
   - tomatobarrel.com
@@ -96094,6 +96129,7 @@ domain_suffix_set:
   - unseenprovisionsparts.com
   - unseenreport.com
   - unselfisheducation.com
+  - unsharpbabyishferu.cfd
   - unshutcaitiff.com
   - unsinwusser.com
   - unskilfulunpredictable.com
@@ -97970,6 +98006,7 @@ domain_suffix_set:
   - vupload.duowan.com
   - vuqgzz.fiftyoutlet.com
   - vuqrfyljdx.com
+  - vuromxpubrzi.com
   - vurr.cn
   - vurshz.gregory.jp
   - vursv.naturalcycles.com
@@ -99171,6 +99208,7 @@ domain_suffix_set:
   - welcome.vodafone.com
   - weligillysies.com
   - wellbyfinancial.fmservice.com
+  - wellgroomed-tackle.pro
   - wellgroomedapparel.com
   - wellgroomedhydrant.com
   - wellhello.com
@@ -100814,6 +100852,7 @@ domain_suffix_set:
   - xnyuivuekmxqm.online
   - xo60kab7yv.com
   - xoalt.com
+  - xoasvscibcdb.com
   - xobmhyevdnhzct.com
   - xobytn.vvsochbad.se
   - xocvxh.sakuratravel.jp
@@ -100948,6 +100987,7 @@ domain_suffix_set:
   - xsmeqhlcpsiyk.space
   - xsph.ru
   - xspykffoy.com
+  - xsratajtqaebb.online
   - xsrezl.icu
   - xsrzqh.ananzi.co.za
   - xsrzqh.oferte360.ro
@@ -101572,6 +101612,7 @@ domain_suffix_set:
   - ykozvjybzuctr.website
   - ykpxv.mirasafety.com
   - ykqapk.aboutyou.si
+  - ykqgbsktcoidr.space
   - ykrjuhnidkkb.com
   - ykskhw.candytm.pl
   - yktj.yzz.cn
@@ -102507,6 +102548,7 @@ domain_suffix_set:
   - zjkt6ew4cp.com
   - zjkuf.asbestosjobsites.com
   - zjliloveyou.ixiunv.com
+  - zjlsdwcytkql.com
   - zjmwizpyxsreb.space
   - zjozr.underwearexpert.com
   - zjptg.com
