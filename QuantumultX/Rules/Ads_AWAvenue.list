@@ -80,6 +80,7 @@ HOST-SUFFIX,ads-sg.tiktok.com,Ads_AWAvenue
 HOST-SUFFIX,ads-video-al.xhscdn.com,Ads_AWAvenue
 HOST-SUFFIX,ads-video-qc.xhscdn.com,Ads_AWAvenue
 HOST-SUFFIX,ads.95516.com,Ads_AWAvenue
+HOST-SUFFIX,ads.auctions.yahoo.com,Ads_AWAvenue
 HOST-SUFFIX,ads.cup.com.cn,Ads_AWAvenue
 HOST-SUFFIX,ads.google.cn,Ads_AWAvenue
 HOST-SUFFIX,ads.huan.tv,Ads_AWAvenue
@@ -236,7 +237,6 @@ HOST-SUFFIX,applog.lc.quark.cn,Ads_AWAvenue
 HOST-SUFFIX,applog.uc.cn,Ads_AWAvenue
 HOST-SUFFIX,applog.zijieapi.com,Ads_AWAvenue
 HOST-SUFFIX,applovin.com,Ads_AWAvenue
-HOST-SUFFIX,appversion.115.com,Ads_AWAvenue
 HOST-SUFFIX,aqyad.com,Ads_AWAvenue
 HOST-SUFFIX,aspect-upush.umeng.com,Ads_AWAvenue
 HOST-SUFFIX,auction.unityads.unity3d.com,Ads_AWAvenue
