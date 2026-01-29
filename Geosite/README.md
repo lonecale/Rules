@@ -184,6 +184,7 @@
 - [bmw](rules/bmw.txt)
 - [boboporn](rules/boboporn.txt)
 - [boc](rules/boc.txt)
+- [bohemia](rules/bohemia.txt)
 - [bongacams](rules/bongacams.txt)
 - [booking](rules/booking.txt)
 - [books](rules/books.txt)

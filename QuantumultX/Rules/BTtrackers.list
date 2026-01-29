@@ -1,21 +1,24 @@
 # 规则名称: BTtrackers
-# 规则统计: 116
+# 规则统计: 129
 
+HOST,0123456789nonexistent.com,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
-HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
 HOST,bt.rer.lol,BTtrackers
+HOST,buny.uk,BTtrackers
 HOST,bvarf.tracker.sh,BTtrackers
 HOST,d40969.acod.regrucolo.ru,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
+HOST,home.yxgz.club,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
+HOST,jvavav.com,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -30,10 +33,13 @@ HOST,open.dstud.io,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.cl,BTtrackers
 HOST,opentor.org,BTtrackers
+HOST,opentracker.io,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
+HOST,servandroidkino.ru,BTtrackers
 HOST,shahidrazi.online,BTtrackers
+HOST,share.hkg-fansub.info,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
@@ -60,6 +66,7 @@ HOST,tracker.darkness.services,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
+HOST,tracker.dmcomic.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
 HOST,tracker.flatuslifir.is,BTtrackers
@@ -73,6 +80,7 @@ HOST,tracker.iperson.xyz,BTtrackers
 HOST,tracker.ipv6tracker.ru,BTtrackers
 HOST,tracker.ixuexi.click,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
+HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.moeblog.cn,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.opentorrent.top,BTtrackers
@@ -83,6 +91,7 @@ HOST,tracker.plx.im,BTtrackers
 HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
+HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.srv00.com,BTtrackers
 HOST,tracker.t-1.org,BTtrackers
@@ -94,8 +103,10 @@ HOST,tracker.tritan.gg,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.tvunderground.org.ru,BTtrackers
 HOST,tracker.uraniumhexafluori.de,BTtrackers
+HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wepzone.net,BTtrackers
+HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
@@ -110,7 +121,9 @@ HOST,udp.tracker.projectk.org,BTtrackers
 HOST,utracker.ghostchu-services.top,BTtrackers
 HOST,wepzone.net,BTtrackers
 HOST,www.all4nothin.net,BTtrackers
+HOST,www.genesis-sp.org,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers
+HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
