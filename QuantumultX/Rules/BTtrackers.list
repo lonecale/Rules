@@ -1,15 +1,13 @@
 # 规则名称: BTtrackers
-# 规则统计: 126
+# 规则统计: 123
 
 HOST,1337.abcvg.info,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,bandito.byterunner.io,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
-HOST,bt.poletracker.org,BTtrackers
 HOST,bt.rer.lol,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
-HOST,buny.uk,BTtrackers
 HOST,bvarf.tracker.sh,BTtrackers
 HOST,cny.fan,BTtrackers
 HOST,d40969.acod.regrucolo.ru,BTtrackers
@@ -40,8 +38,6 @@ HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.lanta.me,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,run.publictracker.xyz,BTtrackers
-HOST,seeders-paradise.org,BTtrackers
-HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
@@ -52,14 +48,15 @@ HOST,tr.abiir.top,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr.zukizuki.org,BTtrackers
+HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-de-2.cutie.dating,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.1h.is,BTtrackers
+HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
-HOST,tracker.bz,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.darkness.services,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers
@@ -104,7 +101,6 @@ HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.tvunderground.org.ru,BTtrackers
 HOST,tracker.umunu.ru,BTtrackers
 HOST,tracker.uraniumhexafluori.de,BTtrackers
-HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
@@ -122,6 +118,7 @@ HOST,utracker.ghostchu-services.top,BTtrackers
 HOST,www.all4nothin.net,BTtrackers
 HOST,www.torrent.eu.org,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
+HOST,zer0day.ch,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers

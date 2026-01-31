@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 126
+# 规则统计: 123
 
 no_resolve: true
 domain_set:
@@ -8,10 +8,8 @@ domain_set:
   - admin.52ywp.com
   - bandito.byterunner.io
   - bt.okmp3.ru
-  - bt.poletracker.org
   - bt.rer.lol
   - bt1.xxxxbt.cc
-  - buny.uk
   - bvarf.tracker.sh
   - cny.fan
   - d40969.acod.regrucolo.ru
@@ -42,8 +40,6 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - run.publictracker.xyz
-  - seeders-paradise.org
-  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
   - torrent.hificode.in
@@ -54,14 +50,15 @@ domain_set:
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
+  - tr4ck3r.duckdns.org
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
+  - tracker.alaskantf.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
   - tracker.bt4g.com
-  - tracker.bz
   - tracker.corpscorp.online
   - tracker.darkness.services
   - tracker.dhitechnical.com
@@ -106,7 +103,6 @@ domain_set:
   - tracker.tvunderground.org.ru
   - tracker.umunu.ru
   - tracker.uraniumhexafluori.de
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
@@ -124,6 +120,7 @@ domain_set:
   - www.all4nothin.net
   - www.torrent.eu.org
   - www.wareztorrent.com
+  - zer0day.ch
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
