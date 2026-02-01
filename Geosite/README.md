@@ -873,6 +873,7 @@
 - [logitech](rules/logitech.txt)
 - [londonreal](rules/londonreal.txt)
 - [longbridge](rules/longbridge.txt)
+- [louisvuitton](rules/louisvuitton.txt)
 - [lowiro](rules/lowiro.txt)
 - [ltn](rules/ltn.txt)
 - [lumion](rules/lumion.txt)

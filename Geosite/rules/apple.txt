@@ -1739,11 +1739,6 @@ full:weatherkit.apple.com
 full:www.apple.com
 full:www.apple.com.edgekey.net.globalredir.akadns.net
 full:xp.apple.com
-advertising.apple.com
-api-adservices.apple.com
-iadsdk.apple.com
-iad.apple.com
-qwapi.com
 researchkit.cn
 researchkit.com.cn
 swiftui.cn
@@ -1776,3 +1771,8 @@ itunes-apple.cn
 itunesapple.cn
 itunesradio.cn
 itunesradio.com.cn
+advertising.apple.com
+api-adservices.apple.com
+iadsdk.apple.com
+iad.apple.com
+qwapi.com
