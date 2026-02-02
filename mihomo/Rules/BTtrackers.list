@@ -1,16 +1,17 @@
 # 规则名称: BTtrackers
-# 规则统计: 141
+# 规则统计: 144
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
+DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.xxxxbt.cc
+DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,d40969.acod.regrucolo.ru
@@ -32,9 +33,7 @@ DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
-DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -46,10 +45,10 @@ DOMAIN,retracker.spark-rostov.ru
 DOMAIN,run.publictracker.xyz
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
-DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
@@ -63,6 +62,7 @@ DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
@@ -83,6 +83,7 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.guguan.000.pe
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
@@ -97,6 +98,7 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
+DOMAIN,tracker.pcfreetime.com
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
@@ -116,10 +118,12 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.umunu.ru
 DOMAIN,tracker.uraniumhexafluori.de
+DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
 DOMAIN,tracker1.520.jp
@@ -136,7 +140,6 @@ DOMAIN,www.all4nothin.net
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
-DOMAIN,zer0day.ch
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
