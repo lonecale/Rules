@@ -1,8 +1,7 @@
 # 规则名称: BTtrackers
-# 规则统计: 144
+# 规则统计: 139
 
 DOMAIN,0123456789nonexistent.com
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -11,6 +10,7 @@ DOMAIN,bandito.byterunner.io
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
+DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
@@ -33,7 +33,9 @@ DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
@@ -42,9 +44,7 @@ DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
-DOMAIN,run.publictracker.xyz
 DOMAIN,seeders-paradise.org
-DOMAIN,servandroidkino.ru
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
@@ -54,15 +54,12 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
@@ -81,9 +78,9 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.guguan.000.pe
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
@@ -92,13 +89,10 @@ DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
-DOMAIN,tracker.moeking.me
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.pcfreetime.com
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
@@ -137,6 +131,7 @@ DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
+DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com

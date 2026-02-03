@@ -1,10 +1,9 @@
 # 规则名称: BTtrackers
-# 规则统计: 144
+# 规则统计: 139
 
 no_resolve: true
 domain_set:
   - 0123456789nonexistent.com
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -13,6 +12,7 @@ domain_set:
   - bt.okmp3.ru
   - bt.poletracker.org
   - bt.rer.lol
+  - bt1.xxxxbt.cc
   - buny.uk
   - bvarf.tracker.sh
   - cny.fan
@@ -35,7 +35,9 @@ domain_set:
   - open.acgtracker.com
   - open.demonii.com
   - open.demonoid.ch
+  - open.dstud.io
   - open.stealth.si
+  - open.tracker.cl
   - open.trackerlist.xyz
   - opentor.org
   - opentracker.io
@@ -44,9 +46,7 @@ domain_set:
   - retracker.hotplug.ru
   - retracker.lanta.me
   - retracker.spark-rostov.ru
-  - run.publictracker.xyz
   - seeders-paradise.org
-  - servandroidkino.ru
   - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
@@ -56,15 +56,12 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
-  - tr.zukizuki.org
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.1h.is
-  - tracker.23794.top
   - tracker.alaskantf.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
@@ -83,9 +80,9 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
-  - tracker.guguan.000.pe
   - tracker.iochimari.moe
   - tracker.iperson.xyz
   - tracker.ipv6tracker.org
@@ -94,13 +91,10 @@ domain_set:
   - tracker.kuroy.me
   - tracker.lintk.me
   - tracker.moeblog.cn
-  - tracker.moeking.me
-  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.opentorrent.top
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
-  - tracker.pcfreetime.com
   - tracker.playground.ru
   - tracker.plx.im
   - tracker.pmman.tech
@@ -139,6 +133,7 @@ domain_set:
   - utracker.ghostchu-services.top
   - wepzone.net
   - www.all4nothin.net
+  - www.genesis-sp.org
   - www.torrent.eu.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
