@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4364
+# 规则统计: 4365
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -747,6 +747,7 @@ DOMAIN,cdn.openai.com
 DOMAIN,cdn.osxdaily.com
 DOMAIN,cdn.paddle.com
 DOMAIN,cdn.pagefly.io
+DOMAIN,cdn.pagerduty.com
 DOMAIN,cdn.pagic.org
 DOMAIN,cdn.paidy.com
 DOMAIN,cdn.paritydeals.com
