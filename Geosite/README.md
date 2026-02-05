@@ -608,6 +608,7 @@
 - [gitbook](rules/gitbook.txt)
 - [gitee](rules/gitee.txt)
 - [github-ads](rules/github-ads.txt)
+- [github-copilot](rules/github-copilot.txt)
 - [github](rules/github.txt)
 - [github1s](rules/github1s.txt)
 - [gitlab](rules/gitlab.txt)
