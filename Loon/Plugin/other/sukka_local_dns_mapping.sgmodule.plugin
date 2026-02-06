@@ -21,6 +21,7 @@ doh.360.cn = server:101.198.198.198
 *.cainiaoyizhan.com = server:quic://dns.alidns.com:853
 *.alipayobjects.com = server:quic://dns.alidns.com:853
 *.taopiaopiao.com = server:quic://dns.alidns.com:853
+*.geovisearth.com = server:quic://dns.alidns.com:853
 *.aliyundrive.com = server:quic://dns.alidns.com:853
 *.alicloudccp.com = server:quic://dns.alidns.com:853
 *.alibaba-inc.com = server:quic://dns.alidns.com:853
