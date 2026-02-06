@@ -639,6 +639,7 @@
 - [gree](rules/gree.txt)
 - [groq](rules/groq.txt)
 - [growingio-ads](rules/growingio-ads.txt)
+- [growingio](rules/growingio.txt)
 - [gucci](rules/gucci.txt)
 - [guo](rules/guo.txt)
 - [guokr](rules/guokr.txt)
@@ -1141,6 +1142,7 @@
 - [qweather](rules/qweather.txt)
 - [qyyjt](rules/qyyjt.txt)
 ## R
+- [radiko](rules/radiko.txt)
 - [rakuten](rules/rakuten.txt)
 - [rarbg](rules/rarbg.txt)
 - [razer](rules/razer.txt)

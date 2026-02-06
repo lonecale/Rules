@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 130
+# 规则统计: 133
 
 no_resolve: true
 domain_set:
@@ -13,21 +13,20 @@ domain_set:
   - bt.okmp3.ru
   - bt.rer.lol
   - bt1.xxxxbt.cc
-  - buny.uk
   - bvarf.tracker.sh
-  - cny.fan
   - d40969.acod.regrucolo.ru
   - evan.im
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
+  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
+  - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
-  - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open.acgtracker.com
@@ -41,12 +40,14 @@ domain_set:
   - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.lanta.me
+  - retracker.spark-rostov.ru
   - run.publictracker.xyz
-  - servandroidkino.ru
   - shahidrazi.online
   - share.hkg-fansub.info
+  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
+  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
@@ -56,16 +57,14 @@ domain_set:
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
   - tracker.alaskantf.com
-  - tracker.beeimg.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
-  - tracker.bz
   - tracker.corpscorp.online
   - tracker.darkness.services
   - tracker.dhitechnical.com
@@ -77,6 +76,7 @@ domain_set:
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
+  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.iochimari.moe
@@ -84,8 +84,9 @@ domain_set:
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
   - tracker.kuroy.me
-  - tracker.lintk.me
   - tracker.moeblog.cn
+  - tracker.moeking.me
+  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.opentorrent.top
   - tracker.opentrackr.org
@@ -100,6 +101,7 @@ domain_set:
   - tracker.skyts.net
   - tracker.srv00.com
   - tracker.t-1.org
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
@@ -108,6 +110,7 @@ domain_set:
   - tracker.tvunderground.org.ru
   - tracker.umunu.ru
   - tracker.uraniumhexafluori.de
+  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wepzone.net
   - tracker.xn--djrq4gl4hvoi.top
