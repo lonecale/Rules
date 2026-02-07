@@ -891,6 +891,7 @@
 - [manmanbuy](rules/manmanbuy.txt)
 - [manorama](rules/manorama.txt)
 - [manoto](rules/manoto.txt)
+- [manus](rules/manus.txt)
 - [maocloud](rules/maocloud.txt)
 - [mapbox](rules/mapbox.txt)
 - [marvel](rules/marvel.txt)
