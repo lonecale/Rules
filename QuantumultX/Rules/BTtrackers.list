@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 122
+# 规则统计: 121
 
 HOST,1337.abcvg.info,BTtrackers
 HOST,6ahddutb1ucc3cp.ru,BTtrackers
@@ -14,15 +14,12 @@ HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,extracker.dahrkael.net,BTtrackers
-HOST,ftp.pet,BTtrackers
-HOST,ibksturm.synology.me,BTtrackers
 HOST,ipv4.rer.lol,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.rer.lol,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,lucke.fenesisu.moe,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
-HOST,node02.torrentonline.cc,BTtrackers
 HOST,ns575949.ip-51-222-82.net,BTtrackers
 HOST,nyaa.tracker.wf,BTtrackers
 HOST,open.acgtracker.com,BTtrackers
@@ -42,21 +39,23 @@ HOST,shahidrazi.online,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
-HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
 HOST,tr.cili001.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr.zukizuki.org,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.1h.is,BTtrackers
+HOST,tracker.23794.top,BTtrackers
 HOST,tracker.alaskantf.com,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
+HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.darkness.services,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers

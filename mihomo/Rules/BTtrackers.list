@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 122
+# 规则统计: 121
 
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -14,15 +14,12 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,ftp.pet
-DOMAIN,ibksturm.synology.me
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
@@ -42,21 +39,23 @@ DOMAIN,shahidrazi.online
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
-DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.cili001.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dhitechnical.com
