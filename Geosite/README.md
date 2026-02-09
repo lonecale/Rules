@@ -586,6 +586,7 @@
 - [futu](rules/futu.txt)
 - [fzdm](rules/fzdm.txt)
 ## G
+- [gaijin](rules/gaijin.txt)
 - [gamersky](rules/gamersky.txt)
 - [gandi](rules/gandi.txt)
 - [ganji](rules/ganji.txt)
@@ -1312,6 +1313,7 @@
 - [tagtic-ads](rules/tagtic-ads.txt)
 - [taikang](rules/taikang.txt)
 - [tailscale](rules/tailscale.txt)
+- [take-two](rules/take-two.txt)
 - [talkatone](rules/talkatone.txt)
 - [talktone](rules/talktone.txt)
 - [taomee](rules/taomee.txt)
@@ -1579,3 +1581,4 @@
 - [zuoyebang-ads](rules/zuoyebang-ads.txt)
 - [zuoyebang](rules/zuoyebang.txt)
 - [zynga-ads](rules/zynga-ads.txt)
+- [zynga](rules/zynga.txt)
