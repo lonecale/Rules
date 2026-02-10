@@ -432,6 +432,7 @@
 - [dart](rules/dart.txt)
 - [dazn](rules/dazn.txt)
 - [dcard](rules/dcard.txt)
+- [ddmaicai](rules/ddmaicai.txt)
 - [debian](rules/debian.txt)
 - [decryptipastore](rules/decryptipastore.txt)
 - [dedao](rules/dedao.txt)
