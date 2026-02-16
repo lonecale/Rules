@@ -8,6 +8,7 @@
 - [18comic](rules/18comic.txt)
 ## 2
 - [2ch](rules/2ch.txt)
+- [2gis](rules/2gis.txt)
 - [2kgames](rules/2kgames.txt)
 ## 3
 - [36kr](rules/36kr.txt)
@@ -64,6 +65,7 @@
 - [agilebits](rules/agilebits.txt)
 - [agora](rules/agora.txt)
 - [aiqicha](rules/aiqicha.txt)
+- [airbnb](rules/airbnb.txt)
 - [airchina](rules/airchina.txt)
 - [airwick](rules/airwick.txt)
 - [aisiku](rules/aisiku.txt)
