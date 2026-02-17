@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 144
+# 规则统计: 156
 
 no_resolve: true
 domain_set:
@@ -34,7 +34,6 @@ domain_set:
   - martin-gebhardt.eu
   - navegador.click
   - node01.torrentonline.cc
-  - node01.trackerstatus.live
   - node02.torrentonline.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
@@ -50,14 +49,17 @@ domain_set:
   - retracker.lanta.me
   - retracker.spark-rostov.ru
   - run.publictracker.xyz
+  - seeders-paradise.org
   - servandroidkino.ru
   - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
-  - speedtest.iperson.xyz
   - t.213891.xyz
+  - t.overflow.biz
+  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
+  - torrentvpn.club
   - tr.abiir.top
   - tr.abir.ga
   - tr.cili001.com
@@ -68,10 +70,13 @@ domain_set:
   - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker.1h.is
+  - tracker.23794.top
   - tracker.alaskantf.com
+  - tracker.beeimg.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bz
   - tracker.cloudbase.store
@@ -85,28 +90,34 @@ domain_set:
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.fnix.net
-  - tracker.foreverpirates.co
-  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
+  - tracker.huadongblower.xyz
   - tracker.iochimari.moe
   - tracker.iperson.xyz
+  - tracker.ipv6tracker.org
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
   - tracker.kuroy.me
   - tracker.lintk.me
   - tracker.manager.v6.navy
+  - tracker.memelords.xyz
   - tracker.moeblog.cn
   - tracker.moxing.party
   - tracker.mywaifu.best
+  - tracker.novy.vip
   - tracker.opentorrent.top
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.playground.ru
   - tracker.plx.im
   - tracker.pmman.tech
+  - tracker.puvvadi.net
+  - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.riverarmy.xyz
+  - tracker.sbsub.com
   - tracker.sharebro.in
   - tracker.skyts.net
   - tracker.srv00.com
@@ -116,7 +127,6 @@ domain_set:
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.torrust-demo.com
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.uraniumhexafluori.de
@@ -129,11 +139,13 @@ domain_set:
   - tracker.zhuqiy.com
   - tracker.zupix.online
   - tracker1.520.jp
+  - tracker1.myporn.club
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
+  - uabits.today
   - udp.tracker.projectk.org
   - utracker.ghostchu-services.top
   - wepzone.net
