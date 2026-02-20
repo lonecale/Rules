@@ -1,19 +1,16 @@
 # 规则名称: BTtrackers
-# 规则统计: 156
+# 规则统计: 150
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.okmp3.ru
-DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
-DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,d40969.acod.regrucolo.ru
@@ -21,7 +18,6 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,ftp.pet
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
@@ -32,7 +28,6 @@ DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,navegador.click
 DOMAIN,node01.torrentonline.cc
-DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
@@ -103,6 +98,7 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.memelords.xyz
 DOMAIN,tracker.moeblog.cn
+DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.novy.vip
@@ -111,7 +107,7 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
-DOMAIN,tracker.pmman.tech
+DOMAIN,tracker.puvvadi.net
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -131,7 +127,6 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
-DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
@@ -147,7 +142,6 @@ DOMAIN,tracker810.xyz
 DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
-DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
