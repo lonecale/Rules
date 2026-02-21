@@ -1,5 +1,7 @@
 ||aedns.weixin.qq.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||aedns.weixin.qq.com^
+||amdc.alipay.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||amdc.alipay.com^
 ||apidns-js.kwd.inkuai.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||apidns-js.kwd.inkuai.com^
 ||apidns.kwd.inkuai.com^$dnstype=AAAA,dnsrewrite=NOERROR
