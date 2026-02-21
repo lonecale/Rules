@@ -1,11 +1,3 @@
-genshinimpact.com
-honkaiimpact3.com
-honkaistarrail.com
-hoyo.link
-hoyolab.com
-hoyoverse.com
-n0vadesktop.com
-zenlesszonezero.com
 mhystatic.com
 mhyurl.cn
 mihayo.com
@@ -21,6 +13,14 @@ bhsr.com
 themisweeps.com
 yuanshen.com
 juequling.com
-log-upload-os.hoyoverse.com
+genshinimpact.com
+honkaiimpact3.com
+honkaistarrail.com
+hoyo.link
+hoyolab.com
+hoyoverse.com
+n0vadesktop.com
+zenlesszonezero.com
 regexp:^.+-mihayo\.akamaized\.net$
 log-upload.mihoyo.com
+log-upload-os.hoyoverse.com
