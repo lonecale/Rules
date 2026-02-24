@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 144
+# 规则统计: 136
 
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
@@ -8,9 +8,7 @@ DOMAIN,admin.52ywp.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.okmp3.ru
-DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
@@ -19,17 +17,13 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,home.yxgz.club
-DOMAIN,ibksturm.synology.me
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
-DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,navegador.click
-DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.madtia.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
@@ -44,9 +38,9 @@ DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
-DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
+DOMAIN,shubt.net
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
@@ -59,19 +53,19 @@ DOMAIN,tr.cili001.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.alaskantf.com
+DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.bz
 DOMAIN,tracker.cloudbase.store
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.darkness.services
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
@@ -92,18 +86,18 @@ DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
+DOMAIN,tracker.lintk.me
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.memelords.xyz
 DOMAIN,tracker.moeblog.cn
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.novy.vip
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.pcfreetime.com
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
+DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -121,9 +115,8 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
-DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
-DOMAIN,tracker.xiaoduola.xyz
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zupix.online
@@ -132,12 +125,11 @@ DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
-DOMAIN,tracker810.xyz
 DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
+DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
-DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 IP-CIDR,207.241.226.111/32,no-resolve
