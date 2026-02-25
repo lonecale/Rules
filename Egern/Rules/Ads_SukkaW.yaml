@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 107138
+# 规则统计: 107142
 
 no_resolve: true
 domain_set:
@@ -4327,6 +4327,7 @@ domain_suffix_set:
   - ac.prism-world.jp.net
   - ac.ptagroup.sk
   - ac.waterplops.com
+  - ac00qmnjz.com
   - ac1.pingpingw.com
   - ac173c41a1.com
   - ac2.tnaflix.com
@@ -18281,6 +18282,7 @@ domain_suffix_set:
   - code.acstat.com
   - code.ainsyndication.com
   - code.ditiezu.net
+  - code.geonamebase.com
   - code.r5hsid.ru
   - code.randomhouse.com
   - code.usergram.info
@@ -26607,7 +26609,6 @@ domain_suffix_set:
   - dolqckqvbryxo.website
   - dolrfm.fotoregistro.com.br
   - dom.123zap.com.br
-  - domain1.chahaoba.cn
   - domainanalytics.net
   - domainbntest.branchcustom.xyz
   - domaincntrol.com
@@ -45635,6 +45636,7 @@ domain_suffix_set:
   - kick1pore.com
   - kickougeetsu.net
   - kiddbs.baby-calendar.jp
+  - kiddingainus.cfd
   - kiddinglyeven.com
   - kidney.renovaabd.com
   - kidpowers.com
@@ -67308,6 +67310,7 @@ domain_suffix_set:
   - pscfsj.casadabebida.com.br
   - pscunow.fmservice.com
   - psdatjrnkurfb.website
+  - psdqempur.com
   - psdxbtjowlyjxhs.com
   - pse.gabor.com
   - psedwm.com
@@ -97809,6 +97812,7 @@ domain_suffix_set:
   - tri.media
   - trialapp.live-english.co.jp
   - trialshoewager.com
+  - triaryknub.qpon
   - tribalfusion.com
   - tributeglassmulberry.com
   - tributeinducedfuzzy.com
