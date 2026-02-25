@@ -949,6 +949,7 @@
 - [misskey-universe](rules/misskey-universe.txt)
 - [misskey](rules/misskey.txt)
 - [mit](rules/mit.txt)
+- [mixi](rules/mixi.txt)
 - [mixpanel-ads](rules/mixpanel-ads.txt)
 - [mobile01](rules/mobile01.txt)
 - [mocha](rules/mocha.txt)
