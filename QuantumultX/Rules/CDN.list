@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4450
+# 规则统计: 4460
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -354,6 +354,7 @@ HOST,before.good-apps.co,CDN
 HOST,beta.eslint-react.xyz,CDN
 HOST,bhl.scpwikicn.com,CDN
 HOST,biomejs.dev,CDN
+HOST,bitmovin-a.akamaihd.net,CDN
 HOST,blacklist.tampermonkey.net,CDN
 HOST,blade-public-static.blade-group.com,CDN
 HOST,blob.jortage.com,CDN
@@ -531,6 +532,7 @@ HOST,cdn.bfe.dev,CDN
 HOST,cdn.bfldr.com,CDN
 HOST,cdn.bigcloud.click,CDN
 HOST,cdn.birdie.so,CDN
+HOST,cdn.bitmovin.com,CDN
 HOST,cdn.blogarama.com,CDN
 HOST,cdn.bogos.io,CDN
 HOST,cdn.boldmethod.com,CDN
@@ -3644,6 +3646,7 @@ HOST-SUFFIX,gw3.io,CDN
 HOST-SUFFIX,h-cdn.co,CDN
 HOST-SUFFIX,h-cdn.com,CDN
 HOST-SUFFIX,hackerone-user-content.com,CDN
+HOST-SUFFIX,hanime-cdn.com,CDN
 HOST-SUFFIX,haproxy.org,CDN
 HOST-SUFFIX,hardbin.com,CDN
 HOST-SUFFIX,hbfile.net,CDN
@@ -3682,6 +3685,7 @@ HOST-SUFFIX,hubspotusercontent30.net,CDN
 HOST-SUFFIX,hubspotusercontent40.net,CDN
 HOST-SUFFIX,hugebil.com,CDN
 HOST-SUFFIX,hugoal.com,CDN
+HOST-SUFFIX,hydaelyn-25x-18.top,CDN
 HOST-SUFFIX,i-dont-care-about-cookies.eu,CDN
 HOST-SUFFIX,i.optimole.com,CDN
 HOST-SUFFIX,ibytedtos.com,CDN
@@ -3695,9 +3699,15 @@ HOST-SUFFIX,iili.io,CDN
 HOST-SUFFIX,ik.imagekit.io,CDN
 HOST-SUFFIX,illiweb.com,CDN
 HOST-SUFFIX,image8899.net,CDN
+HOST-SUFFIX,imageb.top,CDN
 HOST-SUFFIX,imagebam.com,CDN
 HOST-SUFFIX,imageban.ru,CDN
+HOST-SUFFIX,imagec.top,CDN
+HOST-SUFFIX,imaged.top,CDN
 HOST-SUFFIX,imagedelivery.net,CDN
+HOST-SUFFIX,imagee.top,CDN
+HOST-SUFFIX,imagef.top,CDN
+HOST-SUFFIX,imageg.top,CDN
 HOST-SUFFIX,imagehub.cc,CDN
 HOST-SUFFIX,images-amazon.com,CDN
 HOST-SUFFIX,images-dnxlive.com,CDN
