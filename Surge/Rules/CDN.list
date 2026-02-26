@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4444
+# 规则统计: 4450
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1890,6 +1890,7 @@ DOMAIN,learn-attachment.microsoft.com
 DOMAIN,learn.optimizely.com
 DOMAIN,lecontent.sololearn.com
 DOMAIN,ledger-wp-website-s3-prd.ledger.com
+DOMAIN,lf16-larkversion.larksuitecdn.com
 DOMAIN,lib.arvancloud.ir
 DOMAIN,libraries.hund.io
 DOMAIN,libs.quillbot.com
@@ -2084,6 +2085,7 @@ DOMAIN,newsletter.postmarkapp.com
 DOMAIN,newsstatic.rthk.hk
 DOMAIN,next-images.123rf.com
 DOMAIN,next-images.opencollective.com
+DOMAIN,nextplore.vercel.zapier-deployment.com
 DOMAIN,nextra.site
 DOMAIN,ni-assets.azureedge.net
 DOMAIN,nightly.link
@@ -2130,6 +2132,8 @@ DOMAIN,p.inari.site
 DOMAIN,p.sda1.dev
 DOMAIN,p.typekit.net
 DOMAIN,p.udn.com.tw
+DOMAIN,p16-hera-sg.larksuitecdn.com
+DOMAIN,p16-hera-va.larksuitecdn.com
 DOMAIN,p2.bahamut.com.tw
 DOMAIN,pa1.aninoapps.com
 DOMAIN,pacdn.500px.org
@@ -2458,6 +2462,9 @@ DOMAIN,services.linkfire.com
 DOMAIN,sessions-bugsnag.docker.com
 DOMAIN,sf-coze-web-cdn.coze.com
 DOMAIN,sf-flow-web-cdn.ciciai.com
+DOMAIN,sf-ibf-sg.larksuitecdn.com
+DOMAIN,sf-ibf-va.larksuitecdn.com
+DOMAIN,sf19-scmcdn.larksuitecdn.com
 DOMAIN,sfiles.cnyes.cool
 DOMAIN,sg-thumbnail-drive.mypikpak.com
 DOMAIN,share.chessbase.com
@@ -3820,7 +3827,6 @@ DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,kleecks-cdn.com
 DOMAIN-SUFFIX,kwcdn.com
 DOMAIN-SUFFIX,kym-cdn.com
-DOMAIN-SUFFIX,larksuitecdn.com
 DOMAIN-SUFFIX,latam.orbitor.dev
 DOMAIN-SUFFIX,lazcdn.com
 DOMAIN-SUFFIX,lbpicpic.com

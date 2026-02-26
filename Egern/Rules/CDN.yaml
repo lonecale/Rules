@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4444
+# 规则统计: 4450
 
 domain_set:
   - 0x0.st
@@ -1891,6 +1891,7 @@ domain_set:
   - learn.optimizely.com
   - lecontent.sololearn.com
   - ledger-wp-website-s3-prd.ledger.com
+  - lf16-larkversion.larksuitecdn.com
   - lib.arvancloud.ir
   - libraries.hund.io
   - libs.quillbot.com
@@ -2085,6 +2086,7 @@ domain_set:
   - newsstatic.rthk.hk
   - next-images.123rf.com
   - next-images.opencollective.com
+  - nextplore.vercel.zapier-deployment.com
   - nextra.site
   - ni-assets.azureedge.net
   - nightly.link
@@ -2131,6 +2133,8 @@ domain_set:
   - p.sda1.dev
   - p.typekit.net
   - p.udn.com.tw
+  - p16-hera-sg.larksuitecdn.com
+  - p16-hera-va.larksuitecdn.com
   - p2.bahamut.com.tw
   - pa1.aninoapps.com
   - pacdn.500px.org
@@ -2459,6 +2463,9 @@ domain_set:
   - sessions-bugsnag.docker.com
   - sf-coze-web-cdn.coze.com
   - sf-flow-web-cdn.ciciai.com
+  - sf-ibf-sg.larksuitecdn.com
+  - sf-ibf-va.larksuitecdn.com
+  - sf19-scmcdn.larksuitecdn.com
   - sfiles.cnyes.cool
   - sg-thumbnail-drive.mypikpak.com
   - share.chessbase.com
@@ -3822,7 +3829,6 @@ domain_suffix_set:
   - kleecks-cdn.com
   - kwcdn.com
   - kym-cdn.com
-  - larksuitecdn.com
   - latam.orbitor.dev
   - lazcdn.com
   - lbpicpic.com
