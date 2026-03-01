@@ -9,11 +9,6 @@ fastly.net
 fastlylabs.com
 fastlylb.net
 zencdn.net
-pagecdn.com
-pagecdn.io
-quantil.com
-stackpath.com
-stackpath.dev
 delvenetworks.com
 limelight.com
 lldns.net
@@ -22,6 +17,8 @@ llnw.com
 llnw.net
 llnwd.net
 llnwi.net
+pagecdn.com
+pagecdn.io
 vrcdn.cloud
 vrcdn.live
 vrcdn.video
@@ -152,6 +149,9 @@ cf-ipfs.com
 cloudflare-ipfs.com
 imgix.com
 imgix.net
+quantil.com
+stackpath.com
+stackpath.dev
 akamai.co.kr
 one.one.one
 accdn.com.cn
