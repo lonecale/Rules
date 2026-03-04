@@ -1,11 +1,6 @@
 b-cdn.net
 bunny.net
 bunnycdn.com
-vrcdn.cloud
-vrcdn.live
-vrcdn.video
-imgix.com
-imgix.net
 delvenetworks.com
 limelight.com
 lldns.net
@@ -14,6 +9,11 @@ llnw.com
 llnw.net
 llnwd.net
 llnwi.net
+pagecdn.com
+pagecdn.io
+vrcdn.cloud
+vrcdn.live
+vrcdn.video
 argotunnel.com
 browser.run
 cfargotunnel.com
@@ -76,8 +76,8 @@ fastly.net
 fastlylabs.com
 fastlylb.net
 zencdn.net
-pagecdn.com
-pagecdn.io
+imgix.com
+imgix.net
 quantil.com
 stackpath.com
 stackpath.dev
