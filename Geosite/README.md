@@ -1111,6 +1111,7 @@
 - [playboy](rules/playboy.txt)
 - [playcover](rules/playcover.txt)
 - [playstation](rules/playstation.txt)
+- [plex](rules/plex.txt)
 - [plutotv](rules/plutotv.txt)
 - [pocketcasts](rules/pocketcasts.txt)
 - [pocoiq-ads](rules/pocoiq-ads.txt)

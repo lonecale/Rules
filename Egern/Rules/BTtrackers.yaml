@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 128
+# 规则统计: 122
 
 no_resolve: true
 domain_set:
@@ -7,6 +7,7 @@ domain_set:
   - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
+  - asiatorrent.giize.com
   - bandito.byterunner.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
@@ -18,7 +19,6 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - extracker.dahrkael.net
-  - ibksturm.synology.me
   - ipv4.rer.lol
   - ipv4announce.sktorrent.eu
   - ipv6.rer.lol
@@ -38,7 +38,6 @@ domain_set:
   - open.stealth.si
   - opentracker.io
   - p4p.arenabg.com
-  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.lanta.me
   - shahidrazi.online
@@ -50,14 +49,11 @@ domain_set:
   - torrentsmd.com
   - torrentvpn.club
   - tr.abiir.top
-  - tr.abir.ga
   - tr.cili001.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr4ck3r.duckdns.org
-  - tracker-de-2.cutie.dating
   - tracker-udp.gbitt.info
   - tracker-zhuqiy.xn--1r3au8b.space
   - tracker.1h.is
@@ -77,7 +73,6 @@ domain_set:
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.fnix.net
-  - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
   - tracker.huadongblower.xyz
@@ -106,16 +101,15 @@ domain_set:
   - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
+  - tracker.torrust-demo.com
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
   - tracker.waaa.moe
   - tracker.wepzone.net
   - tracker.xn--djrq4gl4hvoi.top
-  - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker1.520.jp
-  - tracker1.myporn.club
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
