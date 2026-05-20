@@ -50,6 +50,7 @@ regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 a2z.org.cn
 amazonaws.cn
 amazonaws.com.cn
+amazonwebservices.cn
 amazonwebservices.com.cn
 amazonworkdocs.cn
 amazonworkdocs.com.cn

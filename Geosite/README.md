@@ -1379,6 +1379,7 @@
 - [tbank-ru](rules/tbank-ru.txt)
 - [tcl](rules/tcl.txt)
 - [teambition](rules/teambition.txt)
+- [teamspeak](rules/teamspeak.txt)
 - [teamviewer](rules/teamviewer.txt)
 - [technogym](rules/technogym.txt)
 - [techpowerup](rules/techpowerup.txt)

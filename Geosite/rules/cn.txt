@@ -102,12 +102,10 @@ full:cn-smp-paymentservices.apple.com
 full:cn.download.nvidia.com
 full:cn.widevine.com
 full:cn.windowssearch.com
-full:cnappinstall.googleadapis.com
 full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
 full:connectivitycheck.gstatic.com
-full:content.googleadapis.com
 full:crashlyticsreports-pa.googleapis.com
 full:crl-lb.apple.com.akadns.net
 full:crl.apple.com
@@ -166,7 +164,6 @@ full:doubleclick.net
 full:download.developer.apple.com
 full:download.microsoft.com
 full:download.mlcc.google.com
-full:download.qatp1.net
 full:download.tensorflow.google.com
 full:download.visualstudio.microsoft.com
 full:downloaddispatch.itunes.apple.com
@@ -174,7 +171,6 @@ full:ea2cn-dev-outlet.dell.com
 full:ea2cn-prod-outlet.dell.com
 full:ea2cn-staging-outlet.dell.com
 full:edge.geo.kaspersky.com
-full:emmapplecodevice.googleapis.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
@@ -198,7 +194,6 @@ full:g3.gstatic.com
 full:gbxgateway-dev.dell.com
 full:gbxgateway.dell.com
 full:geetest.datasink.sensorsdata.cn
-full:go.corp.google.com
 full:gog-cdn-fastly.gog.com
 full:gog-cdn.akamaized.net
 full:gog.qtlglb.com
@@ -321,11 +316,7 @@ full:ksn-url-geo.kaspersky-labs.com
 full:ksn-url.geoksn.kaspersky.com
 full:ksn-verdict-geo.kaspersky-labs.com
 full:ksn-verdict.geoksn.kaspersky.com
-full:l2-uberproxy.corp.google.com
 full:learn.microsoft.com
-full:logger-dev.corp.google.com
-full:logger.corp.google.com
-full:login.corp.google.com
 full:lv.queniujq.cn
 full:maps.apple.com
 full:mdr.ksn.kaspersky-labs.com
@@ -335,7 +326,6 @@ full:mesu-china.apple.com.akadns.net
 full:mesu.apple.com
 full:misc-assets.itunes.apple.com
 full:ml.cdn-apple.com
-full:monitoring.qpdp1.net
 full:moocs.unipus.cn
 full:music.apple.com
 full:musicstatus.music.apple.com
@@ -419,16 +409,9 @@ full:prod-databe.floonet.goog
 full:prod-support.apple-support.akadns.net
 full:prod.databe.floonet.goog
 full:productcard.gog-statics.com
-full:proxyconfig.corp.google.com
 full:publicassets.cdn-apple.com
-full:qagpublic.qatp1.net
-full:qgadmin.qcpp1.net
 full:qiao-cn.com
 full:qpx.googleflights.net
-full:qualysapi.qatp1.net
-full:qualysguard.qpdp1.net
-full:r.cert.corp.google.com
-full:rapture-prod.corp.google.com
 full:recaptcha-cn.net
 full:recaptcha.net
 full:redirector.bdn.dev
@@ -474,7 +457,6 @@ full:s4.mzstatic.com
 full:s5.mzstatic.com
 full:safebrowsing-cache.google.com
 full:safebrowsing.googleapis.com
-full:scanservice1.qcpp1.net
 full:scene7-cdn.dell.com
 full:sdx.microsoft.com
 full:se-edge.itunes.apple.com
@@ -500,7 +482,6 @@ full:speedysub.music.apple.com
 full:ss.bjmu.edu.cn
 full:ssl-google-analytics.l.google.com
 full:ssl.gstatic.com
-full:sslredirect.corp.google.com
 full:staging-controlbe.floonet.goog
 full:staging-databe.floonet.goog
 full:staging.databe.floonet.goog
@@ -515,15 +496,9 @@ full:store.apple.com.edgekey.net.globalredir.akadns.net
 full:store.storeimages.apple.com.akadns.net
 full:store.storeimages.cdn-apple.com
 full:storeedgefd.dsx.mp.microsoft.com
-full:streaming-uberproxy-rotation.corp.google.com
-full:streaming-uberproxy.corp.google.com
 full:streamingaudio.itunes.apple.com
 full:study.163.com
 full:su.itunes.apple.com
-full:sup-ssh-relay.corp.google.com
-full:sup-ssh-relay2.corp.google.com
-full:sup.corp.google.com
-full:sup.l.google.com
 full:support-china.apple-support.akadns.net
 full:support.apple.com
 full:supportassist.dell.com
@@ -542,18 +517,13 @@ full:sylvan.apple.com
 full:sync.itunes.apple.com
 full:tac.googleapis.com
 full:tesla-cdn.thron.cn
-full:test.gbugs-qa.chromium.org
 full:tf-feedback.itunes.apple.com
 full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:tj-pod1-smp-device.apple.com
 full:tools.google.com
-full:tools.l.google.com
 full:tp.louisvuitton.com
-full:uberproxy-debug4.corp.google.com
-full:uberproxy.corp.google.com
-full:uberproxy6.corp.google.com
 full:universal-activity-service.itunes.apple.com
 full:update.crashlytics.com
 full:update.googleapis.com
@@ -589,7 +559,6 @@ full:www.pxcc.com
 full:www.recaptcha.net
 full:www.support.apple.com
 full:www4-static.gog-statics.com
-full:xn--flw351e.com
 full:xp.apple.com
 full:xtratime.qcomgeo2.com
 full:xz.pphimalayanrt.com
@@ -636,8 +605,8 @@ cn
 citic
 baidu
 alipay
-jslhjg.com
-duolegj.com
+jslegal.com
+caishenpo.com
 000868agl1.shop
 000868atz2.shop
 0008bet.com
@@ -2276,6 +2245,7 @@ duolegj.com
 123242.com
 123245.com
 123254.com
+123278.com
 123294.com
 123295.com
 12333.com
@@ -4397,6 +4367,7 @@ duolegj.com
 332831.com
 333-555.com
 333.com
+3331.com
 33315.com
 333232.xyz
 333333.com
@@ -13136,6 +13107,7 @@ ant-cloud.net
 ant-financial.com
 ant-open.com
 anta.com
+antafu.com
 antaiib.com
 antairui.net
 antangbusiness.com
@@ -16549,6 +16521,7 @@ bhshtksp.com
 bhshunhui.com
 bhshyy.com
 bhsr.com
+bhsun.com
 bhszyyy.com
 bhtv.cc
 bhuitong.com
@@ -19576,7 +19549,7 @@ cairot.com
 cairuijun.com
 caisan.io
 caishen.ai
-caishenpo.com
+jsmodeling.com
 caishenyy.com
 caishuiedu.com
 caisixiang.com
@@ -31716,7 +31689,7 @@ dubbingx.com
 dubbo.io
 duble.live
 dubola.com
-dubprince.com
+jsmolfa.com
 dubyc.com
 ducafecat.com
 ducafecat.tech
@@ -31860,7 +31833,7 @@ duolebh.com
 duolebo.com
 duolegame.com
 duolegd.com
-jsmrmf.com
+duolegj.com
 duolegouji.com
 duolemahjong.com
 duolemajiang.com
@@ -36095,7 +36068,7 @@ fjii.com
 fjjcjy.com
 fjjcled.com
 fjjgn396.com
-fjjianxin.com
+jsmo.xin
 fjjmylbx.com
 fjjnsn.com
 fjjsp01.com
@@ -49620,7 +49593,6 @@ hujibbs.com
 hujingnb.com
 huke88.com
 hukeck.com
-hukelc.com
 hukenb.com
 hukexyy.com
 hukou021.com
@@ -50832,6 +50804,7 @@ hzzkj.net
 hzzp.com
 hzzpko3186.vip
 hzzqzc.com
+hzzred.com
 hzzrmc.com
 hzzsfs.com
 hzzsxh.com
@@ -55017,6 +54990,7 @@ jidouauto.com
 jidubook.com
 jidujiao.com
 jidujiasu.com
+jie.ge
 jieanjiaotong.com
 jiebai.com
 jiebanchuyou.com
@@ -55345,6 +55319,7 @@ jingdongyouxuan.com
 jingdudai.com
 jingdukaoyan.com
 jingdw.com
+jingeshou.com
 jingge.com
 jinggeng.net
 jinggon.com
@@ -56028,6 +56003,7 @@ jj00.com
 jj0833.com
 jj20.com
 jj59.com
+jj5agame.com
 jj831.com
 jj99.icu
 jjbang.com
@@ -56495,7 +56471,6 @@ jnydgm.com
 jnyng.com
 jnyyjt.com
 jnzhuoxin.com
-jnzjzx.net
 jnzl.com
 jnzongchi.com
 jnzx.cc
@@ -57165,9 +57140,9 @@ jskxjl.com
 jslcjt.com
 jsldweb.com
 jsldxcl.com
-jslegal.com
-jslhgroup.com
 0.zone
+jslhgroup.com
+jslhjg.com
 jslida.net
 jslife.net
 jslijiang.com
@@ -57186,11 +57161,11 @@ jsmfk.com
 jsminstar.com
 jsmjys.com
 jsmkyy.com
-jsmo.xin
-jsmodeling.com
-xiwuji.com
+fjjianxin.com
 000868adh1.shop
-shanyue.tech
+dubprince.com
+jsmrmf.com
+jsmsg.com
 jsmxgs.com
 jsmxkj.com
 jsmxw.com
@@ -67885,6 +67860,7 @@ modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
+modelscope.ai
 modelscope.net
 modelwhale.com
 modeng178.com
@@ -78013,7 +77989,6 @@ qygbet427.vip
 qygjyey.com
 qyglzz.com
 qygvip128.com
-qygvip40.com
 qyhgsb.com
 qyhl.vip
 qyhr.org
@@ -78977,7 +78952,6 @@ rightknights.com
 rightpaddle.com
 rigol.com
 rigouwang.com
-riitao.com
 riji001.com
 riji100zi.com
 rijigu.com
@@ -79994,6 +79968,7 @@ safenext.com
 safetyimg.com
 safetystatic.com
 safetyvod.com
+safewk.com
 safround.com
 sagewc-exp.com
 sagigame.net
@@ -81030,7 +81005,6 @@ sdglobaltrade.com
 sdglql.com
 sdgmjiaoyun.com
 sdgren.com
-sdgsdggg.xyz
 sdgsgcjsjt.com
 sdgsjc.com
 sdgslb.com
@@ -81107,6 +81081,7 @@ sdj88.com
 sdjcf.com
 sdjcsh.com
 sdjcw.com
+sdjcxxgs.com
 sdjiance.com
 sdjiankan.com
 sdjianmei.com
@@ -82368,7 +82343,7 @@ shanyishanmei.com
 shanyougame.com
 shanyu.com
 shanyuankj.com
-jsmsg.com
+shanyue.tech
 shanyuechina.com
 shanyzx.com
 shanzhen.com
@@ -96044,6 +96019,7 @@ wcjbb.net
 wcjm.org
 wclbox.com
 wcloud.com
+wcloudcdn.com
 wcode.net
 wcp.hk
 wcqjyw.com
@@ -97800,7 +97776,6 @@ wisdri.com
 wise-iot.com
 wise99.com
 wiseasy.com
-wisebond.net
 wisecity.net
 wisecotech.com
 wisedoo.com
@@ -98856,6 +98831,7 @@ wujogroup.com
 wujue.com
 wukaikai.tech
 wukao.com
+wukazhifupos.com
 wukong.com
 wukong.la
 wukongbjb.com
@@ -101899,7 +101875,7 @@ xiweigas.com
 xiwenquan.com
 xiwicloud.com
 xiwnn.com
-jsmolfa.com
+xiwuji.com
 xiwuy.com
 xixhx.com
 xixiangongjiao.com
@@ -110281,6 +110257,7 @@ zhenyuansoft.com
 zhenyunpan.com
 zhenzhuchanfu.com
 zheshenet.com
+zheshouka.com
 zhetao.com
 zhetian.org
 zhetouniu.com

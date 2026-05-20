@@ -1,11 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 146
+# 规则统计: 140
 
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
@@ -18,8 +17,8 @@ DOMAIN,bt1.xxxxbt.cc
 DOMAIN,bt2.archive.org
 DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
+DOMAIN,cerf.cs.umd.edu
 DOMAIN,coeus.torrentonline.cc
-DOMAIN,colibri.parrot.run
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,home.yxgz.club
@@ -39,13 +38,12 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
-DOMAIN,seeders-paradise.org
+DOMAIN,retracker.spark-rostov.ru
 DOMAIN,seedpeer.net
-DOMAIN,share.hkg-fansub.info
-DOMAIN,speedtest.iperson.xyz
+DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
-DOMAIN,torrent.tracker.durukanbal.com
+DOMAIN,torrent.hificode.in
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
@@ -66,6 +64,7 @@ DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
+DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
@@ -73,16 +72,14 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
-DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lintk.me
@@ -111,10 +108,8 @@ DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrentclaw.com
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.xiaoduola.xyz
@@ -139,7 +134,6 @@ DOMAIN,vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.nartlof.com
-DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
 IP-CIDR,207.241.226.111/32,no-resolve
