@@ -336,6 +336,7 @@
 - [category-social-media-cn](rules/category-social-media-cn.txt)
 - [category-social-media-ir](rules/category-social-media-ir.txt)
 - [category-speedtest](rules/category-speedtest.txt)
+- [category-stun](rules/category-stun.txt)
 - [category-tech-ir](rules/category-tech-ir.txt)
 - [category-tech-media](rules/category-tech-media.txt)
 - [category-tm](rules/category-tm.txt)
