@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 906
+# 规则统计: 905
 
 domain_suffix_set:
   - 1500020991.vodplayer.wxamedia.com
@@ -342,7 +342,6 @@ domain_suffix_set:
   - doubleclick-cn.net
   - download.changhong.upgrade2.huan.tv
   - downloadxml.changhong.upgrade2.huan.tv
-  - drcn-weather.cloud.huawei.com
   - dsp-x.jd.com
   - dsp.fcbox.com
   - dualstack-logs.amap.com
