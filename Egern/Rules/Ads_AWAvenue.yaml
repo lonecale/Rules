@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 905
+# 规则统计: 906
 
 domain_suffix_set:
   - 1500020991.vodplayer.wxamedia.com
@@ -121,6 +121,7 @@ domain_suffix_set:
   - adsfilebssdlbig.ali.kugou.com
   - adsfileretry.service.kugou.com
   - adsfs-sdkconfig.heytapimage.com
+  - adsfs.heytapimage.com
   - adsfs.oppomobile.com
   - adslvfile.qq.com
   - adsmart.konka.com
