@@ -1,9 +1,8 @@
 # 规则名称: BTtrackers
-# 规则统计: 125
+# 规则统计: 121
 
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
-DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
@@ -15,7 +14,6 @@ DOMAIN,bt2.archive.org
 DOMAIN,coeus.torrentonline.cc
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
-DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
@@ -23,6 +21,7 @@ DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
+DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
@@ -49,7 +48,6 @@ DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
-DOMAIN,tracker.anibt.net
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
@@ -68,12 +66,10 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
-DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.manager.v6.navy
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.vc
@@ -90,7 +86,6 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sharebro.in
 DOMAIN,tracker.skyts.net
-DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.theoks.net
@@ -105,6 +100,7 @@ DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
+DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker2.dler.org
@@ -112,12 +108,12 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.ctix.cn
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
-DOMAIN,trackthis.cyber.pz.it
 DOMAIN,uabits.today
-DOMAIN,udp.trackarr.org
 DOMAIN,udp.tracker.projectk.org
+DOMAIN,vito-tracker.space
 DOMAIN,wepzone.net
 DOMAIN,whybother.torrentonline.cc
+DOMAIN,wolf.parrot.run
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
 DOMAIN,zer0day.ch
