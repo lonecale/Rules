@@ -995,6 +995,7 @@
 - [morisawa](rules/morisawa.txt)
 - [mortein](rules/mortein.txt)
 - [mosmetro](rules/mosmetro.txt)
+- [motorola](rules/motorola.txt)
 - [movefree](rules/movefree.txt)
 - [moxing](rules/moxing.txt)
 - [mozilla](rules/mozilla.txt)
