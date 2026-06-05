@@ -1399,6 +1399,7 @@
 - [tencent-ads](rules/tencent-ads.txt)
 - [tencent-dev](rules/tencent-dev.txt)
 - [tencent-games](rules/tencent-games.txt)
+- [tencent-tme](rules/tencent-tme.txt)
 - [tencent](rules/tencent.txt)
 - [tendcloud](rules/tendcloud.txt)
 - [terabox](rules/terabox.txt)
