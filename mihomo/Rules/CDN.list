@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4568
+# 规则统计: 4569
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3139,6 +3139,7 @@ DOMAIN,uploads.bikeindex.org
 DOMAIN,uploads.codesandbox.io
 DOMAIN,uploads.guim.co.uk
 DOMAIN,uploads.linear.app
+DOMAIN,uploads.pullfrog.com
 DOMAIN,uploads.sitepoint.com
 DOMAIN,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com

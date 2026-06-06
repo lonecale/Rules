@@ -25,8 +25,8 @@ full:crl.microsoft.com
 full:mscrl.microsoft.com
 full:ocsp.microsoft.com
 full:oneocsp.microsoft.com
-full:prodforza.blob.core.windows.net
 full:flightsimulator.azureedge.net
+full:prodforza.blob.core.windows.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -304,7 +304,7 @@ microsoft.ca
 yammer.com
 adaptivecards.io
 api-extractor.com
-mojang.com
+minecraftservices.com
 microsoft.cat
 microsoft.md
 appcenter.ms
@@ -411,6 +411,8 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
+asobostudio.com
+flightsimulator.com
 beth.games
 bethesda.net
 bethesdagamestudios.com
@@ -424,11 +426,9 @@ forzarc.com
 callersbane.com
 minecraft-services.net
 minecraft.net
-minecraftservices.com
-minecraftshop.com
 octocaptcha.com
-asobostudio.com
-flightsimulator.com
+minecraftshop.com
+mojang.com
 microsoft.be
 aadrm.com
 azure-devices-int.net
