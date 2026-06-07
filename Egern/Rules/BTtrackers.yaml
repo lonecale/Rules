@@ -1,12 +1,13 @@
 # 规则名称: BTtrackers
-# 规则统计: 139
+# 规则统计: 142
 
 no_resolve: true
 domain_set:
   - 004430.xyz
+  - 0123456789nonexistent.com
   - 021912.xyz
+  - 0d.kebhana.mx
   - 1337.abcvg.info
-  - 6ahddutb1ucc3cp.ru
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anime-tracker.aruku.kro.kr
@@ -14,42 +15,42 @@ domain_set:
   - archive.torrentonline.cc
   - banananetwork.qzz.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
+  - bt.poletracker.org
   - bt1.archive.org
   - bt1.xxxxbt.cc
-  - bt2.archive.org
   - bvarf.tracker.sh
   - coeus.torrentonline.cc
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - home.yxgz.club
   - ipv4announce.sktorrent.eu
   - jvavav.com
   - leet-tracker.moe
   - martin-gebhardt.eu
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
-  - obey.torrentonline.cc
   - open.demonii.com
   - open.demonoid.ch
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
+  - open.trackerlist.xyz
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
+  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - seeders-paradise.org
   - seedpeer.net
   - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
-  - speedtest.iperson.xyz
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.tracker.durukanbal.com
+  - torrent.hificode.in
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
@@ -65,18 +66,21 @@ domain_set:
   - tracker.1h.is
   - tracker.23794.top
   - tracker.7471.top
+  - tracker.anibt.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
+  - tracker.bigbewbs.online
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
+  - tracker.dorcus.digital
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -84,12 +88,14 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.hismz.cn
-  - tracker.iperson.xyz
+  - tracker.huadongblower.xyz
+  - tracker.ipv6tracker.org
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lintk.me
   - tracker.manager.itislove.cz
   - tracker.manager.v6.navy
+  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.opentorrent.top
@@ -103,20 +109,17 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.riverarmy.xyz
-  - tracker.sbsub.com
-  - tracker.sharebro.in
   - tracker.skyts.net
   - tracker.startwork.cv
   - tracker.t-1.org
+  - tracker.teambelgium.net
+  - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.trackarr.org
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wildkat.net
-  - tracker.xiaoduola.xyz
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
@@ -127,11 +130,12 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
+  - tracker810.xyz
   - uabits.today
   - udp.tracker.projectk.org
   - v6.vito-tracker.space
   - vito-tracker.duckdns.org
-  - whybother.torrentonline.cc
+  - wepzone.net
   - www.genesis-sp.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
@@ -139,7 +143,6 @@ domain_set:
   - zer0day.ch
 ip_cidr_set:
   - 207.241.226.111/32
-  - 207.241.231.226/32
   - 52.58.128.163/32
 ip_cidr6_set:
   - 2a03:7220:8083:cd00::1/128
