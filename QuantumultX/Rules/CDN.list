@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4578
+# 规则统计: 4581
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -287,6 +287,7 @@ HOST,assets.tigerdata.com,CDN
 HOST,assets.time.com,CDN
 HOST,assets.tokopedia.net,CDN
 HOST,assets.toot.cafe,CDN
+HOST,assets.transfernow.net,CDN
 HOST,assets.tvtropes.org,CDN
 HOST,assets.twitch.tv,CDN
 HOST,assets.unicorn.studio,CDN
@@ -440,6 +441,7 @@ HOST,canny-assets.io,CDN
 HOST,canvas-lb.tubitv.com,CDN
 HOST,cartodb-basemaps-a.global.ssl.fastly.net,CDN
 HOST,cassette.sphdigital.com.sg,CDN
+HOST,catalogartifact.azureedge.net,CDN
 HOST,categoriespages-cdn.trustpilot.net,CDN
 HOST,cc-embed.adobe.com,CDN
 HOST,cc.boyfriendtv.com,CDN
@@ -3175,6 +3177,7 @@ HOST,v.w-x.co,CDN
 HOST,v2.listenloop.com,CDN
 HOST,v2uploads.zopim.io,CDN
 HOST,vanilla-extract.style,CDN
+HOST,variations.brave.com,CDN
 HOST,vbmspic.video.friday.tw,CDN
 HOST,vcdn.anysex.com,CDN
 HOST,vectorified.com,CDN

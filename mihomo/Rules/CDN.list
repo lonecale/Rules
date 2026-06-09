@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4578
+# 规则统计: 4581
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -287,6 +287,7 @@ DOMAIN,assets.tigerdata.com
 DOMAIN,assets.time.com
 DOMAIN,assets.tokopedia.net
 DOMAIN,assets.toot.cafe
+DOMAIN,assets.transfernow.net
 DOMAIN,assets.tvtropes.org
 DOMAIN,assets.twitch.tv
 DOMAIN,assets.unicorn.studio
@@ -440,6 +441,7 @@ DOMAIN,canny-assets.io
 DOMAIN,canvas-lb.tubitv.com
 DOMAIN,cartodb-basemaps-a.global.ssl.fastly.net
 DOMAIN,cassette.sphdigital.com.sg
+DOMAIN,catalogartifact.azureedge.net
 DOMAIN,categoriespages-cdn.trustpilot.net
 DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
@@ -3175,6 +3177,7 @@ DOMAIN,v.w-x.co
 DOMAIN,v2.listenloop.com
 DOMAIN,v2uploads.zopim.io
 DOMAIN,vanilla-extract.style
+DOMAIN,variations.brave.com
 DOMAIN,vbmspic.video.friday.tw
 DOMAIN,vcdn.anysex.com
 DOMAIN,vectorified.com

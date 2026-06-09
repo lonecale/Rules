@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4578
+# 规则统计: 4581
 
 domain_set:
   - 0x0.st
@@ -288,6 +288,7 @@ domain_set:
   - assets.time.com
   - assets.tokopedia.net
   - assets.toot.cafe
+  - assets.transfernow.net
   - assets.tvtropes.org
   - assets.twitch.tv
   - assets.unicorn.studio
@@ -441,6 +442,7 @@ domain_set:
   - canvas-lb.tubitv.com
   - cartodb-basemaps-a.global.ssl.fastly.net
   - cassette.sphdigital.com.sg
+  - catalogartifact.azureedge.net
   - categoriespages-cdn.trustpilot.net
   - cc-embed.adobe.com
   - cc.boyfriendtv.com
@@ -3176,6 +3178,7 @@ domain_set:
   - v2.listenloop.com
   - v2uploads.zopim.io
   - vanilla-extract.style
+  - variations.brave.com
   - vbmspic.video.friday.tw
   - vcdn.anysex.com
   - vectorified.com
