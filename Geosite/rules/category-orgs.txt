@@ -1,3 +1,4 @@
+full:csis-prod.s3.amazonaws.com
 full:a.ppy.sh
 full:assets.ppy.sh
 full:c.ppy.sh
@@ -7,7 +8,6 @@ full:lazer.ppy.sh
 full:notify.ppy.sh
 full:sentry.ppy.sh
 full:spectator.ppy.sh
-full:csis-prod.s3.amazonaws.com
 aomedia.org
 atypi.org
 change.org
@@ -23,11 +23,7 @@ w3.org
 who.int
 wi-fi.org
 wto.org
-ppy.sh
-emojipedia.org
-worldemojiawards.com
-worldemojiday.com
-xn--yt8h.la
+csis.org
 f-dro1d.org
 f-droid.com
 f-droid.org
@@ -48,6 +44,20 @@ grapheneos.page
 grapheneos.social
 seamlessupdate.app
 vanadium.app
+nist.gov
+time.gov
+rolfoundation.org
+rolsociety.org
+paskoocheh.com
+ppy.sh
+ccstatic.org
+creativecommons.org
+creativecommons.engineering
+licensebuttons.net
+emojipedia.org
+worldemojiawards.com
+worldemojiday.com
+xn--yt8h.la
 ieee.org
 ieee.tv
 tryengineering.org
@@ -110,13 +120,6 @@ listenbrainz.org
 messybrainz.org
 metabrainz.org
 musicbrainz.org
-nist.gov
-time.gov
-ccstatic.org
-creativecommons.org
-creativecommons.engineering
-licensebuttons.net
-csis.org
 openmaps.org
 openstreetmap.com
 openstreetmap.net
@@ -126,6 +129,3 @@ osm.org
 osmfoundation.org
 stateofthemap.com
 stateofthemap.org
-paskoocheh.com
-rolfoundation.org
-rolsociety.org
