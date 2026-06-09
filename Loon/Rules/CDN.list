@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4574
+# 规则统计: 4578
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1196,6 +1196,7 @@ DOMAIN,creative.eizzih.com
 DOMAIN,creator-image.javhd.com
 DOMAIN,crl.usertrust.com
 DOMAIN,crl.verisign.com
+DOMAIN,crl3.digicert.com
 DOMAIN,crt.comodoca.com
 DOMAIN,crt.sectigo.com
 DOMAIN,crt.usertrust.com
@@ -1858,6 +1859,7 @@ DOMAIN,imgcn5.bgmbk.tv
 DOMAIN,imgfile.shop
 DOMAIN,imgix.setapp.com
 DOMAIN,imgopt.infoq.com
+DOMAIN,imgproxy.flathub.org
 DOMAIN,imgproxy.fourthwall.com
 DOMAIN,imgrs.apkcombo.com
 DOMAIN,imgs.plurk.com
@@ -2122,6 +2124,7 @@ DOMAIN,momentjs.com
 DOMAIN,moodular.jotform.com
 DOMAIN,mosaic-blender.fxtwitter.com
 DOMAIN,mosaic.fxtwitter.com
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN,mparticle.weather.com
 DOMAIN,mstdn-s3.o3o.studio
 DOMAIN,mta.newfold.com
@@ -4318,6 +4321,7 @@ DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,szjal.cn
+DOMAIN-SUFFIX,t-assets.net
 DOMAIN-SUFFIX,t8cdn.com
 DOMAIN-SUFFIX,tacdn.com
 DOMAIN-SUFFIX,tags.f5.com

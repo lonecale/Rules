@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4574
+# 规则统计: 4578
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1196,6 +1196,7 @@ HOST,creative.eizzih.com,CDN
 HOST,creator-image.javhd.com,CDN
 HOST,crl.usertrust.com,CDN
 HOST,crl.verisign.com,CDN
+HOST,crl3.digicert.com,CDN
 HOST,crt.comodoca.com,CDN
 HOST,crt.sectigo.com,CDN
 HOST,crt.usertrust.com,CDN
@@ -1858,6 +1859,7 @@ HOST,imgcn5.bgmbk.tv,CDN
 HOST,imgfile.shop,CDN
 HOST,imgix.setapp.com,CDN
 HOST,imgopt.infoq.com,CDN
+HOST,imgproxy.flathub.org,CDN
 HOST,imgproxy.fourthwall.com,CDN
 HOST,imgrs.apkcombo.com,CDN
 HOST,imgs.plurk.com,CDN
@@ -2122,6 +2124,7 @@ HOST,momentjs.com,CDN
 HOST,moodular.jotform.com,CDN
 HOST,mosaic-blender.fxtwitter.com,CDN
 HOST,mosaic.fxtwitter.com,CDN
+HOST,mozilla-ohttp.fastly-edge.com,CDN
 HOST,mparticle.weather.com,CDN
 HOST,mstdn-s3.o3o.studio,CDN
 HOST,mta.newfold.com,CDN
@@ -4318,6 +4321,7 @@ HOST-SUFFIX,sway-cdn.com,CDN
 HOST-SUFFIX,swiftypecdn.com,CDN
 HOST-SUFFIX,sxccdn.com,CDN
 HOST-SUFFIX,szjal.cn,CDN
+HOST-SUFFIX,t-assets.net,CDN
 HOST-SUFFIX,t8cdn.com,CDN
 HOST-SUFFIX,tacdn.com,CDN
 HOST-SUFFIX,tags.f5.com,CDN
