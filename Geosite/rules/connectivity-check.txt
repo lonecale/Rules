@@ -2,8 +2,6 @@ full:ping.archlinux.org
 full:redirect.archlinux.org
 full:nmcheck.gnome.org
 full:connectivitycheck.gstatic.com
-full:www.gstatic.com
-full:www.google.com
 full:networkcheck.kde.org
 full:edge-http.microsoft.com
 full:www.qualcomm.com
@@ -18,6 +16,7 @@ ipv6check-http.steamserver.net
 ipv6check-udp.steamserver.net
 test.steampowered.com
 captive.apple.com
+full:www.gstatic.com
 full:connectivitycheck.platform.hihonorcloud.com
 full:connectivitycheck.platform.hicloud.com
 full:connect.rom.miui.com

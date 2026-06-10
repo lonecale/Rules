@@ -1492,6 +1492,7 @@
 - [udn](rules/udn.txt)
 - [umeng-ads](rules/umeng-ads.txt)
 - [umeng](rules/umeng.txt)
+- [unext](rules/unext.txt)
 - [unionpay](rules/unionpay.txt)
 - [unity-ads](rules/unity-ads.txt)
 - [unity](rules/unity.txt)
