@@ -1611,6 +1611,7 @@
 - [xingkongwuxianmedia](rules/xingkongwuxianmedia.txt)
 - [xingrz](rules/xingrz.txt)
 - [xnxx](rules/xnxx.txt)
+- [xtom](rules/xtom.txt)
 - [xueersi](rules/xueersi.txt)
 - [xueqiu](rules/xueqiu.txt)
 - [xueyuanjun](rules/xueyuanjun.txt)
