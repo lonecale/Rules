@@ -920,6 +920,7 @@
 - [linuxdo](rules/linuxdo.txt)
 - [lisiku](rules/lisiku.txt)
 - [litv](rules/litv.txt)
+- [livejournal](rules/livejournal.txt)
 - [liveperson](rules/liveperson.txt)
 - [lizhi](rules/lizhi.txt)
 - [lkcoffee](rules/lkcoffee.txt)
