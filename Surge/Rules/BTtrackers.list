@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 116
+# 规则统计: 124
 
 DOMAIN,004430.xyz
 DOMAIN,021912.xyz
@@ -8,12 +8,14 @@ DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
+DOMAIN,archive.torrentonline.cc
 DOMAIN,banananetwork.qzz.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,coeus.torrentonline.cc
+DOMAIN,de7c0e7a567e.sn.mynetname.net
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -23,6 +25,7 @@ DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
+DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
@@ -32,6 +35,7 @@ DOMAIN,opentor.org
 DOMAIN,orgtgju.org
 DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
+DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
@@ -43,13 +47,13 @@ DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.anibt.net
 DOMAIN,tracker.aruku.ovh
@@ -68,7 +72,6 @@ DOMAIN,tracker.dorcus.digital
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
@@ -83,7 +86,9 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peerfect.org
 DOMAIN,tracker.playground.ru
+DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
+DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
@@ -95,10 +100,12 @@ DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.trackarr.org
 DOMAIN,tracker.tritan.gg
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
@@ -107,6 +114,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,uabits.today
+DOMAIN,udp.tracker.projectk.org
 DOMAIN,wepzone.net
 DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
