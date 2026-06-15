@@ -6,6 +6,8 @@
 ||apidns-js.kwd.inkuai.com^
 ||apidns.kwd.inkuai.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||apidns.kwd.inkuai.com^
+||cdndns.kwd.inkuai.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||cdndns.kwd.inkuai.com^
 ||dns.iqiyi.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||dns.iqiyi.com^
 ||dns.jd.com^$dnstype=AAAA,dnsrewrite=NOERROR
@@ -28,6 +30,8 @@
 ||dotserver.douyucdn.cn^
 ||hd.xiaojukeji.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||hd.xiaojukeji.com^
+||hdns.k-dyn.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||hdns.k-dyn.com^
 ||hdns.ksyun.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||hdns.ksyun.com^
 ||httpdns-api.aliyuncs.com^$dnstype=AAAA,dnsrewrite=NOERROR
