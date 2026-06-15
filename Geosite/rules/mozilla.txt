@@ -1,5 +1,5 @@
-full:mozilla-ohttp.fastly-edge.com
 full:mdn.mozillademos.org
+full:mozilla-ohttp.fastly-edge.com
 mozilla.pe
 interforest.org
 bugzilla.org
@@ -7,7 +7,7 @@ detodosparatodos.org
 discovershiretoko.org
 ecmascript.org
 extensionworkshop.com
-mdnyalp.dev
+firefoxusercontent.com
 foxkeh.jp
 getfirebug.com
 getpersonas.com
@@ -54,13 +54,13 @@ publicsuffix.org
 seamonkey-project.org
 thunderbird.net
 webmademovies.org
-extendfirefox.com
-firefox.com
-firefox.hu
-firefoxtweetmachine.com
-firefoxusercontent.com
 mdn.dev
 mdnplay.dev
+mdnyalp.dev
+firefoxtweetmachine.com
+firefox.hu
+firefox.com
+extendfirefox.com
 mozilla.org.uk
 full:ads-img.mozilla.org
 full:ads.mozilla.org

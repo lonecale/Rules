@@ -1060,6 +1060,7 @@
 - [nginx](rules/nginx.txt)
 - [ngrok](rules/ngrok.txt)
 - [nhk](rules/nhk.txt)
+- [nic-ru](rules/nic-ru.txt)
 - [nicegram](rules/nicegram.txt)
 - [niconico](rules/niconico.txt)
 - [nike](rules/nike.txt)
@@ -1232,6 +1233,7 @@
 - [redis](rules/redis.txt)
 - [redotpay](rules/redotpay.txt)
 - [redtube](rules/redtube.txt)
+- [regru](rules/regru.txt)
 - [remirepo](rules/remirepo.txt)
 - [renren](rules/renren.txt)
 - [reurl](rules/reurl.txt)
@@ -1258,6 +1260,7 @@
 - [rutracker](rules/rutracker.txt)
 - [rutube](rules/rutube.txt)
 ## S
+- [safepal](rules/safepal.txt)
 - [sakurafrp](rules/sakurafrp.txt)
 - [salesforce](rules/salesforce.txt)
 - [samsung](rules/samsung.txt)
