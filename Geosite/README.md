@@ -1391,6 +1391,7 @@
 - [t2-ru](rules/t2-ru.txt)
 - [taboola](rules/taboola.txt)
 - [tagtic-ads](rules/tagtic-ads.txt)
+- [taihe](rules/taihe.txt)
 - [taikang](rules/taikang.txt)
 - [tailscale](rules/tailscale.txt)
 - [take-two](rules/take-two.txt)

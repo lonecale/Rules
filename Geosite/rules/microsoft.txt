@@ -5,8 +5,12 @@ full:officecdn-microsoft-com.akamaized.net
 full:statics-marketingsites-eas-ms-com.akamaized.net
 full:statics-marketingsites-eus-ms-com.akamaized.net
 full:statics-marketingsites-wcus-ms-com.akamaized.net
-full:prodforza.blob.core.windows.net
+full:crl.microsoft.com
+full:mscrl.microsoft.com
+full:ocsp.microsoft.com
+full:oneocsp.microsoft.com
 full:flightsimulator.azureedge.net
+full:prodforza.blob.core.windows.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -56,10 +60,6 @@ full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
-full:crl.microsoft.com
-full:mscrl.microsoft.com
-full:ocsp.microsoft.com
-full:oneocsp.microsoft.com
 microsoft
 hotmail
 office
@@ -228,7 +228,7 @@ msidentity.com
 msocdn.com
 msturing.org
 msudalosti.com
-msocsp.com
+xamarin.com
 nextechafrica.net
 nxta.org
 o365weve-dev.com
@@ -278,7 +278,7 @@ sysinternals.com
 t-msedge.net
 tailwindtraders.com
 techhub.ms
-microsoftnews.net
+microsoftnews.com
 translatetheweb.com
 unlocklimitlesslearning.com
 userpxt.io
@@ -302,11 +302,12 @@ windowsupdate.com
 winhec.com
 microsoft.ca
 yammer.com
+msocsp.com
 microsoftnews.cc
-microsoftnews.com
-azuredevopslaunch.com
+azuredatabricks.net
 microsoft.cat
 tfsallin.net
+microsoftnews.net
 microsoftnews.org
 microsoftnewsforkids.com
 microsoftnewsforkids.net
@@ -329,11 +330,11 @@ onedrive.com
 onedrive.eu
 onedrive.net
 onedrive.org
-xamarin.com
 vscode-unpkg.net
 vscode-cdn.net
 vscode.dev
 vsassets.io
+vfsforgit.org
 microsoft.by
 gamepass.com
 orithegame.com
@@ -358,6 +359,8 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
+asobostudio.com
+flightsimulator.com
 beth.games
 bethesda.net
 bethesdagamestudios.com
@@ -374,8 +377,6 @@ minecraft.net
 minecraftservices.com
 minecraftshop.com
 mojang.com
-asobostudio.com
-flightsimulator.com
 microsoft.be
 aadrm.com
 azure-devices-int.net
@@ -392,8 +393,8 @@ azurecosmos.net
 azurecosmosdb.com
 azurecosmosdb.info
 azurecosmosdb.net
-azuredatabricks.net
-vfsforgit.org
+vfsforgit.com
+azuredevopslaunch.com
 azuredigitaltwin.com
 azuredigitaltwins.com
 azuredigitaltwins.net
@@ -459,7 +460,7 @@ msunlimitedcloudsummit.com
 office365love.com
 office365tw.com
 renovacionoffice.com
-vfsforgit.com
+visualstudio.net
 atom.io
 dependabot.com
 gh.io
@@ -531,13 +532,12 @@ visualstudio-staging.com
 visualstudio.com
 visualstudio.co
 visualstudio.eu
-visualstudio.net
 live.com.au
 onedrive.co.uk
 skypedata.akadns.net
 skype-edf.akadns.net
-visualstudio.co.uk
 microsoftstore.com.hk
+visualstudio.co.uk
 dcg.microsoft.com
 dynamics.cn
 engkoo.com
@@ -609,6 +609,7 @@ full:vscode.download.prss.microsoft.com
 full:vz.download.prss.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
+full:www.microsoft.com
 microsoftnews.cn
 msn.cn
 browser.events.data.msn.cn
@@ -715,4 +716,3 @@ full:copilot-telemetry.githubusercontent.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
-full:www.microsoft.com
