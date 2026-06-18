@@ -261,6 +261,7 @@
 - [category-collaborate-cn](rules/category-collaborate-cn.txt)
 - [category-communication](rules/category-communication.txt)
 - [category-companies](rules/category-companies.txt)
+- [category-consent-management](rules/category-consent-management.txt)
 - [category-container](rules/category-container.txt)
 - [category-cryptocurrency](rules/category-cryptocurrency.txt)
 - [category-ddns](rules/category-ddns.txt)
