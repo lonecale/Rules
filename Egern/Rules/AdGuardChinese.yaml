@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 6490
+# 规则统计: 6499
 
 domain_suffix_set:
   - 002777.xyz
@@ -125,6 +125,7 @@ domain_suffix_set:
   - 1017.cn
   - 1024mzs.pw
   - 104i5bbzs.com
+  - 10eni3ogoo.com
   - 11.96131.com.cn
   - 11.golang8.com
   - 11.yiqig.cn
@@ -167,6 +168,7 @@ domain_suffix_set:
   - 19o8hzj117.com
   - 1adi9wenq.com
   - 1buu1.penyouw.com
+  - 1cimslrk3.com
   - 1dgfd.cc
   - 1dm6ccvy8.com
   - 1dor1d6vc.com
@@ -699,6 +701,7 @@ domain_suffix_set:
   - 8961.jianbihua.com
   - 89ga0evbha.com
   - 8bnouo6r6.com
+  - 8cjk04e7sb.com
   - 8clkggoo62.com
   - 8eo93qj18r.com
   - 8fdmj67f5e.com
@@ -1361,6 +1364,7 @@ domain_suffix_set:
   - biconcave43.com
   - biddingx.com
   - biejdy1d1.com
+  - bikemanw.com
   - bilkreta.com
   - binaqathh.com
   - bio39rx7p0.com
@@ -1537,6 +1541,7 @@ domain_suffix_set:
   - c6.friok.com
   - c64ihqx0gj.com
   - c6hhfkvxv.com
+  - c6nxtri65t.com
   - c7bijgz6zr.com
   - c7o9xp4e4.com
   - c81.ipanocloud.com
@@ -2539,6 +2544,7 @@ domain_suffix_set:
   - ght2bvin1.com
   - ghwmbue.icu
   - giaumusnsj.com
+  - gie0izinx.com
   - gigptruetlop.com
   - gigtoy.icu
   - gin77czkt.com
@@ -2705,6 +2711,7 @@ domain_suffix_set:
   - guessrp50.com
   - gumgo.cn
   - gummy-debt.com
+  - gun2v2neoo.com
   - gunmi.cn
   - gusp.cn
   - guu0bfmpf5.com
@@ -4271,6 +4278,7 @@ domain_suffix_set:
   - p4p.sina.com.cn
   - p5si0mu8u7.com
   - p66jed4iv.com
+  - p6q6qpze3f.com
   - p70y44odg.com
   - p74ugyuur.com
   - p78vz5tcho.com
@@ -5418,6 +5426,7 @@ domain_suffix_set:
   - uspe4j25v6.com
   - usqok.cn
   - ussxvwu.online
+  - ut5hnwzebu.com
   - uteeo5018.com
   - utihriethlv.com
   - utlove02.com
