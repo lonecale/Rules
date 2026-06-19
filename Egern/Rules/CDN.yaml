@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4587
+# 规则统计: 4590
 
 domain_set:
   - 0x0.st
@@ -152,6 +152,7 @@ domain_set:
   - assets.cgtrader.com
   - assets.change.org
   - assets.chaos.social
+  - assets.churnkey.co
   - assets.clever-cloud.com
   - assets.clibo.tw
   - assets.clickfunnels.com
@@ -402,6 +403,7 @@ domain_set:
   - bunnycdn-video-assets.b-cdn.net
   - businessunitprofile-cdn.trustpilot.net
   - busuanzi.ibruce.info
+  - bytescale.mobbin.com
   - c-bin.b-cdn.net
   - c.1password.com
   - c.animaapp.com
@@ -1291,6 +1293,7 @@ domain_set:
   - edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
   - eep.io
   - eightcha.com
+  - embed-audio.cnevids.com
   - embed-cloudfront.wistia.com
   - embed-ssl.wistia.com
   - embed-v2.testimonial.to
