@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 6499
+# 规则统计: 6514
 
 HOST-SUFFIX,002777.xyz,AdGuardChinese
 HOST-SUFFIX,003store.com,AdGuardChinese
@@ -62,6 +62,7 @@ HOST-SUFFIX,0x7iufg8hy.com,AdGuardChinese
 HOST-SUFFIX,0xr7ii3df.com,AdGuardChinese
 HOST-SUFFIX,0xzxwnkqdu.com,AdGuardChinese
 HOST-SUFFIX,0yjeii25x4.com,AdGuardChinese
+HOST-SUFFIX,0yu3bxtqv.com,AdGuardChinese
 HOST-SUFFIX,0z3zbnbkv.com,AdGuardChinese
 HOST-SUFFIX,1.07swz.com,AdGuardChinese
 HOST-SUFFIX,1.1010pic.com,AdGuardChinese
@@ -799,6 +800,7 @@ HOST-SUFFIX,9obmf866d.com,AdGuardChinese
 HOST-SUFFIX,9oru1vh0w.com,AdGuardChinese
 HOST-SUFFIX,9oxhstb2m2.com,AdGuardChinese
 HOST-SUFFIX,9p81m19kr.com,AdGuardChinese
+HOST-SUFFIX,9pbeoey9j.com,AdGuardChinese
 HOST-SUFFIX,9pyn42z6d.com,AdGuardChinese
 HOST-SUFFIX,9pzoz6taf.com,AdGuardChinese
 HOST-SUFFIX,9r0v0go0el.com,AdGuardChinese
@@ -990,6 +992,7 @@ HOST-SUFFIX,additional59.top,AdGuardChinese
 HOST-SUFFIX,adf.dahe.cn,AdGuardChinese
 HOST-SUFFIX,adfsda005.xyz,AdGuardChinese
 HOST-SUFFIX,adimg.liba.com,AdGuardChinese
+HOST-SUFFIX,adiy42o0w.com,AdGuardChinese
 HOST-SUFFIX,adjb.5nd.com,AdGuardChinese
 HOST-SUFFIX,adm.52swine.com,AdGuardChinese
 HOST-SUFFIX,adm.6park.com,AdGuardChinese
@@ -1827,8 +1830,8 @@ HOST-SUFFIX,dai18.mumu01.com,AdGuardChinese
 HOST-SUFFIX,daima.aixiaola.com,AdGuardChinese
 HOST-SUFFIX,daima.diaoben.net,AdGuardChinese
 HOST-SUFFIX,daima.ijq.tv,AdGuardChinese
+HOST-SUFFIX,daima.yggk.net,AdGuardChinese
 HOST-SUFFIX,daima.ysdui.com,AdGuardChinese
-HOST-SUFFIX,daima.yuzhulin.com,AdGuardChinese
 HOST-SUFFIX,daiwofei2019.top,AdGuardChinese
 HOST-SUFFIX,dajiahao3.top,AdGuardChinese
 HOST-SUFFIX,daleknutbg.com,AdGuardChinese
@@ -1930,6 +1933,7 @@ HOST-SUFFIX,dissolution06.com,AdGuardChinese
 HOST-SUFFIX,ditruntp.com,AdGuardChinese
 HOST-SUFFIX,divcb7ycs5.com,AdGuardChinese
 HOST-SUFFIX,divergentld.com,AdGuardChinese
+HOST-SUFFIX,dividend56.top,AdGuardChinese
 HOST-SUFFIX,division43.top,AdGuardChinese
 HOST-SUFFIX,dizziness47.com,AdGuardChinese
 HOST-SUFFIX,djfp97jp7v.com,AdGuardChinese
@@ -2755,6 +2759,7 @@ HOST-SUFFIX,h5vem1jjft.com,AdGuardChinese
 HOST-SUFFIX,h6295.com,AdGuardChinese
 HOST-SUFFIX,h6fh0e4hg.com,AdGuardChinese
 HOST-SUFFIX,h6n6i7v98.com,AdGuardChinese
+HOST-SUFFIX,h702886htm.com,AdGuardChinese
 HOST-SUFFIX,h7ima6w5k.com,AdGuardChinese
 HOST-SUFFIX,h8cjr6nhm.com,AdGuardChinese
 HOST-SUFFIX,h9806gjhz.com,AdGuardChinese
@@ -3110,6 +3115,7 @@ HOST-SUFFIX,itraamelr.com,AdGuardChinese
 HOST-SUFFIX,its1zeqni.com,AdGuardChinese
 HOST-SUFFIX,itxzlhijfcenxejclcaj.top,AdGuardChinese
 HOST-SUFFIX,iugvoo.icu,AdGuardChinese
+HOST-SUFFIX,iv6xaoopvq.com,AdGuardChinese
 HOST-SUFFIX,ivcfsi3dr0.com,AdGuardChinese
 HOST-SUFFIX,ivdtruneda.com,AdGuardChinese
 HOST-SUFFIX,ivhv.cn,AdGuardChinese
@@ -3608,6 +3614,7 @@ HOST-SUFFIX,lvdvltsid.com,AdGuardChinese
 HOST-SUFFIX,lvllnj.top,AdGuardChinese
 HOST-SUFFIX,lvqg.cn,AdGuardChinese
 HOST-SUFFIX,lvrq.cn,AdGuardChinese
+HOST-SUFFIX,lvykdmk.icu,AdGuardChinese
 HOST-SUFFIX,lvzs619n1c.com,AdGuardChinese
 HOST-SUFFIX,lwbo.cn,AdGuardChinese
 HOST-SUFFIX,lwdla7fjns.com,AdGuardChinese
@@ -3968,6 +3975,7 @@ HOST-SUFFIX,nhlrzf.icu,AdGuardChinese
 HOST-SUFFIX,nhnehvef.icu,AdGuardChinese
 HOST-SUFFIX,nhnsoh.cn,AdGuardChinese
 HOST-SUFFIX,nhuk707eex.com,AdGuardChinese
+HOST-SUFFIX,nhwqjyn.icu,AdGuardChinese
 HOST-SUFFIX,nhy9i8t56f.com,AdGuardChinese
 HOST-SUFFIX,nidckjnc.com,AdGuardChinese
 HOST-SUFFIX,nie8fe9far.com,AdGuardChinese
@@ -4439,6 +4447,7 @@ HOST-SUFFIX,ptga.cn,AdGuardChinese
 HOST-SUFFIX,pthaktierl.com,AdGuardChinese
 HOST-SUFFIX,pthrumeath.com,AdGuardChinese
 HOST-SUFFIX,ptju.cn,AdGuardChinese
+HOST-SUFFIX,pttoblakstpjti.com,AdGuardChinese
 HOST-SUFFIX,pttzjo.top,AdGuardChinese
 HOST-SUFFIX,ptxcfn.icu,AdGuardChinese
 HOST-SUFFIX,ptzpaxq7bu.com,AdGuardChinese
@@ -4578,6 +4587,7 @@ HOST-SUFFIX,qnywphp.forum,AdGuardChinese
 HOST-SUFFIX,qnywsrc.buzz,AdGuardChinese
 HOST-SUFFIX,qoqg.cn,AdGuardChinese
 HOST-SUFFIX,qpeq.cn,AdGuardChinese
+HOST-SUFFIX,qphlllvgt.com,AdGuardChinese
 HOST-SUFFIX,qpqp05100oki.com,AdGuardChinese
 HOST-SUFFIX,qpqp05101oki.com,AdGuardChinese
 HOST-SUFFIX,qpvrutah.com,AdGuardChinese
@@ -4602,6 +4612,7 @@ HOST-SUFFIX,quince22.top,AdGuardChinese
 HOST-SUFFIX,qujishu.com,AdGuardChinese
 HOST-SUFFIX,qunphoty.com,AdGuardChinese
 HOST-SUFFIX,quoits96.top,AdGuardChinese
+HOST-SUFFIX,quotient75.com,AdGuardChinese
 HOST-SUFFIX,quu175kt3.com,AdGuardChinese
 HOST-SUFFIX,quudraidfg.com,AdGuardChinese
 HOST-SUFFIX,qvdn.cn,AdGuardChinese
@@ -4619,6 +4630,7 @@ HOST-SUFFIX,qxwoiv.com,AdGuardChinese
 HOST-SUFFIX,qyel.cn,AdGuardChinese
 HOST-SUFFIX,qykezpy.xyz,AdGuardChinese
 HOST-SUFFIX,qyplvnzcm1.com,AdGuardChinese
+HOST-SUFFIX,qzgn652dp.com,AdGuardChinese
 HOST-SUFFIX,qzq1hq3mt.com,AdGuardChinese
 HOST-SUFFIX,qzs43ai3p.com,AdGuardChinese
 HOST-SUFFIX,r.99waiyu.com,AdGuardChinese
@@ -4668,6 +4680,7 @@ HOST-SUFFIX,rdbgxi.top,AdGuardChinese
 HOST-SUFFIX,rdblieez7.com,AdGuardChinese
 HOST-SUFFIX,rdgck4jo4.com,AdGuardChinese
 HOST-SUFFIX,rdmpkv76tv.com,AdGuardChinese
+HOST-SUFFIX,rdntpbeivqbjhi.com,AdGuardChinese
 HOST-SUFFIX,re.taotaosou.com,AdGuardChinese
 HOST-SUFFIX,re0rlupcz.com,AdGuardChinese
 HOST-SUFFIX,re41qiitb1.com,AdGuardChinese
@@ -4698,6 +4711,7 @@ HOST-SUFFIX,revocation30.com,AdGuardChinese
 HOST-SUFFIX,rewvfghoya.com,AdGuardChinese
 HOST-SUFFIX,rf10b9mq8.com,AdGuardChinese
 HOST-SUFFIX,rf23ecvf4.com,AdGuardChinese
+HOST-SUFFIX,rf7wv5iip.com,AdGuardChinese
 HOST-SUFFIX,rfilmalmz.com,AdGuardChinese
 HOST-SUFFIX,rfk2ddbh9.com,AdGuardChinese
 HOST-SUFFIX,rg338ne0rt.com,AdGuardChinese
@@ -6403,6 +6417,7 @@ HOST-SUFFIX,zjkt6ew4cp.com,AdGuardChinese
 HOST-SUFFIX,zjliloveyou.ixiunv.com,AdGuardChinese
 HOST-SUFFIX,zk.91post.com,AdGuardChinese
 HOST-SUFFIX,zkcizao.com,AdGuardChinese
+HOST-SUFFIX,zkhjsta.beauty,AdGuardChinese
 HOST-SUFFIX,zkmnpnt4xg.com,AdGuardChinese
 HOST-SUFFIX,zknqll.icu,AdGuardChinese
 HOST-SUFFIX,zkraktak.com,AdGuardChinese

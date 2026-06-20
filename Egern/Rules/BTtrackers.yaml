@@ -1,59 +1,50 @@
 # 规则名称: BTtrackers
-# 规则统计: 135
+# 规则统计: 112
 
 no_resolve: true
 domain_set:
   - 004430.xyz
   - 021912.xyz
   - 1337.abcvg.info
-  - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
+  - archive.torrentonline.cc
   - banananetwork.qzz.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
-  - bt.poletracker.org
   - bt1.archive.org
-  - bt1.xxxxbt.cc
   - bt2.archive.org
   - coeus.torrentonline.cc
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - home.yxgz.club
   - ipv4announce.sktorrent.eu
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
+  - obey.torrentonline.cc
   - open.demonii.com
   - open.demonoid.ch
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
-  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
-  - seeders-paradise.org
   - seedpeer.net
-  - shahidrazi.online
-  - share.hkg-fansub.info
-  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.hificode.in
+  - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
-  - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -74,20 +65,12 @@ domain_set:
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
-  - tracker.dorcus.digital
-  - tracker.ducks.party
   - tracker.filemail.com
-  - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.hismz.cn
-  - tracker.huadongblower.xyz
-  - tracker.iperson.xyz
   - tracker.kuroy.me
   - tracker.leechshield.link
-  - tracker.lintk.me
   - tracker.manager.v6.navy
   - tracker.mywaifu.best
   - tracker.nekomi.cn
@@ -102,7 +85,7 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.riverarmy.xyz
-  - tracker.sbsub.com
+  - tracker.sharebro.in
   - tracker.skyts.net
   - tracker.t-1.org
   - tracker.teambelgium.net
@@ -111,13 +94,10 @@ domain_set:
   - tracker.trackarr.org
   - tracker.tritan.gg
   - tracker.tryhackx.org
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wildkat.net
-  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
-  - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
@@ -126,13 +106,10 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
-  - tracker810.xyz
-  - uabits.today
   - udp.tracker.projectk.org
-  - www.genesis-sp.org
+  - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
-  - zer0day.ch
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
