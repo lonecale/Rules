@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 6526
+# 规则统计: 6537
 
 domain_suffix_set:
   - 002777.xyz
@@ -48,6 +48,7 @@ domain_suffix_set:
   - 0m9mjmrd.top
   - 0nkwep2fh.com
   - 0oi1ej7mo.com
+  - 0oo9j37xp.com
   - 0otmh22aj2.com
   - 0qxfxqif0.com
   - 0rvv7l6k7g.com
@@ -703,6 +704,7 @@ domain_suffix_set:
   - 8961.jianbihua.com
   - 89ga0evbha.com
   - 8bnouo6r6.com
+  - 8cj70f905.com
   - 8cjk04e7sb.com
   - 8clkggoo62.com
   - 8eo93qj18r.com
@@ -742,6 +744,7 @@ domain_suffix_set:
   - 8yuwd5lpj.com
   - 8z1eg6o2j.com
   - 8zqpw2lj8n.com
+  - 903jbw7lr6.com
   - 90q0tq3bwo.com
   - 90qxskdmn9.com
   - 90tsdpml6.com
@@ -807,6 +810,7 @@ domain_suffix_set:
   - 9pyn42z6d.com
   - 9pzoz6taf.com
   - 9r0v0go0el.com
+  - 9rkh7nbaj.com
   - 9soefyenw.com
   - 9swovqnp52.com
   - 9txnu9rlmd.com
@@ -1814,6 +1818,7 @@ domain_suffix_set:
   - d6gsujd8v.com
   - d6hvvn5jvc.com
   - d7fl3a3vwh.com
+  - d7rn5gu7i2.com
   - d7w6tvhhww.com
   - d7ynwsj5l.com
   - d7ytrv7yxa.com
@@ -2205,6 +2210,7 @@ domain_suffix_set:
   - exhibits86.com
   - existences2.top
   - expediency36.com
+  - exponent69.com
   - extremely58.top
   - exvl.cn
   - exwz.cn
@@ -2333,6 +2339,7 @@ domain_suffix_set:
   - fjpopxgyfrlxvc.com
   - fjzimaoqu.cn
   - fk3nf1xeh.top
+  - fk8k4t55e.com
   - fkesfg.com
   - fkfovt.icu
   - fkhagviev.com
@@ -2761,6 +2768,7 @@ domain_suffix_set:
   - h27aq0mc6.com
   - h4htfgrei0.com
   - h57vpulpu.com
+  - h5o61akbx.com
   - h5vem1jjft.com
   - h6295.com
   - h6fh0e4hg.com
@@ -3172,6 +3180,7 @@ domain_suffix_set:
   - jazppd.icu
   - jb.dianshu119.com
   - jb.ecar168.cn
+  - jba33y5xx.com
   - jbbydz.icu
   - jbdch1.appmobile.cn
   - jbiwvt6x1e.com
@@ -5682,6 +5691,7 @@ domain_suffix_set:
   - vwe5pjt0jq.com
   - vwiy.cn
   - vwowvu9ha.com
+  - vwpgnvwgywbrfo.com
   - vwtbrzymoz.com
   - vwuudahnarh.com
   - vwvaddoet.com
@@ -6235,6 +6245,7 @@ domain_suffix_set:
   - yptqys.tianqistatic.com
   - ypyr.cn
   - yqg.jobui.com
+  - yqgtuqf.icu
   - yqhorcill.com
   - yqrsdfh.top
   - yqsu.cn
