@@ -1,7 +1,8 @@
 # 规则名称: ChinaDomain
-# 规则统计: 861
+# 规则统计: 865
 
 DOMAIN,acg.tv
+DOMAIN,app.viayoo.com
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,b23.tv
@@ -19,9 +20,12 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN,ocsp.globalsign.com
 DOMAIN,ocsp2.globalsign.com
+DOMAIN,res.viayoo.com
 DOMAIN,url.cn
+DOMAIN,viayoo.com
 DOMAIN,www.intel.cn
 DOMAIN,www.layuicdn.com
+DOMAIN,www.viayoo.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,110.com

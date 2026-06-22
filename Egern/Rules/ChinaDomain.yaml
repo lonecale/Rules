@@ -1,8 +1,9 @@
 # 规则名称: ChinaDomain
-# 规则统计: 858
+# 规则统计: 862
 
 domain_set:
   - acg.tv
+  - app.viayoo.com
   - assets1.xboxlive.cn
   - assets2.xboxlive.cn
   - b23.tv
@@ -20,9 +21,12 @@ domain_set:
   - media.cdn.queniuqe.com
   - ocsp.globalsign.com
   - ocsp2.globalsign.com
+  - res.viayoo.com
   - url.cn
+  - viayoo.com
   - www.intel.cn
   - www.layuicdn.com
+  - www.viayoo.com
 domain_suffix_set:
   - 10010.com
   - 10086.cn

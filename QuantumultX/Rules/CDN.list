@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4590
+# 规则统计: 4591
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -3226,6 +3226,7 @@ HOST,wa.arounddeal.com,CDN
 HOST,wa1.aninoapps.com,CDN
 HOST,wac-cdn.atlassian.com,CDN
 HOST,waitlisted.co,CDN
+HOST,wall-ui-cdn.p.aws.economist.com,CDN
 HOST,walter-r2.trakt.tv,CDN
 HOST,wandi-6402.kxcdn.com,CDN
 HOST,wcpstatic.microsoft.com,CDN

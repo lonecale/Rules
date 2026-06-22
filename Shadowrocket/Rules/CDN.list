@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4590
+# 规则统计: 4591
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3226,6 +3226,7 @@ DOMAIN,wa.arounddeal.com
 DOMAIN,wa1.aninoapps.com
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,waitlisted.co
+DOMAIN,wall-ui-cdn.p.aws.economist.com
 DOMAIN,walter-r2.trakt.tv
 DOMAIN,wandi-6402.kxcdn.com
 DOMAIN,wcpstatic.microsoft.com

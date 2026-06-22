@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4590
+# 规则统计: 4591
 
 domain_set:
   - 0x0.st
@@ -3227,6 +3227,7 @@ domain_set:
   - wa1.aninoapps.com
   - wac-cdn.atlassian.com
   - waitlisted.co
+  - wall-ui-cdn.p.aws.economist.com
   - walter-r2.trakt.tv
   - wandi-6402.kxcdn.com
   - wcpstatic.microsoft.com

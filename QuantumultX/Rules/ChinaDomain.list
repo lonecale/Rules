@@ -1,7 +1,8 @@
 # 规则名称: ChinaDomain
-# 规则统计: 861
+# 规则统计: 865
 
 HOST,acg.tv,ChinaDomain
+HOST,app.viayoo.com,ChinaDomain
 HOST,assets1.xboxlive.cn,ChinaDomain
 HOST,assets2.xboxlive.cn,ChinaDomain
 HOST,b23.tv,ChinaDomain
@@ -19,9 +20,12 @@ HOST,lv.queniujq.cn,ChinaDomain
 HOST,media.cdn.queniuqe.com,ChinaDomain
 HOST,ocsp.globalsign.com,ChinaDomain
 HOST,ocsp2.globalsign.com,ChinaDomain
+HOST,res.viayoo.com,ChinaDomain
 HOST,url.cn,ChinaDomain
+HOST,viayoo.com,ChinaDomain
 HOST,www.intel.cn,ChinaDomain
 HOST,www.layuicdn.com,ChinaDomain
+HOST,www.viayoo.com,ChinaDomain
 HOST-SUFFIX,10010.com,ChinaDomain
 HOST-SUFFIX,10086.cn,ChinaDomain
 HOST-SUFFIX,110.com,ChinaDomain
