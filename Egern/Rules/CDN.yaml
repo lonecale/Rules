@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4599
+# 规则统计: 4600
 
 domain_set:
   - 0x0.st
@@ -1135,6 +1135,7 @@ domain_set:
   - cms.blavity.com
   - cms.mistral.ai
   - cms.myfonts.com
+  - cms.railway.com
   - cms.recordedfuture.com
   - cms.socialinsider.io
   - cms.therecord.media
@@ -1333,7 +1334,6 @@ domain_set:
   - eslint-react.xyz
   - eslint.org
   - eslint.style
-  - eu-assets.i.posthog.com
   - eu-images.contentstack.com
   - eu.cdnbye.com
   - eu.hamreus.com
@@ -1991,6 +1991,7 @@ domain_set:
   - lolstatic-a.akamaihd.net
   - lucide.dev
   - lumiere-a.akamaihd.net
+  - luminaire.railway.com
   - lzd-img-global.slatic.net
   - m-cdn.phonearena.com
   - m.porn3dx.com
@@ -3165,7 +3166,6 @@ domain_set:
   - uploads.sitepoint.com
   - upos-sz-mirroralibstar1.bilivideo.com
   - upos-sz-mirrorcosbstar1.bilivideo.com
-  - us-assets.i.posthog.com
   - us-js.zonka.co
   - us.123rf.com
   - us.hamreus.com
@@ -3813,6 +3813,7 @@ domain_suffix_set:
   - hydaelyn-25x-18.top
   - i-dont-care-about-cookies.eu
   - i.optimole.com
+  - i.posthog.com
   - ibytedtos.com
   - ibyteimg.com
   - icfcdn.com

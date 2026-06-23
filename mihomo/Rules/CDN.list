@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4599
+# 规则统计: 4600
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1134,6 +1134,7 @@ DOMAIN,cms-cdn.now.gg
 DOMAIN,cms.blavity.com
 DOMAIN,cms.mistral.ai
 DOMAIN,cms.myfonts.com
+DOMAIN,cms.railway.com
 DOMAIN,cms.recordedfuture.com
 DOMAIN,cms.socialinsider.io
 DOMAIN,cms.therecord.media
@@ -1332,7 +1333,6 @@ DOMAIN,es.pinkbike.org
 DOMAIN,eslint-react.xyz
 DOMAIN,eslint.org
 DOMAIN,eslint.style
-DOMAIN,eu-assets.i.posthog.com
 DOMAIN,eu-images.contentstack.com
 DOMAIN,eu.cdnbye.com
 DOMAIN,eu.hamreus.com
@@ -1990,6 +1990,7 @@ DOMAIN,logs.blip.net
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,lucide.dev
 DOMAIN,lumiere-a.akamaihd.net
+DOMAIN,luminaire.railway.com
 DOMAIN,lzd-img-global.slatic.net
 DOMAIN,m-cdn.phonearena.com
 DOMAIN,m.porn3dx.com
@@ -3164,7 +3165,6 @@ DOMAIN,uploads.pullfrog.com
 DOMAIN,uploads.sitepoint.com
 DOMAIN,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com
-DOMAIN,us-assets.i.posthog.com
 DOMAIN,us-js.zonka.co
 DOMAIN,us.123rf.com
 DOMAIN,us.hamreus.com
@@ -3811,6 +3811,7 @@ DOMAIN-SUFFIX,hugoal.com
 DOMAIN-SUFFIX,hydaelyn-25x-18.top
 DOMAIN-SUFFIX,i-dont-care-about-cookies.eu
 DOMAIN-SUFFIX,i.optimole.com
+DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,icfcdn.com

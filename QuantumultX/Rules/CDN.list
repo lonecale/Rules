@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4599
+# 规则统计: 4600
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1134,6 +1134,7 @@ HOST,cms-cdn.now.gg,CDN
 HOST,cms.blavity.com,CDN
 HOST,cms.mistral.ai,CDN
 HOST,cms.myfonts.com,CDN
+HOST,cms.railway.com,CDN
 HOST,cms.recordedfuture.com,CDN
 HOST,cms.socialinsider.io,CDN
 HOST,cms.therecord.media,CDN
@@ -1332,7 +1333,6 @@ HOST,es.pinkbike.org,CDN
 HOST,eslint-react.xyz,CDN
 HOST,eslint.org,CDN
 HOST,eslint.style,CDN
-HOST,eu-assets.i.posthog.com,CDN
 HOST,eu-images.contentstack.com,CDN
 HOST,eu.cdnbye.com,CDN
 HOST,eu.hamreus.com,CDN
@@ -1990,6 +1990,7 @@ HOST,logs.blip.net,CDN
 HOST,lolstatic-a.akamaihd.net,CDN
 HOST,lucide.dev,CDN
 HOST,lumiere-a.akamaihd.net,CDN
+HOST,luminaire.railway.com,CDN
 HOST,lzd-img-global.slatic.net,CDN
 HOST,m-cdn.phonearena.com,CDN
 HOST,m.porn3dx.com,CDN
@@ -3164,7 +3165,6 @@ HOST,uploads.pullfrog.com,CDN
 HOST,uploads.sitepoint.com,CDN
 HOST,upos-sz-mirroralibstar1.bilivideo.com,CDN
 HOST,upos-sz-mirrorcosbstar1.bilivideo.com,CDN
-HOST,us-assets.i.posthog.com,CDN
 HOST,us-js.zonka.co,CDN
 HOST,us.123rf.com,CDN
 HOST,us.hamreus.com,CDN
@@ -3811,6 +3811,7 @@ HOST-SUFFIX,hugoal.com,CDN
 HOST-SUFFIX,hydaelyn-25x-18.top,CDN
 HOST-SUFFIX,i-dont-care-about-cookies.eu,CDN
 HOST-SUFFIX,i.optimole.com,CDN
+HOST-SUFFIX,i.posthog.com,CDN
 HOST-SUFFIX,ibytedtos.com,CDN
 HOST-SUFFIX,ibyteimg.com,CDN
 HOST-SUFFIX,icfcdn.com,CDN
