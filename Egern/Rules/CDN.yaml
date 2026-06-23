@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4591
+# 规则统计: 4599
 
 domain_set:
   - 0x0.st
@@ -248,6 +248,7 @@ domain_set:
   - assets.orz.uno
   - assets.peatio.com
   - assets.pingie.com
+  - assets.pingone.com
   - assets.pixlee.com
   - assets.play.xbox.com
   - assets.plurk.com
@@ -983,6 +984,7 @@ domain_set:
   - cdn1.dan.com
   - cdn1.edgedatg.com
   - cdn1.epicgames.com
+  - cdn1.espn.net
   - cdn1.ettoday.net
   - cdn1.hentaicity.com
   - cdn1.hotmoza.tv
@@ -1249,6 +1251,7 @@ domain_set:
   - devicons.railway.com
   - devnull.perfops.net
   - dh-site.b-cdn.net
+  - digitalhub.fifa.com
   - dims.apnews.com
   - disco-static.productessentials.app
   - disco.headliner.link
@@ -1782,6 +1785,7 @@ domain_set:
   - img.javynow.com
   - img.jsdelivr.com
   - img.kbhgames.com
+  - img.kemono.cr
   - img.logokit.com
   - img.ltyears.com
   - img.lvv2.com
@@ -2993,6 +2997,7 @@ domain_set:
   - store-images.microsoft.com
   - store-images.s-microsoft.com
   - stories.freepiklabs.com
+  - stories.usestoryteller.com
   - storybooks.fluentui.dev
   - stream.mux.com
   - streaming.split.io
@@ -3141,6 +3146,7 @@ domain_set:
   - ui.trailhead.com
   - uim.9uu22.com
   - unavatar.io
+  - unleash.codeium.com
   - unlimited-cdn.waifu2x.net
   - unsubscribe-imgs.leavemealone.com
   - uos-support-files.svc.ui.com
@@ -3507,6 +3513,7 @@ domain_suffix_set:
   - cdn.survey.medallia.com
   - cdn.turner.com
   - cdn.ubi.com
+  - cdn.usestoryteller.com
   - cdn.workos.com
   - cdn1122.com
   - cdn2.hubspot.net
@@ -3577,6 +3584,7 @@ domain_suffix_set:
   - csp.withgoogle.com
   - ctfassets.net
   - cthd.icu
+  - cursor-cdn.com
   - customerioforms.com
   - customeriomail.com
   - cwwcdn.com

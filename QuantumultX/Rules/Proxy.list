@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1563
+# 规则统计: 1564
 
 HOST,api.avax.network,Proxy
 HOST,api.revenuecat.com,Proxy
@@ -339,6 +339,7 @@ HOST-SUFFIX,costco.com,Proxy
 HOST-SUFFIX,coursehero.com,Proxy
 HOST-SUFFIX,coveralls.io,Proxy
 HOST-SUFFIX,cpuid.com,Proxy
+HOST-SUFFIX,cr,Proxy
 HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,creaders.net,Proxy
 HOST-SUFFIX,creativecommons.org,Proxy

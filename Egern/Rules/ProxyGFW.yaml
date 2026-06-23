@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7597
+# 规则统计: 7598
 
 no_resolve: true
 domain_set:
@@ -1356,6 +1356,7 @@ domain_suffix_set:
   - cpu-monkey.com
   - cpuid.com
   - cq99.us
+  - cr
   - crackle.com
   - crashlytics.com
   - crazypool.org
