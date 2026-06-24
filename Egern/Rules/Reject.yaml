@@ -1,5 +1,5 @@
 # 规则名称: Reject
-# 规则统计: 6209
+# 规则统计: 6208
 
 no_resolve: true
 domain_set:
@@ -2501,7 +2501,6 @@ domain_suffix_set:
   - googleadsserving.cn
   - googlehm.cc
   - googlesyndication.com
-  - googletagmanager.com
   - googletagservices.com
   - goose64.top
   - gotadd.cn

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4600
+# 规则统计: 4606
 
 domain_set:
   - 0x0.st
@@ -674,6 +674,7 @@ domain_set:
   - cdn.freecodecamp.org
   - cdn.freesound.org
   - cdn.freshdesk.com
+  - cdn.fundraiseup.com
   - cdn.gamemonkey.org
   - cdn.gatherings.franchise.minecraft-services.net
   - cdn.gdl.gg
@@ -1260,6 +1261,7 @@ domain_set:
   - divhunt.b-cdn.net
   - dl.airdroid.com
   - dlassets-ssl.xboxlive.com
+  - dlstats.izzyondroid.org
   - do.featurebase.app
   - docs.brew.sh
   - docs.mrchromebox.tech
@@ -1303,6 +1305,7 @@ domain_set:
   - embed-v2.testimonial.to
   - embed.culturalspot.org
   - embed.getwally.net
+  - embed.lantern.io
   - embed.reddit.com
   - embed.runkit.com
   - embed.savvycal.com
@@ -1439,6 +1442,7 @@ domain_set:
   - frames-commandbar-prod.commandbar.com
   - freeshippingbar.herokuapp.com
   - front-resource.fs.com
+  - frontend-apps-multi-region.workos.com
   - frontend-apps.workos.com
   - frontend-assets.supabase.com
   - frontend-cdn.perplexity.ai
@@ -2769,6 +2773,7 @@ domain_set:
   - static.frame.work
   - static.freedownloadmanager.org
   - static.freeimages.com
+  - static.fundraiseup.com
   - static.garmin.com
   - static.generated.photos
   - static.getbutton.io
@@ -4476,6 +4481,7 @@ domain_suffix_set:
   - wolongcdnm3u8.com
   - wolongzywcdn3.com
   - workers.dev
+  - workoscdn.com
   - wowmodels.com
   - wp.com
   - wpcomstaging.com
