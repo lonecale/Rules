@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 6568
+# 规则统计: 6574
 
 DOMAIN-SUFFIX,002777.xyz
 DOMAIN-SUFFIX,003store.com
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,0xzxwnkqdu.com
 DOMAIN-SUFFIX,0yjeii25x4.com
 DOMAIN-SUFFIX,0yu3bxtqv.com
 DOMAIN-SUFFIX,0z3zbnbkv.com
+DOMAIN-SUFFIX,0zo9nqijr.com
 DOMAIN-SUFFIX,1.07swz.com
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,1.11130.com.cn
@@ -350,6 +351,7 @@ DOMAIN-SUFFIX,3i3w8hl6do.com
 DOMAIN-SUFFIX,3ikcnjvsx.com
 DOMAIN-SUFFIX,3is34bpqs4.com
 DOMAIN-SUFFIX,3j1fiw14n9.com
+DOMAIN-SUFFIX,3j4vjpx7k.com
 DOMAIN-SUFFIX,3k2frl8r79.com
 DOMAIN-SUFFIX,3kfvgobkw.com
 DOMAIN-SUFFIX,3llzzztmz.com
@@ -3417,6 +3419,7 @@ DOMAIN-SUFFIX,kj4gddo30.com
 DOMAIN-SUFFIX,kje9v2ic57.com
 DOMAIN-SUFFIX,kjewt01aa.com
 DOMAIN-SUFFIX,kk3fefl2b3.com
+DOMAIN-SUFFIX,kk51qd5l4.com
 DOMAIN-SUFFIX,kkh3e6ylwt.com
 DOMAIN-SUFFIX,kklq05111p0i.com
 DOMAIN-SUFFIX,kklq05120p0i.com
@@ -5099,6 +5102,7 @@ DOMAIN-SUFFIX,t57u6anx2.com
 DOMAIN-SUFFIX,t6.china-xian.com
 DOMAIN-SUFFIX,t6ec3seyq.com
 DOMAIN-SUFFIX,t78obxl4h1.com
+DOMAIN-SUFFIX,t7fv5mjt8i.com
 DOMAIN-SUFFIX,t7ywa5ai3.com
 DOMAIN-SUFFIX,t8t8jyxsr.com
 DOMAIN-SUFFIX,t9x2gu6it3.com
@@ -5549,6 +5553,7 @@ DOMAIN-SUFFIX,va3yq7si6w.com
 DOMAIN-SUFFIX,valeriesara.com
 DOMAIN-SUFFIX,vaudeville44.top
 DOMAIN-SUFFIX,vauu8z77p.com
+DOMAIN-SUFFIX,vb5gi1zp5.com
 DOMAIN-SUFFIX,vbc08091op.com
 DOMAIN-SUFFIX,vbc08100op.com
 DOMAIN-SUFFIX,vbc08101op.com
@@ -5715,6 +5720,7 @@ DOMAIN-SUFFIX,vvd68pv6lj.com
 DOMAIN-SUFFIX,vvllrb.top
 DOMAIN-SUFFIX,vvqc95xhtx.com
 DOMAIN-SUFFIX,vvv.ieduw.com
+DOMAIN-SUFFIX,vvzjhzccndbhva.com
 DOMAIN-SUFFIX,vwe5pjt0jq.com
 DOMAIN-SUFFIX,vwiy.cn
 DOMAIN-SUFFIX,vwowvu9ha.com
