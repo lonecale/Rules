@@ -450,6 +450,7 @@
 ## D
 - [dailymail](rules/dailymail.txt)
 - [dailymotion](rules/dailymotion.txt)
+- [dandanplay](rules/dandanplay.txt)
 - [dandanzan](rules/dandanzan.txt)
 - [dangdang](rules/dangdang.txt)
 - [dart](rules/dart.txt)

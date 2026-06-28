@@ -2,6 +2,7 @@
 # 规则统计: 141
 
 DOMAIN,004430.xyz
+DOMAIN,0123456789nonexistent.com
 DOMAIN,021912.xyz
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
@@ -9,10 +10,8 @@ DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
 DOMAIN,banananetwork.qzz.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
-DOMAIN,bt.okmp3.ru
 DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
 DOMAIN,bt1.xxxxbt.cc
@@ -32,7 +31,6 @@ DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
-DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
@@ -42,7 +40,6 @@ DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,orgtgju.org
 DOMAIN,p4p.arenabg.com
-DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.spark-rostov.ru
@@ -65,7 +62,6 @@ DOMAIN,tr.btube3.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.7471.top
@@ -77,6 +73,7 @@ DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.bz
 DOMAIN,tracker.cbase.cc
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
@@ -87,10 +84,12 @@ DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
+DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.ilibr.org
+DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lintk.me
@@ -132,7 +131,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
-DOMAIN,whybother.torrentonline.cc
+DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
@@ -140,5 +139,6 @@ DOMAIN,zer0day.ch
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
+IP-CIDR,93.158.213.92/32,no-resolve
 IP-CIDR6,2a03:7220:8083:cd00::1/128,no-resolve
 IP-CIDR6,2a04:ac00:1:3dd8::1:2710/128,no-resolve
