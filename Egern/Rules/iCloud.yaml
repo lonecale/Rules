@@ -1,5 +1,5 @@
 # 规则名称: iCloud
-# 规则统计: 60
+# 规则统计: 61
 
 domain_suffix_set:
   - apple-cloudkit.com
@@ -12,6 +12,7 @@ domain_suffix_set:
   - gc.apple.com
   - icloud-apple.cn
   - icloud-content.com
+  - icloud-content.com.cn
   - icloud-isupport.com
   - icloud-sandbox.com
   - icloud.apple.com
