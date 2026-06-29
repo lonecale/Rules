@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1562
+# 规则统计: 1564
 
 no_resolve: true
 domain_set:
@@ -308,6 +308,7 @@ domain_suffix_set:
   - cloudflarewarp.com
   - cloudfront.net
   - cloudfunctions.net
+  - cloudns.net
   - clubhouse.com
   - clubhouseapi.com
   - clyp.it
@@ -374,6 +375,7 @@ domain_suffix_set:
   - deezer.com
   - deno.com
   - depositphotos.com
+  - desec.io
   - desmos.com
   - detnews.com
   - deviantart.com

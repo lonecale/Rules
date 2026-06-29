@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4607
+# 规则统计: 4609
 
 domain_set:
   - 0x0.st
@@ -1104,6 +1104,7 @@ domain_set:
   - cf.mhgui.com
   - cf.shopee.tw
   - cfvod.kaltura.com
+  - changelog-widget.canny.io
   - chart.googleapis.com
   - chat-assets.front.app
   - chat.digitalgenius.com
@@ -3281,6 +3282,7 @@ domain_set:
   - widget.kapa.ai
   - widget.prod.equally.ai
   - widget.reviews.io
+  - widget.rss.app
   - widget.trustpilot.com
   - widget.usepylon.com
   - widget.user.com

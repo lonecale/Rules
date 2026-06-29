@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 865
+# 规则统计: 867
 
 HOST,acg.tv,ChinaDomain
 HOST,app.viayoo.com,ChinaDomain
@@ -102,6 +102,7 @@ HOST-SUFFIX,9966.org,ChinaDomain
 HOST-SUFFIX,9game.cn,ChinaDomain
 HOST-SUFFIX,9xiu.com,ChinaDomain
 HOST-SUFFIX,abchina.com,ChinaDomain
+HOST-SUFFIX,ac.cn,ChinaDomain
 HOST-SUFFIX,acfun.cn,ChinaDomain
 HOST-SUFFIX,acgvideo.com,ChinaDomain
 HOST-SUFFIX,addlink.cn,ChinaDomain
@@ -513,6 +514,7 @@ HOST-SUFFIX,livechina.cn,ChinaDomain
 HOST-SUFFIX,livechina.com,ChinaDomain
 HOST-SUFFIX,ljcdn.com,ChinaDomain
 HOST-SUFFIX,lkcoffee.com,ChinaDomain
+HOST-SUFFIX,lltskb.com,ChinaDomain
 HOST-SUFFIX,lofter.com,ChinaDomain
 HOST-SUFFIX,luckincoffeecdn.com,ChinaDomain
 HOST-SUFFIX,ludashi.com,ChinaDomain

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1562
+# 规则统计: 1564
 
 DOMAIN,api.avax.network
 DOMAIN,api.revenuecat.com
@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,cloudflaretunnel.com
 DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clyp.it
@@ -371,6 +372,7 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,depositphotos.com
+DOMAIN-SUFFIX,desec.io
 DOMAIN-SUFFIX,desmos.com
 DOMAIN-SUFFIX,detnews.com
 DOMAIN-SUFFIX,deviantart.com

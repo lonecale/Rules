@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7599
+# 规则统计: 7601
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -1250,6 +1250,7 @@ HOST-SUFFIX,cloudflarestorage.com,ProxyGFW
 HOST-SUFFIX,cloudflaretunnel.com,ProxyGFW
 HOST-SUFFIX,cloudfront.net,ProxyGFW
 HOST-SUFFIX,cloudfunctions.net,ProxyGFW
+HOST-SUFFIX,cloudns.net,ProxyGFW
 HOST-SUFFIX,club1069.com,ProxyGFW
 HOST-SUFFIX,clubhouse.com,ProxyGFW
 HOST-SUFFIX,clubhouseapi.com,ProxyGFW
@@ -1533,6 +1534,7 @@ HOST-SUFFIX,deno.dev,ProxyGFW
 HOST-SUFFIX,depositphotos.com,ProxyGFW
 HOST-SUFFIX,derekhsu.homeip.net,ProxyGFW
 HOST-SUFFIX,desc.se,ProxyGFW
+HOST-SUFFIX,desec.io,ProxyGFW
 HOST-SUFFIX,design.google,ProxyGFW
 HOST-SUFFIX,desipro.de,ProxyGFW
 HOST-SUFFIX,desmos.com,ProxyGFW

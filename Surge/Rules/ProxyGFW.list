@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7599
+# 规则统计: 7601
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,cloud.oracle.com
@@ -1250,6 +1250,7 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflaretunnel.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
@@ -1533,6 +1534,7 @@ DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,derekhsu.homeip.net
 DOMAIN-SUFFIX,desc.se
+DOMAIN-SUFFIX,desec.io
 DOMAIN-SUFFIX,design.google
 DOMAIN-SUFFIX,desipro.de
 DOMAIN-SUFFIX,desmos.com

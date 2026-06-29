@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7598
+# 规则统计: 7600
 
 no_resolve: true
 domain_set:
@@ -1253,6 +1253,7 @@ domain_suffix_set:
   - cloudflaretunnel.com
   - cloudfront.net
   - cloudfunctions.net
+  - cloudns.net
   - club1069.com
   - clubhouse.com
   - clubhouseapi.com
@@ -1536,6 +1537,7 @@ domain_suffix_set:
   - depositphotos.com
   - derekhsu.homeip.net
   - desc.se
+  - desec.io
   - design.google
   - desipro.de
   - desmos.com

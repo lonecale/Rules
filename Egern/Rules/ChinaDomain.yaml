@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 862
+# 规则统计: 864
 
 domain_set:
   - acg.tv
@@ -104,6 +104,7 @@ domain_suffix_set:
   - 9game.cn
   - 9xiu.com
   - abchina.com
+  - ac.cn
   - acfun.cn
   - acgvideo.com
   - addlink.cn
@@ -515,6 +516,7 @@ domain_suffix_set:
   - livechina.com
   - ljcdn.com
   - lkcoffee.com
+  - lltskb.com
   - lofter.com
   - luckincoffeecdn.com
   - ludashi.com
