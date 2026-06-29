@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 6342
+# 规则统计: 6346
 
 HOST-SUFFIX,002777.xyz,AdGuardChinese
 HOST-SUFFIX,003store.com,AdGuardChinese
@@ -1242,6 +1242,7 @@ HOST-SUFFIX,bauddoih.com,AdGuardChinese
 HOST-SUFFIX,bbcz4tta.top,AdGuardChinese
 HOST-SUFFIX,bbepv.com,AdGuardChinese
 HOST-SUFFIX,bborxjkan.com,AdGuardChinese
+HOST-SUFFIX,bbqy4ihvz9.com,AdGuardChinese
 HOST-SUFFIX,bbrav96ax.com,AdGuardChinese
 HOST-SUFFIX,bchina-1.xsfaya.com,AdGuardChinese
 HOST-SUFFIX,bcjhlhuhq.icu,AdGuardChinese
@@ -3570,6 +3571,7 @@ HOST-SUFFIX,m17d1e83q.com,AdGuardChinese
 HOST-SUFFIX,m1jm3nzf2.com,AdGuardChinese
 HOST-SUFFIX,m1vvvv1k2.com,AdGuardChinese
 HOST-SUFFIX,m2.lelemh.com,AdGuardChinese
+HOST-SUFFIX,m2wrsmrsbj.com,AdGuardChinese
 HOST-SUFFIX,m3cqjc3og6.com,AdGuardChinese
 HOST-SUFFIX,m3ks1o8jz.com,AdGuardChinese
 HOST-SUFFIX,m3v8x28jut.com,AdGuardChinese
@@ -3731,6 +3733,7 @@ HOST-SUFFIX,mq54k4yxpt.com,AdGuardChinese
 HOST-SUFFIX,mqaae0c7m1.com,AdGuardChinese
 HOST-SUFFIX,mqndhoceat.com,AdGuardChinese
 HOST-SUFFIX,mqondrun.com,AdGuardChinese
+HOST-SUFFIX,mqrqtvzwdl.com,AdGuardChinese
 HOST-SUFFIX,mqunqwsyrw.com,AdGuardChinese
 HOST-SUFFIX,mr6c4eqmh.com,AdGuardChinese
 HOST-SUFFIX,mrj6nrqwz.com,AdGuardChinese
@@ -4789,6 +4792,7 @@ HOST-SUFFIX,smjfbjsfvrf.com,AdGuardChinese
 HOST-SUFFIX,smkqwa.icu,AdGuardChinese
 HOST-SUFFIX,smooth33.com,AdGuardChinese
 HOST-SUFFIX,smuc.cnnfootballclub.com,AdGuardChinese
+HOST-SUFFIX,sn0z9i4bax.com,AdGuardChinese
 HOST-SUFFIX,sneakersq5.com,AdGuardChinese
 HOST-SUFFIX,snickers44.com,AdGuardChinese
 HOST-SUFFIX,snlyplsoli.com,AdGuardChinese
