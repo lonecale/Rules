@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4609
+# 规则统计: 4610
 
 domain_set:
   - 0x0.st
@@ -2498,6 +2498,7 @@ domain_set:
   - safebrowsing.googleapis.com
   - sandpack-cdn-staging.blazingly.io
   - sandpack-cdn-v2.codesandbox.io
+  - sat.windy.com
   - sbl.onfastspring.com
   - scache.vzw.com
   - scache1.vzw.com
