@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 115107
+# 规则统计: 115109
 
 no_resolve: true
 domain_set:
@@ -775,6 +775,7 @@ domain_set:
   - nmobi.kuwo.cn
   - notice.iqiyi.com
   - ntp.api.bz
+  - numbers.mailbox.org
   - o.send.now
   - o2oad.elemecdn.com
   - oct.pocoiq.cn
@@ -30723,6 +30724,7 @@ domain_suffix_set:
   - enzf.cn
   - enzoneunultraperai.cyou
   - eo.pearlinsurance.com
+  - eo2eaqg5no.com
   - eoapxl.com
   - eobiontrepinquarto.qpon
   - eocfk.thehappyplanner.com
