@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 123
+# 规则统计: 125
 
 no_resolve: true
 domain_set:
@@ -36,26 +36,25 @@ domain_set:
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
+  - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - shahidrazi.online
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
-  - tr.zukizuki.org
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
-  - tracker.23794.top
   - tracker.7471.top
   - tracker.anibt.net
   - tracker.aruku.ovh
@@ -64,6 +63,7 @@ domain_set:
   - tracker.bluefrog.pw
   - tracker.breizh.pm
   - tracker.bt4g.com
+  - tracker.bug38.com
   - tracker.corpscorp.online
   - tracker.cubonegro.org
   - tracker.ddunlimited.net
@@ -73,7 +73,6 @@ domain_set:
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.hismz.cn
@@ -92,6 +91,7 @@ domain_set:
   - tracker.peerfect.org
   - tracker.playground.ru
   - tracker.plx.im
+  - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.publictracker.xyz
   - tracker.qingwapt.org
@@ -119,7 +119,9 @@ domain_set:
   - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
-  - zer0day.ch
+  - yuptracker-sa.gaijinent.com
+  - yuptracker-us.gaijinent.com
+  - yuptracker.gaijinent.com
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32

@@ -1,4 +1,5 @@
 full:openaiapi-site.azureedge.net
+full:openaiassets.blob.core.windows.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
@@ -16,5 +17,6 @@ host.livekit.cloud
 turn.livekit.cloud
 openai.com.cdn.cloudflare.net
 regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
-full:o33249.ingest.sentry.io
 full:browser-intake-datadoghq.com
+full:o33249.ingest.sentry.io
+full:openai.qualtrics.com

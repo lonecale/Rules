@@ -1,3 +1,4 @@
+full:csis-prod.s3.amazonaws.com
 full:a.ppy.sh
 full:assets.ppy.sh
 full:c.ppy.sh
@@ -7,7 +8,6 @@ full:lazer.ppy.sh
 full:notify.ppy.sh
 full:sentry.ppy.sh
 full:spectator.ppy.sh
-full:csis-prod.s3.amazonaws.com
 aomedia.org
 atypi.org
 change.org
@@ -23,6 +23,8 @@ w3.org
 who.int
 wi-fi.org
 wto.org
+nist.gov
+time.gov
 openmaps.org
 openstreetmap.com
 openstreetmap.net
@@ -32,9 +34,7 @@ osm.org
 osmfoundation.org
 stateofthemap.com
 stateofthemap.org
-ppy.sh
-rolfoundation.org
-rolsociety.org
+paskoocheh.com
 ccstatic.org
 creativecommons.org
 creativecommons.engineering
@@ -126,6 +126,6 @@ grapheneos.page
 grapheneos.social
 seamlessupdate.app
 vanadium.app
-nist.gov
-time.gov
-paskoocheh.com
+ppy.sh
+rolfoundation.org
+rolsociety.org
