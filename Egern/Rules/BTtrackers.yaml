@@ -1,10 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 130
+# 规则统计: 146
 
 no_resolve: true
 domain_set:
   - 004430.xyz
+  - 0123456789nonexistent.com
   - 021912.xyz
+  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
@@ -15,7 +17,10 @@ domain_set:
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.poletracker.org
   - bt1.archive.org
+  - bt1.xxxxbt.cc
   - bt2.archive.org
+  - buny.uk
+  - coeus.torrentonline.cc
   - concen.org
   - evan.im
   - exodus.desync.com
@@ -23,6 +28,7 @@ domain_set:
   - home.yxgz.club
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
+  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -38,29 +44,30 @@ domain_set:
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
+  - php-bobcat.wasmer.app
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
+  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - seeders-paradise.org
   - shahidrazi.online
   - shubt.net
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
+  - tr.zukizuki.org
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
+  - tracker.23794.top
   - tracker.7471.top
   - tracker.anibt.net
   - tracker.aruku.ovh
@@ -68,7 +75,9 @@ domain_set:
   - tracker.bittor.pw
   - tracker.bluefrog.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
+  - tracker.bz
   - tracker.corpscorp.online
   - tracker.cubonegro.org
   - tracker.ddunlimited.net
@@ -78,12 +87,16 @@ domain_set:
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
+  - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.hismz.cn
   - tracker.ilibr.org
+  - tracker.ipv6tracker.org
+  - tracker.isbigdick.cc.cd
   - tracker.kuroy.me
   - tracker.leechshield.link
+  - tracker.lintk.me
   - tracker.manager.itislove.cz
   - tracker.manager.v6.navy
   - tracker.moxing.party
@@ -113,6 +126,7 @@ domain_set:
   - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wildkat.net
+  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
@@ -125,6 +139,8 @@ domain_set:
   - tracker4.itzmx.com
   - tracker810.xyz
   - whybother.torrentonline.cc
+  - www.genesis-sp.org
+  - www.torrentsnipe.info
   - www.wareztorrent.com
   - zer0day.ch
 ip_cidr_set:
