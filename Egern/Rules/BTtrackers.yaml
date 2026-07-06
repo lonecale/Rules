@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 146
+# 规则统计: 139
 
 no_resolve: true
 domain_set:
@@ -20,12 +20,10 @@ domain_set:
   - bt1.xxxxbt.cc
   - bt2.archive.org
   - buny.uk
-  - coeus.torrentonline.cc
   - concen.org
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - home.yxgz.club
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - jvavav.com
@@ -40,20 +38,22 @@ domain_set:
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
   - php-bobcat.wasmer.app
+  - play.aimisayo.com
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - shahidrazi.online
+  - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
   - t.overflow.biz
+  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
@@ -67,7 +67,6 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
-  - tracker.23794.top
   - tracker.7471.top
   - tracker.anibt.net
   - tracker.aruku.ovh
@@ -77,7 +76,6 @@ domain_set:
   - tracker.breizh.pm
   - tracker.bt-hash.com
   - tracker.bt4g.com
-  - tracker.bz
   - tracker.corpscorp.online
   - tracker.cubonegro.org
   - tracker.ddunlimited.net
@@ -86,22 +84,19 @@ domain_set:
   - tracker.dler.org
   - tracker.ducks.party
   - tracker.filemail.com
-  - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.hismz.cn
   - tracker.ilibr.org
-  - tracker.ipv6tracker.org
   - tracker.isbigdick.cc.cd
   - tracker.kuroy.me
   - tracker.leechshield.link
-  - tracker.lintk.me
   - tracker.manager.itislove.cz
   - tracker.manager.v6.navy
   - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
+  - tracker.nexusstream.eu
   - tracker.nyaa.vc
   - tracker.opentorrent.top
   - tracker.opentrackr.com
@@ -109,19 +104,18 @@ domain_set:
   - tracker.openwebtorrent.com
   - tracker.peerfect.org
   - tracker.playground.ru
+  - tracker.plx.im
   - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.publictracker.xyz
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
-  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.trackarr.org
-  - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.vanitycore.co
   - tracker.waaa.moe
@@ -138,9 +132,8 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
+  - v6.vito-tracker.space
   - whybother.torrentonline.cc
-  - www.genesis-sp.org
-  - www.torrentsnipe.info
   - www.wareztorrent.com
   - zer0day.ch
 ip_cidr_set:
