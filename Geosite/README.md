@@ -1136,6 +1136,7 @@
 - [paskoocheh](rules/paskoocheh.txt)
 - [pastebin](rules/pastebin.txt)
 - [patreon](rules/patreon.txt)
+- [pawchive](rules/pawchive.txt)
 - [paypal](rules/paypal.txt)
 - [pbs](rules/pbs.txt)
 - [pccw](rules/pccw.txt)
