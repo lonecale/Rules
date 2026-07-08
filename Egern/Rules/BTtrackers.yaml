@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 147
+# 规则统计: 143
 
 no_resolve: true
 domain_set:
@@ -8,15 +8,14 @@ domain_set:
   - 021912.xyz
   - 0d.kebhana.mx
   - 1337.abcvg.info
-  - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
   - archive.torrentonline.cc
+  - asiatorrent.giize.com
   - banananetwork.qzz.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt1.archive.org
-  - bt1.xxxxbt.cc
   - bt2.archive.org
   - buny.uk
   - coeus.torrentonline.cc
@@ -45,24 +44,20 @@ domain_set:
   - orgtgju.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
-  - rekcart.duckdns.org
   - retracker.hotplug.ru
-  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - seeders-paradise.org
-  - shahidrazi.online
   - share.hkg-fansub.info
   - shubt.net
   - t.213891.xyz
   - t.overflow.biz
   - torrent.hificode.in
-  - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.btube3.com
-  - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -84,15 +79,12 @@ domain_set:
   - tracker.dler.com
   - tracker.dler.org
   - tracker.dmcomic.org
-  - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
-  - tracker.hismz.cn
   - tracker.ilibr.org
-  - tracker.ipv6tracker.org
   - tracker.isbigdick.cc.cd
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -142,9 +134,13 @@ domain_set:
   - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
+  - www.genesis-sp.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - zer0day.ch
 ip_cidr_set:
+  - 107.189.2.131/32
+  - 132.243.161.144/32
   - 207.241.226.111/32
   - 207.241.231.226/32
   - 52.58.128.163/32

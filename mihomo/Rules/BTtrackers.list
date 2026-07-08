@@ -1,20 +1,19 @@
 # 规则名称: BTtrackers
-# 规则统计: 147
+# 规则统计: 143
 
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
 DOMAIN,021912.xyz
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
-DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
 DOMAIN,archive.torrentonline.cc
+DOMAIN,asiatorrent.giize.com
 DOMAIN,banananetwork.qzz.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
-DOMAIN,bt1.xxxxbt.cc
 DOMAIN,bt2.archive.org
 DOMAIN,buny.uk
 DOMAIN,coeus.torrentonline.cc
@@ -43,24 +42,20 @@ DOMAIN,opentor.org
 DOMAIN,orgtgju.org
 DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
-DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
-DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
-DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.btube3.com
-DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -82,15 +77,12 @@ DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
-DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.ilibr.org
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.isbigdick.cc.cd
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
@@ -140,8 +132,12 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,v6.vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
+DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
+DOMAIN,zer0day.ch
+IP-CIDR,107.189.2.131/32,no-resolve
+IP-CIDR,132.243.161.144/32,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
