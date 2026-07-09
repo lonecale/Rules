@@ -1710,14 +1710,6 @@ api-adservices.apple.com
 iadsdk.apple.com
 iad.apple.com
 qwapi.com
-full:certs-lb.apple.com.akadns.net
-full:certs.apple.com
-full:crl-lb.apple.com.akadns.net
-full:crl.apple.com
-full:ocsp.apple.com
-full:ocsp2.apple.com
-full:valid.apple.com
-full:valid.origin-apple.com.akadns.net
 beats1.cn
 beats1.com.cn
 beats2.com.cn
@@ -1785,3 +1777,11 @@ researchkit.cn
 researchkit.com.cn
 swiftui.cn
 swiftui.com.cn
+full:certs-lb.apple.com.akadns.net
+full:certs.apple.com
+full:crl-lb.apple.com.akadns.net
+full:crl.apple.com
+full:ocsp.apple.com
+full:ocsp2.apple.com
+full:valid.apple.com
+full:valid.origin-apple.com.akadns.net

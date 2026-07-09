@@ -1,29 +1,23 @@
 # 规则名称: BTtrackers
-# 规则统计: 143
+# 规则统计: 122
 
 HOST,004430.xyz,BTtrackers
-HOST,0123456789nonexistent.com,BTtrackers
 HOST,021912.xyz,BTtrackers
-HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,anime-tracker.aruku.kro.kr,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
 HOST,archive.torrentonline.cc,BTtrackers
-HOST,asiatorrent.giize.com,BTtrackers
 HOST,banananetwork.qzz.io,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt1.archive.org,BTtrackers
 HOST,bt2.archive.org,BTtrackers
-HOST,buny.uk,BTtrackers
 HOST,coeus.torrentonline.cc,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
-HOST,home.yxgz.club,BTtrackers
 HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
-HOST,jvavav.com,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -37,19 +31,15 @@ HOST,open.ftorrent.com,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.cl,BTtrackers
 HOST,open.tracker.ink,BTtrackers
-HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,orgtgju.org,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,pybittrack.retiolus.net,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
-HOST,seeders-paradise.org,BTtrackers
-HOST,share.hkg-fansub.info,BTtrackers
-HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
-HOST,torrent.hificode.in,BTtrackers
+HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrents.tmtime.dev,BTtrackers
 HOST,torrentsmd.com,BTtrackers
@@ -68,7 +58,6 @@ HOST,tracker.auctor.tv,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
-HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cubonegro.org,BTtrackers
@@ -76,7 +65,6 @@ HOST,tracker.ddunlimited.net,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
-HOST,tracker.dmcomic.org,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
 HOST,tracker.flatuslifir.is,BTtrackers
 HOST,tracker.fnix.net,BTtrackers
@@ -86,10 +74,8 @@ HOST,tracker.ilibr.org,BTtrackers
 HOST,tracker.isbigdick.cc.cd,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.leechshield.link,BTtrackers
-HOST,tracker.lintk.me,BTtrackers
 HOST,tracker.manager.itislove.cz,BTtrackers
 HOST,tracker.manager.v6.navy,BTtrackers
-HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nexusstream.eu,BTtrackers
@@ -107,18 +93,14 @@ HOST,tracker.publictracker.xyz,BTtrackers
 HOST,tracker.qingwapt.org,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
-HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.trackarr.org,BTtrackers
-HOST,tracker.tritan.gg,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
-HOST,tracker.vanitycore.co,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
-HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
@@ -129,11 +111,8 @@ HOST,tracker2.dler.org,BTtrackers
 HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
-HOST,tracker810.xyz,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
 HOST,whybother.torrentonline.cc,BTtrackers
-HOST,www.genesis-sp.org,BTtrackers
-HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,zer0day.ch,BTtrackers
 IP-CIDR,107.189.2.131/32,BTtrackers
