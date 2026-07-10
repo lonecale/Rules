@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 122
+# 规则统计: 124
 
 no_resolve: true
 domain_set:
   - 004430.xyz
   - 021912.xyz
   - 1337.abcvg.info
+  - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
@@ -15,6 +16,7 @@ domain_set:
   - bt1.archive.org
   - bt2.archive.org
   - coeus.torrentonline.cc
+  - ds32244.seedhost.eu
   - evan.im
   - exodus.desync.com
   - explodie.org
@@ -37,17 +39,18 @@ domain_set:
   - orgtgju.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
+  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
+  - shahidrazi.online
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrents.tmtime.dev
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.btube3.com
+  - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -59,7 +62,6 @@ domain_set:
   - tracker.auctor.tv
   - tracker.bittor.pw
   - tracker.bluefrog.pw
-  - tracker.breizh.pm
   - tracker.bt4g.com
   - tracker.corpscorp.online
   - tracker.cubonegro.org
@@ -67,13 +69,13 @@ domain_set:
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
+  - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
-  - tracker.isbigdick.cc.cd
+  - tracker.internetwarriors.net
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.manager.itislove.cz
@@ -95,6 +97,7 @@ domain_set:
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.therarbg.to
@@ -116,7 +119,6 @@ domain_set:
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
   - www.wareztorrent.com
-  - zer0day.ch
 ip_cidr_set:
   - 107.189.2.131/32
   - 132.243.161.144/32

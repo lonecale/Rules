@@ -1,9 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 122
+# 规则统计: 124
 
 DOMAIN,004430.xyz
 DOMAIN,021912.xyz
 DOMAIN,1337.abcvg.info
+DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
@@ -13,6 +14,7 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,coeus.torrentonline.cc
+DOMAIN,ds32244.seedhost.eu
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -35,17 +37,18 @@ DOMAIN,opentor.org
 DOMAIN,orgtgju.org
 DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
+DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
+DOMAIN,shahidrazi.online
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.btube3.com
+DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -57,7 +60,6 @@ DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cubonegro.org
@@ -65,13 +67,13 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
-DOMAIN,tracker.isbigdick.cc.cd
+DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.manager.itislove.cz
@@ -93,6 +95,7 @@ DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.therarbg.to
@@ -114,7 +117,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,v6.vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
-DOMAIN,zer0day.ch
 IP-CIDR,107.189.2.131/32,no-resolve
 IP-CIDR,132.243.161.144/32,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
