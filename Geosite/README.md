@@ -167,6 +167,7 @@
 - [beget](rules/beget.txt)
 - [beisen](rules/beisen.txt)
 - [bestbuy](rules/bestbuy.txt)
+- [bestchange](rules/bestchange.txt)
 - [bestore](rules/bestore.txt)
 - [bestv](rules/bestv.txt)
 - [betboom](rules/betboom.txt)
