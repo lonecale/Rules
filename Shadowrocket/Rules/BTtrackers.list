@@ -1,8 +1,7 @@
 # 规则名称: BTtrackers
-# 规则统计: 137
+# 规则统计: 140
 
 DOMAIN,004430.xyz
-DOMAIN,0123456789nonexistent.com
 DOMAIN,021912.xyz
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
@@ -14,6 +13,7 @@ DOMAIN,banananetwork.qzz.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
+DOMAIN,bt1.xxxxbt.cc
 DOMAIN,bt2.archive.org
 DOMAIN,buny.uk
 DOMAIN,coeus.torrentonline.cc
@@ -24,11 +24,11 @@ DOMAIN,explodie.org
 DOMAIN,home.yxgz.club
 DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,maxsrv.xyz
+DOMAIN,ns3109441.mypdns.org
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
@@ -43,14 +43,15 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
-DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
+DOMAIN,seedpeer.net
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,supertracker.cc.cd
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
@@ -70,13 +71,14 @@ DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
+DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.cubonegro.org
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
@@ -86,7 +88,7 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
-DOMAIN,tracker.manager.itislove.cz
+DOMAIN,tracker.lintk.me
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
@@ -106,6 +108,7 @@ DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
@@ -115,6 +118,7 @@ DOMAIN,tracker.trackarr.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
+DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
@@ -127,9 +131,8 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,v6.vito-tracker.space
-DOMAIN,www.genesis-sp.org
-DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
+DOMAIN,zer0day.ch
 IP-CIDR,107.189.2.131/32,no-resolve
 IP-CIDR,132.243.161.144/32,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
