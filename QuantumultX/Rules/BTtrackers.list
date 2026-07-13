@@ -1,9 +1,9 @@
 # 规则名称: BTtrackers
-# 规则统计: 140
+# 规则统计: 139
 
 HOST,004430.xyz,BTtrackers
+HOST,0123456789nonexistent.com,BTtrackers
 HOST,021912.xyz,BTtrackers
-HOST,0d.kebhana.mx,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
@@ -16,14 +16,15 @@ HOST,bt1.archive.org,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,bt2.archive.org,BTtrackers
 HOST,buny.uk,BTtrackers
+HOST,cn.pcfreetime.com,BTtrackers
 HOST,coeus.torrentonline.cc,BTtrackers
 HOST,ds32244.seedhost.eu,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
-HOST,home.yxgz.club,BTtrackers
 HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
+HOST,jvavav.com,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -40,24 +41,21 @@ HOST,open.tracker.ink,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,orgtgju.org,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
+HOST,php-bobcat.wasmer.app,BTtrackers
 HOST,pybittrack.retiolus.net,BTtrackers
 HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
+HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
-HOST,seeders-paradise.org,BTtrackers
 HOST,seedpeer.net,BTtrackers
 HOST,shahidrazi.online,BTtrackers
-HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
-HOST,supertracker.cc.cd,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
-HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
-HOST,tr.abir.ga,BTtrackers
 HOST,tr.btube3.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
@@ -66,6 +64,7 @@ HOST,tr.zukizuki.org,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.7471.top,BTtrackers
+HOST,tracker.adgk.net,BTtrackers
 HOST,tracker.anibt.net,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.auctor.tv,BTtrackers
@@ -73,19 +72,20 @@ HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
+HOST,tracker.bz,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.ddunlimited.net,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
-HOST,tracker.dmcomic.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
-HOST,tracker.flatuslifir.is,BTtrackers
+HOST,tracker.fnix.net,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.ilibr.org,BTtrackers
+HOST,tracker.internetwarriors.net,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.leechshield.link,BTtrackers
 HOST,tracker.lintk.me,BTtrackers
@@ -112,13 +112,12 @@ HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
+HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
-HOST,tracker.trackarr.org,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
-HOST,tracker.xiaoduola.xyz,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
@@ -131,10 +130,10 @@ HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,tracker810.xyz,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
+HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,zer0day.ch,BTtrackers
 IP-CIDR,107.189.2.131/32,BTtrackers
-IP-CIDR,132.243.161.144/32,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers

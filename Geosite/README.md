@@ -139,6 +139,7 @@
 - [authy](rules/authy.txt)
 - [autodesk](rules/autodesk.txt)
 - [aux](rules/aux.txt)
+- [auxgroup](rules/auxgroup.txt)
 - [avaxhome](rules/avaxhome.txt)
 - [aviasales](rules/aviasales.txt)
 - [avito](rules/avito.txt)

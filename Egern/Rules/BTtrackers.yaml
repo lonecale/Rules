@@ -1,11 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 140
+# 规则统计: 139
 
 no_resolve: true
 domain_set:
   - 004430.xyz
+  - 0123456789nonexistent.com
   - 021912.xyz
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
@@ -18,14 +18,15 @@ domain_set:
   - bt1.xxxxbt.cc
   - bt2.archive.org
   - buny.uk
+  - cn.pcfreetime.com
   - coeus.torrentonline.cc
   - ds32244.seedhost.eu
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - home.yxgz.club
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
+  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -42,24 +43,21 @@ domain_set:
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
+  - php-bobcat.wasmer.app
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
+  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - seeders-paradise.org
   - seedpeer.net
   - shahidrazi.online
-  - share.hkg-fansub.info
   - shubt.net
-  - supertracker.cc.cd
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
@@ -68,6 +66,7 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.7471.top
+  - tracker.adgk.net
   - tracker.anibt.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
@@ -75,19 +74,20 @@ domain_set:
   - tracker.bluefrog.pw
   - tracker.bt-hash.com
   - tracker.bt4g.com
+  - tracker.bz
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
-  - tracker.flatuslifir.is
+  - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
+  - tracker.internetwarriors.net
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lintk.me
@@ -114,13 +114,12 @@ domain_set:
   - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
+  - tracker.theoks.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
-  - tracker.trackarr.org
   - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
-  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
@@ -133,11 +132,11 @@ domain_set:
   - tracker4.itzmx.com
   - tracker810.xyz
   - v6.vito-tracker.space
+  - www.torrentsnipe.info
   - www.wareztorrent.com
   - zer0day.ch
 ip_cidr_set:
   - 107.189.2.131/32
-  - 132.243.161.144/32
   - 207.241.226.111/32
   - 207.241.231.226/32
   - 52.58.128.163/32
