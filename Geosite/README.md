@@ -863,6 +863,7 @@
 - [kernel](rules/kernel.txt)
 - [keybase](rules/keybase.txt)
 - [khanacademy](rules/khanacademy.txt)
+- [kick](rules/kick.txt)
 - [kindle](rules/kindle.txt)
 - [kindle4rss](rules/kindle4rss.txt)
 - [kingkonglive](rules/kingkonglive.txt)
