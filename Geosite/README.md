@@ -922,6 +922,7 @@
 - [ligastavok](rules/ligastavok.txt)
 - [lighter](rules/lighter.txt)
 - [lihkg](rules/lihkg.txt)
+- [likee](rules/likee.txt)
 - [limelight](rules/limelight.txt)
 - [linakesi](rules/linakesi.txt)
 - [line](rules/line.txt)
