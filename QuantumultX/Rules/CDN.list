@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4635
+# 规则统计: 4640
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2429,6 +2429,9 @@ HOST,rs-cdn.splashtop.com,CDN
 HOST,rsi.grafana.com,CDN
 HOST,rsms.me,CDN
 HOST,rt.rtoaster.jp,CDN
+HOST,rt1.maphub.net,CDN
+HOST,rt2.maphub.net,CDN
+HOST,rt3.maphub.net,CDN
 HOST,rtcg-access.bytevcloud.com,CDN
 HOST,rts-static-prod.freshworksapi.com,CDN
 HOST,rules.ac,CDN
@@ -2847,6 +2850,7 @@ HOST,static.linear.app,CDN
 HOST,static.lingq.com,CDN
 HOST,static.lwn.net,CDN
 HOST,static.macupdate.com,CDN
+HOST,static.maphub.net,CDN
 HOST,static.maxmind.com,CDN
 HOST,static.mediafire.com,CDN
 HOST,static.meiguo.com,CDN
@@ -4412,6 +4416,7 @@ HOST-SUFFIX,tile.thunderforest.com,CDN
 HOST-SUFFIX,tiles-api.maps.komoot.net,CDN
 HOST-SUFFIX,tiles.freemap.sk,CDN
 HOST-SUFFIX,tiles.mapbox.com,CDN
+HOST-SUFFIX,tiles.openstreetmap.us,CDN
 HOST-SUFFIX,tiles.virtualearth.net,CDN
 HOST-SUFFIX,tindiemedia.com,CDN
 HOST-SUFFIX,tinifycdn.com,CDN

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4635
+# 规则统计: 4640
 
 domain_set:
   - 0x0.st
@@ -2430,6 +2430,9 @@ domain_set:
   - rsi.grafana.com
   - rsms.me
   - rt.rtoaster.jp
+  - rt1.maphub.net
+  - rt2.maphub.net
+  - rt3.maphub.net
   - rtcg-access.bytevcloud.com
   - rts-static-prod.freshworksapi.com
   - rules.ac
@@ -2848,6 +2851,7 @@ domain_set:
   - static.lingq.com
   - static.lwn.net
   - static.macupdate.com
+  - static.maphub.net
   - static.maxmind.com
   - static.mediafire.com
   - static.meiguo.com
@@ -4414,6 +4418,7 @@ domain_suffix_set:
   - tiles-api.maps.komoot.net
   - tiles.freemap.sk
   - tiles.mapbox.com
+  - tiles.openstreetmap.us
   - tiles.virtualearth.net
   - tindiemedia.com
   - tinifycdn.com

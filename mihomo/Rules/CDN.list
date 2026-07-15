@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4635
+# 规则统计: 4640
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2429,6 +2429,9 @@ DOMAIN,rs-cdn.splashtop.com
 DOMAIN,rsi.grafana.com
 DOMAIN,rsms.me
 DOMAIN,rt.rtoaster.jp
+DOMAIN,rt1.maphub.net
+DOMAIN,rt2.maphub.net
+DOMAIN,rt3.maphub.net
 DOMAIN,rtcg-access.bytevcloud.com
 DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,rules.ac
@@ -2847,6 +2850,7 @@ DOMAIN,static.linear.app
 DOMAIN,static.lingq.com
 DOMAIN,static.lwn.net
 DOMAIN,static.macupdate.com
+DOMAIN,static.maphub.net
 DOMAIN,static.maxmind.com
 DOMAIN,static.mediafire.com
 DOMAIN,static.meiguo.com
@@ -4412,6 +4416,7 @@ DOMAIN-SUFFIX,tile.thunderforest.com
 DOMAIN-SUFFIX,tiles-api.maps.komoot.net
 DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,tiles.mapbox.com
+DOMAIN-SUFFIX,tiles.openstreetmap.us
 DOMAIN-SUFFIX,tiles.virtualearth.net
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tinifycdn.com
