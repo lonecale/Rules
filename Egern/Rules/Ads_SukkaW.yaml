@@ -3,15 +3,12 @@
 
 no_resolve: true
 domain_set:
-  - 03.lzzncm.com
-  - 04.lzzncm.com
   - 1oavsblobprodcus350.blob.core.windows.net
   - 2016.sina.cn
   - 37bvsblobprodcus311.blob.core.windows.net
   - 80vn.cn
   - 9ibbcq2d.sina.cn
   - a.alimama.cn
-  - a.dounanhuahui.com
   - a.glcdn.co
   - a.hl.mi.com
   - a.imput.net
@@ -27918,6 +27915,7 @@ domain_suffix_set:
   - doubtsuseless.com
   - douchegibbets.shop
   - doumob.com
+  - dounanhuahui.com
   - dove.hoku.nz
   - dowarmhugo.com
   - dowietampoonjuglans.cfd
@@ -33810,6 +33808,7 @@ domain_suffix_set:
   - forwarnjigging.qpon
   - forzubatr.com
   - fossesfyttes.qpon
+  - fosshub.com
   - fossilzero.com
   - fostercraver.qpon
   - fostergurk.cyou
@@ -57207,6 +57206,7 @@ domain_suffix_set:
   - lzvwxy.hometogo.pl
   - lzwxzz.chintaistyle.jp
   - lzxdx24yib.com
+  - lzzncm.com
   - m-adash.m.taobao.com
   - m-kosche.com
   - m-metrics.capitalone.com
