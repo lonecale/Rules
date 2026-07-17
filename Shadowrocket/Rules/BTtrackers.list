@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 145
+# 规则统计: 144
 
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
@@ -49,17 +49,16 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seeders-paradise.org
+DOMAIN,seedpeer.net
 DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
-DOMAIN,supertracker.cc.cd
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw

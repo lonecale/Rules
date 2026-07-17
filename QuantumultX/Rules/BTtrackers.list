@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 145
+# 规则统计: 144
 
 HOST,004430.xyz,BTtrackers
 HOST,0123456789nonexistent.com,BTtrackers
@@ -49,17 +49,16 @@ HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seeders-paradise.org,BTtrackers
+HOST,seedpeer.net,BTtrackers
 HOST,shahidrazi.online,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
-HOST,supertracker.cc.cd,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
 HOST,torrentclub.online,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
-HOST,tr.abir.ga,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.kxmp.cf,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
