@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4632
+# 规则统计: 4633
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -871,6 +871,7 @@ DOMAIN,cdn.sciencecast.org
 DOMAIN,cdn.scpwiki.com
 DOMAIN,cdn.search.brave.com
 DOMAIN,cdn.sedo.com
+DOMAIN,cdn.seedance2.ai
 DOMAIN,cdn.segment.com
 DOMAIN,cdn.seline.so
 DOMAIN,cdn.seondf.com
