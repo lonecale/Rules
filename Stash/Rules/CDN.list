@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4633
+# 规则统计: 4634
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1768,6 +1768,7 @@ DOMAIN,img.apk.cafe
 DOMAIN,img.applealmond.com
 DOMAIN,img.appledb.dev
 DOMAIN,img.apponic.com
+DOMAIN,img.aso.fr
 DOMAIN,img.atlasobscura.com
 DOMAIN,img.atom.com
 DOMAIN,img.atwiki.jp
