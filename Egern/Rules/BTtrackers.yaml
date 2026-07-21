@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 115
+# 规则统计: 121
 
 no_resolve: true
 domain_set:
@@ -25,6 +25,7 @@ domain_set:
   - lucke.fenesisu.moe
   - mail.segso.net
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - obey.torrentonline.cc
@@ -48,6 +49,7 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -68,6 +70,7 @@ domain_set:
   - tracker.dler.org
   - tracker.ducks.party
   - tracker.filemail.com
+  - tracker.flatuslifir.is
   - tracker.foreverpirates.co
   - tracker.gmi.gd
   - tracker.ilibr.org
@@ -96,8 +99,11 @@ domain_set:
   - tracker.teambelgium.net
   - tracker.theoks.net
   - tracker.torrent.eu.org
+  - tracker.trackarr.org
+  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
+  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
