@@ -16,6 +16,7 @@ domain_set:
   - bt1.archive.org
   - bt2.archive.org
   - coeus.torrentonline.cc
+  - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
@@ -94,7 +95,6 @@ domain_set:
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
-  - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.theoks.net
