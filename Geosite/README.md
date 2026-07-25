@@ -1252,6 +1252,7 @@
 - [redtube](rules/redtube.txt)
 - [regru](rules/regru.txt)
 - [remirepo](rules/remirepo.txt)
+- [remnawave](rules/remnawave.txt)
 - [renren](rules/renren.txt)
 - [reurl](rules/reurl.txt)
 - [reuters](rules/reuters.txt)
