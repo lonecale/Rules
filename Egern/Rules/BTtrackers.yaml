@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 135
+# 规则统计: 113
 
 no_resolve: true
 domain_set:
@@ -14,15 +14,12 @@ domain_set:
   - banananetwork.qzz.io
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt1.archive.org
-  - bt1.xxxxbt.cc
   - bt2.archive.org
-  - buny.uk
   - evan.im
   - exodus.desync.com
   - explodie.org
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
-  - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - mail.segso.net
@@ -37,46 +34,39 @@ domain_set:
   - open.stealth.si
   - open.tracker.cl
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - orgtgju.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
-  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
   - shahidrazi.online
-  - share.hkg-fansub.info
-  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
-  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
+  - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
+  - tracker.23794.top
   - tracker.7471.top
   - tracker.adgk.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
   - tracker.bittor.pw
   - tracker.breizh.pm
-  - tracker.bt4g.com
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -84,15 +74,11 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
-  - tracker.ipv6tracker.org
   - tracker.kuroy.me
   - tracker.leechshield.link
-  - tracker.lintk.me
-  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
-  - tracker.nyaa.vc
   - tracker.opentorrent.top
   - tracker.opentrackr.com
   - tracker.opentrackr.org
@@ -106,15 +92,11 @@ domain_set:
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
-  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.torrent.eu.org
-  - tracker.tryhackx.org
-  - tracker.vanitycore.co
   - tracker.waaa.moe
   - tracker.wildkat.net
-  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
@@ -124,13 +106,9 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
-  - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
-  - www.genesis-sp.org
-  - www.torrentsnipe.info
   - www.wareztorrent.com
-  - zer0day.ch
 ip_cidr_set:
   - 107.189.2.131/32
   - 207.241.226.111/32
