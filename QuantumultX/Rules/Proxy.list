@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1566
+# 规则统计: 1568
 
 HOST,api.avax.network,Proxy
 HOST,api.revenuecat.com,Proxy
@@ -159,6 +159,7 @@ HOST-SUFFIX,astrill.org,Proxy
 HOST-SUFFIX,at,Proxy
 HOST-SUFFIX,atlassian.com,Proxy
 HOST-SUFFIX,atlassian.net,Proxy
+HOST-SUFFIX,atmeta.com,Proxy
 HOST-SUFFIX,atom.com,Proxy
 HOST-SUFFIX,au,Proxy
 HOST-SUFFIX,auth0.com,Proxy
@@ -184,6 +185,7 @@ HOST-SUFFIX,bandcamp.com,Proxy
 HOST-SUFFIX,bandwagonhost.com,Proxy
 HOST-SUFFIX,bang.com,Proxy
 HOST-SUFFIX,bangumi.moe,Proxy
+HOST-SUFFIX,bangumi.tv,Proxy
 HOST-SUFFIX,bbc.com,Proxy
 HOST-SUFFIX,bblmw.com,Proxy
 HOST-SUFFIX,be,Proxy

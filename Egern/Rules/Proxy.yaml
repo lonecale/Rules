@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1564
+# 规则统计: 1566
 
 no_resolve: true
 domain_set:
@@ -162,6 +162,7 @@ domain_suffix_set:
   - at
   - atlassian.com
   - atlassian.net
+  - atmeta.com
   - atom.com
   - au
   - auth0.com
@@ -187,6 +188,7 @@ domain_suffix_set:
   - bandwagonhost.com
   - bang.com
   - bangumi.moe
+  - bangumi.tv
   - bbc.com
   - bblmw.com
   - be

@@ -1056,6 +1056,7 @@
 - [naver](rules/naver.txt)
 - [nbcuniversal](rules/nbcuniversal.txt)
 - [neowin](rules/neowin.txt)
+- [netcraze](rules/netcraze.txt)
 - [netcup](rules/netcup.txt)
 - [netease-ads](rules/netease-ads.txt)
 - [netease](rules/netease.txt)
