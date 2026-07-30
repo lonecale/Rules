@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2026-05-13T15:18:03.714Z
+#!desc=Last Updated: 2026-07-30T04:01:41.310Z
 #!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 #!author=Sukka
@@ -325,7 +325,6 @@ hotspot.cslwifi.com = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
 *.bogon = server:system
-*.local = server:null
 *.home = server:system
 unifi = server:system
 *.router = server:system
