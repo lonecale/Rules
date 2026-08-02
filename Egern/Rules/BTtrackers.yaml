@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 145
+# 规则统计: 144
 
 no_resolve: true
 domain_set:
@@ -12,7 +12,6 @@ domain_set:
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
   - archive.torrentonline.cc
-  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.poletracker.org
   - bt1.archive.org
@@ -62,7 +61,6 @@ domain_set:
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
-  - tr.btube3.com
   - tr.highstar.shop
   - tr.kxmp.cf
   - tr.nyacat.pw
@@ -90,7 +88,6 @@ domain_set:
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.gmi.gd
@@ -118,6 +115,7 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.sbsub.com
+  - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.therarbg.to
@@ -141,6 +139,7 @@ domain_set:
   - www.genesis-sp.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
+  - zer0day.ch
 ip_cidr_set:
   - 107.189.2.131/32
   - 207.241.226.111/32
