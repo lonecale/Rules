@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1567
+# 规则统计: 1568
 
 no_resolve: true
 domain_set:
@@ -1335,6 +1335,7 @@ domain_suffix_set:
   - tr
   - track.tv
   - tradingview.com
+  - trainingpeaks.com
   - trakt.tv
   - travis-ci.com
   - travis-ci.org
