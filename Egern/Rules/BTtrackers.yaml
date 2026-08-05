@@ -4,7 +4,7 @@
 no_resolve: true
 domain_set:
   - 004430.xyz
-  - 0123456789nonexistent.com
+  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
@@ -13,13 +13,13 @@ domain_set:
   - archive.torrentonline.cc
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt1.archive.org
+  - bt1.xxxxbt.cc
   - bt2.archive.org
   - buny.uk
   - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - leet-tracker.moe
   - lucke.fenesisu.moe
@@ -35,6 +35,7 @@ domain_set:
   - open.stealth.si
   - open.tracker.cl
   - open.tracker.ink
+  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
@@ -42,15 +43,14 @@ domain_set:
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
-  - shahidrazi.online
-  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
+  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.btube3.com
+  - tr.abir.ga
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -58,7 +58,6 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.0x7c0.com
-  - tracker.23794.top
   - tracker.7471.top
   - tracker.adgk.net
   - tracker.aruku.ovh
@@ -67,13 +66,14 @@ domain_set:
   - tracker.breizh.pm
   - tracker.bt4g.com
   - tracker.bug38.com
-  - tracker.cangku.moe
+  - tracker.bz
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
+  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -82,7 +82,6 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
-  - tracker.ipv6tracker.org
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
@@ -91,25 +90,25 @@ domain_set:
   - tracker.nexusstream.eu
   - tracker.nyaa.net
   - tracker.nyaa.vc
-  - tracker.opentorrent.top
   - tracker.opentrackr.com
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
   - tracker.peerfect.org
   - tracker.playground.ru
+  - tracker.plx.im
   - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.publictracker.xyz
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.sbsub.com
   - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
-  - tracker.therarbg.to
+  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.tritan.gg
-  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.xn--djrq4gl4hvoi.top
@@ -124,6 +123,7 @@ domain_set:
   - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
+  - www.torrentsnipe.info
   - www.wareztorrent.com
   - zer0day.ch
 ip_cidr_set:
