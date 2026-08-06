@@ -612,6 +612,7 @@
 - [flurry-ads](rules/flurry-ads.txt)
 - [flutter](rules/flutter.txt)
 - [flyio](rules/flyio.txt)
+- [focuschina](rules/focuschina.txt)
 - [fonbet](rules/fonbet.txt)
 - [fontawesome](rules/fontawesome.txt)
 - [fontexplorer](rules/fontexplorer.txt)

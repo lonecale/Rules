@@ -1,8 +1,7 @@
 # 规则名称: BTtrackers
-# 规则统计: 130
+# 规则统计: 128
 
 DOMAIN,004430.xyz
-DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
@@ -18,12 +17,14 @@ DOMAIN,edgev.duckdns.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
+DOMAIN,home.yxgz.club
+DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns3109441.mypdns.org
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,obey.torrentonline.cc
@@ -41,6 +42,7 @@ DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
+DOMAIN,share.hkg-fansub.info
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
@@ -64,14 +66,11 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bug38.com
-DOMAIN,tracker.bz
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
-DOMAIN,tracker.dler.org
-DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
@@ -80,9 +79,11 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
+DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lenition.de
+DOMAIN,tracker.lintk.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nexusstream.eu
@@ -101,27 +102,24 @@ DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
-DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.tritan.gg
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
+DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
-DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,v6.vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
-DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,zer0day.ch
 IP-CIDR,107.189.2.131/32,no-resolve

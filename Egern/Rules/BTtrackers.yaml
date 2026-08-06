@@ -1,10 +1,9 @@
 # 规则名称: BTtrackers
-# 规则统计: 130
+# 规则统计: 128
 
 no_resolve: true
 domain_set:
   - 004430.xyz
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
@@ -20,12 +19,14 @@ domain_set:
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - home.yxgz.club
+  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
+  - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - mail.segso.net
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - obey.torrentonline.cc
@@ -43,6 +44,7 @@ domain_set:
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
+  - share.hkg-fansub.info
   - t.213891.xyz
   - t.overflow.biz
   - torrent.hificode.in
@@ -66,14 +68,11 @@ domain_set:
   - tracker.breizh.pm
   - tracker.bt4g.com
   - tracker.bug38.com
-  - tracker.bz
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
-  - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.filemail.com
   - tracker.flatuslifir.is
@@ -82,9 +81,11 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
+  - tracker.ipv6tracker.org
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
+  - tracker.lintk.me
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
@@ -103,27 +104,24 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.sbsub.com
-  - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
-  - tracker.theoks.net
   - tracker.torrent.eu.org
-  - tracker.tritan.gg
+  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
+  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com
-  - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
-  - www.torrentsnipe.info
   - www.wareztorrent.com
   - zer0day.ch
 ip_cidr_set:
