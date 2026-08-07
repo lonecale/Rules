@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 51
+# 规则统计: 52
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
@@ -24,6 +24,7 @@ domain_suffix_set:
   - bard.google.com
   - chat.com
   - chatgpt.com
+  - chatgpt.site
   - claude.ai
   - claude.com
   - clipdrop.co
