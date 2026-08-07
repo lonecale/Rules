@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 145
+# 规则统计: 144
 
 no_resolve: true
 domain_set:
@@ -23,13 +23,14 @@ domain_set:
   - exodus.desync.com
   - explodie.org
   - home.yxgz.club
-  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
+  - ipv6.govt.hu
   - jvavav.com
   - leet-tracker.moe
   - lucke.fenesisu.moe
   - mail.segso.net
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - obey.torrentonline.cc
@@ -39,7 +40,6 @@ domain_set:
   - open.stealth.si
   - open.tracker.cl
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
@@ -88,12 +88,12 @@ domain_set:
   - tracker.farted.net
   - tracker.filemail.com
   - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.gmi.gd
   - tracker.ilibr.org
   - tracker.ipv6tracker.org
+  - tracker.k.vu
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
@@ -140,7 +140,6 @@ domain_set:
   - www.genesis-sp.org
   - www.torrentsnipe.info
   - www.wareztorrent.com
-  - zer0day.ch
 ip_cidr_set:
   - 107.189.2.131/32
   - 207.241.226.111/32
