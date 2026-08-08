@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 144
+# 规则统计: 141
 
 no_resolve: true
 domain_set:
@@ -12,6 +12,7 @@ domain_set:
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
   - archive.torrentonline.cc
+  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.poletracker.org
   - bt1.archive.org
@@ -30,7 +31,6 @@ domain_set:
   - lucke.fenesisu.moe
   - mail.segso.net
   - martin-gebhardt.eu
-  - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - obey.torrentonline.cc
@@ -40,6 +40,7 @@ domain_set:
   - open.stealth.si
   - open.tracker.cl
   - open.tracker.ink
+  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
@@ -58,8 +59,6 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
-  - tr.btube3.com
   - tr.kxmp.cf
   - tr.nyacat.pw
   - tr.zukizuki.org
@@ -68,7 +67,6 @@ domain_set:
   - tracker-udp.gbitt.info
   - tracker.0x7c0.com
   - tracker.7471.top
-  - tracker.adgk.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
   - tracker.bittor.pw
@@ -110,7 +108,6 @@ domain_set:
   - tracker.openwebtorrent.com
   - tracker.peerfect.org
   - tracker.playground.ru
-  - tracker.plx.im
   - tracker.pmman.tech
   - tracker.privateseedbox.xyz
   - tracker.publictracker.xyz
@@ -120,11 +117,11 @@ domain_set:
   - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.teambelgium.net
+  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
-  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu

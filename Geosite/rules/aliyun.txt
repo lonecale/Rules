@@ -40,8 +40,12 @@ kunlunvi.com
 kunlunwe.com
 mxhichina.com
 myalicdn.com
+cn-beijing.aliyuncs.com
+cn-chengdu.aliyuncs.com
+cn-guangzhou.aliyuncs.com
 cn-hangzhou.aliyuncs.com
 cn-shanghai.aliyuncs.com
+hotfix-api.aliyuncs.com
 log-global.aliyuncs.com
 oss-cn-beijing.aliyuncs.com
 oss-cn-chengdu.aliyuncs.com
@@ -55,7 +59,9 @@ oss-cn-shanghai.aliyuncs.com
 oss-cn-shenzhen.aliyuncs.com
 oss-cn-wulanchabu.aliyuncs.com
 oss-cn-zhangjiakou.aliyuncs.com
+registry.aliyuncs.com
 ap-southeast-1.aliyuncs.com
+cn-hongkong.aliyuncs.com
 oss-ap-northeast-1.aliyuncs.com
 oss-ap-northeast-2.aliyuncs.com
 oss-ap-south-1.aliyuncs.com
