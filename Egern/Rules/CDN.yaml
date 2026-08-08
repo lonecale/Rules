@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4665
+# 规则统计: 4667
 
 domain_set:
   - 0x0.st
@@ -451,6 +451,7 @@ domain_set:
   - cache.hackedfreegames.com
   - cache.industry.siemens.com
   - cache.ip-api.com
+  - cache.mapcomplete.org
   - cache.omnicalculator.com
   - cached.rebuyengine.com
   - cafe.github.com
@@ -3119,7 +3120,6 @@ domain_set:
   - tile.skybrush.io
   - tile.waymarkedtrails.org
   - tile2.intervals.icu
-  - tile2.opencyclemap.org
   - tilecache.rainviewer.com
   - tiledbasemaps.arcgis.com
   - tilemaps.icgc.cat
@@ -4440,6 +4440,8 @@ domain_suffix_set:
   - tile.osmz.ru
   - tile.stamen.com
   - tile.thunderforest.com
+  - tile2.opencyclemap.org
+  - tile3.opencyclemap.org
   - tiles-api.maps.komoot.net
   - tiles.freemap.sk
   - tiles.mapbox.com
