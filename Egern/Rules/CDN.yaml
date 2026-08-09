@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4691
+# 规则统计: 4693
 
 domain_set:
   - 0x0.st
@@ -3529,6 +3529,8 @@ domain_suffix_set:
   - bstarstatic.com
   - bstatic.com
   - bugly.qcloud.com
+  - buildkiteassets.com
+  - buildkiteusercontent.com
   - bundle.run
   - bundle.thimatic-apps.com
   - bunnycdn.com
