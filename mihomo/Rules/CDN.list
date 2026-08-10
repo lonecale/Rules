@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4693
+# 规则统计: 4701
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -462,6 +462,7 @@ DOMAIN,cache.industry.siemens.com
 DOMAIN,cache.ip-api.com
 DOMAIN,cache.mapcomplete.org
 DOMAIN,cache.omnicalculator.com
+DOMAIN,cache.sgvafs.com
 DOMAIN,cached.rebuyengine.com
 DOMAIN,cafe.github.com
 DOMAIN,canny-assets.io
@@ -1471,6 +1472,7 @@ DOMAIN,fonts.sony.net
 DOMAIN,fonts.svc.ui.com
 DOMAIN,fonts.twitter.com
 DOMAIN,fonts.upset.dev
+DOMAIN,fonts.wd40.info
 DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
@@ -2159,6 +2161,7 @@ DOMAIN,media.theporndude.com
 DOMAIN,media.theresanaiforthat.com
 DOMAIN,media.trakt.tv
 DOMAIN,media.user.com
+DOMAIN,media.wd40.asia
 DOMAIN,media.webtoo.ls
 DOMAIN,media.wired.com
 DOMAIN,media.yukimochi.jp
@@ -3041,6 +3044,8 @@ DOMAIN,stats.codesandbox.io
 DOMAIN,stats.setapp.com
 DOMAIN,stats.setapp.macpaw.dev
 DOMAIN,status.canarymail.io
+DOMAIN,status.claude.com
+DOMAIN,status.openai.com
 DOMAIN,status.ui.com
 DOMAIN,stbff.newfold.com
 DOMAIN,stc.utdstc.com
@@ -3626,6 +3631,7 @@ DOMAIN-SUFFIX,cloud2.influxdata.com
 DOMAIN-SUFFIX,cloudatacdn.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.ltd
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudforfun.vip
 DOMAIN-SUFFIX,cloudfront.net
@@ -3828,6 +3834,7 @@ DOMAIN-SUFFIX,gitcdn.xyz
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.io
@@ -3933,6 +3940,7 @@ DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img3.acsta.net
 DOMAIN-SUFFIX,imgair.net
 DOMAIN-SUFFIX,imgbox.com
+DOMAIN-SUFFIX,imgcdn8.com
 DOMAIN-SUFFIX,imgikuncdn.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,imgimg.cc
