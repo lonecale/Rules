@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4701
+# 规则统计: 4704
 
 domain_set:
   - 0x0.st
@@ -306,6 +306,7 @@ domain_set:
   - assets.unifi-ai.com
   - assets.unredacted.org
   - assets.upload.io
+  - assets.userstyles.org
   - assets.vantage.sh
   - assets.vercel.com
   - assets.video.yahoo.net
@@ -1924,6 +1925,7 @@ domain_set:
   - imgopt.infoq.com
   - imgproxy.flathub.org
   - imgproxy.fourthwall.com
+  - imgproxy.windy.com
   - imgrs.apkcombo.com
   - imgs.plurk.com
   - imgs.search.brave.com
@@ -2226,6 +2228,7 @@ domain_set:
   - nightly.link
   - no-cache.hubspot.com
   - node.green
+  - node.windy.com
   - nodeassets.nbcnews.com
   - nodebox-runtime.codesandbox.io
   - nodei.co
