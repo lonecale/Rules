@@ -10,8 +10,8 @@ full:mscrl.microsoft.com
 full:ocsp.microsoft.com
 full:oneocsp.microsoft.com
 full:www.microsoft.com
-full:prodforza.blob.core.windows.net
 full:flightsimulator.azureedge.net
+full:prodforza.blob.core.windows.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 full:location.microsoft.com
@@ -360,6 +360,8 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
+asobostudio.com
+flightsimulator.com
 beth.games
 bethesda.net
 bethesdagamestudios.com
@@ -376,8 +378,6 @@ minecraft.net
 minecraftservices.com
 minecraftshop.com
 mojang.com
-asobostudio.com
-flightsimulator.com
 microsoft.by
 aadrm.com
 azure-api.net

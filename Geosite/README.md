@@ -48,6 +48,8 @@
 - [acfun](rules/acfun.txt)
 - [acplay](rules/acplay.txt)
 - [actalis](rules/actalis.txt)
+- [activision-blizzard](rules/activision-blizzard.txt)
+- [activision](rules/activision.txt)
 - [adblock](rules/adblock.txt)
 - [adblockplus](rules/adblockplus.txt)
 - [adcolony-ads](rules/adcolony-ads.txt)
