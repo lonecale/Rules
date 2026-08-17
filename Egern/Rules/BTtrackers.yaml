@@ -16,13 +16,12 @@ domain_set:
   - bt.poletracker.org
   - bt1.archive.org
   - bt1.xxxxbt.cc
-  - bt2.archive.org
   - buny.uk
-  - coeus.torrentonline.cc
   - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - home.yxgz.club
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
@@ -31,6 +30,7 @@ domain_set:
   - lucke.fenesisu.moe
   - mail.segso.net
   - martin-gebhardt.eu
+  - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - obey.torrentonline.cc
@@ -61,6 +61,7 @@ domain_set:
   - tr.abir.ga
   - tr.btube3.com
   - tr.kxmp.cf
+  - tr.nyacat.pw
   - tr.zukizuki.org
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
@@ -72,8 +73,10 @@ domain_set:
   - tracker.auctor.tv
   - tracker.bittor.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bug38.com
+  - tracker.bz
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.cynma.tv
@@ -85,12 +88,10 @@ domain_set:
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
-  - tracker.flatuslifir.is
-  - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
-  - tracker.gmi.gd
   - tracker.ilibr.org
+  - tracker.ipv6tracker.org
   - tracker.k.vu
   - tracker.kuroy.me
   - tracker.leechshield.link
@@ -102,6 +103,7 @@ domain_set:
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
   - tracker.nyaa.net
+  - tracker.nyaa.vc
   - tracker.opentrackr.com
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
@@ -115,15 +117,14 @@ domain_set:
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.sbsub.com
-  - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.teambelgium.net
-  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
+  - tracker.yemekyedim.com
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
@@ -143,7 +144,6 @@ domain_set:
 ip_cidr_set:
   - 107.189.2.131/32
   - 207.241.226.111/32
-  - 207.241.231.226/32
   - 52.58.128.163/32
   - 93.158.213.92/32
 ip_cidr6_set:
