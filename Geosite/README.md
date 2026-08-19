@@ -1102,6 +1102,7 @@
 - [nodeseek](rules/nodeseek.txt)
 - [noip](rules/noip.txt)
 - [nordstrom](rules/nordstrom.txt)
+- [nordvpn](rules/nordvpn.txt)
 - [notion](rules/notion.txt)
 - [now](rules/now.txt)
 - [nowcoder](rules/nowcoder.txt)

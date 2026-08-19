@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4713
+# 规则统计: 4710
 
 domain_set:
   - 0x0.st
@@ -4648,13 +4648,11 @@ domain_keyword_set:
   - cdn.adultempire.com
   - cdn.trustpilot.net
   - dsn.algolia.net
-  - fonts.hanime1
   - images.trustpilot.com
   - images.trustpilot.net
   - scripts.trustpilot.com
   - static.grammarly.com
   - static.trustpilot.com
-  - vdownload.hanime1
   - vod-adaptive.akamaized.net
   - web-assets.zendesk
 domain_wildcard_set:
@@ -4697,7 +4695,6 @@ domain_wildcard_set:
   - ocsp.*.amazontrust.com
   - proxy-*.dailymotion.com
   - rr?---??.ouo.si
-  - s*.hanime1
   - s3-*.figma.com
   - s3.*.wasabisys.com
   - s?.maxstream.org
