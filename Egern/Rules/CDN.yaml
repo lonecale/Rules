@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4710
+# 规则统计: 4712
 
 domain_set:
   - 0x0.st
@@ -712,6 +712,7 @@ domain_set:
   - cdn.geekzone.co.nz
   - cdn.gethypervisual.com
   - cdn.getkoala.com
+  - cdn.getmerlin.in
   - cdn.gettr.com
   - cdn.ghostery.com
   - cdn.giftcardpro.app
@@ -774,6 +775,7 @@ domain_set:
   - cdn.langshop.app
   - cdn.leandata.com
   - cdn.lemonsqueezy.com
+  - cdn.leonardo.ai
   - cdn.lgrckt-in.com
   - cdn.libravatar.org
   - cdn.lihkg.com
