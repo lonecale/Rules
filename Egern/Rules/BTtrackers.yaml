@@ -1,23 +1,31 @@
 # 规则名称: BTtrackers
-# 规则统计: 118
+# 规则统计: 142
 
 no_resolve: true
 domain_set:
   - 004430.xyz
+  - 0123456789nonexistent.com
+  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - announce.sktorrent.eu
+  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
+  - bt.poletracker.org
   - bt1.archive.org
+  - bt1.xxxxbt.cc
   - bt2.archive.org
+  - buny.uk
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - home.yxgz.club
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
+  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -29,22 +37,28 @@ domain_set:
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
+  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
+  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
+  - seeders-paradise.org
   - seedpeer.net
+  - share.hkg-fansub.info
+  - shubt.net
   - t.213891.xyz
   - t.overflow.biz
+  - torrent.hificode.in
   - torrent.tracker.durukanbal.com
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
+  - tr.nyacat.pw
   - tr.zukizuki.org
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.0x7c0.com
@@ -54,14 +68,18 @@ domain_set:
   - tracker.auctor.tv
   - tracker.bittor.pw
   - tracker.breizh.pm
+  - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bug38.com
+  - tracker.bz
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
+  - tracker.cynma.tv
   - tracker.ddunlimited.net
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
+  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
@@ -71,11 +89,13 @@ domain_set:
   - tracker.gmi.gd
   - tracker.govt.hu
   - tracker.ilibr.org
+  - tracker.ipv6tracker.org
   - tracker.k.vu
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
-  - tracker.linvk.com
+  - tracker.lintk.me
+  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
@@ -93,12 +113,14 @@ domain_set:
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
+  - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.torrent.eu.org
   - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
+  - tracker.xiaoduola.xyz
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
@@ -108,9 +130,11 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
-  - udp.tracker.linvk.com
+  - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
+  - www.genesis-sp.org
+  - www.torrentsnipe.info
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
   - zer0day.ch
