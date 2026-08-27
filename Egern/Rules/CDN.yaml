@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4715
+# 规则统计: 4716
 
 domain_set:
   - 0x0.st
@@ -4310,6 +4310,7 @@ domain_suffix_set:
   - reasoningtheory.net
   - rechargecdn.com
   - recharts.org
+  - reconvert-cdn.com
   - redcdn.net
   - redd.it
   - redditmedia.com

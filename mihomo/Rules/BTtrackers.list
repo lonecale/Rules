@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 134
+# 规则统计: 133
 
 DOMAIN,004430.xyz
 DOMAIN,0d.kebhana.mx
@@ -17,6 +17,7 @@ DOMAIN,buny.uk
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
+DOMAIN,home.yxgz.club
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
 DOMAIN,jvavav.com
@@ -27,6 +28,7 @@ DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
+DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
@@ -40,7 +42,6 @@ DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
 DOMAIN,share.hkg-fansub.info
-DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
@@ -50,6 +51,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
+DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
@@ -64,7 +66,6 @@ DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bug38.com
-DOMAIN,tracker.bz
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cynma.tv
@@ -110,7 +111,6 @@ DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
-DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
@@ -123,7 +123,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,v6.vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
-DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
