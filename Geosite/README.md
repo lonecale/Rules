@@ -1078,6 +1078,7 @@
 - [netlify](rules/netlify.txt)
 - [neuralink](rules/neuralink.txt)
 - [newegg](rules/newegg.txt)
+- [newgrounds](rules/newgrounds.txt)
 - [newrelic-ads](rules/newrelic-ads.txt)
 - [newscorp](rules/newscorp.txt)
 - [newsmax](rules/newsmax.txt)
