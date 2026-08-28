@@ -1,21 +1,24 @@
 # 规则名称: BTtrackers
-# 规则统计: 126
+# 规则统计: 136
 
 HOST,004430.xyz,BTtrackers
+HOST,0123456789nonexistent.com,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,aboutbeautifulgallopinghorsesinthegreenpasture.online,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.okmp3.ru,BTtrackers
+HOST,bt.poletracker.org,BTtrackers
 HOST,bt1.archive.org,BTtrackers
 HOST,bt2.archive.org,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
-HOST,home.yxgz.club,BTtrackers
+HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.govt.hu,BTtrackers
+HOST,jvavav.com,BTtrackers
 HOST,leet-tracker.moe,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -27,6 +30,7 @@ HOST,open.demonoid.ch,BTtrackers
 HOST,open.ftorrent.com,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.ink,BTtrackers
+HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,pybittrack.retiolus.net,BTtrackers
@@ -34,6 +38,7 @@ HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
+HOST,seeders-paradise.org,BTtrackers
 HOST,seedpeer.net,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,t.213891.xyz,BTtrackers
@@ -59,6 +64,7 @@ HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bug38.com,BTtrackers
+HOST,tracker.bz,BTtrackers
 HOST,tracker.cn.nyaa.net,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cynma.tv,BTtrackers
@@ -80,6 +86,8 @@ HOST,tracker.k.vu,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.leechshield.link,BTtrackers
 HOST,tracker.lenition.de,BTtrackers
+HOST,tracker.lintk.me,BTtrackers
+HOST,tracker.moxing.party,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nexusstream.eu,BTtrackers
@@ -101,6 +109,7 @@ HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
+HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
@@ -114,6 +123,7 @@ HOST,tracker2.dler.org,BTtrackers
 HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
+HOST,tracker810.xyz,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
 HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers

@@ -1,23 +1,26 @@
 # 规则名称: BTtrackers
-# 规则统计: 126
+# 规则统计: 136
 
 no_resolve: true
 domain_set:
   - 004430.xyz
+  - 0123456789nonexistent.com
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - announce.sktorrent.eu
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
+  - bt.poletracker.org
   - bt1.archive.org
   - bt2.archive.org
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - home.yxgz.club
+  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
+  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -29,6 +32,7 @@ domain_set:
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
+  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
@@ -36,6 +40,7 @@ domain_set:
   - retracker.hotplug.ru
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
+  - seeders-paradise.org
   - seedpeer.net
   - share.hkg-fansub.info
   - t.213891.xyz
@@ -61,6 +66,7 @@ domain_set:
   - tracker.bt-hash.com
   - tracker.bt4g.com
   - tracker.bug38.com
+  - tracker.bz
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.cynma.tv
@@ -82,6 +88,8 @@ domain_set:
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
+  - tracker.lintk.me
+  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
@@ -103,6 +111,7 @@ domain_set:
   - tracker.sbsub.com
   - tracker.skyts.net
   - tracker.teambelgium.net
+  - tracker.therarbg.to
   - tracker.torrent.eu.org
   - tracker.tryhackx.org
   - tracker.waaa.moe
@@ -116,6 +125,7 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
+  - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
   - www.torrentsnipe.info
