@@ -1,28 +1,23 @@
 # 规则名称: BTtrackers
-# 规则统计: 133
+# 规则统计: 126
 
 no_resolve: true
 domain_set:
   - 004430.xyz
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - admin.52ywp.com
   - announce.sktorrent.eu
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt.okmp3.ru
-  - bt.poletracker.org
   - bt1.archive.org
-  - bt1.xxxxbt.cc
   - bt2.archive.org
-  - buny.uk
   - evan.im
   - exodus.desync.com
   - explodie.org
   - home.yxgz.club
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
-  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -34,7 +29,6 @@ domain_set:
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
@@ -60,7 +54,6 @@ domain_set:
   - tracker-udp.gbitt.info
   - tracker.0x7c0.com
   - tracker.7471.top
-  - tracker.adgk.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
   - tracker.bittor.pw
@@ -75,10 +68,10 @@ domain_set:
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
+  - tracker.flatuslifir.is
   - tracker.foreverpirates.co
   - tracker.gcrenwp.top
   - tracker.gmi.gd
@@ -89,12 +82,12 @@ domain_set:
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
-  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
   - tracker.nyaa.net
   - tracker.nyaa.vc
+  - tracker.onetracker.net
   - tracker.opentrackr.com
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
@@ -111,6 +104,7 @@ domain_set:
   - tracker.skyts.net
   - tracker.teambelgium.net
   - tracker.torrent.eu.org
+  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.xn--djrq4gl4hvoi.top
@@ -122,7 +116,6 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
-  - tracker810.xyz
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
   - www.torrentsnipe.info
