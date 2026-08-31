@@ -92,6 +92,7 @@
 - [amc](rules/amc.txt)
 - [amd](rules/amd.txt)
 - [amp](rules/amp.txt)
+- [amplitude](rules/amplitude.txt)
 - [anaconda](rules/anaconda.txt)
 - [anandtech](rules/anandtech.txt)
 - [android](rules/android.txt)

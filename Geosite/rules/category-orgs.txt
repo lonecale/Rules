@@ -1,4 +1,3 @@
-full:csis-prod.s3.amazonaws.com
 full:a.ppy.sh
 full:assets.ppy.sh
 full:c.ppy.sh
@@ -8,6 +7,7 @@ full:lazer.ppy.sh
 full:notify.ppy.sh
 full:sentry.ppy.sh
 full:spectator.ppy.sh
+full:csis-prod.s3.amazonaws.com
 aomedia.org
 atypi.org
 change.org
@@ -23,6 +23,9 @@ w3.org
 who.int
 wi-fi.org
 wto.org
+nist.gov
+time.gov
+ppy.sh
 csis.org
 ieee.org
 ieee.tv
@@ -78,16 +81,6 @@ photonicssociety.org
 signalprocessingsociety.org
 technologyandsociety.org
 vtsociety.org
-acousticbrainz.org
-bookbrainz.org
-coverartarchive.org
-critiquebrainz.org
-listenbrainz.org
-messybrainz.org
-metabrainz.org
-musicbrainz.org
-nist.gov
-time.gov
 openmaps.org
 openstreetmap.com
 openstreetmap.net
@@ -128,4 +121,11 @@ grapheneos.page
 grapheneos.social
 seamlessupdate.app
 vanadium.app
-ppy.sh
+acousticbrainz.org
+bookbrainz.org
+coverartarchive.org
+critiquebrainz.org
+listenbrainz.org
+messybrainz.org
+metabrainz.org
+musicbrainz.org
