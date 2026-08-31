@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 141
+# 规则统计: 136
 
 HOST,004430.xyz,BTtrackers
 HOST,0123456789nonexistent.com,BTtrackers
@@ -10,7 +10,6 @@ HOST,announce.sktorrent.eu,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
 HOST,bt1.archive.org,BTtrackers
-HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,bt2.archive.org,BTtrackers
 HOST,buny.uk,BTtrackers
 HOST,evan.im,BTtrackers
@@ -32,14 +31,12 @@ HOST,open.demonoid.ch,BTtrackers
 HOST,open.ftorrent.com,BTtrackers
 HOST,open.stealth.si,BTtrackers
 HOST,open.tracker.ink,BTtrackers
-HOST,open.trackerlist.xyz,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,pybittrack.retiolus.net,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
-HOST,seeders-paradise.org,BTtrackers
 HOST,seedpeer.net,BTtrackers
 HOST,share.hkg-fansub.info,BTtrackers
 HOST,shubt.net,BTtrackers
@@ -64,7 +61,6 @@ HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.auctor.tv,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
-HOST,tracker.bt-hash.com,BTtrackers
 HOST,tracker.bt4g.com,BTtrackers
 HOST,tracker.bug38.com,BTtrackers
 HOST,tracker.bz,BTtrackers
@@ -84,7 +80,6 @@ HOST,tracker.gcrenwp.top,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.govt.hu,BTtrackers
 HOST,tracker.ilibr.org,BTtrackers
-HOST,tracker.ipv6tracker.org,BTtrackers
 HOST,tracker.k.vu,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.leechshield.link,BTtrackers
