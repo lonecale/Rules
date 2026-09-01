@@ -1,5 +1,5 @@
 # 规则名称: Ads_EasyListPrivacy
-# 规则统计: 43009
+# 规则统计: 43012
 
 domain_suffix_set:
   - 0.0.0.1
@@ -26112,6 +26112,7 @@ domain_suffix_set:
   - popmixradio.com
   - popplantation.com
   - popup-static.unisender.com
+  - porksoda.com
   - poro.58.com
   - porpoise.azettl.net
   - porqhi.topictravel.nl
@@ -26129,6 +26130,7 @@ domain_suffix_set:
   - postgraduate.smu.edu.sg
   - postgraduate2.smu.edu.sg
   - potatoinvention.com
+  - potentmagic.com
   - power.viggo.com
   - powerfulblends.com
   - powerfulcopper.com
@@ -26258,6 +26260,7 @@ domain_suffix_set:
   - processplantation.com
   - processserver.abclegal.com
   - processusmetier.ricoh.fr
+  - procollecting.com
   - procroanalytics.com
   - procurement.cipscomms.org
   - prod-events.nykaa.com

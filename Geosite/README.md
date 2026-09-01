@@ -1569,6 +1569,7 @@
 - [visualarts](rules/visualarts.txt)
 - [viu](rules/viu.txt)
 - [vivo](rules/vivo.txt)
+- [vixengroup](rules/vixengroup.txt)
 - [vk](rules/vk.txt)
 - [vmware](rules/vmware.txt)
 - [voanews](rules/voanews.txt)
