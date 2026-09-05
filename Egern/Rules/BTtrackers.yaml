@@ -1,26 +1,20 @@
 # 规则名称: BTtrackers
-# 规则统计: 127
+# 规则统计: 116
 
 no_resolve: true
 domain_set:
   - 004430.xyz
-  - 0d.kebhana.mx
   - 1337.abcvg.info
   - admin.52ywp.com
   - announce.sktorrent.eu
   - bittorrent-tracker.e-n-c-r-y-p-t.net
-  - bt.poletracker.org
   - bt1.archive.org
   - bt2.archive.org
-  - buny.uk
   - evan.im
   - exodus.desync.com
   - explodie.org
-  - ftp.pet
-  - home.yxgz.club
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
-  - jvavav.com
   - leet-tracker.moe
   - mail.segso.net
   - martin-gebhardt.eu
@@ -32,15 +26,12 @@ domain_set:
   - open.ftorrent.com
   - open.stealth.si
   - open.tracker.ink
-  - open.trackerlist.xyz
   - opentor.org
   - p4p.arenabg.com
   - pybittrack.retiolus.net
   - rekcart.duckdns.org
   - retracker.hotplug.ru
-  - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - seeders-paradise.org
   - seedpeer.net
   - t.213891.xyz
   - t.overflow.biz
@@ -48,14 +39,15 @@ domain_set:
   - torrentclub.online
   - torrentsmd.com
   - tr.abiir.top
+  - tr.abir.ga
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
   - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
+  - tracker.004430.xyz
   - tracker.0x7c0.com
   - tracker.7471.top
-  - tracker.adgk.net
   - tracker.aruku.ovh
   - tracker.auctor.tv
   - tracker.bittor.pw
@@ -68,10 +60,10 @@ domain_set:
   - tracker.dhitechnical.com
   - tracker.dler.com
   - tracker.dler.org
-  - tracker.dmcomic.org
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
+  - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gmi.gd
@@ -81,13 +73,10 @@ domain_set:
   - tracker.kuroy.me
   - tracker.leechshield.link
   - tracker.lenition.de
-  - tracker.lintk.me
-  - tracker.moxing.party
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nexusstream.eu
   - tracker.nyaa.net
-  - tracker.nyaa.vc
   - tracker.onetracker.net
   - tracker.opentrackr.com
   - tracker.opentrackr.org
@@ -106,7 +95,9 @@ domain_set:
   - tracker.teambelgium.net
   - tracker.therarbg.to
   - tracker.torrent.eu.org
+  - tracker.tryhackx.org
   - tracker.waaa.moe
+  - tracker.wildkat.net
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
@@ -115,11 +106,9 @@ domain_set:
   - tracker2.itzmx.com
   - tracker3.itzmx.com
   - tracker4.itzmx.com
-  - tracker810.xyz
   - udp-tracker.adgk.net
   - v6.vito-tracker.space
   - whybother.torrentonline.cc
-  - www.genesis-sp.org
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
   - zer0day.ch
