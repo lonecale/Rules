@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4735
+# 规则统计: 4737
 
 domain_set:
   - 0x0.st
@@ -2883,6 +2883,7 @@ domain_set:
   - static.hotjar.com
   - static.hubspot.com
   - static.hugedomains.com
+  - static.idp.sph.com.sg
   - static.ietf.org
   - static.ifunny.co
   - static.incapsula.com
@@ -4242,6 +4243,7 @@ domain_suffix_set:
   - pcdn.co
   - permaweb.eu.org
   - permaweb.io
+  - pgimgs.com
   - pgl.yoyo.org
   - phncdn.com
   - photobucket.com
