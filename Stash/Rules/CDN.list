@@ -283,7 +283,6 @@ DOMAIN,assets.squarespace.com
 DOMAIN,assets.squarewebsites.org
 DOMAIN,assets.st-note.com
 DOMAIN,assets.stash.com
-DOMAIN,assets.static-upwork.com
 DOMAIN,assets.stickpng.com
 DOMAIN,assets.stigg.io
 DOMAIN,assets.streamlinehq.com
@@ -4423,6 +4422,7 @@ DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,stapecdn.com
 DOMAIN-SUFFIX,static-assets.photoshop.adobe.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
+DOMAIN-SUFFIX,static-upwork.com
 DOMAIN-SUFFIX,static.amplience.net
 DOMAIN-SUFFIX,static.chaosgroup.com
 DOMAIN-SUFFIX,static.dash.cloudflare.com

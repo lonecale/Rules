@@ -284,7 +284,6 @@ domain_set:
   - assets.squarewebsites.org
   - assets.st-note.com
   - assets.stash.com
-  - assets.static-upwork.com
   - assets.stickpng.com
   - assets.stigg.io
   - assets.streamlinehq.com
@@ -4425,6 +4424,7 @@ domain_suffix_set:
   - stapecdn.com
   - static-assets.photoshop.adobe.com
   - static-prod-web.miniclip.com
+  - static-upwork.com
   - static.amplience.net
   - static.chaosgroup.com
   - static.dash.cloudflare.com

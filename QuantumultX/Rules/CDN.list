@@ -283,7 +283,6 @@ HOST,assets.squarespace.com,CDN
 HOST,assets.squarewebsites.org,CDN
 HOST,assets.st-note.com,CDN
 HOST,assets.stash.com,CDN
-HOST,assets.static-upwork.com,CDN
 HOST,assets.stickpng.com,CDN
 HOST,assets.stigg.io,CDN
 HOST,assets.streamlinehq.com,CDN
@@ -4423,6 +4422,7 @@ HOST-SUFFIX,stackblitz.io,CDN
 HOST-SUFFIX,stapecdn.com,CDN
 HOST-SUFFIX,static-assets.photoshop.adobe.com,CDN
 HOST-SUFFIX,static-prod-web.miniclip.com,CDN
+HOST-SUFFIX,static-upwork.com,CDN
 HOST-SUFFIX,static.amplience.net,CDN
 HOST-SUFFIX,static.chaosgroup.com,CDN
 HOST-SUFFIX,static.dash.cloudflare.com,CDN
