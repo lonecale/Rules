@@ -1,16 +1,19 @@
 # 规则名称: BTtrackers
-# 规则统计: 116
+# 规则统计: 122
 
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,announce.sktorrent.eu
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
+DOMAIN,ftp.pet
+DOMAIN,home.yxgz.club
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
 DOMAIN,leet-tracker.moe
@@ -24,6 +27,7 @@ DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
+DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,p4p.arenabg.com
 DOMAIN,pybittrack.retiolus.net
@@ -31,13 +35,13 @@ DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
+DOMAIN,supertracker.cc.cd
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
@@ -50,26 +54,27 @@ DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
+DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bug38.com
+DOMAIN,tracker.bz
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.govt.hu
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lenition.de
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
@@ -89,11 +94,12 @@ DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.zhuqiy.com
