@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 121
+# 规则统计: 122
 
 HOST,004430.xyz,BTtrackers
 HOST,0123456789nonexistent.com,BTtrackers
@@ -11,8 +11,6 @@ HOST,4.tracker.eu.org,BTtrackers
 HOST,5.tracker.eu.org,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
-HOST,archive.torrentonline.cc,BTtrackers
-HOST,asiatorrent.giize.com,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
 HOST,bt1.archive.org,BTtrackers
@@ -21,7 +19,6 @@ HOST,buny.uk,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
-HOST,ftp.pet,BTtrackers
 HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.govt.hu,BTtrackers
@@ -42,12 +39,14 @@ HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker.spark-rostov.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
+HOST,seedpeer.net,BTtrackers
 HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
@@ -70,6 +69,7 @@ HOST,tracker.dler.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
+HOST,tracker.flatuslifir.is,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.govt.hu,BTtrackers
@@ -112,6 +112,7 @@ HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
+HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,yuptracker-eu.gaijinent.com,BTtrackers
 HOST,zer0day.ch,BTtrackers
