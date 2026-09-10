@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 122
+# 规则统计: 121
 
 HOST,004430.xyz,BTtrackers
 HOST,0123456789nonexistent.com,BTtrackers
@@ -11,6 +11,7 @@ HOST,4.tracker.eu.org,BTtrackers
 HOST,5.tracker.eu.org,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
+HOST,asiatorrent.giize.com,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt.poletracker.org,BTtrackers
 HOST,bt1.archive.org,BTtrackers
@@ -69,7 +70,6 @@ HOST,tracker.dler.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
-HOST,tracker.flatuslifir.is,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.govt.hu,BTtrackers
@@ -112,7 +112,6 @@ HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
-HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,yuptracker-eu.gaijinent.com,BTtrackers
 HOST,zer0day.ch,BTtrackers
