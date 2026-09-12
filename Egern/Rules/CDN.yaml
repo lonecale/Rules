@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4737
+# 规则统计: 4738
 
 domain_set:
   - 0x0.st
@@ -2483,6 +2483,7 @@ domain_set:
   - resources.chessbase.com
   - resources.digital-cloud.medallia.com
   - resources.help.salesforce.com
+  - resources.redbull.tv
   - resources.whatwg.org
   - rest.happierleads.com
   - reviews-badge.capterra.com
