@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1568
+# 规则统计: 1569
 
 no_resolve: true
 domain_set:
@@ -233,6 +233,7 @@ domain_suffix_set:
   - blubrry.com
   - bnbstatic.com
   - box.com
+  - boxcloud.com
   - brave.com
   - brew.sh
   - broadcom.com

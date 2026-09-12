@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4738
+# 规则统计: 4739
 
 domain_set:
   - 0x0.st
@@ -3147,6 +3147,7 @@ domain_set:
   - th.bing.com
   - themes.fourthwall.com
   - themes.hibootstrap.com
+  - thumb.wikimedia.org
   - thumbnail.missav.com
   - thumbnailer.mixcloud.com
   - thumbnails.applegamingwiki.com
