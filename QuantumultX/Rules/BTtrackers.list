@@ -12,7 +12,6 @@ HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt1.archive.org,BTtrackers
 HOST,bt1.xxxxbt.cc,BTtrackers
 HOST,bt2.archive.org,BTtrackers
-HOST,coeus.torrentonline.cc,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
@@ -45,6 +44,7 @@ HOST,torrent.hificode.in,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
 HOST,tr3.ysagin.top,BTtrackers
@@ -85,7 +85,6 @@ HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nexusstream.eu,BTtrackers
 HOST,tracker.nyaa.net,BTtrackers
 HOST,tracker.onetracker.net,BTtrackers
-HOST,tracker.opentorrent.top,BTtrackers
 HOST,tracker.opentrackr.com,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers
@@ -119,6 +118,7 @@ HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,tracker810.xyz,BTtrackers
 HOST,v6.vito-tracker.space,BTtrackers
+HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.genesis-sp.org,BTtrackers
 HOST,www.torrentsnipe.info,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
