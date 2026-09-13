@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4739
+# 规则统计: 4745
 
 domain_set:
   - 0x0.st
@@ -260,6 +260,7 @@ domain_set:
   - assets.poool.fr
   - assets.porndig.com
   - assets.positional-bucket.com
+  - assets.production.linktr.ee
   - assets.prowritingaid.com
   - assets.pscp.tv
   - assets.queue-it.net
@@ -1190,6 +1191,7 @@ domain_set:
   - code.piano.io
   - code.trygravity.ai
   - code.upscope.io
+  - coin-images.coingecko.com
   - comm.res.easebar.com
   - common-header.nimg.jp
   - community-cdn.openstreetmap.org
@@ -2903,6 +2905,7 @@ domain_set:
   - static.j51.net
   - static.javhd.com
   - static.jsbin.com
+  - static.jup.ag
   - static.k2s.cc
   - static.killedbygoogle.com
   - static.klaviyo.com
@@ -3152,6 +3155,7 @@ domain_set:
   - thumbnailer.mixcloud.com
   - thumbnails.applegamingwiki.com
   - thumbnails.cbsig.net
+  - thumbnails.padre.gg
   - thumbor.4gamers.com.tw
   - thumbor.forbes.com
   - thumbs.onlyfans.com
@@ -3240,6 +3244,7 @@ domain_set:
   - ubistatic2-a.akamaihd.net
   - ubistatic2-a.ubisoft.com
   - udata.namespace.so
+  - ugc.production.linktr.ee
   - uhf.microsoft.com
   - ui-cdn.digitalocean-ui.com
   - ui-cdn.digitalocean.com
@@ -3523,6 +3528,7 @@ domain_suffix_set:
   - awsstatic.com
   - awxcdn.com
   - ax1x.com
+  - axiom-cdn.io
   - axis-cdn.net
   - azurestaticapps.net
   - b2c-contenthub.com
