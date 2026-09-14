@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 126
+# 规则统计: 123
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -35,9 +35,7 @@ HOST,pybittrack.retiolus.net,BTtrackers
 HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
-HOST,seeders-paradise.org,BTtrackers
 HOST,seedpeer.net,BTtrackers
-HOST,shubt.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
 HOST,torrent.hificode.in,BTtrackers
@@ -66,7 +64,6 @@ HOST,tracker.ddunlimited.net,BTtrackers
 HOST,tracker.dhitechnical.com,BTtrackers
 HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
-HOST,tracker.dmcomic.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
@@ -98,12 +95,12 @@ HOST,tracker.publictracker.xyz,BTtrackers
 HOST,tracker.qingwapt.org,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
-HOST,tracker.sbsub.com,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
 HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.therarbg.to,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
+HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
