@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 108
+# 规则统计: 111
 
 no_resolve: true
 domain_set:
@@ -19,6 +19,7 @@ domain_set:
   - explodie.org
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
+  - kolanopentracker.airdns.org
   - mail.segso.net
   - martin-gebhardt.eu
   - ns575949.ip-51-222-82.net
@@ -86,6 +87,7 @@ domain_set:
   - tracker.renfei.net
   - tracker.skyts.net
   - tracker.teambelgium.net
+  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.torrents.observer
   - tracker.waaa.moe
@@ -93,6 +95,7 @@ domain_set:
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
+  - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com

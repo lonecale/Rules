@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 108
+# 规则统计: 111
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -17,6 +17,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
+DOMAIN,kolanopentracker.airdns.org
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
@@ -84,6 +85,7 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.waaa.moe
@@ -91,6 +93,7 @@ DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
+DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
