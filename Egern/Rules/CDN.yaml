@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4749
+# 规则统计: 4755
 
 domain_set:
   - 0x0.st
@@ -747,6 +747,7 @@ domain_set:
   - cdn.img.ly
   - cdn.imgchest.com
   - cdn.infoq.com
+  - cdn.infrawire.net
   - cdn.insightmediagroup.io
   - cdn.inviter.co
   - cdn.ionos.de
@@ -1026,6 +1027,7 @@ domain_set:
   - cdn1.iconfinder.com
   - cdn1.identitymind.com
   - cdn1.plesk.com
+  - cdn1.singteldigital.com
   - cdn1.stamped.io
   - cdn1.suno.ai
   - cdn1.sysgears.com
@@ -1643,6 +1645,7 @@ domain_set:
   - image-cdn.porndig.com
   - image-forwarder.notaku.so
   - image-stgus.samsung.com
+  - image-tc.galaxy.tf
   - image-us.samsung.com
   - image.acg.lol
   - image.ap-mail.org
@@ -2324,6 +2327,7 @@ domain_set:
   - ph.tryprofound.com
   - pha-prx.ops.cloud.nx.app
   - phishing.army
+  - photos.flightaware.com
   - photos5.appleinsider.com
   - pic-bstarstatic.akamaized.net
   - pic.7mmtv.me
@@ -3182,6 +3186,7 @@ domain_set:
   - tiles-a.koordinates.com
   - tiles-eu.stadiamaps.com
   - tiles.arcgis.com
+  - tiles.flightaware.com
   - tiles.gsj.jp
   - tiles.immich.cloud
   - tiles.locationiq.com
@@ -3207,6 +3212,7 @@ domain_set:
   - tiles2.mapiful.com
   - tiles2.planet.com
   - tiles3.planet.com
+  - tileserver.b10s.net
   - tileserver.gnome.org
   - tileserver.memomaps.de
   - time-a.nist.gov
