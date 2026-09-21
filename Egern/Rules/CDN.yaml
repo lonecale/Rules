@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4755
+# 规则统计: 4757
 
 domain_set:
   - 0x0.st
@@ -1726,6 +1726,7 @@ domain_set:
   - images.g2crowd.com
   - images.github.media
   - images.gog.com
+  - images.hibob.com
   - images.hothardware.com
   - images.icon-icons.com
   - images.indianexpress.com
@@ -2110,6 +2111,7 @@ domain_set:
   - media-cms.ayoba.me
   - media-cms.onesignal.com
   - media-hls.growcdnssedge.com
+  - media-process.hibob.com
   - media-s3-us-east-1.ceros.com
   - media.beehiiv.com
   - media.breitbart.com
