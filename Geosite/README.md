@@ -630,6 +630,7 @@
 - [fqnovel-ads](rules/fqnovel-ads.txt)
 - [fqnovel](rules/fqnovel.txt)
 - [framer](rules/framer.txt)
+- [freebuff](rules/freebuff.txt)
 - [freecodecamp](rules/freecodecamp.txt)
 - [freenode](rules/freenode.txt)
 - [ft](rules/ft.txt)

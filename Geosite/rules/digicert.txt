@@ -16,6 +16,8 @@ symauth.com
 symcb.com
 symcd.com
 digicert.co.jp
+cybertrust.co.jp
+cybertrust.ne.jp
 adobe-crl.verisign.com
 certipath-aia.verisign.com
 certipath-crl.verisign.com
@@ -68,7 +70,5 @@ svrtrial-g2-aia.verisign.com
 svrtrial-g2-crl.verisign.com
 pki.symantec.com
 ws.symantec.com
-cybertrust.co.jp
-cybertrust.ne.jp
 dcocsp.cn
 digicert.cn
