@@ -6,6 +6,12 @@ esm.sh
 gcdn.co
 gcore.com
 gcore.pro
+esm.run
+jsdelivr.com
+jsdelivr.net
+pagecdn.com
+pagecdn.io
+quantil.com
 cdn77.com
 cdn77.org
 argotunnel.com
@@ -71,9 +77,8 @@ fastly.io
 fastly.net
 fastlylabs.com
 fastlylb.net
-esm.run
-jsdelivr.com
-jsdelivr.net
+imgix.com
+imgix.net
 delvenetworks.com
 limelight.com
 lldns.net
@@ -82,7 +87,6 @@ llnw.com
 llnw.net
 llnwd.net
 llnwi.net
-quantil.com
 stackpath.com
 stackpath.dev
 vrcdn.cloud
@@ -157,10 +161,6 @@ iamakamai.com
 iamakamai.net
 soasta-dswb.com
 srtcdn.net
-imgix.com
-imgix.net
-pagecdn.com
-pagecdn.io
 one.one.one
 akamai.co.kr
 cf-china.info
