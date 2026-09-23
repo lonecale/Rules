@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4757
+# 规则统计: 4758
 
 domain_set:
   - 0x0.st
@@ -147,6 +147,7 @@ domain_set:
   - assets.brevo.com
   - assets.buttondown.email
   - assets.bwbx.io
+  - assets.byokey.io
   - assets.byteplus.com
   - assets.calendly.com
   - assets.canny.io
