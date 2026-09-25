@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 107
+# 规则统计: 104
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -15,6 +15,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
+DOMAIN,kolankoalastree.newtrackon.co.nz
 DOMAIN,kolanopentracker.airdns.org
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
@@ -38,18 +39,14 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
-DOMAIN,tr.btube3.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
@@ -59,7 +56,6 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
@@ -98,6 +94,7 @@ DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
+DOMAIN,v2.iperson.xyz
 DOMAIN,v6.vito-tracker.space
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
