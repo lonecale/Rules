@@ -16,7 +16,6 @@ HOST,explodie.org,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.govt.hu,BTtrackers
 HOST,kolankoalastree.newtrackon.co.nz,BTtrackers
-HOST,kolanopentracker.airdns.org,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns575949.ip-51-222-82.net,BTtrackers
@@ -38,12 +37,13 @@ HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
-HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
+HOST,tracker.23794.top,BTtrackers
 HOST,tracker.7471.top,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
@@ -56,6 +56,7 @@ HOST,tracker.dler.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
+HOST,tracker.fnix.net,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.ilibr.org,BTtrackers
 HOST,tracker.k.vu,BTtrackers
@@ -65,7 +66,6 @@ HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nyaa.net,BTtrackers
 HOST,tracker.nyaa.vc,BTtrackers
-HOST,tracker.onetracker.net,BTtrackers
 HOST,tracker.opentorrent.top,BTtrackers
 HOST,tracker.opentrackr.com,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
@@ -76,11 +76,11 @@ HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwapt.org,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
+HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrents.observer,BTtrackers
-HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.willy.pro,BTtrackers

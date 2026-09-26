@@ -16,7 +16,6 @@ DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
 DOMAIN,kolankoalastree.newtrackon.co.nz
-DOMAIN,kolanopentracker.airdns.org
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
@@ -38,12 +37,13 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
@@ -56,6 +56,7 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
@@ -65,7 +66,6 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.net
 DOMAIN,tracker.nyaa.vc
-DOMAIN,tracker.onetracker.net
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.com
 DOMAIN,tracker.opentrackr.org
@@ -76,11 +76,11 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
-DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
