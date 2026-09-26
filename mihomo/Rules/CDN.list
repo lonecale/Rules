@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4757
+# 规则统计: 4759
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1315,6 +1315,7 @@ DOMAIN,divhunt.b-cdn.net
 DOMAIN,dl.airdroid.com
 DOMAIN,dlassets-ssl.xboxlive.com
 DOMAIN,dlstats.izzyondroid.org
+DOMAIN,dma.canyon.com
 DOMAIN,dmm-extension.com
 DOMAIN,do.featurebase.app
 DOMAIN,docs.brew.sh
@@ -2153,6 +2154,7 @@ DOMAIN,media.infosec.exchange
 DOMAIN,media.inhumanity.com
 DOMAIN,media.invisioncic.com
 DOMAIN,media.istockphoto.com
+DOMAIN,media.karousell.com
 DOMAIN,media.kit.com
 DOMAIN,media.lantern.io
 DOMAIN,media.letsdeel.com
