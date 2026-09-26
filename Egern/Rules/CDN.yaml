@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4758
+# 规则统计: 4757
 
 domain_set:
   - 0x0.st
@@ -4031,7 +4031,6 @@ domain_suffix_set:
   - ipfs.cyou
   - ipfs.decoo.io
   - ipfs.denarius.io
-  - ipfs.ecolatam.com
   - ipfs.eternum.io
   - ipfs.eth.aragon.network
   - ipfs.filebase.io

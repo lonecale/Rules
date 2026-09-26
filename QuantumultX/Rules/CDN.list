@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4758
+# 规则统计: 4757
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -4029,7 +4029,6 @@ HOST-SUFFIX,ipfs.busy.org,CDN
 HOST-SUFFIX,ipfs.cyou,CDN
 HOST-SUFFIX,ipfs.decoo.io,CDN
 HOST-SUFFIX,ipfs.denarius.io,CDN
-HOST-SUFFIX,ipfs.ecolatam.com,CDN
 HOST-SUFFIX,ipfs.eternum.io,CDN
 HOST-SUFFIX,ipfs.eth.aragon.network,CDN
 HOST-SUFFIX,ipfs.filebase.io,CDN

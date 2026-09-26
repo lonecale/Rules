@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4758
+# 规则统计: 4757
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -4029,7 +4029,6 @@ DOMAIN-SUFFIX,ipfs.busy.org
 DOMAIN-SUFFIX,ipfs.cyou
 DOMAIN-SUFFIX,ipfs.decoo.io
 DOMAIN-SUFFIX,ipfs.denarius.io
-DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,ipfs.filebase.io
