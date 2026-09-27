@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 104
+# 规则统计: 102
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -27,7 +27,6 @@ HOST,open.tracker.ink,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.lain.moscow,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
-HOST,pybittrack.retiolus.net,BTtrackers
 HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
@@ -43,7 +42,6 @@ HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
-HOST,tracker.23794.top,BTtrackers
 HOST,tracker.7471.top,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
@@ -56,12 +54,12 @@ HOST,tracker.dler.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
-HOST,tracker.fnix.net,BTtrackers
+HOST,tracker.flatuslifir.is,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.ilibr.org,BTtrackers
 HOST,tracker.k.vu,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
-HOST,tracker.lenition.de,BTtrackers
+HOST,tracker.midnightprogrammer.net,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nyaa.net,BTtrackers
