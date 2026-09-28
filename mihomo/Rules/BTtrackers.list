@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 105
+# 规则统计: 106
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -59,6 +59,7 @@ DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me

@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 105
+# 规则统计: 106
 
 no_resolve: true
 domain_set:
@@ -61,6 +61,7 @@ domain_set:
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.foreverpirates.co
+  - tracker.gmi.gd
   - tracker.ilibr.org
   - tracker.k.vu
   - tracker.kuroy.me

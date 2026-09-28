@@ -110,6 +110,8 @@
 ||lofter.httpdns.c.163.com^
 ||music.httpdns.c.163.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||music.httpdns.c.163.com^
+||pre-xpis-xcdn.youku.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||pre-xpis-xcdn.youku.com^
 ||resolver.msg.xiaomi.net^$dnstype=AAAA,dnsrewrite=NOERROR
 ||resolver.msg.xiaomi.net^
 ||serveraddr.service.kugou.com^$dnstype=AAAA,dnsrewrite=NOERROR
@@ -122,6 +124,12 @@
 ||ucdc.upaas.quark.cn^
 ||union-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||union-httpdns.gslb.yy.com^
+||xpis-mob-xcdn.youku.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||xpis-mob-xcdn.youku.com^
+||xpis-tel-xcdn.youku.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||xpis-tel-xcdn.youku.com^
+||xpis-xcdn.youku.com^$dnstype=AAAA,dnsrewrite=NOERROR
+||xpis-xcdn.youku.com^
 ||yuyin-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
 ||yuyin-httpdns.gslb.yy.com^
 ||yyapp-httpdns.gslb.yy.com^$dnstype=AAAA,dnsrewrite=NOERROR
