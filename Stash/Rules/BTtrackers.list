@@ -1,9 +1,10 @@
 # 规则名称: BTtrackers
-# 规则统计: 103
+# 规则统计: 106
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
+DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -22,6 +23,7 @@ DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.lain.moscow
@@ -81,6 +83,7 @@ DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro

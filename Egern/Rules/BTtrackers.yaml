@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 103
+# 规则统计: 106
 
 no_resolve: true
 domain_set:
   - 004430.xyz
   - 1.tracker.eu.org
   - 1337.abcvg.info
+  - admin.52ywp.com
   - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -24,6 +25,7 @@ domain_set:
   - open.demonii.com
   - open.ftorrent.com
   - open.stealth.si
+  - open.tracker.cl
   - open.tracker.ink
   - opentor.org
   - opentracker.lain.moscow
@@ -83,6 +85,7 @@ domain_set:
   - tracker.teambelgium.net
   - tracker.torrent.eu.org
   - tracker.torrents.observer
+  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
