@@ -1,5 +1,5 @@
 # 规则名称: Ads_limbopro
-# 规则统计: 521
+# 规则统计: 526
 
 domain_set:
   - 118.89.204.198
@@ -270,6 +270,7 @@ domain_suffix_set:
   - adspecs.yahoo.com
   - advertising.yahoo.com
   - adxadserv.com
+  - akhaldqp.in
   - alexametrics.com
   - alitui.weibo.com
   - amung.us
@@ -333,6 +334,7 @@ domain_suffix_set:
   - farmcrapsubsist.com
   - farwine.com
   - fmiqcupku.com
+  - frozenpayerpregnant.com
   - gdt.qq.com
   - gemini.yahoo.com
   - ggsfq.com
@@ -353,6 +355,8 @@ domain_suffix_set:
   - histats.com
   - hoisin.coocaa.com
   - hoisin.coocaatv.com
+  - horribletrainer.com
+  - i.5432kk.com
   - iad-01.braze.com
   - iad-02.braze.com
   - iad-03.appboy.com
@@ -391,6 +395,7 @@ domain_suffix_set:
   - kk.braincf.com
   - kkjhgfds.top
   - knlk2md.cn
+  - kugqwiarq.in
   - l.qq.com
   - links.services.disqus.com
   - log.hunantv.com
