@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4760
+# 规则统计: 4762
 
 domain_set:
   - 0x0.st
@@ -1846,6 +1846,7 @@ domain_set:
   - img.fzf404.art
   - img.gs
   - img.hellofresh.com
+  - img.helpnetsecurity.com
   - img.hentaihaven.xxx
   - img.highporn.net
   - img.huffingtonpost.com
@@ -1915,6 +1916,7 @@ domain_set:
   - img1.yeggi.com
   - img1.yna.co.kr
   - img2.gelbooru.com
+  - img2.helpnetsecurity.com
   - img2.javmost.com
   - img2.socialshopwave.com
   - img2.tnaflix.com

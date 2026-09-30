@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 868
+# 规则统计: 869
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
@@ -23,6 +23,7 @@ domain_set:
   - ocsp.globalsign.com
   - ocsp2.globalsign.com
   - res.viayoo.com
+  - time.xtracloud.net
   - url.cn
   - viayoo.com
   - www.intel.cn

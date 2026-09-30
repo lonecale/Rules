@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7606
+# 规则统计: 7607
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,ProxyGFW
 HOST,ccmdl.adobe.com,ProxyGFW
@@ -6334,6 +6334,7 @@ HOST-SUFFIX,togetter.com,ProxyGFW
 HOST-SUFFIX,toh.info,ProxyGFW
 HOST-SUFFIX,token.im,ProxyGFW
 HOST-SUFFIX,tokenlon.im,ProxyGFW
+HOST-SUFFIX,tokens.ci,ProxyGFW
 HOST-SUFFIX,tokto-motion.net,ProxyGFW
 HOST-SUFFIX,tokyo-247.com,ProxyGFW
 HOST-SUFFIX,tokyo-hot.com,ProxyGFW
