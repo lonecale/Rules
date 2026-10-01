@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 111
+# 规则统计: 109
 
 no_resolve: true
 domain_set:
@@ -33,7 +33,6 @@ domain_set:
   - opentracker.lain.moscow
   - p4p.arenabg.com
   - pybittrack.retiolus.net
-  - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
@@ -73,7 +72,6 @@ domain_set:
   - tracker.nekomi.cn
   - tracker.nyaa.net
   - tracker.nyaa.vc
-  - tracker.opentorrent.top
   - tracker.opentrackr.com
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com

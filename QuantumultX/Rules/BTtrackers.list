@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 111
+# 规则统计: 109
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -31,7 +31,6 @@ HOST,opentor.org,BTtrackers
 HOST,opentracker.lain.moscow,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,pybittrack.retiolus.net,BTtrackers
-HOST,rekcart.duckdns.org,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seedpeer.net,BTtrackers
@@ -71,7 +70,6 @@ HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nyaa.net,BTtrackers
 HOST,tracker.nyaa.vc,BTtrackers
-HOST,tracker.opentorrent.top,BTtrackers
 HOST,tracker.opentrackr.com,BTtrackers
 HOST,tracker.opentrackr.org,BTtrackers
 HOST,tracker.openwebtorrent.com,BTtrackers

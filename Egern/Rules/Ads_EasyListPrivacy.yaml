@@ -1,5 +1,5 @@
 # 规则名称: Ads_EasyListPrivacy
-# 规则统计: 43176
+# 规则统计: 43190
 
 domain_suffix_set:
   - 0.0.0.1
@@ -8100,6 +8100,7 @@ domain_suffix_set:
   - browser.covatic.io
   - browser.pipe.aria.microsoft.com
   - browserguides.net
+  - browsertdidticket.m.qq.com
   - brpayless.eccocar.com
   - brqory.notino.sk
   - brquazzar.eccocar.com
@@ -9827,6 +9828,7 @@ domain_suffix_set:
   - crs.actonservice.com
   - crta.and.co.uk
   - crta.dailymail.co.uk
+  - crta.dailymail.com
   - crta.metro.co.uk
   - cruisetourist.com
   - crumbs.robinhood.com
@@ -13308,6 +13310,7 @@ domain_suffix_set:
   - events.ricoh.ie
   - events.s4long.com
   - events.santander.co.uk
+  - events.searchtap.net
   - events.shareably.net
   - events.shoplift.ai
   - events.sk.ht
@@ -13534,6 +13537,7 @@ domain_suffix_set:
   - farahatco.actonservice.com
   - farethief.com
   - farmergoldfish.com
+  - faro-collector-*.grafana-ops.net
   - faro-collector-prod-*.grafana.net
   - farshake.com
   - farsnails.com
@@ -14231,6 +14235,7 @@ domain_suffix_set:
   - gatan.actonservice.com
   - gateway.aimia.com
   - gateway.foresee.com
+  - gatherer.m.qq.com
   - gaudyairplane.com
   - gawayez.e-postserv.com
   - gay-hotvideo.net
@@ -14539,6 +14544,7 @@ domain_suffix_set:
   - gkgygj.verivox.de
   - gkopqp.coccodrillo.eu
   - gksqdt.reitmans.com
+  - gkx.gokwik.co
   - gl5g98t0vfjb.panprices.com
   - gladysway.com
   - glamhawk.com
@@ -19690,6 +19696,7 @@ domain_suffix_set:
   - log.mgtv.com
   - log.mix.sina.com.cn
   - log.mofa.go.kr
+  - log.news.baidu.com
   - log.nordot.jp
   - log.olark.com
   - log.outbrain.com
@@ -25429,6 +25436,7 @@ domain_suffix_set:
   - p.placed.com
   - p.pmu.fr
   - p.ryanhalliday.com
+  - p.sa7eer.com
   - p.skimresources.com
   - p.spotidownloader.com
   - p.tencentmind.com
@@ -26508,6 +26516,7 @@ domain_suffix_set:
   - pulse.genki.world
   - pulse.munsonhealthcare.org
   - pulse.shopflo.com
+  - pulsepoint.ideal.house
   - pumlmb.netcologne.de
   - pumpedpancake.com
   - pumpedpurpose.com
@@ -26963,6 +26972,7 @@ domain_suffix_set:
   - realsolutions.americanexpress.se
   - realtime-profiling.datarize.ai
   - realtime.bbcl.cl
+  - realtimeanalytics.yext.com
   - realtimely.io
   - realtors.eq.delwebb.com
   - reaonq.xn--hdks770u8f0a8dvzft.net
@@ -36574,6 +36584,7 @@ domain_suffix_set:
   - techservices.trapptechnology.com
   - techsupport.balluff.com
   - teczbq.amicashop.com
+  - ted.dailymail.co.uk
   - tediousbear.com
   - tedioustooth.com
   - teefiksummin.visma.fi
@@ -38436,6 +38447,7 @@ domain_suffix_set:
   - track.concur.com.sg
   - track.connectwise.com
   - track.contently.com
+  - track.convertfox.com
   - track.cordial.io
   - track.cornerstonebuildingbrands.com
   - track.craudia.com
@@ -39414,6 +39426,7 @@ domain_suffix_set:
   - traffic.wdc.center
   - trafficfuelpixel.s3-us-west-2.amazonaws.com
   - trafficid.brandwell.ai
+  - trafik.koopit.ist
   - trail-001.schleich-s.com
   - trail.53kf.com
   - trail.71baomu.com
@@ -41542,6 +41555,7 @@ domain_suffix_set:
   - webstat.garanti.com.tr
   - webstat.qiumibao.com
   - webstat.vodafone.com
+  - webstat.ws.126.net
   - webstats.americanbar.org
   - webstats.bijenpatel.com
   - webstats.cbre.com
