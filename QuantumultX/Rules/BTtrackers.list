@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 109
+# 规则统计: 108
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -82,7 +82,6 @@ HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.teambelgium.net,BTtrackers
-HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrents.observer,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
