@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 109
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -7,7 +7,6 @@ DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
@@ -39,7 +38,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.btube3.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
@@ -61,6 +60,7 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
@@ -86,14 +86,12 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
-DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
@@ -109,5 +107,6 @@ IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
 IP-CIDR,93.158.213.92/32,no-resolve
+IP-CIDR,94.23.207.177/32,no-resolve
 IP-CIDR6,2a03:7220:8083:cd00::1/128,no-resolve
 IP-CIDR6,2a04:ac00:1:3dd8::1:2710/128,no-resolve
