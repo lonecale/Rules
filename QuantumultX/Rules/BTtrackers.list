@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 106
+# 规则统计: 110
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -30,6 +30,7 @@ HOST,open.tracker.ink,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.lain.moscow,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
+HOST,pybittrack.retiolus.net,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seedpeer.net,BTtrackers
@@ -45,10 +46,12 @@ HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
+HOST,tracker.23794.top,BTtrackers
 HOST,tracker.7471.top,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
+HOST,tracker.bug38.com,BTtrackers
 HOST,tracker.cn.nyaa.net,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.ddunlimited.net,BTtrackers
@@ -81,6 +84,7 @@ HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
+HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrents.observer,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
