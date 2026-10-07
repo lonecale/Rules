@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 113
+# 规则统计: 114
 
 no_resolve: true
 domain_set:
@@ -46,6 +46,7 @@ domain_set:
   - tr.abir.ga
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz

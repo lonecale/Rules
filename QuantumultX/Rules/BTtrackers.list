@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 113
+# 规则统计: 114
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -44,6 +44,7 @@ HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
