@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 109
+# 规则统计: 113
 
 no_resolve: true
 domain_set:
@@ -7,15 +7,18 @@ domain_set:
   - 1.tracker.eu.org
   - 1337.abcvg.info
   - admin.52ywp.com
-  - anime-tracker.aruku.kro.kr
   - announce.sktorrent.eu
+  - archive.torrentonline.cc
+  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
+  - bt-tracker.de
   - bt1.archive.org
   - bt2.archive.org
   - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
   - kolankoalastree.newtrackon.co.nz
@@ -43,7 +46,6 @@ domain_set:
   - tr.abir.ga
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
@@ -88,12 +90,14 @@ domain_set:
   - tracker.skyts.net
   - tracker.theoks.net
   - tracker.torrent.eu.org
+  - tracker.torrents.observer
   - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
+  - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com
@@ -102,6 +106,7 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - v2.iperson.xyz
+  - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
 ip_cidr_set:
@@ -110,7 +115,6 @@ ip_cidr_set:
   - 207.241.231.226/32
   - 52.58.128.163/32
   - 93.158.213.92/32
-  - 94.23.207.177/32
 ip_cidr6_set:
   - 2a03:7220:8083:cd00::1/128
   - 2a04:ac00:1:3dd8::1:2710/128

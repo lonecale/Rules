@@ -1,19 +1,22 @@
 # 规则名称: BTtrackers
-# 规则统计: 109
+# 规则统计: 113
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
-HOST,anime-tracker.aruku.kro.kr,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
+HOST,archive.torrentonline.cc,BTtrackers
+HOST,asiatorrent.giize.com,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
+HOST,bt-tracker.de,BTtrackers
 HOST,bt1.archive.org,BTtrackers
 HOST,bt2.archive.org,BTtrackers
 HOST,edgev.duckdns.org,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
+HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.govt.hu,BTtrackers
 HOST,kolankoalastree.newtrackon.co.nz,BTtrackers
@@ -41,7 +44,6 @@ HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
-HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
@@ -86,12 +88,14 @@ HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
+HOST,tracker.torrents.observer,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.willy.pro,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
+HOST,tracker.zhuqiy.com,BTtrackers
 HOST,tracker.zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker1.520.jp,BTtrackers
 HOST,tracker1.itzmx.com,BTtrackers
@@ -100,6 +104,7 @@ HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,v2.iperson.xyz,BTtrackers
+HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,yuptracker-eu.gaijinent.com,BTtrackers
 IP-CIDR,107.189.2.131/32,BTtrackers
@@ -107,6 +112,5 @@ IP-CIDR,207.241.226.111/32,BTtrackers
 IP-CIDR,207.241.231.226/32,BTtrackers
 IP-CIDR,52.58.128.163/32,BTtrackers
 IP-CIDR,93.158.213.92/32,BTtrackers
-IP-CIDR,94.23.207.177/32,BTtrackers
 IP6-CIDR,2a03:7220:8083:cd00::1/128,BTtrackers
 IP6-CIDR,2a04:ac00:1:3dd8::1:2710/128,BTtrackers
