@@ -1,12 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 114
+# 规则统计: 109
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
-HOST,archive.torrentonline.cc,BTtrackers
 HOST,asiatorrent.giize.com,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt-tracker.de,BTtrackers
@@ -16,7 +15,6 @@ HOST,edgev.duckdns.org,BTtrackers
 HOST,evan.im,BTtrackers
 HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
-HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,ipv6.govt.hu,BTtrackers
 HOST,kolankoalastree.newtrackon.co.nz,BTtrackers
@@ -87,7 +85,6 @@ HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
-HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrents.observer,BTtrackers
 HOST,tracker.tryhackx.org,BTtrackers
@@ -96,7 +93,6 @@ HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.willy.pro,BTtrackers
 HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
-HOST,tracker.zhuqiy.com,BTtrackers
 HOST,tracker.zhuqiy.dgj055.icu,BTtrackers
 HOST,tracker1.520.jp,BTtrackers
 HOST,tracker1.itzmx.com,BTtrackers
@@ -105,7 +101,6 @@ HOST,tracker2.itzmx.com,BTtrackers
 HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,v2.iperson.xyz,BTtrackers
-HOST,whybother.torrentonline.cc,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,yuptracker-eu.gaijinent.com,BTtrackers
 IP-CIDR,107.189.2.131/32,BTtrackers

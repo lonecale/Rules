@@ -1,12 +1,11 @@
 # 规则名称: BTtrackers
-# 规则统计: 114
+# 规则统计: 109
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
 DOMAIN,asiatorrent.giize.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt-tracker.de
@@ -16,7 +15,6 @@ DOMAIN,edgev.duckdns.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
-DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
 DOMAIN,kolankoalastree.newtrackon.co.nz
@@ -87,7 +85,6 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.tryhackx.org
@@ -96,7 +93,6 @@ DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
-DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
@@ -105,7 +101,6 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
-DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
 IP-CIDR,107.189.2.131/32,no-resolve
