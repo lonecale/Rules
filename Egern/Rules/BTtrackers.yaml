@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 109
+# 规则统计: 108
 
 no_resolve: true
 domain_set:
@@ -17,6 +17,7 @@ domain_set:
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
   - kolankoalastree.newtrackon.co.nz
@@ -32,7 +33,6 @@ domain_set:
   - opentor.org
   - opentracker.lain.moscow
   - p4p.arenabg.com
-  - pybittrack.retiolus.net
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
@@ -48,12 +48,10 @@ domain_set:
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
-  - tracker.23794.top
   - tracker.7471.top
   - tracker.aruku.ovh
   - tracker.bittor.pw
   - tracker.breizh.pm
-  - tracker.bug38.com
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
@@ -95,6 +93,7 @@ domain_set:
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
+  - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com
