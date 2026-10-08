@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7606
+# 规则统计: 7609
 
 no_resolve: true
 domain_set:
@@ -448,6 +448,7 @@ domain_suffix_set:
   - appledaily.com
   - appledaily.com.hk
   - appledaily.com.tw
+  - approveit.today
   - appshopper.com
   - appsocks.net
   - appspot-preview.com
@@ -5957,6 +5958,7 @@ domain_suffix_set:
   - surge-activation.com
   - suroot.com
   - surrenderat20.net
+  - surveymonkey.com
   - sustainability.google
   - suyangg.com
   - svsfx.com
@@ -6754,6 +6756,7 @@ domain_suffix_set:
   - vanityfair.com
   - vanpeople.com
   - vansky.com
+  - vanta.com
   - vaticannews.va
   - vatn.org
   - vcf-online.org

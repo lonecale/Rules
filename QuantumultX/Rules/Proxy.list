@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1572
+# 规则统计: 1575
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,Proxy
 HOST,api.avax.network,Proxy
@@ -142,6 +142,7 @@ HOST-SUFFIX,apkmirror.com,Proxy
 HOST-SUFFIX,apkpure.com,Proxy
 HOST-SUFFIX,apkpure.net,Proxy
 HOST-SUFFIX,apnews.com,Proxy
+HOST-SUFFIX,approveit.today,Proxy
 HOST-SUFFIX,appspot.com,Proxy
 HOST-SUFFIX,aptoide.com,Proxy
 HOST-SUFFIX,arc.net,Proxy
@@ -1266,6 +1267,7 @@ HOST-SUFFIX,supjav.com,Proxy
 HOST-SUFFIX,surfshark.com,Proxy
 HOST-SUFFIX,surfsharkdns.com,Proxy
 HOST-SUFFIX,surge-activation.com,Proxy
+HOST-SUFFIX,surveymonkey.com,Proxy
 HOST-SUFFIX,swissinfo.ch,Proxy
 HOST-SUFFIX,sx,Proxy
 HOST-SUFFIX,synergyse.com,Proxy
@@ -1391,6 +1393,7 @@ HOST-SUFFIX,v2fly.org,Proxy
 HOST-SUFFIX,v2ray.com,Proxy
 HOST-SUFFIX,va,Proxy
 HOST-SUFFIX,vanityfair.com,Proxy
+HOST-SUFFIX,vanta.com,Proxy
 HOST-SUFFIX,venturebeat.com,Proxy
 HOST-SUFFIX,vercel.app,Proxy
 HOST-SUFFIX,vercel.com,Proxy

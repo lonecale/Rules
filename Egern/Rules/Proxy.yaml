@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1570
+# 规则统计: 1573
 
 no_resolve: true
 domain_set:
@@ -145,6 +145,7 @@ domain_suffix_set:
   - apkpure.com
   - apkpure.net
   - apnews.com
+  - approveit.today
   - appspot.com
   - aptoide.com
   - arc.net
@@ -1269,6 +1270,7 @@ domain_suffix_set:
   - surfshark.com
   - surfsharkdns.com
   - surge-activation.com
+  - surveymonkey.com
   - swissinfo.ch
   - sx
   - synergyse.com
@@ -1394,6 +1396,7 @@ domain_suffix_set:
   - v2ray.com
   - va
   - vanityfair.com
+  - vanta.com
   - venturebeat.com
   - vercel.app
   - vercel.com
