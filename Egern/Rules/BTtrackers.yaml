@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 108
+# 规则统计: 104
 
 no_resolve: true
 domain_set:
@@ -8,12 +8,10 @@ domain_set:
   - 1337.abcvg.info
   - admin.52ywp.com
   - announce.sktorrent.eu
-  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt-tracker.de
   - bt1.archive.org
   - bt2.archive.org
-  - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
@@ -41,7 +39,7 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
+  - tr.btube3.com
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
   - tr3.ysagin.top
@@ -61,7 +59,6 @@ domain_set:
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
-  - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gmi.gd
@@ -87,7 +84,6 @@ domain_set:
   - tracker.skyts.net
   - tracker.torrent.eu.org
   - tracker.torrents.observer
-  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
