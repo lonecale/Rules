@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 104
+# 规则统计: 109
 
 no_resolve: true
 domain_set:
@@ -8,10 +8,12 @@ domain_set:
   - 1337.abcvg.info
   - admin.52ywp.com
   - announce.sktorrent.eu
+  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt-tracker.de
   - bt1.archive.org
   - bt2.archive.org
+  - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
@@ -31,15 +33,14 @@ domain_set:
   - opentor.org
   - opentracker.lain.moscow
   - p4p.arenabg.com
+  - pybittrack.retiolus.net
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
   - seedpeer.net
   - t.213891.xyz
-  - t.overflow.biz
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.btube3.com
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
   - tr3.ysagin.top
@@ -47,9 +48,11 @@ domain_set:
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
   - tracker.7471.top
+  - tracker.adgk.net
   - tracker.aruku.ovh
   - tracker.bittor.pw
   - tracker.breizh.pm
+  - tracker.bug38.com
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
@@ -59,6 +62,7 @@ domain_set:
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
+  - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gmi.gd
@@ -71,6 +75,7 @@ domain_set:
   - tracker.nekomi.cn
   - tracker.nyaa.net
   - tracker.nyaa.vc
+  - tracker.okade.pro
   - tracker.opentrackr.com
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
@@ -89,7 +94,6 @@ domain_set:
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
-  - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com
@@ -106,6 +110,7 @@ ip_cidr_set:
   - 207.241.231.226/32
   - 52.58.128.163/32
   - 93.158.213.92/32
+  - 94.23.207.177/32
 ip_cidr6_set:
   - 2a03:7220:8083:cd00::1/128
   - 2a04:ac00:1:3dd8::1:2710/128
