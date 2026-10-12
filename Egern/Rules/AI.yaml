@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 54
+# 规则统计: 57
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
@@ -14,9 +14,12 @@ domain_set:
   - daily-cloudcode-pa.googleapis.com
   - file.oaiusercontent.com
   - gateway.ai.cloudflare.com
+  - inference.codeium.com
   - jules.google.com
   - openrouter.ai
   - robinfrontend-pa.googleapis.com
+  - server.codeium.com
+  - server.self-serve.windsurf.com
 domain_suffix_set:
   - ai.com
   - aistudio.google.com

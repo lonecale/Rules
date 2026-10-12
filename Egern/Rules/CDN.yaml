@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4769
+# 规则统计: 4770
 
 domain_set:
   - 0x0.st
@@ -3209,6 +3209,7 @@ domain_set:
   - tiles.maps.opensearch.org
   - tiles.mapterhorn.com
   - tiles.meteoguard.dtn.com
+  - tiles.onemap.gov.sg
   - tiles.openfreemap.org
   - tiles.openrailwaymap.org
   - tiles.openseamap.org
