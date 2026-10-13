@@ -1,12 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 109
+# 规则统计: 110
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
-HOST,asiatorrent.giize.com,BTtrackers
+HOST,archive.torrentonline.cc,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt-tracker.de,BTtrackers
 HOST,bt1.archive.org,BTtrackers
@@ -36,17 +36,18 @@ HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
 HOST,seedpeer.net,BTtrackers
 HOST,t.213891.xyz,BTtrackers
+HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.btube3.com,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
-HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
+HOST,tracker.23794.top,BTtrackers
 HOST,tracker.7471.top,BTtrackers
-HOST,tracker.adgk.net,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
