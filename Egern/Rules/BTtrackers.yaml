@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 113
 
 no_resolve: true
 domain_set:
@@ -45,6 +45,7 @@ domain_set:
   - tr.btube3.com
   - tr.burnabyhighstar.com
   - tr.nyacat.pw
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
@@ -95,6 +96,7 @@ domain_set:
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
+  - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
   - tracker1.520.jp
   - tracker1.itzmx.com
@@ -103,6 +105,7 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - v2.iperson.xyz
+  - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
 ip_cidr_set:
