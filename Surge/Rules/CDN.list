@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4770
+# 规则统计: 4771
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1738,6 +1738,7 @@ DOMAIN,images.kick.com
 DOMAIN,images.klipfolio.com
 DOMAIN,images.loox.io
 DOMAIN,images.macrumors.com
+DOMAIN,images.macworld.co.uk
 DOMAIN,images.mathworks.com
 DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io
