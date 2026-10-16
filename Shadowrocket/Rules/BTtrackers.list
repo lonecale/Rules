@@ -1,17 +1,15 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 107
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt-tracker.de
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
-DOMAIN,edgev.duckdns.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -39,11 +37,9 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.btube3.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
@@ -60,6 +56,7 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
@@ -84,9 +81,9 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
