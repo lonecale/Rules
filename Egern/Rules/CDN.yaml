@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4774
+# 规则统计: 4776
 
 domain_set:
   - 0x0.st
@@ -2242,6 +2242,7 @@ domain_set:
   - mta.newfold.com
   - mui.com
   - mwcm.nyt.com
+  - mweb-cdn.karousell.com
   - mwf-service.akamaized.net
   - my-json-server.typicode.com
   - n.approveit.today
@@ -2681,6 +2682,7 @@ domain_set:
   - sites.chase.com
   - sites.super.so
   - skills-assets.pstmn.io
+  - sl3-cdn.karousell.com
   - sm.ign.com
   - sm.pcmag.com
   - sn-s3-cdn.angry.im
