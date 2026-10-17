@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 112
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -50,6 +50,7 @@ DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
+DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
@@ -70,6 +71,7 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.midnightprogrammer.net
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
+DOMAIN,tracker.nyaa.net
 DOMAIN,tracker.nyaa.vc
 DOMAIN,tracker.okade.pro
 DOMAIN,tracker.opentrackr.com

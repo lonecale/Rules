@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 112
 
 no_resolve: true
 domain_set:
@@ -52,6 +52,7 @@ domain_set:
   - tracker.aruku.ovh
   - tracker.bittor.pw
   - tracker.breizh.pm
+  - tracker.bt4g.com
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.ddunlimited.net
@@ -72,6 +73,7 @@ domain_set:
   - tracker.midnightprogrammer.net
   - tracker.mywaifu.best
   - tracker.nekomi.cn
+  - tracker.nyaa.net
   - tracker.nyaa.vc
   - tracker.okade.pro
   - tracker.opentrackr.com
