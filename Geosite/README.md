@@ -188,6 +188,7 @@
 - [bitauto](rules/bitauto.txt)
 - [bitflyer](rules/bitflyer.txt)
 - [bitly](rules/bitly.txt)
+- [bitrix](rules/bitrix.txt)
 - [bitsquare](rules/bitsquare.txt)
 - [bitwarden](rules/bitwarden.txt)
 - [bjyouth](rules/bjyouth.txt)
