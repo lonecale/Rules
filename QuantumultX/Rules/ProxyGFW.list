@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7610
+# 规则统计: 7611
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,ProxyGFW
 HOST,ccmdl.adobe.com,ProxyGFW
@@ -4557,6 +4557,7 @@ HOST-SUFFIX,nordvpn.com,ProxyGFW
 HOST-SUFFIX,nos.nl,ProxyGFW
 HOST-SUFFIX,note.com,ProxyGFW
 HOST-SUFFIX,notepad-plus-plus.org,ProxyGFW
+HOST-SUFFIX,notion.com,ProxyGFW
 HOST-SUFFIX,notion.site,ProxyGFW
 HOST-SUFFIX,notion.so,ProxyGFW
 HOST-SUFFIX,nottinghampost.com,ProxyGFW
