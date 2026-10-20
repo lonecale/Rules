@@ -190,6 +190,7 @@ b23.tv = server:https://doh.pub/dns-query
 *.coze.cn = server:180.184.2.2
 *.okr.com = server:180.184.2.2
 *.zjurl.cn = server:180.184.2.2
+*.amemv.com = server:180.184.2.2
 *.baike.com = server:180.184.2.2
 *.bdurl.net = server:180.184.2.2
 *.feishu.cn = server:180.184.2.2
