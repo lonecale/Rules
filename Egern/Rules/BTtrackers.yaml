@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 111
+# 规则统计: 110
 
 no_resolve: true
 domain_set:
@@ -9,7 +9,6 @@ domain_set:
   - admin.52ywp.com
   - announce.sktorrent.eu
   - archive.torrentonline.cc
-  - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt-tracker.de
   - bt1.archive.org
@@ -43,7 +42,6 @@ domain_set:
   - torrentsmd.com
   - tr.abiir.top
   - tr.abir.ga
-  - tr.btube3.com
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
@@ -64,6 +62,7 @@ domain_set:
   - tracker.ducks.party
   - tracker.farted.net
   - tracker.filemail.com
+  - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gmi.gd
@@ -71,6 +70,7 @@ domain_set:
   - tracker.internetwarriors.net
   - tracker.k.vu
   - tracker.kuroy.me
+  - tracker.midnightprogrammer.net
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nyaa.net
@@ -93,7 +93,6 @@ domain_set:
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
