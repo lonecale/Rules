@@ -618,6 +618,7 @@
 - [flowwow](rules/flowwow.txt)
 - [flurry-ads](rules/flurry-ads.txt)
 - [flutter](rules/flutter.txt)
+- [fluxer](rules/fluxer.txt)
 - [flyio](rules/flyio.txt)
 - [focuschina](rules/focuschina.txt)
 - [fonbet](rules/fonbet.txt)
