@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4791
+# 规则统计: 4793
 
 domain_set:
   - 0x0.st
@@ -1669,6 +1669,7 @@ domain_set:
   - image.dooo.ng
   - image.email.microsoftemail.com
   - image.freepik.com
+  - image.gameapps.hk
   - image.goat.com
   - image.gyutto.com
   - image.gyutto.jp
@@ -3048,6 +3049,7 @@ domain_set:
   - static.tp-link.com
   - static.tradingview.com
   - static.tronscan.org
+  - static.truemed.com
   - static.tryprofound.com
   - static.tumblr.com
   - static.tvtropes.org
