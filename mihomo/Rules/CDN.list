@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4793
+# 规则统计: 4796
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -616,6 +616,7 @@ DOMAIN,cdn.candid.org
 DOMAIN,cdn.candu.ai
 DOMAIN,cdn.candy.ai
 DOMAIN,cdn.candycode.com
+DOMAIN,cdn.capcom-unity.com
 DOMAIN,cdn.casestudies.svc.ui.com
 DOMAIN,cdn.casetify.com
 DOMAIN,cdn.catch.dmm.co.jp
@@ -870,6 +871,7 @@ DOMAIN,cdn.privacy.com
 DOMAIN,cdn.privacy.paramount.com
 DOMAIN,cdn.prod.ext.web.purview.azure.com
 DOMAIN,cdn.prod.www.spiegel.de
+DOMAIN,cdn.promo.capcomusa.com
 DOMAIN,cdn.promotekit.com
 DOMAIN,cdn.prowritingaid.com
 DOMAIN,cdn.quadpay.com
@@ -2840,6 +2842,7 @@ DOMAIN,static.buydomains.com
 DOMAIN,static.bytepan.com
 DOMAIN,static.c-spanvideo.org
 DOMAIN,static.canva.com
+DOMAIN,static.capcom.com
 DOMAIN,static.captcha-delivery.com
 DOMAIN,static.captcha.awswaf.com
 DOMAIN,static.carfax.com
