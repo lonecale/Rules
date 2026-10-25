@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 108
+# 规则统计: 106
 
 no_resolve: true
 domain_set:
@@ -8,17 +8,16 @@ domain_set:
   - 1337.abcvg.info
   - admin.52ywp.com
   - announce.sktorrent.eu
-  - archive.torrentonline.cc
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt-tracker.de
   - bt1.archive.org
   - bt2.archive.org
-  - edgev.duckdns.org
   - evan.im
   - exodus.desync.com
   - explodie.org
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
+  - ipv6.govt.hu
   - kolankoalastree.newtrackon.co.nz
   - mail.segso.net
   - martin-gebhardt.eu
@@ -45,7 +44,6 @@ domain_set:
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
@@ -60,13 +58,15 @@ domain_set:
   - tracker.dler.com
   - tracker.dler.org
   - tracker.ducks.party
+  - tracker.farted.net
   - tracker.filemail.com
-  - tracker.flatuslifir.is
   - tracker.foreverpirates.co
   - tracker.gmi.gd
   - tracker.ilibr.org
   - tracker.internetwarriors.net
+  - tracker.k.vu
   - tracker.kuroy.me
+  - tracker.midnightprogrammer.net
   - tracker.mywaifu.best
   - tracker.nekomi.cn
   - tracker.nyaa.net
@@ -89,7 +89,6 @@ domain_set:
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
-  - tracker.xn--djrq4gl4hvoi.top
   - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
@@ -100,7 +99,6 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - v2.iperson.xyz
-  - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
 ip_cidr_set:

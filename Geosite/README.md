@@ -375,6 +375,7 @@
 - [cctv](rules/cctv.txt)
 - [cdek](rules/cdek.txt)
 - [cdn77](rules/cdn77.txt)
+- [cdprojekt](rules/cdprojekt.txt)
 - [ceno](rules/ceno.txt)
 - [cerebras](rules/cerebras.txt)
 - [cern](rules/cern.txt)
