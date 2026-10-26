@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 106
+# 规则统计: 109
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,announce.sktorrent.eu,BTtrackers
+HOST,archive.torrentonline.cc,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt-tracker.de,BTtrackers
 HOST,bt1.archive.org,BTtrackers
@@ -38,16 +39,15 @@ HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
 HOST,tr.abir.ga,BTtrackers
-HOST,tr.btube3.com,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
 HOST,tracker.7471.top,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
-HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.breizh.pm,BTtrackers
 HOST,tracker.cn.nyaa.net,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
@@ -79,6 +79,7 @@ HOST,tracker.pmman.tech,BTtrackers
 HOST,tracker.qingwapt.org,BTtrackers
 HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
+HOST,tracker.sela.st,BTtrackers
 HOST,tracker.skynetcloud.site,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
@@ -87,6 +88,8 @@ HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.willy.pro,BTtrackers
+HOST,tracker.xn--djrq4gl4hvoi.top,BTtrackers
+HOST,tracker.yemekyedim.com,BTtrackers
 HOST,tracker.yume-hatsuyuki.moe,BTtrackers
 HOST,tracker.zhuqiy.com,BTtrackers
 HOST,tracker.zhuqiy.dgj055.icu,BTtrackers
