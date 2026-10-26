@@ -99,6 +99,7 @@ chinacloudapi.cn
 chinacloudapp.cn
 chinacloudsites.cn
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
 mcchcdn.com
@@ -138,6 +139,8 @@ azchcdnp.com
 azchcdnq.com
 azchcdnr.com
 azchcdns.com
+full:dc.applicationinsights.azure.com
+full:live.applicationinsights.azure.com
 azure-dns.cn
 azure-dns-1.cn
 azure-dns-2.cn

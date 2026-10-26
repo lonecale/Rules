@@ -7,8 +7,6 @@ full:firebasedynamiclinks-ipv6.googleapis.com
 full:firebasedynamiclinks.googleapis.com
 full:firebaseinappmessaging.googleapis.com
 full:firebaseinstallations.googleapis.com
-full:firebaselogging-pa.googleapis.com
-full:firebaselogging.googleapis.com
 full:firebaseperusertopics-pa.googleapis.com
 full:firebaseremoteconfig.googleapis.com
 crashlytics.com
@@ -20,4 +18,6 @@ firebaseio.com
 firebase.google.com
 full:crashlyticsreports-pa.googleapis.com
 full:firebase-settings.crashlytics.com
+full:firebaselogging-pa.googleapis.com
+full:firebaselogging.googleapis.com
 full:update.crashlytics.com

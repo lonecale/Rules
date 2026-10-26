@@ -940,6 +940,7 @@
 - [lianjia](rules/lianjia.txt)
 - [liberapay](rules/liberapay.txt)
 - [libgen](rules/libgen.txt)
+- [librewolf](rules/librewolf.txt)
 - [liepin](rules/liepin.txt)
 - [lifewire](rules/lifewire.txt)
 - [ligastavok](rules/ligastavok.txt)

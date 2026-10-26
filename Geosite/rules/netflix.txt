@@ -1,4 +1,3 @@
-full:netflix.com.edgesuite.net
 fast.com
 netflix.ca
 netflix.com
@@ -22,6 +21,7 @@ netflixdnstest7.com
 netflixdnstest8.com
 netflixdnstest9.com
 netflixdnstest10.com
+netflix.com.edgesuite.net
 regexp:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 regexp:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$

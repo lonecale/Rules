@@ -65,13 +65,13 @@ office
 skype
 windows
 xbox
-microsoft
 bing
-api-extractor.com
-azurestaticapps.net
+microsoft
+aadrm.com
+beth.games
 microsoft.ch
 microsoft.cl
-microsoft.com
+azure-devices.net
 microsoft.cz
 microsoft.de
 microsoft.dk
@@ -107,9 +107,6 @@ m12.vc
 a-msedge.net
 aka.ms
 ankarazirvesi2018.com
-applicationinsights.io
-applicationinsights.net
-aria.ms
 asp.net
 aspnetcdn.com
 binads.com
@@ -260,7 +257,7 @@ s-msedge.net
 s-msft.com
 s-msn.com
 sfbassets.com
-azure-devices-int.net
+sfbassets.net
 sfx.ms
 sharepoint.com
 sharepointonline.com
@@ -307,12 +304,12 @@ yammer.com
 minecraftservices.com
 minecraft.net
 microsoft.ca
-playfab.com
+microsoft.by
+azure-api.net
+azure-devices-int.net
+microsoft.com
 microsoft.cat
-sfbassets.net
-azure-devices.net
-azure-mobile.net
-azure-sphere.com
+azurecosmosdb.net
 azure-test.net
 azure.com
 azure.net
@@ -322,7 +319,7 @@ azurecontainer.io
 azurecosmos.net
 azurecosmosdb.com
 azurecosmosdb.info
-azurecosmosdb.net
+azure-sphere.com
 azuredatabricks.net
 azuredevopslaunch.com
 azuredigitaltwin.com
@@ -342,7 +339,7 @@ azureplanetscale.net
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
-azure-api.net
+azurestaticapps.net
 azurewebsites.net
 botframework.com
 cosmosdb.info
@@ -356,7 +353,7 @@ microsoftazuresponsorships.com
 microsofteca.com
 microsoftiotcentral.com
 msn.net
-aadrm.com
+playfab.com
 playfabapi.com
 serverlesslibrary.net
 trafficmanager.net
@@ -366,7 +363,7 @@ azure-dns.com
 azure-dns.info
 azure-dns.net
 azure-dns.org
-microsoft.by
+microsoft.be
 masalladeloslimites.com
 microsoftpartnersolutions.com
 bing123.com
@@ -428,7 +425,7 @@ npm.community
 npmjs.com
 npmjs.org
 adaptivecards.io
-microsoft.be
+api-extractor.com
 apisof.net
 appcenter.ms
 blazor.net
@@ -534,7 +531,7 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
-beth.games
+azure-mobile.net
 bethesda.net
 bethesdagamestudios.com
 bethsoft.com
@@ -546,6 +543,10 @@ skypedata.akadns.net
 skype-edf.akadns.net
 microsoftstore.com.hk
 live.com.au
+applicationinsights.io
+applicationinsights.net
+aria.ms
+data.microsoft.com
 dynamics.cn
 engkoo.com
 lync.cn
@@ -580,6 +581,7 @@ powerappsportals.cn
 powerautomate.cn
 powerbi.cn
 sharepoint.cn
+telemetry.microsoft.com
 clarity.ms
 microsoftads.com
 msads.net
@@ -674,6 +676,7 @@ chinacloudapi.cn
 chinacloudapp.cn
 chinacloudsites.cn
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
 mcchcdn.com
@@ -713,6 +716,8 @@ azchcdnp.com
 azchcdnq.com
 azchcdnr.com
 azchcdns.com
+full:dc.applicationinsights.azure.com
+full:live.applicationinsights.azure.com
 azure-dns.cn
 azure-dns-1.cn
 azure-dns-2.cn
@@ -740,7 +745,9 @@ full:copilot-telemetry.githubusercontent.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
+full:dc.services.visualstudio.com
 full:download.visualstudio.microsoft.com
+full:rt.services.visualstudio.com
 microsoftnews.cn
 msn.cn
 browser.events.data.msn.cn
