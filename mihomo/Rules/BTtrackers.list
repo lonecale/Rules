@@ -1,10 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 116
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
+DOMAIN,archive.torrentonline.cc
+DOMAIN,asiatorrent.giize.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt-tracker.de
 DOMAIN,bt1.archive.org
@@ -28,14 +30,17 @@ DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.lain.moscow
+DOMAIN,opentracker2.lain.moscow
 DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
+DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.btube3.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
@@ -59,6 +64,7 @@ DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
+DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
@@ -83,6 +89,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sela.st
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.tryhackx.org
@@ -101,7 +108,6 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
-DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
 IP-CIDR,107.189.2.131/32,no-resolve
