@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 116
+# 规则统计: 112
 
 no_resolve: true
 domain_set:
@@ -7,6 +7,7 @@ domain_set:
   - 1.tracker.eu.org
   - 1337.abcvg.info
   - admin.52ywp.com
+  - anime-tracker.aruku.kro.kr
   - archive.torrentonline.cc
   - asiatorrent.giize.com
   - bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -17,6 +18,7 @@ domain_set:
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - gargoyleperch.de
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
@@ -42,18 +44,15 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.btube3.com
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - tracker-udp.gbitt.info
   - tracker.004430.xyz
   - tracker.7471.top
   - tracker.aruku.ovh
-  - tracker.bittor.pw
   - tracker.breizh.pm
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
@@ -65,7 +64,6 @@ domain_set:
   - tracker.evergarden.uk
   - tracker.farted.net
   - tracker.filemail.com
-  - tracker.flatuslifir.is
   - tracker.fnix.net
   - tracker.foreverpirates.co
   - tracker.gmi.gd
@@ -91,15 +89,12 @@ domain_set:
   - tracker.sela.st
   - tracker.skynetcloud.site
   - tracker.skyts.net
-  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.torrents.observer
-  - tracker.tryhackx.org
   - tracker.waaa.moe
   - tracker.wildkat.net
   - tracker.willy.pro
   - tracker.xn--djrq4gl4hvoi.top
-  - tracker.yemekyedim.com
   - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker.zhuqiy.dgj055.icu
@@ -110,6 +105,7 @@ domain_set:
   - tracker3.itzmx.com
   - tracker4.itzmx.com
   - v2.iperson.xyz
+  - whybother.torrentonline.cc
   - www.wareztorrent.com
   - yuptracker-eu.gaijinent.com
 ip_cidr_set:
