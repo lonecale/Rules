@@ -6,11 +6,10 @@ DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
-DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,archive.torrentonline.cc
 DOMAIN,bt-tracker.de
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
-DOMAIN,edgev.duckdns.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -40,11 +39,10 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.btube3.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
@@ -52,9 +50,9 @@ DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -88,6 +86,7 @@ DOMAIN,tracker.sela.st
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.transfur.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
@@ -103,6 +102,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
+DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
 IP-CIDR,107.189.2.131/32,no-resolve
