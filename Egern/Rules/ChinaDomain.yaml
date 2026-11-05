@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 870
+# 规则统计: 871
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
@@ -301,6 +301,7 @@ domain_suffix_set:
   - didistatic.com
   - digicert.cn
   - dingtalk.com
+  - dittocdn.com
   - dizzylab.net
   - dl.bscstorage.net
   - dl.delivery.mp.microsoft.com

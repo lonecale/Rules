@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 111
+# 规则统计: 112
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -14,7 +14,6 @@ DOMAIN,bt2.archive.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
-DOMAIN,gargoyleperch.de
 DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
@@ -34,15 +33,16 @@ DOMAIN,opentracker2.lain.moscow
 DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
@@ -60,6 +60,7 @@ DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd

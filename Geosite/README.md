@@ -1226,6 +1226,7 @@
 - [primevideo](rules/primevideo.txt)
 - [private](rules/private.txt)
 - [progress](rules/progress.txt)
+- [projectmoon](rules/projectmoon.txt)
 - [projectpoi](rules/projectpoi.txt)
 - [projectsekai](rules/projectsekai.txt)
 - [proquest](rules/proquest.txt)
