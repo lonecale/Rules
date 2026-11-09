@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 108
+# 规则统计: 110
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
 HOST,1337.abcvg.info,BTtrackers
 HOST,admin.52ywp.com,BTtrackers
 HOST,anime-tracker.aruku.kro.kr,BTtrackers
+HOST,archive.torrentonline.cc,BTtrackers
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,BTtrackers
 HOST,bt-tracker.de,BTtrackers
 HOST,bt1.archive.org,BTtrackers
@@ -39,14 +40,17 @@ HOST,t.overflow.biz,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
 HOST,tracker.7471.top,BTtrackers
 HOST,tracker.aruku.ovh,BTtrackers
+HOST,tracker.augrains.com,BTtrackers
 HOST,tracker.cangku.moe,BTtrackers
 HOST,tracker.cn.nyaa.net,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
@@ -57,14 +61,12 @@ HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.evergarden.uk,BTtrackers
 HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
-HOST,tracker.flatuslifir.is,BTtrackers
-HOST,tracker.fnix.net,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
+HOST,tracker.ilibr.org,BTtrackers
 HOST,tracker.internetwarriors.net,BTtrackers
 HOST,tracker.k.vu,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
-HOST,tracker.midnightprogrammer.net,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
 HOST,tracker.nyaa.net,BTtrackers
@@ -81,10 +83,10 @@ HOST,tracker.qu.ax,BTtrackers
 HOST,tracker.renfei.net,BTtrackers
 HOST,tracker.sela.st,BTtrackers
 HOST,tracker.skyts.net,BTtrackers
+HOST,tracker.theoks.net,BTtrackers
 HOST,tracker.torrent.eu.org,BTtrackers
 HOST,tracker.torrents.observer,BTtrackers
 HOST,tracker.transfur.org,BTtrackers
-HOST,tracker.tryhackx.org,BTtrackers
 HOST,tracker.waaa.moe,BTtrackers
 HOST,tracker.wildkat.net,BTtrackers
 HOST,tracker.willy.pro,BTtrackers
