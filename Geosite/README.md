@@ -703,6 +703,7 @@
 - [googlefcm](rules/googlefcm.txt)
 - [goproxy](rules/goproxy.txt)
 - [gracg](rules/gracg.txt)
+- [grafanalabs](rules/grafanalabs.txt)
 - [grapheneos](rules/grapheneos.txt)
 - [gravatar](rules/gravatar.txt)
 - [greatfire](rules/greatfire.txt)
