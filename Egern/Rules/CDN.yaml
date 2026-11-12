@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4784
+# 规则统计: 4785
 
 domain_set:
   - 0x0.st
@@ -1988,6 +1988,7 @@ domain_set:
   - interwiki.scpwiki.com
   - interwiki.scpwikicn.com
   - ip-ranges.amazonaws.com
+  - iprsoftwaremedia.com
   - ipxy.io
   - irp-cdn.multiscreensite.com
   - isitmaintained.com
