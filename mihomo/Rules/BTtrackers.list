@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 114
+# 规则统计: 113
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -36,7 +36,6 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
-DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
@@ -44,7 +43,6 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
@@ -54,6 +52,7 @@ DOMAIN,tracker.alt.cx
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.augrains.com
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.dhitechnical.com
@@ -64,11 +63,9 @@ DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
-DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.mywaifu.best
@@ -85,8 +82,10 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.run.place
 DOMAIN,tracker.sela.st
 DOMAIN,tracker.skyts.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.transfur.org

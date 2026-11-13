@@ -184,8 +184,8 @@ checkip.co
 checkip.com
 checkip.de
 checkip.dev
+ipip.net
 test-ipv6.in
-test-ipv6.jp
 checkip.gr
 checkip.hk
 checkip.in
@@ -253,9 +253,9 @@ dnscheck.tools
 dnsleak.com
 dnsleak.dev
 dnsleak.net
+test-ipv6.jp
 test-ipv6.cz
 test-ipv6.nl
-test-ipv6.run
 dnsleaktest.com
 dnsleaktest.org
 echoip.de
@@ -303,7 +303,7 @@ freeipapi.com
 fullip.info
 geodatatool.com
 geoip.cc
-test-ipv6.com
+test-ipv6.run
 geoip.com
 geoip.hu
 geoip.online
@@ -355,7 +355,7 @@ getmyip.pro
 getmyip.se
 getmyip.sh
 getmyip.uk
-test-ipv6.se
+test-ipv6.com
 getmyipaddress.io
 getmyipaddress.org
 grabify.link
@@ -495,8 +495,8 @@ ip-trap.com
 ip.app
 ip.cc
 ip.ci
+test-ipv6.se
 test-ipv6.cl
-ip6.ro
 ip.fm
 ip.gs
 ip.guide
@@ -505,7 +505,7 @@ ip.im
 ip.info
 ip.me
 ip.net
-testipv6.be
+ip6.ro
 ip.network
 ip.pn
 ip.sb
@@ -593,7 +593,7 @@ ipaddress-lookup.com
 ipaddress.ai
 ipaddress.be
 ipaddress.ca
-testipv6.ca
+testipv6.be
 ipaddress.com
 ipaddress.dev
 ipaddress.es
@@ -614,7 +614,7 @@ ipaddress.si
 ipaddress.to
 ipaddress.uk
 ipaddress.you
-testipv6.de
+testipv6.ca
 ipaddressdetails.com
 ipaddresslocation.net
 ipaddresslocation.org
@@ -655,7 +655,7 @@ ipchaxun.com
 ipchaxun.org
 ipcheck.be
 ipcheck.cc
-testipv6.net
+testipv6.de
 ipcheck.dev
 ipcheck.fyi
 ipcheck.gr
@@ -833,7 +833,7 @@ iplocate.io
 iplocate.net
 iplocate.org
 iplocate.ru
-sixte.st
+testipv6.net
 iplocation.com
 iplocation.info
 iplocation.io
@@ -900,12 +900,12 @@ ipqs.org
 ipqs.xyz
 ipqualityscore.com
 ipquery.io
-ipv6ready.me
+sixte.st
 ipregistry.co
 iprisk.ai
 iprisk.top
 iproyal.com
-ipv6.uz
+ipv6ready.me
 ipscan.me
 ipscan.tr
 ipscaner.com
@@ -985,7 +985,7 @@ kiemtraip.vn
 l2.io
 leakcentral.xyz
 localizaip.com
-test-ipv6.hu
+ipv6.uz
 location-with-ip.com
 lookip.io
 lookip.net
@@ -1002,7 +1002,7 @@ meip.co
 meip.eu
 meipaddress.com
 meu-ip.pt
-ipip.net
+test-ipv6.hu
 meuip.app
 meuip.co
 meuip.com
@@ -1561,7 +1561,7 @@ showmyip.co.uk
 showip.com.tw
 sabermeuip.com.br
 queip.com.br
-test-ipv6.arauc.br
+address.co.il
 mylocation.co.kr
 myipnumber.com.br
 myip.com.ua
@@ -1597,7 +1597,7 @@ iplocation.co.uk
 ipcheck.com.br
 ipaddresscheck.co.uk
 ipaddress.co.uk
-test.version6.ru
+test-ipv6.arauc.br
 ip.etc.br
 ip.com.ro
 getmyipaddress.co.uk
@@ -1605,8 +1605,7 @@ geoip.co.uk
 dnsleaktest.co.uk
 checkip.com.vn
 checkip.com.br
-test-ipv6.triplebit.us
-address.co.il
+test.version6.ru
 test-ipv6.cgates.lt
 test-ipv6.roedu.net
 test-ipv6.fratec.net
@@ -1619,12 +1618,13 @@ test-ipv6.noroutetohost.net
 test-ipv6.freerangecloud.com
 test-ipv6.amelek.net
 test-ipv6.coloradointerlink.net
+test-ipv6.triplebit.us
 ipv4.internet.yandex.net
 geoip.noc.gov.ru
-ipv6.internet.yandex.net
 test-ipv6.ams.vr.org
 test-ipv6.cs.umd.edu
 test-ipv6.csclub.uwaterloo.ca
+ipv6.internet.yandex.net
 chaip.me
 check-host.cn
 cip.cc
@@ -1678,5 +1678,5 @@ full:ipv6test.wcode.net
 full:mip.chinaz.com
 full:v6test.ipgg.cn
 whois.pconline.com.cn
-myip.la
 testipv6.cn
+myip.la
