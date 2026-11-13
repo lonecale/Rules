@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4785
+# 规则统计: 4786
 
 domain_set:
   - 0x0.st
@@ -2455,6 +2455,7 @@ domain_set:
   - public.komiic.com
   - public.linear.app
   - public.mocortech.com
+  - public.popclip.app
   - public.saasexch.com
   - public.zoorix.com
   - publicsuffix.org
