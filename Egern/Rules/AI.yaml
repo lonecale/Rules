@@ -1,9 +1,10 @@
 # 规则名称: AI
-# 规则统计: 57
+# 规则统计: 60
 
 domain_set:
   - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
   - ai.google.dev
+  - aicode.googleapis.com
   - aida.googleapis.com
   - aisandbox-pa.googleapis.com
   - alkalicore-pa.clients6.google.com
@@ -11,7 +12,9 @@ domain_set:
   - antigravity.google
   - api.github.com
   - api.jetbrains.ai
+  - cloud.zed.dev
   - daily-cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.sandbox.googleapis.com
   - file.oaiusercontent.com
   - gateway.ai.cloudflare.com
   - inference.codeium.com
