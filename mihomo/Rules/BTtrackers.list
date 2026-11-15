@@ -1,11 +1,12 @@
 # 规则名称: BTtrackers
-# 规则统计: 110
+# 规则统计: 109
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,announce.augrains.com
+DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
@@ -15,7 +16,6 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,ipv6.govt.hu
 DOMAIN,kolankoalastree.newtrackon.co.nz
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
@@ -33,6 +33,7 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
+DOMAIN,stairs.lat
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
@@ -59,13 +60,12 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
-DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.flatuslifir.is
+DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
-DOMAIN,tracker.k.vu
+DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
@@ -86,7 +86,6 @@ DOMAIN,tracker.skyts.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.transfur.org
-DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
