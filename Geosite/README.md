@@ -787,6 +787,7 @@
 - [hupun](rules/hupun.txt)
 - [hurricaneelectric](rules/hurricaneelectric.txt)
 - [huya](rules/huya.txt)
+- [hypergryph](rules/hypergryph.txt)
 ## I
 - [ibkr](rules/ibkr.txt)
 - [ibm](rules/ibm.txt)
