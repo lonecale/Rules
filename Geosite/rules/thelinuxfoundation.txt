@@ -1,8 +1,6 @@
 full:amp.akamaized.net
 lfai.foundation
 linuxfoundation.org
-kernel.org
-linux.org
 openjsf.org
 amp.dev
 ampproject.com
@@ -14,4 +12,6 @@ jquerymobile.com
 jqueryui.com
 mochajs.org
 nodejs.org
+kernel.org
+linux.org
 full:cdn.ampproject.org

@@ -1,13 +1,16 @@
 full:az764295.vo.msecnd.net
 full:bingsettingssearch.trafficmanager.net
+full:builds.dotnet.microsoft.com
 full:default.exp-tas.com
 full:developer.microsoft.com
+full:dotnetcli.trafficmanager.net
 full:dtlgalleryint.cloudapp.net
 full:packages.microsoft.com
 full:poshtestgallery.cloudapp.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
 full:rink.hockeyapp.net
+full:sundry-star-net-geo.trafficmanager.net
 full:vscode-sync-insiders.trafficmanager.net
 full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
@@ -74,3 +77,4 @@ reactorms.com.cn
 full:dc.services.visualstudio.com
 full:download.visualstudio.microsoft.com
 full:rt.services.visualstudio.com
+full:vscode.download.prss.microsoft.com
