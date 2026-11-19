@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 107
+# 规则统计: 113
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -16,6 +16,7 @@ HOST,exodus.desync.com,BTtrackers
 HOST,explodie.org,BTtrackers
 HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
+HOST,ipv6.govt.hu,BTtrackers
 HOST,kolankoalastree.newtrackon.co.nz,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
@@ -36,12 +37,14 @@ HOST,seedpeer.net,BTtrackers
 HOST,stairs.lat,BTtrackers
 HOST,t.213891.xyz,BTtrackers
 HOST,t.overflow.biz,BTtrackers
+HOST,t1.itrus.su,BTtrackers
+HOST,t2.itrus.su,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
+HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
-HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
 HOST,tracker.004430.xyz,BTtrackers
@@ -59,11 +62,15 @@ HOST,tracker.dler.com,BTtrackers
 HOST,tracker.dler.org,BTtrackers
 HOST,tracker.ducks.party,BTtrackers
 HOST,tracker.evergarden.uk,BTtrackers
+HOST,tracker.farted.net,BTtrackers
 HOST,tracker.filemail.com,BTtrackers
+HOST,tracker.flatuslifir.is,BTtrackers
+HOST,tracker.fnix.net,BTtrackers
 HOST,tracker.foreverpirates.co,BTtrackers
 HOST,tracker.gmi.gd,BTtrackers
 HOST,tracker.ilibr.org,BTtrackers
 HOST,tracker.internetwarriors.net,BTtrackers
+HOST,tracker.k.vu,BTtrackers
 HOST,tracker.kuroy.me,BTtrackers
 HOST,tracker.mywaifu.best,BTtrackers
 HOST,tracker.nekomi.cn,BTtrackers
@@ -99,7 +106,6 @@ HOST,tracker3.itzmx.com,BTtrackers
 HOST,tracker4.itzmx.com,BTtrackers
 HOST,v2.iperson.xyz,BTtrackers
 HOST,whybother.torrentonline.cc,BTtrackers
-HOST,www.all4nothin.net,BTtrackers
 HOST,www.wareztorrent.com,BTtrackers
 HOST,yuptracker-eu.gaijinent.com,BTtrackers
 IP-CIDR,207.241.226.111/32,BTtrackers
