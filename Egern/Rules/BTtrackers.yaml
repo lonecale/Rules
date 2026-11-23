@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 120
+# 规则统计: 123
 
 no_resolve: true
 domain_set:
@@ -12,6 +12,7 @@ domain_set:
   - bittorrent-tracker.e-n-c-r-y-p-t.net
   - bt1.archive.org
   - bt2.archive.org
+  - cn.pcfreetime.com
   - discover.curiousfacts.blog
   - evan.im
   - exodus.desync.com
@@ -48,7 +49,6 @@ domain_set:
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - track3r.site
   - tracker-udp.gbitt.info
@@ -89,12 +89,15 @@ domain_set:
   - tracker.openwebtorrent.com
   - tracker.peerfect.org
   - tracker.playground.ru
+  - tracker.pmman.tech
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.renfei.net
   - tracker.sela.st
   - tracker.skynetcloud.site
   - tracker.skyts.net
+  - tracker.t-rb.org
+  - tracker.theoks.net
   - tracker.torrent.eu.org
   - tracker.torrents.observer
   - tracker.transfur.org
