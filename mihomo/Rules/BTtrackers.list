@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 125
+# 规则统计: 123
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -10,7 +10,6 @@ DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
-DOMAIN,cn.pcfreetime.com
 DOMAIN,discover.curiousfacts.blog
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
@@ -93,7 +92,6 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.sela.st
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.t-rb.org
