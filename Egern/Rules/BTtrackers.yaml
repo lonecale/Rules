@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 123
+# 规则统计: 125
 
 no_resolve: true
 domain_set:
@@ -17,6 +17,7 @@ domain_set:
   - evan.im
   - exodus.desync.com
   - explodie.org
+  - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - ipv6.govt.hu
   - kolankoalastree.newtrackon.co.nz
@@ -49,6 +50,7 @@ domain_set:
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - track3r.site
   - tracker-udp.gbitt.info
