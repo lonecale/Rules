@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 123
+# 规则统计: 118
 
 no_resolve: true
 domain_set:
@@ -18,7 +18,6 @@ domain_set:
   - explodie.org
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
-  - ipv6.govt.hu
   - kolankoalastree.newtrackon.co.nz
   - mail.segso.net
   - martin-gebhardt.eu
@@ -49,7 +48,6 @@ domain_set:
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
-  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - track3r.site
   - tracker-udp.gbitt.info
@@ -70,7 +68,6 @@ domain_set:
   - tracker.ducks.party
   - tracker.edkj.club
   - tracker.evergarden.uk
-  - tracker.farted.net
   - tracker.filemail.com
   - tracker.flatuslifir.is
   - tracker.foreverpirates.co
@@ -78,7 +75,6 @@ domain_set:
   - tracker.ilibr.org
   - tracker.internetwarriors.net
   - tracker.ixuexi.click
-  - tracker.k.vu
   - tracker.kuroy.me
   - tracker.mywaifu.best
   - tracker.nekomi.cn
@@ -119,7 +115,6 @@ domain_set:
   - v2.iperson.xyz
   - whybother.torrentonline.cc
   - www.wareztorrent.com
-  - yuptracker-eu.gaijinent.com
 ip_cidr_set:
   - 207.241.226.111/32
   - 207.241.231.226/32
