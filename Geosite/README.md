@@ -1519,6 +1519,7 @@
 - [trackernetwork](rules/trackernetwork.txt)
 - [trae](rules/trae.txt)
 - [translatewiki](rules/translatewiki.txt)
+- [transtelecom](rules/transtelecom.txt)
 - [trello](rules/trello.txt)
 - [trustasia](rules/trustasia.txt)
 - [trustwallet](rules/trustwallet.txt)

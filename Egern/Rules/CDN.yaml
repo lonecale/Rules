@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4793
+# 规则统计: 4792
 
 domain_set:
   - 0x0.st
@@ -3881,7 +3881,6 @@ domain_suffix_set:
   - forbesimg.com
   - forgecdn.net
   - fourhoi.com
-  - frame.claudeusercontent.com
   - framercdn.com
   - framerstatic.com
   - framerusercontent.com

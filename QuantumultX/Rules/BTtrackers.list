@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 118
+# 规则统计: 119
 
 HOST,004430.xyz,BTtrackers
 HOST,1.tracker.eu.org,BTtrackers
@@ -17,6 +17,7 @@ HOST,explodie.org,BTtrackers
 HOST,ht.therarbg.to,BTtrackers
 HOST,ipv4announce.sktorrent.eu,BTtrackers
 HOST,kolankoalastree.newtrackon.co.nz,BTtrackers
+HOST,lattice.peerrelay.workers.dev,BTtrackers
 HOST,mail.segso.net,BTtrackers
 HOST,martin-gebhardt.eu,BTtrackers
 HOST,ns575949.ip-51-222-82.net,BTtrackers
@@ -28,7 +29,6 @@ HOST,open.tracker.cl,BTtrackers
 HOST,open.tracker.ink,BTtrackers
 HOST,opentor.org,BTtrackers
 HOST,opentracker.lain.moscow,BTtrackers
-HOST,opentracker2.lain.moscow,BTtrackers
 HOST,p4p.arenabg.com,BTtrackers
 HOST,retracker.hotplug.ru,BTtrackers
 HOST,retracker01-msk-virt.corbina.net,BTtrackers
@@ -42,10 +42,10 @@ HOST,t2.itrus.su,BTtrackers
 HOST,torrent.tracker.durukanbal.com,BTtrackers
 HOST,torrentsmd.com,BTtrackers
 HOST,tr.abiir.top,BTtrackers
-HOST,tr.abir.ga,BTtrackers
 HOST,tr.burnabyhighstar.com,BTtrackers
 HOST,tr.highstar.shop,BTtrackers
 HOST,tr.nyacat.pw,BTtrackers
+HOST,tr3.ysagin.top,BTtrackers
 HOST,tr4ck3r.duckdns.org,BTtrackers
 HOST,track3r.site,BTtrackers
 HOST,tracker-udp.gbitt.info,BTtrackers
@@ -57,6 +57,7 @@ HOST,tracker.alt.cx,BTtrackers
 HOST,tracker.augrains.com,BTtrackers
 HOST,tracker.bittor.pw,BTtrackers
 HOST,tracker.bluefrog.pw,BTtrackers
+HOST,tracker.bunk.im,BTtrackers
 HOST,tracker.cn.nyaa.net,BTtrackers
 HOST,tracker.corpscorp.online,BTtrackers
 HOST,tracker.cyberia.is,BTtrackers

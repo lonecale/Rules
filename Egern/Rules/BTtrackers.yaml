@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 118
+# 规则统计: 119
 
 no_resolve: true
 domain_set:
@@ -19,6 +19,7 @@ domain_set:
   - ht.therarbg.to
   - ipv4announce.sktorrent.eu
   - kolankoalastree.newtrackon.co.nz
+  - lattice.peerrelay.workers.dev
   - mail.segso.net
   - martin-gebhardt.eu
   - ns575949.ip-51-222-82.net
@@ -30,7 +31,6 @@ domain_set:
   - open.tracker.ink
   - opentor.org
   - opentracker.lain.moscow
-  - opentracker2.lain.moscow
   - p4p.arenabg.com
   - retracker.hotplug.ru
   - retracker01-msk-virt.corbina.net
@@ -44,10 +44,10 @@ domain_set:
   - torrent.tracker.durukanbal.com
   - torrentsmd.com
   - tr.abiir.top
-  - tr.abir.ga
   - tr.burnabyhighstar.com
   - tr.highstar.shop
   - tr.nyacat.pw
+  - tr3.ysagin.top
   - tr4ck3r.duckdns.org
   - track3r.site
   - tracker-udp.gbitt.info
@@ -59,6 +59,7 @@ domain_set:
   - tracker.augrains.com
   - tracker.bittor.pw
   - tracker.bluefrog.pw
+  - tracker.bunk.im
   - tracker.cn.nyaa.net
   - tracker.corpscorp.online
   - tracker.cyberia.is
