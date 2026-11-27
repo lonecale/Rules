@@ -1,5 +1,5 @@
 # 规则名称: BTtrackers
-# 规则统计: 119
+# 规则统计: 120
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -14,10 +14,10 @@ DOMAIN,discover.curiousfacts.blog
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
+DOMAIN,hidden.torrentonline.cc
 DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,kolankoalastree.newtrackon.co.nz
-DOMAIN,lattice.peerrelay.workers.dev
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
@@ -29,11 +29,13 @@ DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.lain.moscow
+DOMAIN,opentracker2.lain.moscow
 DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
 DOMAIN,stairs.lat
+DOMAIN,su-data.com
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
@@ -42,10 +44,10 @@ DOMAIN,t2.itrus.su
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,track3r.site
 DOMAIN,tracker-udp.gbitt.info
@@ -56,7 +58,6 @@ DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.alt.cx
 DOMAIN,tracker.augrains.com
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.bunk.im
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
