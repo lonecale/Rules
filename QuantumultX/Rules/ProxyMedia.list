@@ -1,5 +1,5 @@
 # 规则名称: ProxyMedia
-# 规则统计: 304
+# 规则统计: 305
 
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ProxyMedia
 HOST,aod-dash-uk-live.akamaized.net,ProxyMedia
@@ -232,6 +232,7 @@ HOST-SUFFIX,seattlespheres.com,ProxyMedia
 HOST-SUFFIX,sentry.io,ProxyMedia
 HOST-SUFFIX,skyking.com.tw,ProxyMedia
 HOST-SUFFIX,sndcdn.com,ProxyMedia
+HOST-SUFFIX,soundcloud.cloud,ProxyMedia
 HOST-SUFFIX,soundcloud.com,ProxyMedia
 HOST-SUFFIX,spoti.fi,ProxyMedia
 HOST-SUFFIX,spotify.com,ProxyMedia

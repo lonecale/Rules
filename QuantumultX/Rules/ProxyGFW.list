@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7954
+# 规则统计: 7957
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,ProxyGFW
 HOST,ai.google.dev,ProxyGFW
@@ -283,6 +283,7 @@ HOST-SUFFIX,ai.azure.com,ProxyGFW
 HOST-SUFFIX,ai.dev,ProxyGFW
 HOST-SUFFIX,ai.studio,ProxyGFW
 HOST-SUFFIX,aicoin.com,ProxyGFW
+HOST-SUFFIX,aicu.cc,ProxyGFW
 HOST-SUFFIX,aidc.com.tw,ProxyGFW
 HOST-SUFFIX,aihub.top,ProxyGFW
 HOST-SUFFIX,aimoon.com,ProxyGFW
@@ -1555,6 +1556,7 @@ HOST-SUFFIX,dalailamaworld.com,ProxyGFW
 HOST-SUFFIX,dalianmeng.org,ProxyGFW
 HOST-SUFFIX,daliulian.org,ProxyGFW
 HOST-SUFFIX,danke4china.net,ProxyGFW
+HOST-SUFFIX,danmakus.com,ProxyGFW
 HOST-SUFFIX,danwei.org,ProxyGFW
 HOST-SUFFIX,daolan.net,ProxyGFW
 HOST-SUFFIX,daozhongxing.org,ProxyGFW
@@ -6049,6 +6051,7 @@ HOST-SUFFIX,southmongolia.org,ProxyGFW
 HOST-SUFFIX,southnews.com.tw,ProxyGFW
 HOST-SUFFIX,sowers.org.hk,ProxyGFW
 HOST-SUFFIX,soylent.com,ProxyGFW
+HOST-SUFFIX,spacedesk.net,ProxyGFW
 HOST-SUFFIX,spaceforce.mil,ProxyGFW
 HOST-SUFFIX,spacex.com,ProxyGFW
 HOST-SUFFIX,spankbang.com,ProxyGFW

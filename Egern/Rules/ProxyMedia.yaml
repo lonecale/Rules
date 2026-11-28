@@ -1,5 +1,5 @@
 # 规则名称: ProxyMedia
-# 规则统计: 305
+# 规则统计: 306
 
 no_resolve: true
 domain_set:
@@ -235,6 +235,7 @@ domain_suffix_set:
   - sentry.io
   - skyking.com.tw
   - sndcdn.com
+  - soundcloud.cloud
   - soundcloud.com
   - spoti.fi
   - spotify.com

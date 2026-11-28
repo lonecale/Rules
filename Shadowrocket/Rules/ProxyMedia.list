@@ -1,5 +1,5 @@
 # 规则名称: ProxyMedia
-# 规则统计: 305
+# 规则统计: 306
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,aod-dash-uk-live.akamaized.net
@@ -232,6 +232,7 @@ DOMAIN-SUFFIX,seattlespheres.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.cloud
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
